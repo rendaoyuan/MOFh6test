@@ -1,0 +1,588 @@
+{
+    "TADDOT": [
+        {
+            "abbreviation": "Abbreviation: H2L",
+            "full_name": "Full Name: Ph–SO2–CH2–PO3H2"
+        },
+        {
+            "abbreviation": "Abbreviation: L",
+            "full_name": "Full Name: Ph–SO2–CH2–PO3"
+        }
+    ],
+    "XEGJUQ": [
+        {
+            "abbreviation": "Abbreviation: L",
+            "full_name": "Full Name: 2,6,2',6'-tetranitro-biphenyl-4,4'-dicarboxylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H2L",
+            "full_name": "Full Name: 2,6,2',6'-tetranitro-biphenyl-4,4'-dicarboxylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: L2",
+            "full_name": "Full Name: six different L2 units"
+        }
+    ],
+    "ELINET": [
+        {
+            "abbreviation": "Abbreviation: H2PDA",
+            "full_name": "Full Name: 1,4-phenylenediacetic acid"
+        }
+    ],
+    "FAYPAY": [
+        {
+            "abbreviation": "Abbreviation: H4L1",
+            "full_name": "Full Name: 4,4'-(2,2-bis((4-carboxyphenoxy)methyl)propane-1,3-diyl)bis(oxy)dibenzoic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H4L2",
+            "full_name": "Full Name: 4,4'-(2,2-bis((4-carboxy-2-methoxyphenoxy)methyl)propane-1,3-diyl)bis(oxy)bis(3-methoxybenzoic acid)"
+        },
+        {
+            "abbreviation": "Abbreviation: H4L3",
+            "full_name": "Full Name: 6,6'-(2,2-bis((6-carboxynaphthalen-2-yloxy)methyl)propane-1,3-diyl)bis(oxy)di-2-naphthoic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H4L4",
+            "full_name": "Full Name: 3,3'-(4,4'-(2,2-bis((4-(2-carboxyvinyl)phenoxy)methyl)propane-1,3-diyl)bis(oxy)bis(4,1-phenylene))diacrylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H4L5",
+            "full_name": "Full Name: 3,3'-(4,4'-(2,2-bis((4-(2-carboxyvinyl)-2-methoxyphenoxy)methyl)propane-1,3-diyl)bis(oxy)bis(3-methoxy-4,1-phenylene))diacrylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H4L6",
+            "full_name": "Full Name: 4',4''-(2,2-bis((4'-carboxybiphenyl-4-yloxy)methyl)propane-1,3-diyl)bis(oxy)dibiphenyl-4-carboxylic acid"
+        }
+    ],
+    "WASNUA": [
+        {
+            "abbreviation": "Abbreviation: H2L1",
+            "full_name": "Full Name: fumaric acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H2L2",
+            "full_name": "Full Name: 1,1\u0002-ferrocenedicarboxylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H2L3",
+            "full_name": "Full Name: succinic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H4L4",
+            "full_name": "Full Name: pyromellitic acid"
+        }
+    ],
+    "WIPFIM": [
+        {
+            "abbreviation": "Abbreviation: H4L",
+            "full_name": "Full Name: (2,4,6-trimethyl-1,3-phenylene)bis(methylene)diphosphonic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H2L",
+            "full_name": "Full Name: partly deprotonated H2L2– ligand"
+        }
+    ],
+    "XEGJOK": [
+        {
+            "abbreviation": "Abbreviation: H2L",
+            "full_name": "Full Name: 2,6,2’,6’-tetranitro-biphenyl-4,4’-dicarboxylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: L",
+            "full_name": "Full Name: 2,6,2’,6’-tetranitro-biphenyl-4,4’-dicarboxylic acid"
+        }
+    ],
+    "FAYQED": [
+        {
+            "abbreviation": "Abbreviation: H4L1",
+            "full_name": "Full Name: 4,4'-(2,2-bis((4-carboxyphenoxy)methyl)propane-1,3-diyl)bis(oxy)dibenzoic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H4L2",
+            "full_name": "Full Name: 4,4'-(2,2-bis((4-carboxy-2-methoxyphenoxy)methyl)propane-1,3-diyl)bis(oxy)bis(3-methoxybenzoic acid)"
+        },
+        {
+            "abbreviation": "Abbreviation: H4L3",
+            "full_name": "Full Name: 6,6'-(2,2-bis((6-carboxynaphthalen-2-yloxy)methyl)propane-1,3-diyl)bis(oxy)di-2-naphthoic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H4L4",
+            "full_name": "Full Name: 3,3'-(4,4'-(2,2-bis((4-(2-carboxyvinyl)phenoxy)methyl)propane-1,3-diyl)bis(oxy)bis(4,1-phenylene))diacrylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H4L5",
+            "full_name": "Full Name: 3,3'-(4,4'-(2,2-bis((4-(2-carboxyvinyl)-2-methoxyphenoxy)methyl)propane-1,3-diyl)bis(oxy)bis(3-methoxy-4,1-phenylene))diacrylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H4L6",
+            "full_name": "Full Name: 4',4''-(2,2-bis((4'-carboxybiphenyl-4-yloxy)methyl)propane-1,3-diyl)bis(oxy)dibiphenyl-4-carboxylic acid"
+        }
+    ],
+    "XEGKOL": [
+        {
+            "abbreviation": "Abbreviation: H2L",
+            "full_name": "Full Name: 2,6,2’,6’-tetranitro-biphenyl-4,4’-dicarboxylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: L",
+            "full_name": "Full Name: 2,6,2’,6’-tetranitro-biphenyl-4,4’-dicarboxylic acid"
+        }
+    ],
+    "WASNIO": [
+        {
+            "abbreviation": "Abbreviation: H2L1",
+            "full_name": "Full Name: fumaric acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H2L2",
+            "full_name": "Full Name: 1,1\u0002-ferrocenedicarboxylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H2L3",
+            "full_name": "Full Name: succinic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H4L4",
+            "full_name": "Full Name: pyromellitic acid"
+        }
+    ],
+    "FAYQAZ": [
+        {
+            "abbreviation": "Abbreviation: H4L1",
+            "full_name": "Full Name: 4,4'-(2,2-bis((4-carboxyphenoxy)methyl)propane-1,3-diyl)bis(oxy)dibenzoic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H4L2",
+            "full_name": "Full Name: 4,4'-(2,2-bis((4-carboxy-2-methoxyphenoxy)methyl)propane-1,3-diyl)bis(oxy)bis(3-methoxybenzoic acid)"
+        },
+        {
+            "abbreviation": "Abbreviation: H4L3",
+            "full_name": "Full Name: 6,6'-(2,2-bis((6-carboxynaphthalen-2-yloxy)methyl)propane-1,3-diyl)bis(oxy)di-2-naphthoic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H4L4",
+            "full_name": "Full Name: 3,3'-(4,4'-(2,2-bis((4-(2-carboxyvinyl)phenoxy)methyl)propane-1,3-diyl)bis(oxy)bis(4,1-phenylene))diacrylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H4L5",
+            "full_name": "Full Name: 3,3'-(4,4'-(2,2-bis((4-(2-carboxyvinyl)-2-methoxyphenoxy)methyl)propane-1,3-diyl)bis(oxy)bis(3-methoxy-4,1-phenylene))diacrylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H4L6",
+            "full_name": "Full Name: 4',4''-(2,2-bis((4'-carboxybiphenyl-4-yloxy)methyl)propane-1,3-diyl)bis(oxy)dibiphenyl-4-carboxylic acid"
+        }
+    ],
+    "CIBJEE": [
+        {
+            "abbreviation": "Abbreviation: L1",
+            "full_name": "Full Name: 3-(4-pyridyl)-5-(p-tolyl)pyrazolate"
+        },
+        {
+            "abbreviation": "Abbreviation: L2",
+            "full_name": "Full Name: 3-(4-pyridyl)-5-(2,4-dimethylphenyl)pyrazolate"
+        },
+        {
+            "abbreviation": "Abbreviation: HL1",
+            "full_name": "Full Name: 3-(4-pyridyl)-5-p-tolyl-1H-pyrazole"
+        },
+        {
+            "abbreviation": "Abbreviation: HL2",
+            "full_name": "Full Name: 3-(4-pyridyl)-5-(2,4-dimethylphenyl)-1H-pyrazole"
+        }
+    ],
+    "BAXSIE": [
+        {
+            "abbreviation": "Abbreviation: H3L",
+            "full_name": "Full Name: pyrazole-3,5-dicarboxylic acid"
+        }
+    ],
+    "XEGKAX": [
+        {
+            "abbreviation": "Abbreviation: H2L",
+            "full_name": "Full Name: 2,6,2’,6’-tetranitro-biphenyl-4,4’-dicarboxylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: L",
+            "full_name": "Full Name: 2,6,2’,6’-tetranitro-biphenyl-4,4’-dicarboxylic acid"
+        }
+    ],
+    "XEGJIE": [
+        {
+            "abbreviation": "Abbreviation: L",
+            "full_name": "Full Name: 2,6,2’,6’-tetranitro-biphenyl-4,4’-dicarboxylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H2L",
+            "full_name": "Full Name: 2,6,2’,6’-tetranitro-biphenyl-4,4’-dicarboxylic acid"
+        }
+    ],
+    "JUYVOO": [
+        {
+            "abbreviation": "Abbreviation: L",
+            "full_name": "Full Name: L-(+)-tartrate"
+        },
+        {
+            "abbreviation": "Abbreviation: L",
+            "full_name": "Full Name: L-(+)-Weinsaure"
+        }
+    ],
+    "BUCVIG": [
+        {
+            "abbreviation": "Abbreviation: L",
+            "full_name": "Full Name: 3,3′,5,5′-tetra(1H-imidazol-1-yl)-1,1′-biphenyl"
+        },
+        {
+            "abbreviation": "Abbreviation: H3BTB",
+            "full_name": "Full Name: 1,3,5-tri(4-carboxyphenyl)benzene"
+        },
+        {
+            "abbreviation": "Abbreviation: H2L",
+            "full_name": "Full Name: 2,5-pyridinedicarboxylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: HL",
+            "full_name": "Full Name: mononegative N-salicylidenearoylhydrazine anions"
+        },
+        {
+            "abbreviation": "Abbreviation: L",
+            "full_name": "Full Name: dinegative N-salicylidenearoylhydrazine anions"
+        }
+    ],
+    "FEWQOP": [
+        {
+            "abbreviation": "Abbreviation: H2L",
+            "full_name": "Full Name: 3-hydroxypyrazine-2-carboxylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: L2",
+            "full_name": "Full Name: Tetradentate linker"
+        }
+    ],
+    "WASPAI": [
+        {
+            "abbreviation": "Abbreviation: H2L1",
+            "full_name": "Full Name: fumaric acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H2L2",
+            "full_name": "Full Name: 1,1\u0002-ferrocenedicarboxylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H2L3",
+            "full_name": "Full Name: succinic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H4L4",
+            "full_name": "Full Name: pyromellitic acid"
+        }
+    ],
+    "TADWIG": [
+        {
+            "abbreviation": "Abbreviation: H4L",
+            "full_name": "Full Name: (R)-2,2’-diethoxy-1,1’-binaphthyl-4,4’,6,6’-tetrabenzoate"
+        },
+        {
+            "abbreviation": "Abbreviation: H4L",
+            "full_name": "Full Name: (R)-2,2’-dihydroxy-1,1’-binaphthyl-4,4’,6,6’-tetrabenzoate"
+        },
+        {
+            "abbreviation": "Abbreviation: L",
+            "full_name": "Full Name: (R)-2,2’-fdiethoxy-1,1’-binaphthyl-4,4’,6,6’-tetrabenzoate"
+        },
+        {
+            "abbreviation": "Abbreviation: L’",
+            "full_name": "Full Name: (R)-2,2’-dihydroxy-1,1’-binaphthyl-4,4’,6,6’-tetrabenzoate"
+        },
+        {
+            "abbreviation": "Abbreviation: H4L’",
+            "full_name": "Full Name: (R)-2,2’-dihydroxy-1,1’-binaphthyl-4,4’,6,6’-tetrabenzoate"
+        }
+    ],
+    "MIKXOU": [
+        {
+            "abbreviation": "Abbreviation: H3L",
+            "full_name": "Full Name: 2,6-bis(hydroxyethyliminoethyl)-4-methyl phenol"
+        },
+        {
+            "abbreviation": "Abbreviation: HL",
+            "full_name": "Full Name: 2,6-bis(hydroxyethyliminoethyl)-4-methyl phenol"
+        }
+    ],
+    "FAYQON": [
+        {
+            "abbreviation": "Abbreviation: H4L1",
+            "full_name": "Full Name: 4,4'-(2,2-bis((4-carboxyphenoxy)methyl)propane-1,3-diyl)bis(oxy)dibenzoic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H4L2",
+            "full_name": "Full Name: 4,4'-(2,2-bis((4-carboxy-2-methoxyphenoxy)methyl)propane-1,3-diyl)bis(oxy)bis(3-methoxybenzoic acid)"
+        },
+        {
+            "abbreviation": "Abbreviation: H4L3",
+            "full_name": "Full Name: 6,6'-(2,2-bis((6-carboxynaphthalen-2-yloxy)methyl)propane-1,3-diyl)bis(oxy)di-2-naphthoic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H4L4",
+            "full_name": "Full Name: 3,3'-(4,4'-(2,2-bis((4-(2-carboxyvinyl)phenoxy)methyl)propane-1,3-diyl)bis(oxy)bis(4,1-phenylene))diacrylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H4L5",
+            "full_name": "Full Name: 3,3'-(4,4'-(2,2-bis((4-(2-carboxyvinyl)-2-methoxyphenoxy)methyl)propane-1,3-diyl)bis(oxy)bis(3-methoxy-4,1-phenylene))diacrylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H4L6",
+            "full_name": "Full Name: 4',4''-(2,2-bis((4'-carboxybiphenyl-4-yloxy)methyl)propane-1,3-diyl)bis(oxy)dibiphenyl-4-carboxylic acid"
+        }
+    ],
+    "PACZUQ": [
+        {
+            "abbreviation": "Abbreviation: H3NTP",
+            "full_name": "Full Name: 3,3',3'-nitrilotripropionic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H3NTA",
+            "full_name": "Full Name: 3,3',3'-nitrilotriacetic acid"
+        }
+    ],
+    "TOWXEK": [
+        {
+            "abbreviation": "Abbreviation: H3L",
+            "full_name": "Full Name: Tritopic triacid"
+        },
+        {
+            "abbreviation": "Abbreviation: H3L",
+            "full_name": "Full Name: Semi-rigid trigonal triacid"
+        },
+        {
+            "abbreviation": "Abbreviation: H3L",
+            "full_name": "Full Name: Tricarboxylic acid based on mesitylene core"
+        },
+        {
+            "abbreviation": "Abbreviation: H3L",
+            "full_name": "Full Name: Tricarboxylic acid spacer"
+        },
+        {
+            "abbreviation": "Abbreviation: H3L",
+            "full_name": "Full Name: Semi-rigid organic linker"
+        }
+    ],
+    "UPOZAB": [
+        {
+            "abbreviation": "Abbreviation: H2-BTDD",
+            "full_name": "Full Name: bis(1H-1,2,3-triazolo[4,5-b],[4’,5’-i])dibenzo[1,4]dioxin"
+        },
+        {
+            "abbreviation": "Abbreviation: L6",
+            "full_name": "Full Name: 1,2,3-triazolate-type ligand"
+        },
+        {
+            "abbreviation": "Abbreviation: L",
+            "full_name": "Full Name: 1,2,3-triazolate-type ligand"
+        }
+    ],
+    "XEGKIF": [
+        {
+            "abbreviation": "Abbreviation: H2L",
+            "full_name": "Full Name: 2,6,2’,6’-tetranitro-biphenyl-4,4’-dicarboxylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: L",
+            "full_name": "Full Name: 2,6,2’,6’-tetranitro-biphenyl-4,4’-dicarboxylate"
+        }
+    ],
+    "WASNOU": [
+        {
+            "abbreviation": "Abbreviation: H2L1",
+            "full_name": "Full Name: fumaric acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H2L2",
+            "full_name": "Full Name: 1,1\u0002-ferrocenedicarboxylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H2L3",
+            "full_name": "Full Name: succinic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H4L4",
+            "full_name": "Full Name: pyromellitic acid"
+        }
+    ],
+    "FAYPUS": [
+        {
+            "abbreviation": "Abbreviation: H4L1",
+            "full_name": "Full Name: Tetratopic ligand with functional groups and adjustable length"
+        },
+        {
+            "abbreviation": "Abbreviation: H4L2",
+            "full_name": "Full Name: Tetratopic ligand with functional groups and adjustable length"
+        },
+        {
+            "abbreviation": "Abbreviation: H4L3",
+            "full_name": "Full Name: Tetratopic ligand with functional groups and adjustable length"
+        },
+        {
+            "abbreviation": "Abbreviation: H4L4",
+            "full_name": "Full Name: Tetratopic ligand with functional groups and adjustable length"
+        },
+        {
+            "abbreviation": "Abbreviation: H4L5",
+            "full_name": "Full Name: Tetratopic ligand with functional groups and adjustable length"
+        },
+        {
+            "abbreviation": "Abbreviation: H4L6",
+            "full_name": "Full Name: Tetratopic ligand with functional groups and adjustable length"
+        },
+        {
+            "abbreviation": "Abbreviation: L1",
+            "full_name": "Full Name: Deprotonated ligand"
+        },
+        {
+            "abbreviation": "Abbreviation: L2",
+            "full_name": "Full Name: Deprotonated ligand"
+        },
+        {
+            "abbreviation": "Abbreviation: L3",
+            "full_name": "Full Name: Deprotonated ligand"
+        },
+        {
+            "abbreviation": "Abbreviation: L4",
+            "full_name": "Full Name: Deprotonated ligand"
+        },
+        {
+            "abbreviation": "Abbreviation: L6",
+            "full_name": "Full Name: Deprotonated ligand"
+        }
+    ],
+    "FAYRAA": [
+        {
+            "abbreviation": "Abbreviation: H4L1",
+            "full_name": "Full Name: 4,4'-(2,2-bis((4-carboxyphenoxy)methyl)propane-1,3-diyl)bis(oxy)dibenzoic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H4L2",
+            "full_name": "Full Name: 4,4'-(2,2-bis((4-carboxy-2-methoxyphenoxy)methyl)propane-1,3-diyl)bis(oxy)bis(3-methoxybenzoic acid)"
+        },
+        {
+            "abbreviation": "Abbreviation: H4L3",
+            "full_name": "Full Name: 6,6'-(2,2-bis((6-carboxynaphthalen-2-yloxy)methyl)propane-1,3-diyl)bis(oxy)di-2-naphthoic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H4L4",
+            "full_name": "Full Name: 3,3'-(4,4'-(2,2-bis((4-(2-carboxyvinyl)phenoxy)methyl)propane-1,3-diyl)bis(oxy)bis(4,1-phenylene))diacrylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H4L5",
+            "full_name": "Full Name: 3,3'-(4,4'-(2,2-bis((4-(2-carboxyvinyl)-2-methoxyphenoxy)methyl)propane-1,3-diyl)bis(oxy)bis(3-methoxy-4,1-phenylene))diacrylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H4L6",
+            "full_name": "Full Name: 4',4''-(2,2-bis((4'-carboxybiphenyl-4-yloxy)methyl)propane-1,3-diyl)bis(oxy)dibiphenyl-4-carboxylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: L1",
+            "full_name": "Full Name: 4,4'-(2-carboxyphenoxy)methyl)propane-1,3-diyl)bis(oxy)dibenzoic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: L2",
+            "full_name": "Full Name: 4,4'-(2,2-bis((4-carboxy-2-methoxyphenoxy)methyl)propane-1,3-diyl)bis(oxy)bis(3-methoxybenzoic acid)"
+        },
+        {
+            "abbreviation": "Abbreviation: L3",
+            "full_name": "Full Name: 6,6'-(2,2-bis((6-carboxynaphthalen-2-yloxy)methyl)propane-1,3-diyl)bis(oxy)di-2-naphthoic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: L4",
+            "full_name": "Full Name: 3,3'-(4,4'-(2,2-bis((4-(2-carboxyvinyl)phenoxy)methyl)propane-1,3-diyl)bis(oxy)bis(4,1-phenylene))diacrylic acid"
+        }
+    ],
+    "FAYQIH": [
+        {
+            "abbreviation": "Abbreviation: H4L1",
+            "full_name": "Full Name: 4,4'-(2,2-bis((4-carboxyphenoxy)methyl)propane-1,3-diyl)bis(oxy)dibenzoic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H4L2",
+            "full_name": "Full Name: 4,4'-(2,2-bis((4-carboxy-2-methoxyphenoxy)methyl)propane-1,3-diyl)bis(oxy)bis(3-methoxybenzoic acid)"
+        },
+        {
+            "abbreviation": "Abbreviation: H4L3",
+            "full_name": "Full Name: 6,6'-(2,2-bis((6-carboxynaphthalen-2-yloxy)methyl)propane-1,3-diyl)bis(oxy)di-2-naphthoic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H4L4",
+            "full_name": "Full Name: 3,3'-(4,4'-(2,2-bis((4-(2-carboxyvinyl)phenoxy)methyl)propane-1,3-diyl)bis(oxy)bis(4,1-phenylene))diacrylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H4L5",
+            "full_name": "Full Name: 3,3'-(4,4'-(2,2-bis((4-(2-carboxyvinyl)-2-methoxyphenoxy)methyl)propane-1,3-diyl)bis(oxy)bis(3-methoxy-4,1-phenylene))diacrylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H4L6",
+            "full_name": "Full Name: 4',4''-(2,2-bis((4'-carboxybiphenyl-4-yloxy)methyl)propane-1,3-diyl)bis(oxy)dibiphenyl-4-carboxylic acid"
+        }
+    ],
+    "TOXHAR": [
+        {
+            "abbreviation": "Abbreviation: H3L",
+            "full_name": "Full Name: tritopic triacid"
+        },
+        {
+            "abbreviation": "Abbreviation: H3L",
+            "full_name": "Full Name: trigonal triacid"
+        }
+    ],
+    "XEGKEB": [
+        {
+            "abbreviation": "Abbreviation: H2L",
+            "full_name": "Full Name: 2,6,2’,6’-tetranitro-biphenyl-4,4’-dicarboxylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: L",
+            "full_name": "Full Name: 2,6,2’,6’-tetranitro-biphenyl-4,4’-dicarboxylic acid"
+        }
+    ],
+    "ACUXAY": [
+        {
+            "abbreviation": "Abbreviation: H3IMDC",
+            "full_name": "Full Name: 4,5-imidazoledicarboxylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H2IMDC",
+            "full_name": "Full Name: Partially deprotonated 4,5-imidazoledicarboxylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: HIMDC2",
+            "full_name": "Full Name: Further deprotonated 4,5-imidazoledicarboxylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: IMDC3",
+            "full_name": "Full Name: Fully deprotonated 4,5-imidazoledicarboxylic acid"
+        }
+    ],
+    "DAJHUS": [
+        {
+            "abbreviation": "Abbreviation: H2ndc",
+            "full_name": "Full Name: 2,6-naphthalenedicarboxylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: L2",
+            "full_name": "Full Name: 4.3K4.3"
+        },
+        {
+            "abbreviation": "Abbreviation: L2",
+            "full_name": "Full Name: 4.4K3.5"
+        }
+    ],
+    "FOFDAH": [
+        {
+            "abbreviation": "Abbreviation: H4TCPB",
+            "full_name": "Full Name: Tetradentate carboxylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H2L",
+            "full_name": "Full Name: Pyrazole-3,5-dicarboxylic acid"
+        }
+    ]
+}

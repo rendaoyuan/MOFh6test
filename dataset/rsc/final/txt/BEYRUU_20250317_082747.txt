@@ -1,0 +1,5 @@
+BEYRUU
+Chemical_Name: catena-((μ3-adeninato)-(μ2-valerato)-cobalt(ii) hemihydrate)
+Number: 914680
+Synonyms: bio-MOF-14
+Synthesis of bio-MOF-14 Stock solutions of cobalt valerate (0.05 M) and adenine (0.05 M) in pre-dried DMF were prepared. To a Schlenk tube (40 mL) were added cobalt valerate solution (9.0 mL; 0.45 mmol), adenine solution (27.0 mL; 1.35 mmol), and nanopure water (120 mL). After the solution was frozen in liquid nitrogen and evacuated to 200 mTorr, it was heated in a 130 °C oven (24 h). Black, octahedral crystals were collected, washed (dry DMF, 3 times), and dried under argon flow. Yield: 85 mg, 64% (based on Co valerate).

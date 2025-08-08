@@ -1,0 +1,5 @@
+NENJUN
+Chemical_Name: catena-[(μ2-2,5-Dicarboxybenzene-1,4-dicarboxylato)-diaqua-bis(3,3'-(1H-1,2,4-triazole-3,5-diyl)dipyridine)-zinc(ii) dihydrate]
+Number: 801480
+Synonyms: N/A
+[Zn(3,30-Hbpt)2(H2pm)(H2O)2]_x0002_2H2O (3) A mixture containing ZnCl2 (21.9 mg, 0.10 mmol), 3,30-Hbpt (11.2 mg, 0.05 mmol), H4pm (16.6 mg, 0.10 mmol) and water (6 mL) was sealed in a 15 mL Teﬂon-lined stainless steel vessel and heated at 160 _x0003_C for 3 days and then cooled to room temperature at a rate of 5 _x0003_C/h. Colorless block crystals of 3 were collected in a yield of 18% (based on Zn).

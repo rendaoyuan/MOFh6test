@@ -1,0 +1,5 @@
+IHEPES
+Chemical_Name: N/A
+Number: N/A
+Synonyms: N, /, A
+Synthesis of [Cu(C6H12F2N2O2)Cl2]·H2O 1 This complex was synthesized by adding to a solution of Eﬂornithine hydrochloride hydrate (0.2367 g, 1 mmol) in distilled water (10 ml), a solution of CuCl2·2H2O (0.1705 g, 1 mmol) in methanol (10 ml). The mixture was stirred for 1 h, the blue precipitate formed was separated out by ﬁltration and washed with methanol. Single blue crystal suitable for X-ray analysis was obtained by vapour diffusion at room temperature of methanolic solution of complex with hexane as antisolvent. Yield: 95.8 %.

@@ -1,0 +1,5 @@
+GAWMIC
+Chemical_Name: catena-[(μ2-2-Aminobenzene-1,4-dicarboxylato)-bis(μ2-2,4,6-tris(pyridin-4-yl)-1,3,5-triazine)-bis(iodo)-di-zinc(ii)]
+Number: 837845
+Synonyms: catena-[(μ2-2-Aminoterephthalato)-bis(μ2-2,4,6-tris(4-pyridyl)-1,3,5-triazine)-bis(iodo)-di-zinc(ii)]
+Synthesis of 1: a mixture of ZnI2 (0.2mmol, 64mg), tpt (0.1mmol, 31mg), 2-aminoterephthalic acid (0.1mmol, 18.1mg), N,N′-diethylethanamine (28μL), and H2O (10mL) was heated at 160°C in a Teflon-lined stainless steel autoclave for 72h. When the autoclave was cooled to room temperature, red block crystals were obtained in about 59% yield (35mg).

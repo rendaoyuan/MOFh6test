@@ -1,0 +1,5 @@
+YACTUS01
+Chemical_Name: N/A
+Number: N/A
+Synonyms: N/A
+Synthesis of the title complex An aqueous solution of CuCl2 (0.3 mmol) was added drop-wise to a mixture of H2phth (0.3 mmol) Phen (0.3 mmol). The solution pH value was then carefully adjusted to ca. 4 with aqueous ammonia under stirring. After filtering, the solution was left to stand at room temperature. Dark blue single crystals of the product complexes were obtained in ca. 40% yield after 2 weeks.

@@ -1,0 +1,5 @@
+TEZLOB
+Chemical_Name: N/A
+Number: N/A
+Synonyms: N/A
+A mixture of CdSO4·8/3H2O (0.026g, 0.1mmol), hbdmbm (0.038g, 0.1mmol), NaOH (2mL, 0.1mol/L) and H2O (10mL) was sealed in a 25mL Teflon reactor at 150°C for 3days. After slow cooling to room temperature, yellow block crystals of 1 were obtained. Yield: 45% based on Cd(II).

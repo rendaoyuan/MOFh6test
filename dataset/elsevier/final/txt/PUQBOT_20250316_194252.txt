@@ -1,0 +1,5 @@
+PUQBOT
+Chemical_Name: catena-((μ4-2,2'-Bipyridine-4,4'-dicarboxylato)-(μ2-acetato)-diaqua-neodymium(iii) monohydrate)
+Number: 748881
+Synonyms: N/A
+A mixture of NdCl3·6H2O (0.036g, 0.10mmol), H2bpydc (0.024g, 0.10mmol), and NaAc–HAc (pH 5.7, 5ml) was put into a 25ml stainless steel bomb and heated at 100°C for 4days, then cooled to room temperature slowly. The resulting violet plate crystals of 2 were filtered off to give a yield of 60% (0.030g).

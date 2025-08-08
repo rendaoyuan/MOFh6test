@@ -1,0 +1,5 @@
+ZURQOS
+Chemical_Name: catena-(tetrakis(μ2-Cyano)-(μ2-p-xylylenediamine)-cadmium(ii)-nickel(ii) o-toluidine clathrate)
+Number: None
+Synonyms: N/A
+The pH of the aqueous solution of CdCl2, K2[Ni(CN)4], and p-xda in a 1:1:2 molar ratio was adjusted to 9.5 by adding citric acid and 2-aminoethanol; in the final solution the concentration of each metal species was adjusted to 0.1 mol dm-3. The aqueous solution covered by the organic phase of o-toluidine was left standing for a few months at room temperature; yellow crystals were obtained.

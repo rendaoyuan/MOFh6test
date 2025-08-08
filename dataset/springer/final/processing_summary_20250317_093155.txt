@@ -1,0 +1,195 @@
+Processing Summary
+Timestamp: 20250317_093155
+Total files processed: 190
+
+Processed Files:
+- AJEMIN_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- BEZDUH_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- BUHFER_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- CIGCEC_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- CIJPAO_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- CUJZAK_20250317_093155.txt
+- DAVKAO_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- DOTHIE_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- DUPDEZ_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- ECUXAD_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- EDABIW_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- EDABOC_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- EHEPAJ_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- ETUBIF01_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- EXOSEQ_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- FEQVEE_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- FOXBEB_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- FULVAK_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- FUNLAD_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- GICCOM_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- HEPRIE_20250317_093155.txt
+- HOTREO01_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- HULREN_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- IDIGIN_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- IHEPES_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- ISEFUI_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- JETSAD_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- KAPHAM_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- KAPWAB_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- KARLAS_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- KIVWAO_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- KIVZAR_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- LEHZOP_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- MADSER_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- MAPFIU_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- MIJXUZ_20250317_093155.txt
+- MOJPAE_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- MOJRAG_20250317_093155.txt
+- MOKQAG_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- MOKVAL_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- MOKZAP_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- MULXUN_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- NAFFOR_20250317_093155.txt
+- NATQUW_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- NATRAD_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- NAZTIT_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- NAZTOZ_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- NAZWOC_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- NENJUN_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- NICOPB03_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- OHIXIO_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- POHLUU_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- QADBII_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- QEQSUB_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- QETSOY_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- QORTAU_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- ROHVOB_20250317_093155.txt
+- RONZUP_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- RUZDOG_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- SOKQOZ_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- TEWPUI_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- TUBYOF_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- UGEXUA_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- UGOXIX01_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- VAWYEZ_20250317_093155.txt
+- VIJPAH_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- VIJPIP_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- VIJPOV_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- VIYYOT_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- VURQIJ_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- WOHWAT_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- WUFJEO_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- XIJPOX_20250317_093155.txt
+- XUBJAF03_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- XUBTIZ_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- XUWRIR01_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- YAKKEC_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- YIBVUC_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- YISTUR_20250317_093155.txt
+- YIVZIO_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- ZUCTIC_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- AMIYEB01_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- AZESON_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- BEZYIQ_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- ECUZOT_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- EKUGOG01_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- IHECAB_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- IJUBUK_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- IYUMEU_20250317_093155.txt
+- JEPKAR_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- KIXKOT_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- LEZFED_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- OJIWAG_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- OWAGEZ_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- OXUNEB_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- PADHOT_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- QAVTEO_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- RAWROX_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- VAPLED_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt
+- YACTUS01_20250317_093155.txt
+- No abbreviations found in synthesis text_20250317_093155.txt

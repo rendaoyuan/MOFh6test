@@ -1,0 +1,5 @@
+UTOTUT01
+Chemical_Name: catena-((μ4-5-Amino-1H-tetrazole)-(μ3-hydroxo)-(μ2-5-nitroisophthalato)-aqua-di-copper dihydrate)
+Number: 794789
+Synonyms: N/A
+CuSO4·5H2O (49.9 mg, 0.2 mmol), H2nip (42.0 mg, 0.2 mmol) and Hatz (20.6 mg, 0.2 mmol) were dissolved in doubly deionized water (11.0 mL) and the initial pH of the mixture was adjusted to ca. 7.5 by triethylamine. The mixture was then transferred into a parr Teﬂon-lined stainless steel vessel (23.0 mL) and heated to 130 ◦C for 24 h under autogenous pressure. After the mixture was cooled to room temperature at a rate of 2.1 ◦C h-1, blue block-shaped crystals suitable for X-ray diffraction analysis were obtained directly, washed with water and ethanol, and dried in air. Yield: 31% based on CuII salt.

@@ -1,0 +1,5 @@
+PEQTIQ
+Chemical_Name: catena-[bis(μ3-2,2'-Bipyridine-4,4'-dicarboxylato)-diaqua-chloro-copper(ii)-dysprosium(iii) hydrate]
+Number: 908529
+Synonyms: N/A
+A mixture of H2BPDC (0.0488 g, 0.15 mmol), CuCl2·6H2O (0.0123 g, 0.05 mmol), DyCl3·6H2O (0.0377 g, 0.1 mmol), 4 mL distilled water and 4 mL anhydrous alcohol were sealed in a Teflon-lined stainless vessel (25 mL) and heated at 145℃ for 72 h under autogenous pressure. The vessel was then cooled slowly down to room temperature at 1.2 ℃/ h. Blue block crystals were obtained. The yield was 62% (based on DyCl3·6H2O).

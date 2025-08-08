@@ -1,0 +1,7 @@
+CUQROX
+Chemical_Name: catena-[(μ-4,4'-diazene-1,2-diyldibenzoato)-bis(μ-3,5-dimethyl-1,2,4-triazolato)-di-zinc tetrahydrate]
+Number: 1063269
+Synonyms: N/A
+Synthesis of {[Zn2Ĳdmtrz)2ĲL2)]·4H2O}n (MAC-13). ZnĲNO3)2 ·6H2O (0.3 mmol, 0.089 g), Hdmtrz (0.2 mmol, 0.018 g) and H2L2 (0.1 mmol, 0.0271 g) were dissolved in 2 mL DMF. The mixture was stirred at room temperature for 10 min. HNO3 (0.2 mL) and HBF4 (0.06 mL) were added to the solution and stirred for another 30 min. The mixture was then transferred into a 15 mL Teflon-lined stainless steel vessel, sealed and heated at 140 °C for 3 days under autogenous pressure. Orange sheet crystals of MAC-13 were isolated in a yield of 56% (based on ZnĲII)).
+Abbreviation: H2L2
+Full Name: (E)-azobenzene-4,4′-dicarboxylic acid

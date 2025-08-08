@@ -1,0 +1,5 @@
+MOFFOE
+Chemical_Name: catena-[(μ4-2,2'-(1,3-Phenylenebis(oxy))diacetato)-(μ3-formato)-aqua-europium]
+Number: 971290
+Synonyms: N/A
+A mixture of 1mL ethanol and 9mL distilled water containing H2PODA (0.0226g, 0.1mmol), NaOH (0.3mmol, 0.65mol/L), formic acid (0.1mmol, 0.65mol/L), Eu(NO3)3·6H2O for 5 (0.0446g, 0.1mmol) was placed in a Teflon-lined stainless reactor (23mL), heated at 120°C for 72h under autogenous pressure and then cooled to room temperature. Block crystals were obtained. Eu(PODA)(FA)(H2O)] n (5) Yield: 35.6% based on Eu.

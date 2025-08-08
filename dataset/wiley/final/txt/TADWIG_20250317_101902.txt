@@ -1,0 +1,9 @@
+TADWIG
+Chemical_Name: catena-[(μ7-(R)-2,2'-Hydroxy-1,1'-binaphthyl-4,4',6,6'-tetrabenzoato)- aqua-(dimethylformamide-O)-di-zinc dimethylformamide ethanol solvate tetrahydrate]
+Number: 772190
+Synonyms: N/A
+Synthesis of [Zn2L(DMF)(H2O)]·4.3DMF·2EtOH·H2O (1): A mixture of ZnI2 (31.9 mg, 0.10 mmol), H4L (41.1 mg, 0.05 mmol), DMF (2 mL), and EtOH (2 mL) was heated in a capped vial at 908C for 3 days. Colorless crystals of 1 were filtered, and briefly dried on filter paper at room temperature. Yield: 46 mg (63%). [Zn2L’(DMF)-(H2O)]·4.3DMF·2EtOH·4H2O (2) was similarly synthesized in 51% yield.
+Abbreviation: H4L
+Full Name: (R)-2,2’-diethoxy-1,1’-binaphthyl-4,4’,6,6’-tetrabenzoate
+Abbreviation: H4L
+Full Name: (R)-2,2’-dihydroxy-1,1’-binaphthyl-4,4’,6,6’-tetrabenzoate

@@ -1,0 +1,5 @@
+QAVWAN
+Chemical_Name: catena-[bis(μ4-Naphthalene-2,6-dicarboxylato)-(μ2-2,2'-dimethyl-4,4'-bipyridine)-di-zinc(ii) N,N-dimethylformamide solvate]
+Number: 829073
+Synonyms: N/A
+Zn(NDC)(DMBPY) 0.5 · (DMF) 2 (2): The mixture of Zn(NO 3 ) 2 (89 mg, 0.3 mmol), H 2 NDC (65 mg, 0.3 mmol) and 22’-DMBPY (38 mg, 0.2 mmol) in DMF (10 mL) was sealed in a Parr pressure bomb and heated at 120 ° C for 3 days to give yellow rod-shaped single crystals. The product was isolated by ﬁ ltration and washed with DMF three times, then dried in air. (Yield: 80% based on the metal).

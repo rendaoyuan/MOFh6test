@@ -1,0 +1,5 @@
+MAPFIU
+Chemical_Name: catena-[(μ2-2-(3-Chlorophenoxy)propanoato-O,O')-trimethyl-tin(iv)]
+Number: 784566
+Synonyms: N/A
+Synthesis of Complexes 7 The 2-(3-chlorophenoxy)propionic acid (0.10 g, 1.0 mmol) and sodium ethoxide (0.068 g, 1.0 mmol) were added to the solution of methanol in a Schlenk flask and stirred for 30-min. Trimethyltin chloride (0.199 g, 1.0 mmol) was added, the reaction mixture was stirred for 12-h at 45 °C and then filtered. The solvent in the filter was gradually removed by evaporation under vacuum until solid product was obtained. The solid was recrystallized from ether to give transparent colorless crystals.

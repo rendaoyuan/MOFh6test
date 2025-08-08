@@ -1,0 +1,5 @@
+PIGXUZ
+Chemical_Name: catena-((μ4-2,2'-Oxamidobis(benzoato))-bis(μ3-hydroxo)-bis(μ3-2,2'-oxamidobis(benzoato))-bis(μ2-4,4'-bipyridine)-tetra-cobalt(ii) 4,4'-bipyridine solvate)
+Number: 615371
+Synonyms: N/A
+Preparation of [Co4(OH)2(obbz)3(4,4′-bpy)2](4,4′-bpy) (1). A mixture of H2obbz(1.0 mmol), Co(NO3)2‚6H2O (2.0 mmol), 4, 4′-bipy (2.0 mmol), and H2O (10 mL) was stirred for 20 min. The mixture was then transferred to a Teflon-lined stainless steel autoclave (20 mL) and kept at 160 °C for 6 days. After the autoclave had cooled to room temperature over 6-7 h, purple octahedral crystalline solids of 1 were isolated from the mother liquid, washed with water, and then dried at ambient temperature (35% yield based on cobalt).

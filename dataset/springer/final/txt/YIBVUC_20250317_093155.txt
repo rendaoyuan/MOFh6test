@@ -1,0 +1,5 @@
+YIBVUC
+Chemical_Name: catena-[tetrakis(μ2-1,1'-Butane-1,4-diylbis(1H-benzimidazole))-bis(2-nitrobenzene-1,4-dicarboxylato)-diaqua-tetra-silver octahydrate]
+Number: 933477
+Synonyms: N/A
+Synthesis of the {Ag2(bbbi)2(ntp)(H2O)_x0002_4H2O}n (2) A mixture of AgOAc (0.5 mmol, 83.5 mg), bbbi (0.5 mmol, 145.1 mg) and H2ntp (0.5 mmol, 105.6 mg) in H2O (10 mL) was stirred for 0.5 h, and then, the pH was adjusted to 5.5 by the addition of 0.1 M NaOH solution. White block crystals of 2 suitable for X-ray diffraction were isolated by mechanical separation from amorphous solid in 30 % yield (based on AgI salt).

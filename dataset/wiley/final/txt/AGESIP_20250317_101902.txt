@@ -1,0 +1,5 @@
+AGESIP
+Chemical_Name: catena-[bis(μ6-Squarato-O,O,O',O'',O'',O''')-bis(μ3-hydroxo)-tri-copper(ii) tetrahydrate]
+Number: 691115
+Synonyms: N/A
+0.375 mmol of Cu(NO3)2·5H2O, 0.375 mmol of m-phenylenediamine, 0.750 mmol of squaric acid and 339 mmol of distilled water in the molar ratio Cu(NO3)2·5H2O : amine : squaric acid : H2O 1 : 1 : 2 : 1037 were taken together. The reactants were sealed into a 10 mL Teflon lined bomb and heated to 180 °C and kept for 96 h and then cooled slowly to room temperature. The brown color crystals were washed with water, acetone and allowed to dry in air.

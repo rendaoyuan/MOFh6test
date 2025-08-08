@@ -1,0 +1,5 @@
+BEGZEU
+Chemical_Name: catena-[bis(μ2-4,4'-Bipyridine)-bis(μ2-4-hydroxypyridine-2,6-dicarboxylato)-di-cobalt(ii) octahydrate]
+Number: 830285
+Synonyms: N/A
+Synthesis of {[Co(HCAM)(bipy)]·19/6H2O} n (3) A mixture of CoCl2·6H2O (15.78mg, 0.07mmol), 4,4′-dipyridyl (5.18mg, 0.03mmol) and chelidamic acid (18.3mg, 0.10mmol) was dissolved in the mixed solution of 10ml water and 5ml DMF under the pH 6 by ammonia (5mol/L). Stirring for about 1.5h, then the solution was filtered. The filtrate was allowed to stand at room temperature. Red block crystals of 3 that are stable in air were obtained over 4days. Yield based on chelidamic acid: 38.6%.

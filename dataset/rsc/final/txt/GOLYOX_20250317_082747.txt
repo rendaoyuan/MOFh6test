@@ -1,0 +1,5 @@
+GOLYOX
+Chemical_Name: catena-[(μ-4,4',4'',4'''-(oxydibenzene-5,1,3-triyl)tetrapyridine)-tris(μ-4,4'-sulfonyldibenzoato)-aqua-tri-nickel acetonitrile solvate tetrahydrate]
+Number: 1002456
+Synonyms: N/A
+Compounds 4 can be synthesized by a general step: a mixture of Ni(NO3)2·6H2O (2 mmol), L (2 mmol) and H2sdb (1 mmol) was dissolved in a DMF–H2O–CH3CN mixed solvent. The final mixture was placed in a Parr Teflon-lined stainless steel vessel (25 mL) under autogenous pressure and heated at 95 °C for 3 days. The yield is 30%.

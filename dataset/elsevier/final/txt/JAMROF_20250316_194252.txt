@@ -1,0 +1,5 @@
+JAMROF
+Chemical_Name: catena-((μ2-Iso-orotato)-triaqua-cobalt(ii))
+Number: 218806
+Synonyms: N/A
+A mixture of H3iso (0.017 g, 0.1 mmol), CoCl2 ·6H2O (0.048 g, 0.2 mmol), NaOH aqueous solution (0.35 ml, 0.65 moll−1) and deionized water (5 ml) was sealed in a Teflon-lined stainless vessel (25 ml), heated to 120 °C for 72 h, and then cooled at 5 °C/3 h to 100 °C, followed by slow cooling to room temperature. Red crystals were obtained, washed with water and ethanol, and dried in air. Yield: 0.02 g (74.9%).

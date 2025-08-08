@@ -1,0 +1,5 @@
+BUKMUQ01
+Chemical_Name: catena-[(μ3-pyridine-3,5-dicarboxylato)-(N,N-dimethylacetamide)-zinc(ii) N,N-dimethylacetamide solvate]
+Number: 981483
+Synonyms: N/A
+Synthesis of 2b. A mixture of H2PDC (5 mg, 0.03 mmol) and Zn(ClO4)2·6H2O (11 mg, ~0.03 mmol) was taken in a screw capped glass sample vial (4 mL) containing 2.5 mL DMA. 2–3 minutes of sonication gave a clear solution. The solution was then heated at 120 °C for 24 hours in a bath-reactor. Block shaped colorless crystals of 2b were obtained on cooling to room temperature. Crystals were separated by filtration and washed with DMA, then dried in air. Yield: 68%.

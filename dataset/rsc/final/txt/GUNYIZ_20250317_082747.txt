@@ -1,0 +1,5 @@
+GUNYIZ
+Chemical_Name: catena-(bis(μ2-2-(2-(Pyridin-4-yl)vinyl)quinolin-8-olato)-zinc dimethylformamide solvate)
+Number: 1412803
+Synonyms: N/A
+Synthesis of Complexes 1: A mixture of Zn(OAc)2 (0.05 mmol), HL (0.025 mmol), N,N’- dimethylformamide DMF (0.5 mL), MeOH (2.0 mL) and H2O (0.2 mL) in a capped vial was heated at 80 oC for one day. Red blocklike crystals of 1 suitable for single-crystal X-ray diffraction were collected, washed with ether and dried in air. Yield: 1, 7.2 mg, 82%.

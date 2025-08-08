@@ -1,0 +1,5 @@
+JIZJAF
+Chemical_Name: catena-[bis(μ3-4-(pyridin-4-yl)benzoato)-bis(μ3-2-oxypropanoato)-tri-cobalt N,N-dimethylformamide solvate]
+Number: 978270
+Synonyms: N/A
+A DMF/1,2-propanediol (10 mL/6 mL) mixture containing Co(NO3)2·6H2O (350 mg, 1.2 mmol), 4-(pyridin-4-yl) benzoic acid (Hpybz) (199 mg, 1.0 mmol), and D-/L-H2lac (90 mg, 1.0 mmol) in a Teﬂon-lined steel autoclave was heated at 110 °C for 3 days. After the autoclave has been cooled at a rate of 10 °C h−1 to 25 °C, the dark-purple ball-shaped crystals of 1·3DMF were collected, washed with DMF, and dried in air (Yield: 65% based on Co).

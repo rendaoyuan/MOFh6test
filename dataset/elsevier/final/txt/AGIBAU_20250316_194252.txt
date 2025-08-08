@@ -1,0 +1,5 @@
+AGIBAU
+Chemical_Name: catena-(bis((μ3-Benzene-1,3-dicarboxylato)-(μ2-benzene-1,3-dicarboxylato)-(pyrazino(2,3-f)(1,10)phenanthroline-N,N'))-tri-copper(ii))
+Number: 678435
+Synonyms: N/A
+No synthesis method found for compound 1

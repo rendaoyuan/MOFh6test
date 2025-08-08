@@ -1,0 +1,5 @@
+KOTSIX
+Chemical_Name: catena-[bis(μ4-5-carboxybenzene-1,2,4-tricarboxylato)-(μ4-benzene-1,2,4,5-tetracarboxylato)-(μ2-2,5-dicarboxybenzene-1,4-dicarboxylato)-bis(μ2-4-(pyridin-4-yl)-N,N-bis(4-(pyridin-4-yl)phenyl)aniline)-hexaaqua-hexa-zinc N,N-dimethylacetamide solvate heptahydrate]
+Number: 1000815
+Synonyms: N/A
+Compounds 3 can be synthesized using a general procedure: a mixture of Zn(NO3)2·6H2O (0.1 mmol), TPPA (47.6 mg, 0.1 mmol) and betc (0.1 mmol) was dissolved in 15 mL of a solvent mixture (DMA–H2O (2:3)). The final mixture was placed in a Parr Teflon-lined stainless steel vessel (25 mL) under auto- genous pressure and heated at a certain temperature (85 °C) for 72 hours. Yield: 28%.

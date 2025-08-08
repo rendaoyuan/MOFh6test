@@ -1,0 +1,5 @@
+BURBAS
+Chemical_Name: catena-[(μ4-trans-1,2-bis(1,2,3,4-Tetrazol-5-yl)ethene-N2,N2',N3,N3')-(1,10-phenanthroline-N,N')-zinc]
+Number: 723833
+Synonyms: N/A
+Synthesis of [Zn(dte)(phen)] (3) A mixture of Zn(NO3)2·6H2O (20mg, 0.07mmol), phen (10mg, 0.06mmol) and H2dte (5mg, 0.03mmol) was suspended in the solution of H2O (15ml), and heated in a teflon-lined steel bomb at 140°C for 3days. The yellow block crystals (7mg) formed were collected, washed with water and dried in the air. Yield: 54% (based on H2dte).

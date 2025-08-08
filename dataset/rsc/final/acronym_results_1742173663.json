@@ -1,0 +1,194 @@
+{
+    "BEXSAA": [
+        {
+            "abbreviation": "Abbreviation: L",
+            "full_name": "Full Name: 5-(3,5-dicarboxybenzyloxy)-3-pyridine carboxylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H3L",
+            "full_name": "Full Name: 5-(3,5-dicarboxybenzyloxy)-3-pyridine carboxylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H4L'",
+            "full_name": "Full Name: 5-(3,5)-(dicarboxybenzyloxy)isophthalic acid"
+        }
+    ],
+    "AGARUW": [
+        {
+            "abbreviation": "Abbreviation: H3L",
+            "full_name": "Full Name: pyrazole-3,5-dicarboxylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: HL2−",
+            "full_name": "Full Name: pyrazole-3,5-dicarboxylic acid"
+        }
+    ],
+    "CUQRUD": [
+        {
+            "abbreviation": "Abbreviation: H2L1",
+            "full_name": "Full Name: (E)-4,4′-stilbenedicarboxylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: L1",
+            "full_name": "Full Name: (E)-4,4′-stilbenedicarboxylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H2L2",
+            "full_name": "Full Name: (E)-azobenzene-4,4′-dicarboxylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: L2",
+            "full_name": "Full Name: (E)-azobenzene-4,4′-dicarboxylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: Hdmtrz",
+            "full_name": "Full Name: 3,5-dimethyl-1H,1,2,4-triazole"
+        },
+        {
+            "abbreviation": "Abbreviation: Htrz",
+            "full_name": "Full Name: 1H,1,2,4-triazole"
+        }
+    ],
+    "CUQROX": [
+        {
+            "abbreviation": "Abbreviation: H2L1",
+            "full_name": "Full Name: (E)-4,4′-stilbenedicarboxylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: L1",
+            "full_name": "Full Name: (E)-4,4′-stilbenedicarboxylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H2L2",
+            "full_name": "Full Name: (E)-azobenzene-4,4′-dicarboxylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: L2",
+            "full_name": "Full Name: (E)-azobenzene-4,4′-dicarboxylic acid"
+        }
+    ],
+    "BEXRUT": [
+        {
+            "abbreviation": "Abbreviation: H3L",
+            "full_name": "Full Name: 5-(3,5-dicarboxybenzyloxy)-3-pyridine carboxylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H4L'",
+            "full_name": "Full Name: 5-(3,5)-(dicarboxybenzyloxy)isophthalic acid"
+        }
+    ],
+    "RUBGUS": [
+        {
+            "abbreviation": "Abbreviation: H2dtdn",
+            "full_name": "Full Name: disulfide derivative of nicotinic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H2dtdn",
+            "full_name": "Full Name: 6,6′-dithiodinicotinic acid"
+        }
+    ],
+    "PARVUB": [
+        {
+            "abbreviation": "Abbreviation: H3SIP",
+            "full_name": "Full Name: 5-sulfoisophthalic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H2NIP",
+            "full_name": "Full Name: 5-nitroisophthalic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H2BDC",
+            "full_name": "Full Name: 1,3-benzenedicarboxylic acid"
+        }
+    ],
+    "KOLWEO": [
+        {
+            "abbreviation": "Abbreviation: H3BTB",
+            "full_name": "Full Name: 1,3,5-benzenetrisbenzoate"
+        },
+        {
+            "abbreviation": "Abbreviation: HBTB",
+            "full_name": "Full Name: Partially deprotonated 1,3,5-benzenetrisbenzoate"
+        },
+        {
+            "abbreviation": "Abbreviation: BTC",
+            "full_name": "Full Name: 1,3,5-benzenetricarboxylate"
+        },
+        {
+            "abbreviation": "Abbreviation: BTB",
+            "full_name": "Full Name: 1,3,5-benzenetrisbenzoate"
+        },
+        {
+            "abbreviation": "Abbreviation: EG",
+            "full_name": "Full Name: Ethylene glycol"
+        }
+    ],
+    "ZEDHIB": [
+        {
+            "abbreviation": "Abbreviation: H2ip",
+            "full_name": "Full Name: isophthalic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: L1",
+            "full_name": "Full Name: N-(pyridin-3-ylmethyl)pyridin-2-amine"
+        },
+        {
+            "abbreviation": "Abbreviation: L2",
+            "full_name": "Full Name: N-(pyridin-3-ylmethyl)pyridin-3-amine"
+        }
+    ],
+    "RUBGOM": [
+        {
+            "abbreviation": "Abbreviation: H2L",
+            "full_name": "Full Name: 6,6'-dithiodinicotinic acid"
+        }
+    ],
+    "REHVEH": [
+        {
+            "abbreviation": "Abbreviation: L22",
+            "full_name": "Full Name: 5-(pyridin-4-yl)isophthalate"
+        },
+        {
+            "abbreviation": "Abbreviation: H2L",
+            "full_name": "Full Name: 5-(pyridin-4-yl)isophthalic acid"
+        }
+    ],
+    "SARNOQ": [
+        {
+            "abbreviation": "Abbreviation: H3L",
+            "full_name": "Full Name: 4,5-di(1H-tetrazol-5-yl)-2H-1,2,3-triazole"
+        },
+        {
+            "abbreviation": "Abbreviation: HL",
+            "full_name": "Full Name: 4,5-di(1H-tetrazol-5-yl)-2H-1,2,3-triazole"
+        }
+    ],
+    "CUQRIR": [
+        {
+            "abbreviation": "Abbreviation: H2L1",
+            "full_name": "Full Name: (E)-4,4′-stilbenedicarboxylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: L1",
+            "full_name": "Full Name: (E)-4,4′-stilbenedicarboxylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H2L2",
+            "full_name": "Full Name: (E)-azobenzene-4,4′-dicarboxylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: L2",
+            "full_name": "Full Name: (E)-azobenzene-4,4′-dicarboxylic acid"
+        }
+    ],
+    "CIVTEH": [
+        {
+            "abbreviation": "Abbreviation: L",
+            "full_name": "Full Name: 4,4′-bipyridine-2,6,2′,6′-tetracarboxylate"
+        },
+        {
+            "abbreviation": "Abbreviation: H2L",
+            "full_name": "Full Name: 31.4% of the unit cell volume is occupied by the guest solvent species"
+        }
+    ]
+}

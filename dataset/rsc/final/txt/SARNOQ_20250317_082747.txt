@@ -1,0 +1,7 @@
+SARNOQ
+Chemical_Name: N/A
+Number: N/A
+Synonyms: N/A
+Preparation of IFMC-1: Zn(NO3)2$6H2O (0.15 g, 0.50 mmol) was added to a solution of H3L (0.10 g, 0.50 mmol) in DMA (5 mL) with stirring. The mixture was heated at 95 °C for 3 d and then cooled to room temperature. Colorless block crystals were collected and dried in air (yield 85%, based on Zn(NO3)2$6H2O).
+Abbreviation: H3L
+Full Name: 4,5-di(1H-tetrazol-5-yl)-2H-1,2,3-triazole

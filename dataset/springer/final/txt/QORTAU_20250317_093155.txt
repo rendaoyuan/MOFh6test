@@ -1,0 +1,5 @@
+QORTAU
+Chemical_Name: catena-[bis(μ5-5,5'-(ethane-1,2-diylbis(oxy))diisophthalato)-(μ2-aqua)-tetrakis(1,10-phenanthroline)-tetra-nickel monohydrate]
+Number: 870034
+Synonyms: N/A
+Syntheses of [Ni2(phen)2(L)(H2O)0.5]_x0002_0.5H2O (2) A mixture of H4L (0.039 g, 0.1 mmol), Ni(OAc)2_x0002_4H2O (0.05 g, 0.2 mmol), NaOH (0.016 g, 0.4 mmol) and water (8 mL) was placed in a Teﬂon reactor (15 mL) and heated at 120 _x0003_C for 3 days. After cooling to room temperature at a rate of 10 _x0003_C/h, green crystals of 2 were obtained in 38 % yield.

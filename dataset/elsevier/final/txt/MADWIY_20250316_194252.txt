@@ -1,0 +1,5 @@
+MADWIY
+Chemical_Name: catena-(bis(μ2-Iodo)-bis(μ2-3,7-dithia-1,5(1,4)-dibenzenacyclo-octaphane-S,S')-di-copper(i) 2-methyl-tetrahydrofuran clathrate)
+Number: 232775
+Synonyms: catena-(bis(μ2-Iodo)-bis(μ2-2,11-dithia(3.3)paracyclophane-S,S')-di-copper(i) 2-methyl-tetrahydrofuran clathrate)
+[Cu2I2(dtpcp)2]·Me-thf (4) A solution of Me-thf (2-methyltetrahydrofuran) (10 mL) containing 2,11-dithia[3.3]paracyclophane (27.2 mg, 0.1 mmol) was introduced into a 7 mm diameter glass tube and layered with MeCN as a buffer zone. Then a dilute solution (10 mL) of CuI (19.0 mg, 0.1 mmol) in MeCN was added gently to avoid possible mixing. After standing at room temperature for 1 week, colorless brick crystals of complex 4 were obtained in the buffer zone.

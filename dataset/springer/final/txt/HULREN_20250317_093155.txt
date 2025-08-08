@@ -1,0 +1,5 @@
+HULREN
+Chemical_Name: catena-[bis(μ2-4-(1H-imidazol-1-yl)benzoato)-nickel]
+Number: 931213
+Synonyms: N/A
+Synthesis of [Ni(imbz)2]n (1) 4-(imidazole-1-yl)-benzoic acid (0.0188 g, 0.1 mmol) and NaOH (0.0040 g, 0.1 mmol) was dissolved in 5 mL distilled water under stirring condition, and then NiCl2_x0002_5H2O (0.0472 g, 0.2 mmol) was added with light blue deposits obtained. 10 mL methanol was added into the resultant suspension and kept stirring for 2 h at the temperature of 60 _x0003_C. The solution was removed to a 25 mL Teﬂon-lined stainless steel vessel and then heated at a rate of 5 _x0003_C/h to 160 _x0003_C under autogenous pressure. After maintained for 72 h, the reaction vessel was cooled to room temperature, blue rod-like crystals in ca.56 % yield based on Ni were obtained.

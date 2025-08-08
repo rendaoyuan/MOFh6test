@@ -1,0 +1,5 @@
+HIFGIO
+Chemical_Name: catena-[bis(μ4-2',5'-Dimethyl-1,1':4',1''-terphenyl-4,4''-dicarboxylato)-bis(μ3-oxo)-tri-zinc unknown solvate]
+Number: 947362
+Synonyms: N/A
+No synthesis method found for compound 1

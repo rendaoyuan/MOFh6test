@@ -1,0 +1,5 @@
+MUMYAW
+Chemical_Name: catena-[(μ3-5,15-bis(4-Cyanophenyl)-10,20-bis(pyridin-4-yl)porphyrinato)-cobalt hydrate]
+Number: 1030289
+Synonyms: N/A
+[Co(DpyDCNP)]6·18H2O (II): DpyDCNP (0.067 g, 0.1 mmol), Co(NO3)2·6H2O (0.058 g, 0.2 mmol), and N,N-dimethylformamide (DMF, 5 mL) were placed in a Teflon-lined high-pressure vessel. The vessel was placed in an oven at 120 °C for 48 h. After cooling to room temperature, the purple crystalline needles were retrieved by filtration, washed with DMF, and dried in air for 1 d. The yield was 0.061 g (78%).

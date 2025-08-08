@@ -1,0 +1,5 @@
+MOXPEV
+Chemical_Name: catena-(bis(μ4-tetrakis((Pyridin-4-yloxy)methyl)methane)-di-copper(i) bis(tetrafluoroborate) acetonitrile solvate hexahydrate unknown clathrate)
+Number: 729470
+Synonyms: N/A
+PETPE (1)/CuBF4. A solution of PETPE (1; 40 mg, 0.090 mmol) in a mixture of CH3CN and CH2Cl2 (7 mL, 6:1 v/v) was placed in a test tube, and CH3CN (15 mL) was carefully layered on top. A solution of Cu(CH3CN)4BF4 (28 mg, 0.090 mmol) in CH3CN (2 mL) was then added on top of the other two layers. The tube was sealed, and the contents were allowed to mix slowly. After 1 week, yellow crystals suitable for X-ray diffraction were obtained. After being dried under vacuum, they had the composition [Cu(1)(BF4)]·CH3CN ·2H2O.

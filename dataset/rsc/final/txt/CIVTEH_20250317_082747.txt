@@ -1,0 +1,5 @@
+CIVTEH
+Chemical_Name: catena-((μ4-3,5-dicyano-4-(4-carboxylatophenyl)-4,2':6',4''-terpyridine)-(nitrato-O,O')-copper(ii) dioxane methanol solvate)
+Number: 656790
+Synonyms: N/A
+Preparation of [[Cu(dccptp)(NO3)]⋅0.5MeOH⋅0.5dioxane (1): Single crystals of 1 were grown by solvothermal reaction of equimolar amounts of Cu(NO3)2⋅2.5H2O and Hdccptp in methanol and dioxane at 100oC for 84 h. Green tablets were isolated, washed with MeOH and air-dried to give 1 (76% yield based on Cu(NO3)2⋅2.5H2O).

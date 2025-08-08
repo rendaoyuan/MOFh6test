@@ -1,0 +1,5 @@
+QEQSUB
+Chemical_Name: catena-((μ2-Thiosalicylato-O,O',S)-bis(3-chlorobenzyl)-tin(iv))
+Number: 277018
+Synonyms: N/A
+Synthesis of [(3-Cl–PhCH2)2Sn(O2CC6H4S)] (4) Thiosalicylic acid (0.153 g, 1.00 mmol), EtONa (0.136 g, 2.00 mmol) and (3-Cl–PhCH2)2SnCl2 (0.408 g, 1.00 mmol) were used. The solid product was recrystallized from methanol. White crystals were formed. A crystal suitable for X-ray diﬀraction was grown from methanol. Yield, 80%.

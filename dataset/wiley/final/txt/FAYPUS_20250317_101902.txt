@@ -1,0 +1,9 @@
+FAYPUS
+Chemical_Name: catena-[(μ4-tetrakis((4-Carboxylato-2-methoxyphenoxy)methyl)methane)-hexakis(μ3-5,6-dimethylbenzotriazolyl)-penta-zinc(ii) unknown solvate]
+Number: 854816
+Synonyms: DMOF-5
+Synthesis of DMOF-5 [Zn5ACHTUNGTRENUNG(bme-btz)6(L2)]: A solid mixture of H4L2 (73.6 mg, 0.10 mmol) and TMBB-2 (130.2 mg, 0.10 mmol) was dissolved in a mixture of DMF and 1-methyl-2-pyrrolidinone (NMP) (5.0/5.0 mL) in a 20 mL Teflon-lined stainless steel container. The clear reaction solution was heated in an isotherm oven at 858C for 72 h, resulting in colorless crystals, which were isolated by washing with DMF (5_x0004_5 mL) and were immersed in dichloromethane for 24 h. After the removal of dichloromethane by decanting, the sample was dried under a dynamic vacuum at room temperature overnight. Yield: 0153.0 mg, 79% based on 1 mol of H4L2.
+Abbreviation: H4L2
+Full Name: Tetratopic ligand with functional groups and adjustable length
+Abbreviation: L2
+Full Name: Deprotonated ligand

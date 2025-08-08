@@ -1,0 +1,5 @@
+FEJJOV
+Chemical_Name: catena-(bis(μ4-4-(3,2':6',3''-Terpyridin-4'-yl)benzoato)-bis(μ4-benzene-1,3,5-tricarboxylato)-tetra-zinc(ii) monohydrate)
+Number: 883239
+Synonyms: N/A
+Synthesis of [Zn4(cptpy)2(3-btc)2] n ·nH2O (3) A mixture of Zn(CH3COO)2·2H2O (0.0219g, 0.1mmol), Hcptpy (0.0353g, 0.1mmol), 1,3,5-benzenetricarboxylic acid (0.0220g, 0.1mmol) and deionized water (10mL) was stirred and the pH value was adjusted to 5.0 with 0.5M NaOH aqueous solution. The reaction mixture was then sealed in a 25mL Telfon-lined stainless steel container, which was heated to 180°C for 72h, then cooled to room temperature at a rate of 5°C/h. Colorless block crystals were obtained (yield: 27.3mg, 78% based on Zn).

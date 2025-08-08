@@ -1,0 +1,5 @@
+XAKRIM
+Chemical_Name: N/A
+Number: N/A
+Synonyms: N/A
+Synthesis of [Zn(OBA)(H2MDP)]n (1) To a mixture of Zn(NO3)2$6H2O (0.1 mmol, 0.0297 g), H2MDP (0.1 mmol, 0.0204 g), H2OBA (0.1 mmol, 0.0258 g), 5 ml of distilled water, 5 ml of DMF and 5 ml of methanol were added. Then the mixture was heated to 120 _x0002_C for 72 h in a 25 ml sealed Teﬂon-lined autoclave. Afterward, the autoclave was slowly cooled down to room temperature and cube shaped colourless crystals of 1 were obtained (50% yield (0.0262 g) based on H2MDP).

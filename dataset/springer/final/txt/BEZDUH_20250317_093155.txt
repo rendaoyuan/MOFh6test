@@ -1,0 +1,5 @@
+BEZDUH
+Chemical_Name: catena-[decakis(μ2-cyano)-bis(pyrazin-2-amine)-diaqua-di-manganese-hexa-silver pyrazin-2-amine solvate]
+Number: 844687
+Synonyms: N/A
+Synthesis of catena-[decakis(μ2-cyano)-bis(pyrazin-2-amine)-diaqua-di-manganese-hexa-silver pyrazin-2-amine solvate] (1) An aqueous solution (10 mL) of Mn(ClO4)2·6H2O (0.0905 g, 0.25 mmol) was added to a methanolic solution (5 mL) of pyrazin-2-amine (0.0476 g, 0.5 mmol). Then, an aqueous solution (10 mL) of K[AgI(CN)2] (0.0498 g, 0.25 mmol) was added. After a week, yellow crystals of compound 1 were obtained. Yield ca. 50%.

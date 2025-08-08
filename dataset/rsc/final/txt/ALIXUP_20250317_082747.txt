@@ -1,0 +1,5 @@
+ALIXUP
+Chemical_Name: catena-[(μ6-5,5'-Methanediyldibenzene-1,3-dicarboxylato)-bis(μ2-hydroxo)-tetra-aqua-tri-copper(ii) hydrate]
+Number: 763324
+Synonyms: N/A
+Synthesis of [Cu3(MDIP)(l2-OH)2(H2O)4]·6.5H2O (3). A mixture of Cu(NO3)2·3H2O (0.0482 g, 0.2 mmol), H4MDIP (0.0344 g, 0.1 mmol), and H2O (15 ml) was placed in a beaker, and several drops of aqueous ammonia was added under stirring until the mixture became clear. The blue solution was filtered and allowed to slowly evaporate at room temperature to isolate a blue rod-like crystalline solid 3 with 52% yield based on H4MDIP.

@@ -1,0 +1,5 @@
+QOSJEP
+Chemical_Name: catena-(bis(μ3-Pyridine-3,4-dicarboxylato)-(μ2-acetato-O,O,O')-triaqua-copper-erbium octahydrate)
+Number: 1029463
+Synonyms: N/A
+In a big test tube, a mixture of Cu(NO3)2$3H2O (0.2 mmol) and Er(CH3COOH)3$4H2O (83 mg) in 25 mL aqueous solution was layered carefully with water–methanol mixed solvent (15 mL, in 1 : 1 volume ratio) and then layered with a methanol solution (25 mL) of 3,4-pdcH2 (0.4 mmol) and tri-ethylamine (0.4 mmol). The tube was sealed and left undisturbed at room temperature. Blue block crystals suitable for X-ray analysis were obtained after one week, which were collected by filtration, washed with ethyl ether and dried in air. The yields are ca. 25% (5) based on lanthanide salt.

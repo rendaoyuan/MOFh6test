@@ -1,0 +1,5 @@
+GIYSIR
+Chemical_Name: catena-[tetrakis(μ3-Sulfido)-bis(μ2-1,3-bis(4-pyridyl)propane)-bis(μ2-cyano)-tetra-copper-molybdenum acetonitrile aniline clathrate]
+Number: 682676
+Synonyms: N/A
+To a 30 mL aniline solution containing [Et4N]2[MoS4(CuCN)2]· (H2O) (0.664 g, 1 mmol) and 1,3-bis(4-pyridyl)propane (bpp) (0.396 g, 2 mmol) was added dropwise [Cu(MeCN)4][ClO4] (0.654 g, 2 mmol) in 40 mL of aniline solution; the resulting mixture was slowly stirred until the insoluble product began to precipitate (ca. 60% of the [Cu(MeCN)4][ClO4]/aniline solution was used), which was ﬁltered off, and black crystals suitable for X-ray analysis were obtained by standing the ﬁltrate in a dark room for a few days. (0.448 g, 42.0% based on Mo). The black crystals 1b were obtained by immersing 1a in a mixture of DMF/MeCN solution for 3 days. The black crystals 1c were obtained by immersing 1a in a mixture of DMF/MeCN solution for 30 days.

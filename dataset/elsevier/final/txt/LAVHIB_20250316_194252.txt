@@ -1,0 +1,5 @@
+LAVHIB
+Chemical_Name: catena-((μ4-4,4'-Diamino-2,2'-stilbenedisulfonato)-(μ2-aqua)-aqua-barium)
+Number: 683102
+Synonyms: N/A
+Synthesis of [Ba(dsd)(H2O)2] n (4) Complex 4 was synthesized from the reaction mixture of 4,4′-diamino-2,2′-stilbenedisulfonic acid (0.370g, 1mmol), Ba(OH)2 (0.058g, 1mmol) and 10mL 90% ethanol solution in a 23mL Parr Teflon-lined autoclave at 150°C for 3days, then cooled to room temperature at a rate of 10°C/h. Yellowish single crystals of 4 were obtained in 37% yield based on Ba.

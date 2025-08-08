@@ -1,0 +1,5 @@
+QAVBOG
+Chemical_Name: catena-[bis(Dimethylammonium) (μ2-4,4'-oxydibenzoato)-(μ2-terephthalato)-cadmium(ii)]
+Number: 768809
+Synonyms: N/A
+A solution of 4,4′-oxybis(benzoic acid) (258 mg, 1 mmol) in DMF/water (10mL, v/v, 1:1) was added to the solution of CdCl2 (184 mg, 1 mmol) in distilled water (5mL). 10 minute later, terephthalic acid (166 mg, 1 mmol) were added. The mixture was stirred at room temperature for fifteen minutes and placed in a 25 mL Teflon-lined autoclave and heated at 140°C for 120h. The autoclave was cooled at 5°Ch−1, and the product was filtered at ambient temperature to give 3 as colourless crystals. Yield: 65%.

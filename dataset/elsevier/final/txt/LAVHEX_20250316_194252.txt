@@ -1,0 +1,5 @@
+LAVHEX
+Chemical_Name: catena-((μ2-4,4'-Diamino-2,2'-stilbenedisulfonato)-hexa-aqua-strontium monohydrate)
+Number: 683101
+Synonyms: N/A
+Synthesis of {[Sr(dsd)(H2O)6]·H2O} n (3) Complex 3 was synthesized from the reaction mixture of 4,4′-diamino-2,2′-stilbenedisulfonic acid (0.370g, 1mmol), Sr(OH)2 (0.058g, 1mmol) and 10mL 90% ethanol solution in a 23mL Parr Teflon-lined autoclave at 150°C for 3 days, then cooled to room temperature at a rate of 10°C/h. Yellowish single crystals of 3 were obtained in about 34% yield based on Sr.

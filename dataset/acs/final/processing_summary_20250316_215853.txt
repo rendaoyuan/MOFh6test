@@ -1,0 +1,201 @@
+Processing Summary
+Timestamp: 20250316_215853
+Total files processed: 196
+
+Processed Files:
+- AVUPIR_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- BIMDEF_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- BOWJAA_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- BUCXUT_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- BUGSAY_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- BUGSIG_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- BUGSOM_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- COJHIT_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- CUNWEO_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- CUVGOQ_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- CUVWOG_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- CUVXIB_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- DAWBIO_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- DAWBOU_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- EQOCES01_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- EQOXUD_20250316_215853.txt
+- ERUFUS_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- EVUQOC_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- EVURIX_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- FEYJID_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- FOVBUP_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- FOVPIR_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- FOVPOX_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- FOVPUD_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- FOVQAK_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- FUFLEY_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- FUFREE_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- FUFRII_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- FUFROO_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- FUFSAB_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- FUFSEF_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- FUWXOL_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- FUWYAY_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- GAYGIY_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- GIYSIR_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- GURYID_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- GUXPOF_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- HAPHUD_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- HEDCEA_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- HEKTAU_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- HIFGIO_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- HIFTOG02_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- HUTTIA_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- IJASAO_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- IJASOC_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- JIZJAF_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- JODFOZ_20250316_215853.txt
+- JOHFIW_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- KALGAH_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- LAZJAZ_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- LUNVUL_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- MAYJOM_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- MOXPEV_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- NAGQET_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- NERVEL_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- OLEKUM_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- OTAVAH_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- PEHTON_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- PIGXUZ_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- POSFIO_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- POSFOU_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- PUQHEP_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- PUWCOZ_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- QOKKAE_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- QONKOV_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- QOPPOC_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- RACZEC_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- RESWOC_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- RESWUI01_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- RUFRIV_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- RUJGOT_20250316_215853.txt
+- SEFSOM_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- SEHZUB_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- TIRRIW_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- TISGUY_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- UKUBIM_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- UNIPAJ_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- VOLQOD_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- WAVQER_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- WAVQIV_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- WAVQOB_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- WAVRAO_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- WAVRIW_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- WAVROC_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- WIYFAM_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- XUMVOS_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- YASNAJ_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- YEYCUC_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- YONNUL_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- YUPSIM_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- ZURQOS_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- CAWVIH_20250316_215853.txt
+- COWLAC01_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- DONNIE_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- HAKCIG_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- OTAXOX_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- QEJYIP_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- QEZNOA_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- SADMIV_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt
+- XAJQAC_20250316_215853.txt
+- No abbreviations found in synthesis text_20250316_215853.txt

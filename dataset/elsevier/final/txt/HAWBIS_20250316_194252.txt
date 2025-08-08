@@ -1,0 +1,5 @@
+HAWBIS
+Chemical_Name: catena-((μ6-benzene-1,3,5-tricarboxylato)-(μ3-hydroxo)-(μ3-oxo)-hexakis(μ2-pyrazolato)-hexa-copper(ii))
+Number: 847915
+Synonyms: N/A
+Synthesis of 1: a mixture of Cu(NO3)2·3H2O (0.18g, 0.7mmol), Hpz (0.068g, 1.0mmol), btc (0.025g, 0.12mmol), water (1mL) and methanol (4mL) was stirred for 10min in air with 10% of sodium hydroxide solution to control the pH=5, then transferred to and sealed in a 15mL Teflon-lined reactor, heated in an oven to 145°C for 72h. The resulting blue octahedral crystals were filtered, washed, and dried in air (yield 0.02g, ca. 15.8%, based on Cu).

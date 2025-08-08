@@ -1,0 +1,5 @@
+JOHFIW
+Chemical_Name: catena-((μ6-Benzene-1,3,5-tricarboxylato)-aqua-yttrium hydrate)
+Number: 703003
+Synonyms: N/A
+Synthesis of 1. As a typical preparation procedure, a mixture of Y(NO3)·6H2O (191.5 mg, 0.5mmol) and H3BTC (52.5 mg, 0.25 mmol) was dissolved in DMF (4 mL) and H2O (4 mL) at room temperature. The mixture in a 23-mL Parr Teflon-lined vessel was heated to 100 °C under autogenous pressure for 24 hours to give colorless crystals in 85% yield (based on H3BTC).

@@ -1,0 +1,9 @@
+TOXHAR
+Chemical_Name: catena-[(μ-1,3,5-tris(4-(carboxylatomethoxy)phenyl)-2,4,6-trimethylbenzene)-zinc N,N-dimethylformamide unknown solvate]
+Number: 1018752
+Synonyms: N/A
+Preparation of ZnL–DMF: A solution of H3L (0.025m) in DMF (3.0 mL) was mixed with Zn(NO3)2·6H2O in DMF (1.0 mL) in a tightly capped glass vial. The contents were heated at 908C. Dagger-shaped crystals of ZnL–DMF were obtained after 48 h: yield 81% (0.019 g, 0.025 mmol).
+Abbreviation: H3L
+Full Name: tritopic triacid
+Abbreviation: H3L
+Full Name: trigonal triacid

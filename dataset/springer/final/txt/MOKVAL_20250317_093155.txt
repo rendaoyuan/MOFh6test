@@ -1,0 +1,5 @@
+MOKVAL
+Chemical_Name: catena-[(μ-but-2-enedioato)-aqua-(2-(4,5-dihydro-1H-imidazol-2-yl)pyridine)-copper(ii) monohydrate]
+Number: 958429
+Synonyms: N/A
+No synthesis method found for compound 2

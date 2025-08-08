@@ -1,0 +1,5 @@
+NATQUW
+Chemical_Name: catena-((μ6-2,5-dicarboxybenzene-1,4-dicarboxylato)-(μ6-benzene-1,2,4,5-tetracarboxylato)-diaqua-di-europium(iii))
+Number: 829614
+Synonyms: N/A
+Preparation and Analysis of [Eu(Hbtca)(H2O)] (2) The mixture of 1, 2, 4, 5-benzenetetracarboxylic acid 25.4 mg (0.1 mmol) and Eu2O3 14.1 mg (0.04 mmol) in 7 mL distilled water was stirred 30 min at room temperature. Then this mixture was sealed in a 25-mL Teﬂon-lined stainless steel container, which was heated at 150 _x0003_C for 3 days. After the sample was cooled to room temperature, colorless block crystals were obtained (20.7 mg).

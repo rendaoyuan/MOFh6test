@@ -1,0 +1,5 @@
+QEJYIP
+Chemical_Name: N/A
+Number: N/A
+Synonyms: N/A
+Synthesis of [Cd(bipy)0.5(Himdc)](DMF)]n (1). Cd(NO3)2·4H2O (0.25 mmol, 0.077 g) was dissolved in 12.5 mL of acetonitrile with constant stirring. 4,5-Imidazoledicarboxylic acid (H3imdc) (0.25 mmol, 0.039 g) and 4,4′-bipyridine (bipy) (0.125 mmol, 0.0195 g) were dissolved in 12.5 mL of N,N-dimethylformamide (DMF) and stirred well for 30 min to make a homogeneous solution. Acetonitrile solution (2 mL) of Cd(NO3)2 was slowly and carefully layered on top of the ligand solution of DMF (2 mL) using the 2 mL buffer solution of acetonitrile and DMF (1:1). After two weeks colorless block type single crystals were grown at the junction of the two different solvents. The crystals were separated and washed with acetonitrile, which was subjected to X-ray diffraction. Yield: 80%.

@@ -1,0 +1,9 @@
+IGUHEY
+Chemical_Name: catena-((μ4-Naphthalene-1,4-dicarboxylato)-bis(μ2-2-aminopyrimidine)-di-silver(i) dihydrate)
+Number: 714485
+Synonyms: N/A
+Synthesis of complex [Ag2(L1)2(L4)]·2H2O (3) A mixture of AgNO3 (170mg, 1mmol), 2-aminopyrimidine (94mg, 1mmol) and 1,4-naphthalenedicarboxylate (216mg, 1mmol) were stirred in CH3OH–H2O mixed solvent (10mL, v/v: 1/1). Then aqueous NH3 solution (25%) was dropped into the mixture to give a clear solution. The resultant solution was allowed slowly to evaporate in darkness at room temperature for several days to give colorless crystals of 3 were obtained in 55% yield. They were washed with a small volume of cold CH3OH and diethyl ether.
+Abbreviation: L1
+Full Name: 2-aminopyrimidine
+Abbreviation: L4
+Full Name: 1,4-naphthalenedicarboxylate anion

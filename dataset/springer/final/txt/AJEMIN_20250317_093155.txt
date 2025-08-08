@@ -1,0 +1,5 @@
+AJEMIN
+Chemical_Name: catena-[(μ2-2-((Pyridin-4-yl)methyl)-7-((pyridin-4-yl)methyl)benzo[lmn][3,8]phenanthroline-1,3,6,8(2H,7H)-tetrone)-tetra-aqua-di-cobalt(ii) dinitrate dihydrate]
+Number: 1045750
+Synonyms: N/A
+Synthesis of complex 2 MeOH (2 mL) was carefully added dropwise over a solution of 4-pmntd (40 mg, 0.1 mmol) in CHCl3 (10 mL). A solution of Co(NO3)2_x0002_6H2O (36 mg, 0.125 mmol) in MeOH (3 mL) was been layered over the buffer layer. The solution was left to stand for 3 weeks at room temperature, and red crystals of {[Co(4-pmntd)(H2O)4]_x0002_(NO3)2_x0002_H2O}n, complex 2 were collected in 25 % yield based on ligand.

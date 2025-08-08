@@ -1,0 +1,5 @@
+ICOWOO01
+Chemical_Name: catena-(bis(μ2-5-carboxy-2-propyl-1H-imidazole-4-carboxylato)-triaqua-barium monohydrate)
+Number: 760026
+Synonyms: N/A
+Preparation of [Ba(H2PIDC)2(H2O)3] n (2) A mixture of Ba(NO3)2 (52.2mg, 0.2mmol), H3PIDC (39.6mg, 0.2mmol), Et3N (0.13mL), deionized water (7mL) was stirred, and then it was transferred to and sealed in a 15mL Teflon-lined bomb, which was heated to 152°C for 5days. After the mixture was cooled to room temperature at a rate of 10°C/h, colorless block crystals of 2 were obtained in a 48% yield (based on Ba).

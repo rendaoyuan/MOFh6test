@@ -1,0 +1,9 @@
+IGUGUN
+Chemical_Name: catena-(bis(μ3-2-Aminopyrimidine)-(μ2-oxalato)-di-silver(i) dihydrate)
+Number: 714483
+Synonyms: N/A
+Synthesis of complex [Ag2(L1)2(L2)]·2H2O (1) A mixture of AgNO3 (170mg, 1mmol), 2-aminopyrimidine (94mg, 1mmol) and oxalate (90mg, 1mmol) were stirred in CH3OH–H2O mixed solvent (10mL, v/v: 1/1). Then aqueous NH3 solution (25%) was dropped into the mixture to give a clear solution. The resultant solution was allowed slowly to evaporate in darkness at room temperature for several days to give colorless crystals of 1 (Yield, 50%). They were washed with a small volume of cold CH3OH and diethyl ether.
+Abbreviation: L1
+Full Name: 2-aminopyrimidine
+Abbreviation: L2
+Full Name: oxalate anion

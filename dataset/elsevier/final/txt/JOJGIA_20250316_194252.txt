@@ -1,0 +1,5 @@
+JOJGIA
+Chemical_Name: catena-[(μ4-2,2'-Bipyridine-3,3',6,6'-tetracarboxylato)-diaqua-di-copper dihydrate]
+Number: 861968
+Synonyms: N/A
+A mixture of bptcH4 ligand (0.0664g, 0.2mmol), Cu(NO3)2·3H2O (0.0966g, 0.4mmol), and H2O (10mL) was sealed in a 23mL Teflon-lined stainless steel container and heated at 130°C for 3days, then cooled to room temperature at a rate of 4°Ch−1 and green block crystals of 2 were obtained. After filtration, the crystals were washed with water and dried in air (22mg yield 10% based on Cu).

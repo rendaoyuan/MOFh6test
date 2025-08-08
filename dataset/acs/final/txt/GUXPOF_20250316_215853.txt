@@ -1,0 +1,5 @@
+GUXPOF
+Chemical_Name: catena-(bis(μ4-5-t-Butylisophthalato-O,O,O',O'',O''')-bis(μ3-5-t-butylisophthalato-O,O,O',O'')-bis(μ2-4,4'-dipyridylsulfide-N,N')-diaqua-tetra-cobalt(ii) methanol solvate tetrahydrate)
+Number: 703311
+Synonyms: N/A
+A mixture of H2tbip (0.1 mmol, 22.5 mg), dpds (0.1 mmol, 22.3 mg), Co(OAc)2 · 4H2O (0.1 mmol, 24.2 mg,), KOH (0.1 mmol, 5.6 mg) and H2O-CH3OH (15:2 ) 17mL was placed in a Teflon-lined stainless steel vessel, heated to 160 oC for 3 days, and then cooled to room temperature over 24 h. Red block crystals of 2 were obtained.

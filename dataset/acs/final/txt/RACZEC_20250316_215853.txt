@@ -1,0 +1,5 @@
+RACZEC
+Chemical_Name: catena-[(μ4-2,3,5,6-Tetrafluoro-4-oxybenzoato)-(μ2-4,4'-bipyridyl)-cobalt(ii) 4,4'-bipyridine clathrate]
+Number: 788895
+Synonyms: N/A
+Purple plates of 1 were obtained from the reaction of CoCl2 3 6H2O (0.049 g, 0.20 mmol), H2-tfhba (0.044 g, 0.20 mmol), and 4,40-bipyridine (0.015 g, 0.10 mmol) in a mixture of 2 mL of water and 1 mL of ethanol at 100 _x0001_C for 20 h. After cooling to room temperature, the crystals were filtered and washed with water and acetone (yield: 52%).

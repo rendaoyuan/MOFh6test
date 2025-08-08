@@ -1,0 +1,5 @@
+OLEKUM
+Chemical_Name: catena-[bis(μ4-2,5-Dichlorobenzene-1,4-dicarboxylato-O,O',O'',O''')-(μ2-1,4-diazabicyclo[2.2.2]octane-N,N')-di-zinc(ii) dimethylformamide solvate]
+Number: 816843
+Synonyms: N/A
+No synthesis method found for compound 4 ⊃solvents

@@ -1,0 +1,5 @@
+FEQVEE
+Chemical_Name: catena-(bis(μ3-pyrazole-3,5-dicarboxylato)-penta-aqua-penta-zinc)
+Number: 861369
+Synonyms: N/A
+Synthesis of [Zn3(dcp)2(H2O)5]? (3) A mixture of ZnSO4·7H2O (0.072 g, 0.25 mmol), H3dcp (0.078 g, 0.5 mmol) and H2O (15 mL) was stirred for 1 h (pH 9) and sealed in a 25 mL Teﬂon-lined stainless steel container. The container was heated at 393 K for 3 days. After slow cooling, the product is a mixture of colorless block crystals and powder. A crystal of 3 suitable for X-ray single-crystal diffraction analysis was selected from the mixture; yield = 57 % based on ZnSO4·7H2O.

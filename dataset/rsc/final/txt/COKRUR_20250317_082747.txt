@@ -1,0 +1,5 @@
+COKRUR
+Chemical_Name: catena-[(μ5-4',4'',4''',4''''-Porphyrinato-5,10,15,20-tetrayltetrabiphenyl-4-carboxylato)-diaqua-di-indium unknown solvate]
+Number: 943644
+Synonyms: MMPF-8
+Synthesis of MMPF-8: A mixture of tcbpp (0.001g), In(NO3)3·xH2O (0.005g), 1 drop of concentrated hydrochloric acid (con. HCl), 0.1 mL water (H2O), 0.25 mL methanol (MeOH) and 0.5 mL dimethylformamide (DMF) was sealed in a Pyrex tube under vacuum and heated to 85 oC for 48 hours. The resulting dark colored block crystals were obtained (yield: 65% based on the tcbpp). The sample was scaled up into hundreds of milligrams using multiple tubes.

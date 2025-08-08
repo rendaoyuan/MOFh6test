@@ -1,0 +1,5 @@
+FECYUJ
+Chemical_Name: catena-(bis(μ4-Oxo)-hexakis(μ4-naphthalene-2,6-dicarboxylato)-triaqua-dimethylformamide-octa-zinc hydrate clathrate)
+Number: 853631
+Synonyms: N/A
+SUMOF-3 was synthesized by ﬁrst dissolving Zn(NO3)2$6H2O (117 mg, 0.39 mmol) and 2,6-naphthalenedicarboxylic acid (H2NDC, 54.8 mg, 0.25 mmol; Aldrich, CAS number 1141-38-4) in 5 mL of DMF in a 20 mL glass vial. The solution was solvothermally treated at 130 _x0004_C for 28 h, under static conditions. Yellow crystals formed (yield z 70 mg). The crystals were ﬁltered, washed with DMF, and dried at room temperature.

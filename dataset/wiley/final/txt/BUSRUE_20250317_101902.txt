@@ -1,0 +1,5 @@
+BUSRUE
+Chemical_Name: catena-[(μ-2,7-di(pyridin-4-yl)benzo[lmn][3,8]phenanthroline-1,3,6,8(2H,7H)-tetrone)-(μ-biphenyl-4,4'-dicarboxylato)-cadmium N,N-dimethylformamide solvate tetrahydrate]
+Number: 1051763
+Synonyms: N/A
+Synthesis of compound 1 A mixture containing Cd(NO3)2·4H2O (0.1 mmol, 0.030 g), bpdc (0.1 mmol, 0.012 g) and bpNDI (0.05 mmol,0.021 g) was suspended in DMF (10 mL) in a 30 mL glass vial and heated at 808C for 3 days. The light-yellow needle-shaped crystals of 1 were collected after washing with DMF several times. Yield: 88%.

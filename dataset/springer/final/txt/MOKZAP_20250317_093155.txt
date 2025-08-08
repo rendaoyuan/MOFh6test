@@ -1,0 +1,5 @@
+MOKZAP
+Chemical_Name: catena-[(μ2-1,1'-butane-1,4-diylbis(1H-imidazole))-(μ2-pyridine-2,6-dicarboxylato)-aqua-cadmium pentahydrate]
+Number: 907116
+Synonyms: N/A
+Synthesis of [Cd2(PDA)2(bbi)2(H2O)2_x0002_10H2O]n (2) A mixture of Cd(CH3COO)2_x0002_2H2O (0.133 g, 0.5 mmol), H2PDA (0.084 g, 0.5 mmol), bbi (0.095 g, 0.5 mmol), tri- ethylamine (0.02 g, 0.5 mmol) and H2O (10 mL) was heated at 120 _x0003_C for 72 h in a procedure analogous to that for 1. After the reactant mixture was slowly cooled to room temperature, pale yellow crystalline products of 2 were obtained in 50 % yield.

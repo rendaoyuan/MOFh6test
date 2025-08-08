@@ -1,0 +1,5 @@
+PIDMEV01
+Chemical_Name: N/A
+Number: N/A
+Synonyms: N/A
+[Zn3ACHTUNGTRENUNG(ntb)2ACHTUNGTRENUNG(EtOH)2]n·4nEtOH (1): A EtOH (10 mL) solution of H3NTB (0.120 g, 3.2Q10_x0001_4 mol) and a EtOH (2 mL) solution of ZnACHTUNGTRENUNG(NO3)2·6H2O (0.160 g, 5.4Q10_x0001_4 mol) were mixed in a Teflon vessel within the auto- clave. The vessel was heated at 1108C for 24 h and then cooled to room temperature. Brown rod-like crystals formed, which were filtered, and washed briefly with EtOH. Yield: 0.153 g, 78%;

@@ -1,0 +1,5 @@
+LAGKUA
+Chemical_Name: catena-((μ5-Trimesato)-(μ4-trimesato)-(μ3-hydroxo)-(piperazinium-N)-triaqua-tri-cadmium(ii) monohydrate)
+Number: 214205
+Synonyms: N/A
+0.134 g (0.502 mmol) cadmium(II) acetate dihydrate, 0.106 g H3TMA (0.504 mmol), 0.0493 g (0.254 mmol) piperazine hexahydrate (C4H10N2 ·6H2O) and 12 ml water were loaded into a 23 cm3 Teflon-lined stainless-steel vessel, which was then sealed and placed in a programmable furnace. The resulting mixture was heated at 100 °C h−1 to 160 °C and held at that temperature for 10 h, then cooled to 140 °C at 4 °C h−1 and held for 5 h, followed by further cooling at the same rate to room temperature to give a 44.67% yield of 1 (0.207 g) based on Cd, as primrose yellow crystals which were collected by mechanical isolation and washed with water (3×10 ml) and absolute alcohol (3×10 ml), then dried at 40 °C.

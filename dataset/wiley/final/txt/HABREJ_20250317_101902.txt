@@ -1,0 +1,5 @@
+HABREJ
+Chemical_Name: catena-[(μ4-tetrakis(Imidazol-1-yl)borate-N3,N3',N3'',N3''')-(μ2-benzene-1,4-dicarboxylato-O,O')-(μ2-imidazolyl-N1,N3)-di-zinc(ii) 1,3-dimethyltetrahydropyrimidin-2(1H)-one solvate]
+Number: 764367
+Synonyms: catena-[(μ4-tetrakis(Imidazol-1-yl)borate-N3,N3',N3'',N3''')-(μ2-terephthalato-O,O')-(μ2-imidazolyl-N1,N3)-di-zinc(ii) N,N'-dimethylpropyleneurea solvate], MC-BIF-1S
+Synthesis of MC-BIF-1S: NaB(im)4 (0.036 g), Zn(AC)2·2H2O (0.043 g), 1,4-Benzenebicarboxlic (1,4-BDC, 0.032 g), imidazole (im, 0.016 g) and 1,3-dimethyl-propyleneurea (p-murea, 2.12 g) were placed in a 20 ml vial. The sample was heated at 120 oC for 5 days, and then cooled to room-temperature. After washed by ethanol, the colorless crystals were obtained (yield: 0.056 g, 52.8% based on B).

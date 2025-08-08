@@ -1,0 +1,5 @@
+GUPDUR
+Chemical_Name: catena-(bis(μ2-2-Phenylimidazolato)-cadmium)
+Number: 743562
+Synonyms: N/A
+No synthesis method found for compound CdIF-12

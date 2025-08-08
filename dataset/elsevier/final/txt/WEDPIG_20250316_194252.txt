@@ -1,0 +1,5 @@
+WEDPIG
+Chemical_Name: catena-(tris(μ2-4,4'-ethene-1,2-diyldipyridine)-tetrabenzoato-diaqua-di-nickel(ii) acetone solvate)
+Number: 857198
+Synonyms: N/A
+Synthesis of 3-Ni. 35.5mg (0.25mmol) of ammonium benzoate and 36.4mg (0.125mmol) of Ni(NO3)2·6H2O were dissolved in 4mL H2O and carefully layered by 4mL acetone solution of trans-1,2-bis(4-pyridyl)ethylene ligand (47.0mg, 0.25mmol). Suitable crystals of compound 3-Ni for X-ray analysis were obtained in a few days. The yield was 62.8mg (77.2%).

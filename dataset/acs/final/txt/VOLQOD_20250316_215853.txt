@@ -1,0 +1,5 @@
+VOLQOD
+Chemical_Name: catena-(bis(μ6-Benzene-1,3,5-tris(4-benzoato))-(μ4-oxo)-tetra-zinc(ii) acetone unknown solvate)
+Number: 690684
+Synonyms: N/A
+Bulk Scale Synthesis of Zn/BTB ant. To a solid mixture of H3BTB (0.0899 g, 0.2050 mol, 1 equiv) and Zn(NO3)2 · 4H2O (0.1008 g, 0.3855 mmol, 1.88 equiv) was added DMF (10 mL). The solution was mixed well and ultrasonicated until homogeneous. The reaction vial was capped tightly and placed in an oven at 100 °C. After 24 h, the sample was removed from the oven and allowed to cool to room temperature. The mother liquor was decanted from the clear rod crystals and replaced with acetone (10 mL). The acetone was decanted and replenished three times over two days. The yield of the reaction, determined from the weight of the evacuated material [Zn4O(BTB)2]·H2O is 48% based on H3BTB.

@@ -1,0 +1,5 @@
+AGUWUV
+Chemical_Name: catena-((μ4-Benzene-1,2,4,5-tetracarboxylato)-bis(μ3-2-(1H-tetrazol-5-yl)pyrazine)-tetra-aqua-tri-nickel(ii) hydrate)
+Number: 717632
+Synonyms: N/A
+No synthesis method found for compound 1

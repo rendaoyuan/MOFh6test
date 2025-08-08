@@ -1,0 +1,5 @@
+WOHWAT
+Chemical_Name: catena-[(μ2-ethane-1,2-diylbis(diphenylphosphine))-bis(μ2-1,2-benzothiazol-3(2H)-one 1,1-dioxide)-di-silver]
+Number: 949366
+Synonyms: N/A
+Synthesis of 2 Na(sac)_x0002_2H2O (0.06 g, 0.25 mmol) in water (5 mL) was added to a solution of AgNO3 (0.04 g, 0.25 mmol) in water (5 mL). The solution immediately became milky. The addition of MeCN (10 mL) to the milky suspension resulted in a clear solution. The addition of dppe (0.05 g, 0.125 mmol) in CH2Cl2 (5 mL) to the solution resulted in a biphasic solution, which turned into a monophasic clear solution on addition of a mixture of DMSO and MeCN (10 mL, 2:1). The resulting solution was allowed to stand in darkness at room temperature. A colorless polycrystalline powder precipitated within 4 days. Yield 0.096 g, 70 %.

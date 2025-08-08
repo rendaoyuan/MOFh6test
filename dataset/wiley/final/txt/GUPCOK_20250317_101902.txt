@@ -1,0 +1,5 @@
+GUPCOK
+Chemical_Name: catena-[bis(μ2-2-Ethylimidazolato)-cadmium]
+Number: 743555
+Synonyms: N/A
+CdIF-6 (ana): A mixture of Cd(CH3COO)2⋅2H2O (0.267g, 1 mmol), Heim (0.192 g, 2 mmol), anhydrous piperazine (0.084 g, 1 mmol) were added to ethanol (20 mL), and after being stirred for 12 hours, this heterogeneous mixture was placed into a 20 mL Teflon-lined autoclave. Then, the autoclave was sealed and heated at 120℃ for 60 hours. After being cooled to ambient room temperature, the autoclave was opened and colorless crystals of CdIF-4 (rho) mixed with CdIF-6 (ana) were separated by filtration, washed with methanol (10 mL ×3) and dried in air.

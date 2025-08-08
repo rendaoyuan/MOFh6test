@@ -1,0 +1,5 @@
+XAJQAC
+Chemical_Name: N/A
+Number: N/A
+Synonyms: N/A
+Synthesis of In2(OH)2(TBAPy) ·(guests) (1). A mixture of In(NO3)3·9H2O (12 mg 0.03 mmol) and TBAPy (10 mg 0.015 mmol) was dissolved in 4 mL of DMF/dioxane/H2O (ratio 2/1/1) and 10 µL of concentrated HCl (0.116 mmol) and then sealed in a 12 mL scintilation vial. The vial was heated at 85 °C for 12 h and then cooled to room temperature at a rate of 0.2 °C min-1. The resulting yellow block crystals were isolated in 56% yield (based on In) and washed with DMF in order to remove any recrystallized TBAPy ligand.

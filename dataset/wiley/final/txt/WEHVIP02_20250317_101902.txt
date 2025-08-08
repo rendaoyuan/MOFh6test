@@ -1,0 +1,5 @@
+WEHVIP02
+Chemical_Name: N/A
+Number: N/A
+Synonyms: N/A
+Synthesis of [Cu2(bpe)Cl2]n (1) An orange-red needle-like complex [Cu2(bpe)Cl2]n (1) was obtained from the mixture of 1,2-trans-bi(4-pyridyl)ethene (0.091 g, 0.5 mmol), CuCl2 (0.078 g, 0.5 mmol), 0.2 mL of H3PO3 and H2O (20 mL), which were placed in a sealed 30 mL Teflon-lined stainless-steel reactor and heated to 100 ℃ for 72 h, then cooled at 5 ℃ per hour to room temperature. Yield 46%;

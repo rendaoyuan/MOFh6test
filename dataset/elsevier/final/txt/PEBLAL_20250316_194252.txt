@@ -1,0 +1,5 @@
+PEBLAL
+Chemical_Name: catena-(bis(μ4-1,4-Phenylenediacetato)-bis(μ3-isonicotinato)-diaqua-tri-cadmium)
+Number: 846656
+Synonyms: N/A
+Cadmium nitrate tetrahydrate (88mg, 0.29mmol), 4-pyridylisonicotinamide (54mg, 0.27mmol) and 1,4-phenylenediacetic acid (88mg, 0.45mmol) were placed into 10mL distilled H2O in a 23mL Teflon-lined Parr acid digestion bomb. The bomb was sealed and heated in an oven at 120°C for 48hrs, whereupon it was cooled slowly to 25°C. Colorless blocks of 1 (21mg, 0.021mmol, 22% yield based on Cd) were isolated after washing with distilled water and acetone, and drying in air.

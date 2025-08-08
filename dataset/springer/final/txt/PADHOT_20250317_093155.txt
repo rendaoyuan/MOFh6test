@@ -1,0 +1,5 @@
+PADHOT
+Chemical_Name: N/A
+Number: N/A
+Synonyms: N/A
+Preparation of [Cd(L)1.5(NO3)2]n_x0002_2nCHCl3 (1) A solution of Cd(NO3)2_x0002_6H2O (16.0 mg, 0.05 mmol) in acetone (8 mL) was layered onto a solution of L (39.8 mg, 0.10 mmol) in CHCl3 (8 mL). The solutions were left for a few days at room temperature to give colorless crystals of 1. Yield: 58%.

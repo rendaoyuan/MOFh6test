@@ -1,0 +1,5 @@
+PUWCOZ
+Chemical_Name: catena-((μ6-Adamantane-1,3,5,7-tetracarboxylato)-(μ2-aqua)-triaqua-di-nickel(ii) tetrahydrate clathrate)
+Number: None
+Synonyms: N/A
+Ni2(ATC)(H2O)4‚(H2O)4, MOF-34. H4ATC (0.032 g, 0.10 mmol), Ni(NO3)2‚6H2O (0.070 g, 0.24 mmol), H2O (1 mL), and aqueous NaOH solution (1 mL, 0.1 mmol) were added respectively to a vessel, which was sealed and heated to 180 °C at a rate of 5 °C/min for 40 h and then cooled to room temperature at a rate of 2 °C/min. Needle-shaped green crystals of the product were formed and collected by filtration, yielding 0.016 g (27% yield based on H4ATC). The product is stable in air and insoluble in water and common organic solvents such as ethanol, acetonitrile, acetone, chloroform, and DMF.

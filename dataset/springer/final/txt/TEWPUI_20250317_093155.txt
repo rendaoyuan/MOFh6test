@@ -1,0 +1,5 @@
+TEWPUI
+Chemical_Name: catena-[(μ2-4-(2-(pyridin-4-yl)ethyl)pyridine)-silver hemikis(isophthalate) tetrahydrate]
+Number: 857955
+Synonyms: N/A
+Synthesis of [Ag2(bpe)2](bdc)·8H2O (1) An ammonia solution (25 mL) of AgNO3 (0.0085 g, 0.05 mmol) and H2bdc (0.012 g, 0.05 mmol) was added drop-wise to an EtOH solution (25 mL) of bpe (0.0092 g, 0.05 mmol). The clear solution was stirred for a few minutes and then allowed to evaporate at room temperature. Block-like colorless crystals of complex (1) appeared after several weeks (yield 72% based on AgNO3).

@@ -1,0 +1,5 @@
+BUCXUT
+Chemical_Name: catena-(tris(μ3-3-Amino-1,2,4-triazolato-N,N',N'')-(μ3-sulfido)-tri-zinc nitrate monohydrate)
+Number: 725470
+Synonyms: N/A
+Synthesis of [Zn3(AmTAZ)3S](NO3)·(H2O) (1·(H2O)). Zinc nitrate (297 mg, 1 mmol), potassium thiocyanate (97 mg, 1 mmol), and HAmTAZ (84 mg, 1 mmol) were combined in a 23 mL Teﬂon-lined Parr autoclave with 6 mL of H2O and 4 mL of ethanol (pH ) 4.6). The autoclave was sealed and heated at 140 °C for 7 days under autogenous pressure before cooling to room temperature at 0.1 °C min-1. Colorless crystals of 1·(H2O) were isolated by ﬁltration and washed once each with water (10 mL) and ethanol (10 mL).

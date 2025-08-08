@@ -1,0 +1,5 @@
+NAZTIT
+Chemical_Name: catena-((μ4-3-methylhexanedioato)-(μ3-oxo)-tetramethyl-di-tin)
+Number: 839291
+Synonyms: N/A
+Synthesis of Complex [(Me2Sn)2(C7H10O4)(l3-O)]n (1) The reaction was carried out in a sealed Teﬂon-lined stainless steel autoclave. A mixture of 3-methyladipic acid (0.160 g, 1 mmol), sodium ethoxide (0.136 g, 2 mmol), trimethyltin chloride (0.398 g, 2 mmol) and H2O (20 mL) was heated under a hydrothermal method (130 _x0003_C) for 3 days. After cooling to room temperature, colorless crystals of complex 1 were collected and washed with hexane. Yield: 82%.

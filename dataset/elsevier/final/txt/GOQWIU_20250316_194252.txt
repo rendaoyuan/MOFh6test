@@ -1,0 +1,5 @@
+GOQWIU
+Chemical_Name: catena-[(μ-benzene-1,2,4,5-tetracarboxylato)-(μ-2-(3-(pyridin-3-yl)-1H-1,2,4-triazol-5-yl)-6-(5-(pyridin-3-yl)-1H-1,2,4-triazol-3-yl)pyridine)-di-cadmium monohydrate]
+Number: 993975
+Synonyms: N/A
+Synthesis of {[Cd2(H2bptp)(BTEC)]·H2O} n (3) A suspension of Cd(NO3)2·4H2O (9.2mg, 0.03mmol), H2bptp (11.0mg, 0.03mmol), 1,2,4,5-H4BTEC (6.3mg, 0.03mmol), acetonitrile (1.0mL) and H2O (9.0mL) was sealed into a 25mL Teflon-lined stainless steel container and heated at 160°C for 72h. After the reactor cooled to room temperature at a rate of 5°Ch−1, colorless block crystals of 2 suitable for X-ray diffraction were obtained with a yield of 60% (based on Cd).

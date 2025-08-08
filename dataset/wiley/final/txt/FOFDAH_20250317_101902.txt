@@ -1,0 +1,5 @@
+FOFDAH
+Chemical_Name: catena-[(μ6-Hydrogen 1,2,4,5-tetrakis(4-carboxylatophenyl)benzene)-diaqua-cerium(iii) ethanol solvate hemihydrate]
+Number: 920427
+Synonyms: N/A
+Synthesis of 1 Ce(NO3)3.6H2O (20 mg) and H4TCPB (10 mg) were added to EtOH (3 mL) and H2O (3 mL) in 12 mL borosillicate glass vial and the vials sealed. The mixture was sonicated for 10 minutes to form a white suspension, which is then heated at 2°C/min to 120°C for 48 hours and cooled at 0.2°C/min to room temperature (25°C). Large colourless single crystals are separated from the mother liquor by vacuum filtration and washed with EtOH and H2O to yield pure compound with the formula Ce(HTCPB).0.28EtOH.2.75H2O. These single crystals were used for the single crystal diffraction experiments. 1 can also be produced at 3× the scale (3× reagent in 3× solvent in 40 mL glass vial) which produces smaller particles of 1, with a more polydisperse particle size than from method A. Samples produced by both methods were used in the liquid phase sorption experiments and produced identical results. 1 is stable on standing in water. 3 is synthesised by desolvation of 1 at 100°C and 10–3 mbar for 6 hours.

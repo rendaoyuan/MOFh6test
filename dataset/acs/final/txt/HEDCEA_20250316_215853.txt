@@ -1,0 +1,5 @@
+HEDCEA
+Chemical_Name: catena-(bis(μ4-4,4'-Oxydibenzoato)-(μ2-4,4'-bipyridine)-di-zinc N,N-dimethylformamide solvate)
+Number: 904554
+Synonyms: N/A
+Synthesis of [Zn2(obb)2(bpy)]·DMF (2). H2obb (256 mg, 1 mmol), 4,4′-bipyridine (78 mg, 0.5 mmol), and Zn(NO3)2·6H2O (297 mg, 1 mmol) were dissolved in DMF/EtOH (2:1, v/v), which were placed in a small vial. The mixture was heated at 100 °C for 3 days and then cooled to room temperature. Colorless block crystals of the product were formed and collected by filtration and washed with DMF several times (Yield: 350 mg, 81%, based on H2obb).

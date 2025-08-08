@@ -1,0 +1,5 @@
+XUBJAF03
+Chemical_Name: catena-((μ4-Malonato-O,O,O',O'',O'',O''')-bis(μ2-malonato-O,O',O'')-hexa-aqua-di-europium)
+Number: 848009
+Synonyms: N/A
+Eu(NO3)3·6H2O (0.27 g, 0.6 mmol) was dissolved in aqueous solution (5.0 mL), to which a mixture of H2mal (0.1 g, 1 mmol) and water (5.0 mL) was added under stirring and heating (50 °C), getting colorless solution. An appropriate amount of 1 mol L-1 NaOH solution was added dropwise to adjust the pH value to about 4. Then, the final solution was stirred for 10 min and transferred into a Teflon bottle sealed in an autoclave, which was then heated at 90 °C for 120 h. After cooling to room temperature and a standing period of 2 days, the reaction solution was filtered and the colorless block crystals were obtained, washed out with mother liquid, and dried out in the air. The yield was 45% (0.19 g) based on Eu.

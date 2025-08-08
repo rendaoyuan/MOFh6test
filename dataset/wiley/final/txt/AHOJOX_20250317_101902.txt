@@ -1,0 +1,5 @@
+AHOJOX
+Chemical_Name: catena-(bis(μ2-2-Mercaptobenzimidazole-N,S,S)-(μ2-2,2'-bi-benzimidazolate-N,N',N'',N''')-bis(2-mercaptobenzimidazole-N,S)-di-holmium(iii))
+Number: 716039
+Synonyms: N/A
+1[Ho2(Mbim)4(Bbim)] 1: 2-Mercaptobenzimidazole (MBimH, C7H6N2S; 1 mmol, 150 mg, ACROS 98%), the lanthanide metals (ChemPur 99.9%, 0.33 mmol, Ho: 54 mg), and Hg (0.05 mmol, 10 mg) were sealed in a Duran glass ampoule under vacuum and heated to 305 °C in 29 h. After annealing for 336 h it was cooled to 290 °C in 150 h, in another 200 h to 250 °C and in 44 h to room temperature. Colourless/yellow platelet crystals of 1 result. In cooler parts of the ampoules deep red crystals of 4 are observed.

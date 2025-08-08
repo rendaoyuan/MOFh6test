@@ -1,0 +1,5 @@
+POSFOU
+Chemical_Name: catena-[tetrakis(μ-4-(1H-imidazol-5-yl)benzoato)-diaqua-di-cadmium(ii) tetrahydrate]
+Number: 943722
+Synonyms: N/A
+Preparation of [Cd(4-HIBA)2(H2O)]·2H2O (5). A methanol solution (4 mL) of Cd(NO3)2·4H2O (23.6 mg, 0.1 mmol) was carefully layered onto a buffer of methanol−water (1:1, v/v, 6 mL), below which a solution of 4-H2IBA (18.8 mg, 0.1 mmol) and NaOH (4.0 mg, 0.1 mmol) in water (4 mL) was placed in a straight glass tube. Four weeks later, colorless needle crystals were obtained in 32% yield (8.6 mg, based on 4-H2IBA).

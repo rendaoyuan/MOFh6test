@@ -1,0 +1,5 @@
+MAFDII
+Chemical_Name: N/A
+Number: N/A
+Synonyms: N/A
+Preparation of JUC-77•DMF ([In(OH)(OBA)]•DMF): H2OBA (4,4’-Oxybis(benzoic acid) ) (0.043 g, 0.17 mmol) and In(NO3)3 (0.01 g, 0.03 mmol) were dissolved in DMF (7 mL), and then 2-methyl-1-butanol (2 mL) and HNO3 (2M 0.55 mL) were added into the mixture. After stirring a little time, placed in a glass bottle and then heated at 85ºC for 72h，yield yellowy or colorless block crystals, which were filtered, and dried under the vacuum. Yield: 67% based on the In(NO3)3. Preparation of JUC-77 ( [In(OH)(OBA)]): JUC-77·DMF was immersed in dried-methanol for 14h to remove the guest molecular-DMF. To make sure the DMF being exchanged by methanol completely, the compound was treated as above for five times. And then heated at 90oC under vacuum for 12h.

@@ -1,0 +1,5 @@
+BOWJAA
+Chemical_Name: catena-(Triethylammonium (μ4-5-ethynylisophthalato)-(μ3-hydroxo)-(μ2-5-ethynylisophthalato-O,O',O'')-(μ2-5-ethynylisophthalato-O,O')-(μ2-aqua)-methanol-tri-zinc methanol solvate hydrate)
+Number: 1025923
+Synonyms: N/A
+Synthesis of [HNEt3][Zn3(μ3-OH)(μ2-H2O)(ebdc)3(MeOH)0.67(H2O)0.33]·MeOH·1.33H2O (5). Zinc network 5 was obtained by slow layering of Zn(ClO4)2·6H2O (0.04 g, 0.11 mmol) in H2O and H2ebdc (0.02 g, 0.11 mmol) in MeOH with trace amounts of NEt3 for several days at room temperature in a sealed vial. The layers were allowed to slowly diffuse through a 1:1 (H2O/MeOH) buffer layer. Yellow plate crystals were obtained. Bulk purity was determined by PXRD.

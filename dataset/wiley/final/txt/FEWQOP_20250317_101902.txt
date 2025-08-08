@@ -1,0 +1,7 @@
+FEWQOP
+Chemical_Name: catena-[(μ6-oxo)-hexakis(μ3-3-oxidopyrazine-2-carboxylato)-octakis(μ3-oxo)-hexa-aqua-tri-copper-hexa-gadolinium nonahydrate]
+Number: 902547
+Synonyms: N/A
+Synthesis of {[Gd6Cu3L6ACHTUNGTRENUNG(m3-OH)6ACHTUNGTRENUNG(m6-O)ACHTUNGTRENUNG(m2-O)2]·12H2O}n (Gd-Cu) A mixture of H2L (0.0278 g, 0.2 mmol), GdACHTUNGTRENUNG(NO3)3·6H2O (0.0902 g, 0.2 mmol), CuACHTUNGTRENUNG(NO3)2·3H2O (0.0242 g, 0.1 mmol), water (4 mL), and MeOH (1 mL) was sealed in a Teflon-lined autoclave (25 mL) and heated at 1608C for 72 h under autogenous pressure. After cooling to RT at a rate of 28Ch_x0002_1, prism crystals suitable for X-ray diffraction were collected manually, washed with water, and dried in air. Gd-Cu: Yield: 38%.
+Abbreviation: H2L
+Full Name: 3-hydroxypyrazine-2-carboxylic acid

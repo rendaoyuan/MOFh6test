@@ -1,0 +1,5 @@
+REWRER
+Chemical_Name: catena-((μ3-tris(2-Aminoethyl)amine)-tris(μ2-isopropoxo)-nonakis(isopropoxy)-tri-titanium (μ2-isopropoxo)-tris(isopropoxy)-titanium)
+Number: 269602
+Synonyms: N/A
+Synthesis of [{Ti2(OiPr)8}3{(H2NCH2CH2)3N}2·Ti2(OiPr)8] (3): Tris(2-aminoethyl)amine (365 mg, 2.50 mmol) was added dropwise, whilst stirring, to a solution of 1051 mg (3.70 mmol) of [Ti(OiPr)4] in 2 mL of CH2Cl2 at room temperature under argon. The colorless solution was refluxed for 5 min and then concentrated to half its volume. The vessel was then stored at 4 °C to afford colorless crystals after 3 d. The product was recrystallized twice from CH2Cl2 and dried in vacuo. Yield: 732 mg (62%). The same product, but in lower yields, was obtained when 2-propanol was used as the solvent.

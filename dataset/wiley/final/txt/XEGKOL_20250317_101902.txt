@@ -1,0 +1,7 @@
+XEGKOL
+Chemical_Name: catena-((μ4-2,2',6,6'-Tetranitrobiphenyl-4,4'-dicarboxylato)-bis(μ3-2,2',6,6'-tetranitrobiphenyl-4,4'-dicarboxylato)-bis(dimethylformamide)-bis(4-formylpyridine)-di-gadolinium 4-pyridinecarboxaldehyde dimethylformamide solvate)
+Number: 843419
+Synonyms: N/A
+Synthesis of {[Gd2(L)3ACHTUNGTRENUNG(dmf)2(4-pyridinecarboxaldehyde)2]·6(4-pyridinecarboxaldehyde)·DMF}n (7): Single crystals of compound 1, upon exposure to 4-pyridinecarboxaldehyde vapor for 5 days, afforded compound 7 without a loss in crystallinity.
+Abbreviation: L
+Full Name: 2,6,2’,6’-tetranitro-biphenyl-4,4’-dicarboxylic acid

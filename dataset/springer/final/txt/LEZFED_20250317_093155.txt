@@ -1,0 +1,5 @@
+LEZFED
+Chemical_Name: N/A
+Number: N/A
+Synonyms: N/A
+Synthesis An aqueous solution (5 mL) of Co(NO3)2.6H2O (0.291 g, 1 mmol) was added to an aqueous solution (10 mL) of pyrazine (0.080 g, 1 mmol). The mixture was stirred for 15 min at room temperature and then transferred to a 23 mL Teﬂon-lined stainless steel container. After the addition of terephthalic acid (0.166 g, 1 mmol) to the mixture, the container was heated to 200 _x0003_C and held at this temperature for 48 h, followed by cooling to room temperature at a rate of 10 _x0003_C h-1. The resulting red-brown needle-like crystals were ﬁltered off and washed with DMF, in order to remove the unreacted terephthalic acid components. Yield: 0.233 g (79 % based on Co).

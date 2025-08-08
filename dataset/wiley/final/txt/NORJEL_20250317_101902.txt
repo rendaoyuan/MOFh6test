@@ -1,0 +1,5 @@
+NORJEL
+Chemical_Name: catena-[tetrakis(μ-4,4'-methanediylbis(3-hydroxynaphthalene-2-carboxylato))-tetrakis(μ-4,4'-ethene-1,2-diyldipyridine)-tetra-aqua-tetra-cadmium 4,4'-ethene-1,2-diyldipyridine solvate]
+Number: 991620
+Synonyms: N/A
+No synthesis method found for compound 1

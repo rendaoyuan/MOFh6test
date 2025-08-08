@@ -1,0 +1,5 @@
+SEHZUB
+Chemical_Name: catena-((μ4-oxybis(benzene-2,3-dicarboxylato-O,O',O''))-bis(μ2-4,4'-bipyridyl)-diaqua-di-cobalt heptahydrate)
+Number: 613108
+Synonyms: N/A
+3 was synthesized hydrothermally in a 23 mL Teflon-lined autoclave by heating a mixture of 0.1 mmol of 2,2′,3,3′-odpda, 0.4 m M NaOH and 0.2 mmol of Co(NO3)2‚6H2O at 120 °C for 2 days. Large, red, rectangular single crystals were collected in 67% yield on the basis of cobalt.

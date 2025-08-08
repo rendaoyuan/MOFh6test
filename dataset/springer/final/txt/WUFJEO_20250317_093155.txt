@@ -1,0 +1,5 @@
+WUFJEO
+Chemical_Name: catena-[(μ6-4-(Pyridin-3-yl)isophthalato)-aqua-barium]
+Number: 1025412
+Synonyms: N/A
+Synthesis of [Ba(pip)(H2O)] (2) Ba(NO3)2 (0.0522 g, 0.2 mmol), H2pip (0.0243 g, 0.1 mmol) and 4,40-bipyridine (0.0156 g, 0.1 mmol) were added to a N,N0-dimethylacetamide (DMA)/acetonitrile (ACN)/H2O mixture (v/v/v = 4:1:1, 6 ml), ultrasonicated to dissolve in a vial and heated at 100 °C in an oven for 72 h. After cooling to room temperature, colorless block crystals were collected by ﬁltration, washed with H2O and DMA (yield: 48.3 % based on H2pip).

@@ -1,0 +1,5 @@
+EGAFOJ
+Chemical_Name: N/A
+Number: N/A
+Synonyms: N/A
+Synthesis of {[La(EDA)1.5(H2O)2](DMF)} (1). A mixture of 31.54 mg (0.15 mmol) (ethylenedithio)diacetic acid ligand and 43 mg La(NO3)3·6H2O (0.10 mmol) was dissolved in a water–N,N-dimethylformamide (DMF) solvent mixture (10 mL, v/v = 1 : 1) and then treated ultrasonically for 180 min. The resulting suspension was filtered and then the pellucid solution was kept at room temperature for evaporation. After several days, colorless block crystals were obtained in a 41.2% yield (based on H2EDA).

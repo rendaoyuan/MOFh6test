@@ -1,0 +1,5 @@
+XAKQEH
+Chemical_Name: catena-((μ3-4,4'-oxydibenzoato)-(μ2-4,4'-methylenebis(3,5-dimethyl-1H-pyrazole))-cadmium(ii))
+Number: 790291
+Synonyms: N/A
+Synthesis of [Cd(OBA)(H2MDP)]n (7) To a mixture of Cd(NO3)2$4H2O (0.1 mmol, 0.0308 g), H2MDP (0.1 mmol, 0.0204 g), H2OBA (0.1 mmol, 0.0258 g), 5 ml of distilled water, 5 ml of DMF and 5 ml of methanol were added. Then the mixture was heated to 120 _x0002_C for 72 h in a 25 ml sealed Teﬂon-lined autoclave. Afterward, the autoclave was slowly cooled down to room temperature and colourless prismatic crystals of 7 were obtained in 30% yield (0.0171 g, based on H2MDP).

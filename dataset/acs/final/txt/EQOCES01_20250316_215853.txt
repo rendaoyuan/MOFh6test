@@ -1,0 +1,5 @@
+EQOCES01
+Chemical_Name: catena-[tetrakis(μ2-Imidazolato)-di-cobalt(ii) cyclohexanol clathrate]
+Number: 228486
+Synonyms: N/A
+Co(Ac)2‚4H2O (1.245 g, 5.0 mmol), imidazole (0.68 g, 10 mmol), and piperazine (0.68 g, 8 mmol) were added to cyclohexanol (25 mL). The reaction mixture was stirred at room temperature for 12 h and then placed in a Teflon-lined autoclave with 5 g of newly activated 4A- zeolite. The autoclave was sealed and heated at 150 °C for 3 days. After cooling to room temperature, violet octahedral crystals of 7′ mixed with compound 27b were collected and washed with 3 × 15 mL of ethanol (0.6 g, yield ca. 43%).

@@ -1,0 +1,5 @@
+WICVEK
+Chemical_Name: N/A
+Number: N/A
+Synonyms: N/A
+Synthesis of 1a: An aqueous mixture (10 mL) of Er2O3, Cu(NO3)2, ip and bpy in the ratio of 1:2:1:2 was placed in a Teflon reactor (23 mL), and heated at 170 °C for 5 d, and then it was cooled to room temperature at 5 °C h−1. Green crystals were obtained in 70% yield based on Cu. In addition, Er(NO3)3 was used instead of Er2O3 to produce 1a, without obviously change in the yield; on the other hand, CuCl2 or CuSO4 was also selected to replace Cu(NO3)2 to produce polymer 1a, without obviously change in the yield.

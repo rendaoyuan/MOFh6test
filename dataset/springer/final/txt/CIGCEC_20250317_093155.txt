@@ -1,0 +1,5 @@
+CIGCEC
+Chemical_Name: catena-((μ2-N,N'-bis(3-Aminopropyl)butane-1,4-diamine)-bis(μ2-isopropoxo)-hexakis(isopropoxy)-di-titanium)
+Number: 892186
+Synonyms: N/A
+Titanium isopropoxide spermine adduct (2, [Ti2(OiPr)8(C10H26N4)]?) Spermine (1.15 g, 5.66 mmol) was dissolved in 2.0 cm3 of toluene at room temperature followed by dropwise addition of 1.63 g (5.74 mmol) of Ti(OiPr)4 (Acros, 98 %). The yellow reaction solution was concentrated to half its volume in vacuo. Colorless crystals of 2 were obtained from the yellow solution after 1 day and these were washed with several portions of hexane at -20 _x0003_C and dried in vacuo. Yield 1.20 g (54 %);

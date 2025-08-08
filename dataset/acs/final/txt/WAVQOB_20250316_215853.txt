@@ -1,0 +1,5 @@
+WAVQOB
+Chemical_Name: catena-(tris(μ6-4,4',4''-Benzene-1,3,5-triyltribenzoato)-(μ4-oxo)-tris(μ3-hydroxo)-hexa-aqua-tri-indium-di-praseodymium nitrate)
+Number: 850063
+Synonyms: N/A
+Synthesis of CPM-19-Pr: A mixture of In(NO3)3·5H2O (0.100 g), Pr(NO3)3·6H2O (0.063 g), CaCl2 (0.018 g), 1,3,5-tri(4-carboxyphenyl)benzene (0.108 g), H2O (0.500 g) and DEF (2.670 g) was stirred in a 20 ml vial for 1 hour. And then the sample was heated at 100 oC for 5 days. After cooling to room-temperature, light grey crystals were obtained.

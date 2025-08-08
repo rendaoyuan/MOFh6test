@@ -1,0 +1,5 @@
+VURQIJ
+Chemical_Name: catena-(bis(μ2-4-imidazolebenzoato)-aqua-cadmium(ii) tetrahydrate)
+Number: 775397
+Synonyms: N/A
+Synthesis of {[Cd(IBA)2(H2O)]·4H2O}n (2) The complex was prepared hydrothermally in a 15 mL Teflon lined stainless steel container by heating a mixture of Cd(NO3)2·6H2O (68.8 mg, 0.2 mmol), HIBA (37.6 mg, 0.2 mmol), NaOH (8.0 mg, 0.2 mmol) and H2O (8 mL) at 180℃ for 4 days. Colorless rod-like crystals of 2 were collected by filtration and washed by water and ethanol for several times with a yield of 64%.

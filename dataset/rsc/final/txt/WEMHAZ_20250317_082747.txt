@@ -1,0 +1,5 @@
+WEMHAZ
+Chemical_Name: catena-((μ2-phthalato)-(μ2-1,1',1''-((2,4,6-trimethylbenzene-1,3,5-triyl)tris(methylene))tris(1H-1,2,4-triazole))-zinc(ii) hemihydrate)
+Number: 904151
+Synonyms: N/A
+Synthesis of [Zn2(o-bdc)2(L)2]?H2O (1). A mixture of Zn(OAc)2?2H2O (0.066 g, 0.3 mmol), o-H2bdc (0.050 g, 0.30 mmol), L (0.036 g, 0.1 mmol) and water (10 mL) was stirred for 5 min in air. The mixture was sealed in a Teflon-lined stainless steel autoclave and heated at 150 uC for 3 days. Then it was gradually cooled to room temperature. Colorless crystals were obtained in a 29% yield.

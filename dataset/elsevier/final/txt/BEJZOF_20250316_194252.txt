@@ -1,0 +1,5 @@
+BEJZOF
+Chemical_Name: catena-((μ2-Chloro)-(2,2'-bipyridine-N,N')-chloro-copper(ii))
+Number: 134470
+Synonyms: N/A
+Preparation of [Cu(bipy)Cl2] ( 1 ) A mixture of CuCl2·2H2O (0.85g, 5mmol) and bipy (0.78g, 5mmol) was dissolved in a water/ethanol solution (20ml). The resulting blue solution was filtered and allowed to stand at room temperature. Green crystals of formula [Cu(bipy)Cl2] (1) appeared after several months. They were hand picked and dried on filter paper. The crystal structure of 1 is presented here for the first time.

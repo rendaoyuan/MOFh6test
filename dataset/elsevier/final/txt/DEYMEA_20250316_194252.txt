@@ -1,0 +1,5 @@
+DEYMEA
+Chemical_Name: catena-(bis((μ2-4-(3-(4-pyridyl)propyl)pyridine))-diaqua-cadmium(ii) diperchlorate 1,2-bis(4-pyridyl)ethene dihydrate)
+Number: 298059
+Synonyms: N/A
+Preparation of [Cd(bpp)2(H2O)2](ClO4)2 ·bpe·H2O (2) The complex was prepared by dissolving of cadmium(II) acetate (0.115g, 0.50mmol) and sodium perchlorate (0.122g, 1mmol) in distillation water (20ml) and adding an alcoholic solution of 0.50mmol (0.09g) of 1,2-bis(4-pyridyle)ethene (bpe) and 0.50mmol (0.098g) 1,3-di(4-pyridyl)propane (bpp). The resulting solution was stirred for 2h. at room temperature and then it was allowed to stand for 7 days at room temperature. Colorless crystals of the desired product precipitated, which were filtered off, washed with acetone and ether and air dried (d.p. 274°C). Yield (based compound 2): 0.216g, 40%.

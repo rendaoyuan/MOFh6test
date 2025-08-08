@@ -1,0 +1,5 @@
+BUQZUJ
+Chemical_Name: catena-[(μ3-1,3-bis(1,2,3,4-Tetrazol-5-yl)benzene-N2,N3,N2')-aqua-(1,10-phenanthroline-N,N')-cadmium]
+Number: 723832
+Synonyms: N/A
+Synthesis of [Cd(dtb)(H2O)(phen)] (2) A mixture of Cd(NO3)2·4H2O (20mg, 0.06mmol), H2dtb (10mg, 0.05mmol) and phen (10mg, 0.06mmol) was suspended in the solution of H2O (15ml), and heated in a teflon-lined steel bomb at 150°C for 3days. The yellow needlelike crystals (13mg) formed were collected, washed with water and dried in the air. Yield: 51% (based on H2dtb).

@@ -1,0 +1,5 @@
+UNIPAJ
+Chemical_Name: catena-(bis(μ2-trans-4,4'-Azobis(pyridine))-bis(μ2-naphthalene-2,3-dicarboxylato)-diaqua-di-cadmium(ii) dihydrate)
+Number: 820471
+Synonyms: N/A
+[Cd(ndc)(abp)(H2O)](H2O)¥ (5). A CH3OH solution (10 mL) of Cd(ClO4)2 3 6H2O (0.1 mmol) was carefully layered on top of a solution of H2ndc (0.05 mmol) in H2O (15 mL) in the presence of excess NaOH (0.15 mmol) in a test tube, which was left at room temperature. Wine-colored clubbed single crystals suitable for X-ray analysis appeared at the tube wall after ca. one month. Yield: ca. 40% based on H2ndc.

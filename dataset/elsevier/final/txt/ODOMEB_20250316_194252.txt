@@ -1,0 +1,5 @@
+ODOMEB
+Chemical_Name: catena-(pentakis(μ4-naphthalene-1,4-dicarboxylato)-bis(μ3-2,4-diamino-6-methyl-triazine)-deca-silver)
+Number: 919176
+Synonyms: N/A
+Synthesis of [Ag5(nda)2.5(dmt)] n (2) H2nda (0.216g, 1mmol), dmt (0.125g, 1mmol) and AgNO3 (0.340g, 2mmol) in 10mL of H2O were stirred for 20min at room temperature, and the mixture was sealed in a 25mL Teflon-lined reactor, which was heated to 150°C for 3 days. After the autoclave had been cooled to room temperature over 6–7h, brown block crystals of 2 were obtained, and washed by H2O (Yield 0.194g, 40.4% based on H2nda).

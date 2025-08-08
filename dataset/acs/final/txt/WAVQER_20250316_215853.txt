@@ -1,0 +1,5 @@
+WAVQER
+Chemical_Name: catena-(Dimethylammonium (μ6-benzene-1,3,5-tricarboxylato)-bis(μ3-benzene-1,3,5-tricarboxylato)-tetrakis(μ3-hydroxo)-tris(dimethylformamide)-tri-indium-samarium monohydrate)
+Number: 850061
+Synonyms: N/A
+Synthesis of CPM-18-Sm: A mixture of In(NO3)3·5H2O (0.200 g), Sm(NO3)3·6H2O (0.12 g), 1,3,5-benzenetricarboxylic acid (0.100 g), H2O (1.0 g) and DMF (4.0 g) was stirred in a 20 ml vial for 1 hour. And then the sample was heated at 110 oC for 5 days. After cooling to room-temperature, light grey crystals were obtained.

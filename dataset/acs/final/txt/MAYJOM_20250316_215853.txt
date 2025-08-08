@@ -1,0 +1,5 @@
+MAYJOM
+Chemical_Name: catena-(octakis(μ4-terephthalato)-octakis(μ2-hydroxo)-octa-indium hexakis(terephthalic acid) clathrate)
+Number: 291641
+Synonyms: N/A
+In a typical synthesis of 1, indium (0.114 g, 1 mmol), 1,4-benzene dicarboxylic acid (0.332 g, 2 mmol), HF (48%, Merck, 0.06 mL), and deionized water (10 mL) in the molar ratios of 1:2:1.5:560 were placed in a hydrothermal reaction vessel and heated at 220 °C for 3 days. After cooling at a rate of 0.5 °C/min to ambient, the product was filtered, washed with DMF to dissolve unreacted H2BDC, and dried at room temperature. The final product was a single phase containing single crystals of 1. The final solution pH was ∼1.5.

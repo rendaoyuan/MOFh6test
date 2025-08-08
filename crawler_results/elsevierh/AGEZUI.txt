@@ -1,0 +1,318 @@
+<html><body>
+<h1>Manuscript</h1>
+serial JL 271394 291210 291689 291732 291746 291790 291847 31 Journal of Organometallic Chemistry JOURNALORGANOMETALLICCHEMISTRY 2008-05-28 2008-05-28 2010-10-06T14:35:29 1-s2.0-S0022328X08003252 S0022-328X(08)00325-2 S0022328X08003252 10.1016/j.jorganchem.2008.05.031 S300 S300.1 FULL-TEXT 1-s2.0-S0022328X08X00142 2024-01-02T04:33:24.774573Z 0 0 20080801 2008 2008-05-28T00:00:00Z articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav absattachment articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure table e-component body mmlmath acknowledge affil appendices articletitle auth authfirstini authfull authkeywords authlast primabst ref specialabst alllist content subj ssids 0022-328X 0022328X 693 693 16 16 Volume 693, Issue 16 21 2767 2774 2767 2774 20080801 1 August 2008 2008-08-01 2008 Regular Papers article fla Copyright © 2008 Elsevier B.V. Chart 1 Ligands (a), coordination modes of 1,3-BDC for 1 (b) and BTC for 2 (c). Fig. 1 ORTEP diagram showing the coordination environment for Cu atoms in 1 (at 50% probability level). Fig. 2 (a) 1-D polymeric chain of 1; (b) the schematic of 1-D polymeric ribbon in 1. Fig. 3 2-D supramolecular network of 1 formed by π–π stacking interaction among the aromatic rings of Dpq along a-axis (H atoms are omitted for clarity). Fig. 4 3-D supramolecular network of 1 formed by π–π stacking interaction between the aromatic rings of Dpq, π–π stacking interaction between the aromatic rings of Dpq and 1,3-BDC along c-axis (H atoms are omitted for clarity). Fig. 5 ORTEP drawing (at 30% probability level) of the coordination environment of Cu(II) ions in 2 (for clarity, the H atoms are not shown). Fig. 6 View of the 2-D layer framework of 2. (H atoms and part of the aromatic rings are omitted for clarity). Fig. 7 Schematic of 2-D mesh network formed in 2. Fig. 8 3-D network structure of 2 formed by π–π stacking interaction between the aromatic rings of Dpq (H atoms are omitted for clarity). Fig. 9 Cyclic voltammograms of (a) the bare CPE, (b) 1-CPE and (c) 2-CPE in 0.1M pH 2 phosphates buffer solution in the potential range of 600 to −400mV. Scan rate: 100mVs−1. Fig. 10 Cyclic voltammograms of Cu-CPEs in pH 2 phosphate buffer solution at different scan rates (from inner to outer) 20, 50, 80, 100, 120, 150, 200, 250, 300, 350, 400, 450, and 500mVs−1, (a) for 1-CPE, (b) for 2-CPE. The inset shows the plots of the anodic and the cathodic peak currents vs. scan rates. Fig. 11 Cyclic voltammograms of a bare CPE containing 2mM KBrO3 (a) and 1-CPE in pH 2 phosphate buffer solution containing BrO3 − concentrations of 0.0 (b), 1 (c), 2 (d), 3 (e), 4 (f), 5 (g) mM. Scan rate: 80mVs−1. Inset: the variation of cathodic peak currents vs. bromate concentrations. Fig. 12 Cyclic voltammograms of a bare CPE in phosphate buffer solution with pH of 2 containing 2mM NaNO2(a) and 1-CPE in phosphate buffer solution containing NO2 − concentrations of 0.0 (b), 2 (c), 4 (d) mM. Scan rate: 100mVs−1. Table 1 Crystal data and structure refinement for complexes 1–2 1 2 Formula C60H32Cu3N8O16 C37H22Cu2N8O8 Formula weight 1311.59 833.73 Crystal system Triclinic Orthorhombic Space group P 1 ¯ P212121 a (Å) 10.344(4) 10.039(5) b (Å) 11.236(4) 15.379(8) c (Å) 11.627(2) 21.480(11) α (°) 79.103(13) 90.00 β (°) 85.05(2) 90.00 γ (°) 83.280(19) 90.00 V (Å3) 1315.0(7) 3317(3) Z 1 4 D Calc (gcm−3) 1.656 1.670 μ (mm−1) 1.287 1.353 F(000) 663.0 1688.0 θ max (°) 26.00 27.00 Total data 6078 19374 Unique data 5169 7223 Flack parameters 0.014(15) R int 0.0295 0.0507 R 1 a [I >2σ(I)] 0.0488 0.0464 wR 2 b (all data) 0.1583 0.1144 GOF 1.030 1.043 Δρ max (eÅ−3) 1.572 1.204 Δρ min (eÅ−3) −0.364 −0.476 a R 1 =∑||F o|−|F c||/∑|F o|. b wR 2 = ∑ [ w ( F o 2 - F c 2 ) 2 ] / ∑ [ w ( F o 2 ) 2 ] 1 / 2 . Synthesis, structures, electrochemistry and electrocatalysis of two novel copper(II) complexes constructed with aromatic polycarboxylates and dipyrido[3,2-d:2′,3′-f]quinoxaline Xiu-Li Wang ⁎ Hong-Yan Lin Guo-Cheng Liu Hai-Yan Zhao Bao-Kuan Chen Faculty of Chemistry and Chemical Engineering, Bohai University, Jinzhou 121000, PR China ⁎ Corresponding author. Tel.: +86 416 3400158. Graphical abstract Hydrothermal synthesis, crystal structures, electrochemical and electrocatalytical properties of two novel coordination polymers constructed with mixed ligands of aromatic polycarboxylate (1,3-BDC or BTC) and dipyrido[3,2-d:2′,3′-f]quinoxaline (Dpq): [Cu3(1,3-BDC)4(Dpq)2] (1) and [Cu2(BTC)(OH)(Dpq)2]·H2O (2). Two novel coordination polymers [Cu3(1,3-BDC)4(Dpq)2] (1) and [Cu2(BTC)(OH)(Dpq)2]·H2O (2) have been obtained from hydrothermal reactions. Two copper complexes exhibit one-dimensional chain for 1 and two-dimensional layer structure for 2, respectively. And the adjacent chains in 1 and the adjacent layers in 2 are further linked by π–π stacking interactions to form three-dimensional supramolecular framework. Moreover, the copper(II) complexes bulk-modified carbon paste electrodes (Cu-CPEs: 1-CPE and 2-CPE) have good electrocatalytic activities toward the reduction of nitrite and bromate in 0.1M pH 2 phosphates buffer solution. Two novel coordination polymers [Cu3(1,3-BDC)4(Dpq)2] (1) and [Cu2(BTC)(OH)(Dpq)2]·H2O (2), have been hydrothermally synthesized by self-assembly of aromatic polycarboxylate ligands 1,3-H2BDC (1,3-H2BDC=1,3-benzenedicarboxylate) or H3BTC (H3BTC=1,3,5-benzenetricarboxylate), chelating ligand Dpq (Dpq=dipyrido[3,2-d:2′,3′-f]quinoxaline), and copper chloride. X-ray diffraction analysis reveals that each trinuclear CuII cluster is bridged by two coordination modes of 1,3-BDC ligands to form one-dimensional (1-D) chain structure in complex 1. Complex 2 possesses a two-dimensional (2-D) layer network composed of dinuclear [Cu2(OH)(Dpq)2] unit and bridging ligand BTC. The adjacent chains for 1 or the adjacent layers for 2 are further linked by π–π stacking interactions to form the three-dimensional (3-D) supramolecular frameworks. Moreover, the electrochemical properties of the two copper(II) complexes bulk-modified carbon paste electrodes (Cu-CPEs: 1-CPE and 2-CPE) have been studied, and the results indicate that both Cu-CPEs give one-electron quasi-reversible redox waves in potential range of 600 to −400mV due to the metal copper ion Cu(II)/Cu(I). The Cu-CPEs have good electrocatalytic activities toward the reduction of nitrite and bromate in 0.1M pH 2 phosphates buffer solution, and have remarkable long term stability and especially good surface renewability by simple mechanical polishing in the event of surface fouling, which is important for practical application. Keywords Hydrothermal synthesis Copper complexes Crystal structures Electrocatalysis 1 Introduction The design and construction of infinite high-dimensional metal–organic frameworks (MOFs) has become the object of much current study, owing to their intriguing framework topologies as well as their potential applications in catalysis, nonlinear optics (NLO), molecular adsorption and magnetic materials [1,2]. In particular, exploring rigid polycarboxylates ligands and suitable metal salts to construct novel architectures is of higher interest [3]. Among them, aromatic polycarboxylates are often employed in a design strategy to construct coordination compounds with special topologies due to the predictability of the resulting networks [4,5]. Such as, 1,3,5-benzenetricarboxylate (H3BTC), 1,3-benzenedicarboxylate (1,3-H2BDC), 1,2,4,5-benzenetetracarboxylate (1,2,4,5-H4btec), 1,4-benzenedicarboxylate (1,4-H2BDC), are one kind of the successful multifunctional ligands because of their structural rigidity, chemical stability, and appropriate connectivity [6–8]. A variety of MOFs with diversified topologies and interesting properties have been prepared based on these aromatic polycarboxylates [2c,5,9]. Recently, aromatic polycarboxylic acid, 2,2′-bipyridyl-like chelating ligands, and their analogues have been extensively utilized to bridge the metal centers, leading to interesting MOF structures and properties [7c,7d,10]. The aromatic chelate ligands are also important in maintaining the one dimensionality and may provide potential supramolecular recognition sites for π–π aromatic stacking interactions to form high-dimensional supramolecular networks [11]. Dipyrido[3,2-d:2′,3′-f]quinoxaline (Dpq) is one of the typical 2,2′-bipyridyl-like chelating ligands, however, the studies based on Dpq have been less reported [12]. As an extension of our study of metal/Dpq/carboxylates hybrid systems, we have been focusing on using hydrothermal reactions to prepare new high-dimensional metal–organic frameworks [13]. On the other hand, great efforts have been directed towards the study of CuII complexes of chelating ligands incorporating pyridine, thioether, imidazole and imine donors, which not only stem from their fascinating structures but also from their potential applications as new materials [14]. Meanwhile, several groups have investigated the electrochemistry and electrocatalysis of copper complexes with various different ligands. Our group have studied the electrocatalytic reduction of NO2 − by copper(II) complexes with Dpq [Cu2(Dpq)2(Ac)2(H2O)2](ClO4)2 ·H2O, and the results showed that NO2 − is reduced to N2O through one-electron reduction of Cu(II)/Cu(I) [15]. In this paper, we report two novel copper compounds: [Cu3(1,3-BDC)4(Dpq)2] (1) and [Cu2(BTC)(OH)(Dpq)2]·H2O (2), with bpy-like chelating ligand Dpq and BDC/or BTC as mixed ligands (Chart 1 a). In addition, the electrochemistry properties for the two compounds bulk-modified carbon paste electrodes (CPE) have been examined. 2 Results and discussion 2.1 Description of the structure The multi-carboxylate groups on the aromatic ring may be completely or partially deprotonated, so 1,3-BDC and BTC ligands have a great ability to construct coordination architectures with metal ions, adopting several different coordination fashions, ranging from unidentate to chelating to bridging, sometimes in more than one way in the same architecture [16]. In our work, 1,3-BDC adopted two different coordination modes in complex 1 (Chart 1b), and BTC adopted only one coordination modes in complex 2 (Chart 1c), as shown in Chart 1. In the two complexes, ligand Dpq takes a chelating coordination mode while the other two nitrogen atoms did not coordinated to the metal ions. [Cu3(1,3-BDC)4 (Dpq)2] (1): X-ray study reveals that complex 1 is a 1-D coordination polymer chains constructed from trinuclear copper clusters and 1,3-BDC linkers. As shown in Fig. 1 , the fundamental building unit of the crystal structure for 1 is composed of two kinds of crystallographical independent CuII centers [Cu(1), Cu(2)]. The Cu(2) center is penta-coordinated by three oxygen atoms belonging to three different carboxylate groups from three separated 1,3-BDC ligands [the distances: Cu(2)–O(1), 1.941(3); Cu(2)–O(3), 1.938(3); Cu(2)–O(6), 2.283(3)Å], and two nitrogen atoms from a chelating ligand Dpq with the bond distances 2.008(4) [Cu(2)–N(1)] and 2.012(3)Å [Cu(2)–N(2)], showing a distorted tetragonal pyramid geometry. The other CuII center [Cu(1)] is four coordinated by four oxygen atoms [O(2), O(2A), O(5), O(5A)] of four different carboxylate groups from four separated 1,3-BDC ligands with distances 1.917(2) and 1.9414(19)Å, respectively. All the above distances are within the normal range [17]. Three adjacent metal ions [Cu(2), Cu(1), Cu(2A)] are connected by 1,3-BDC ligands showing two different coordination modes (unidentate-bidentate and bidentate, see Chart 1b) to construct a trinuclear cluster [Cu3(Dpq)2(O2C–)6], in which the non-bonding distances of Cu⋯Cu are 3.721(5)Å [Cu(1)⋯Cu(2)], and 7.443(6)Å [Cu(2)⋯Cu(2A)], respectively. The coordination modes of 1,3-BDC in complex 1 are different from in reference 12d. 1,3-BDC only exhibits one bis(unidentate) coordination mode as bridging ligand to link two CuII ions for the compound [Cu(1,3-BDC)(Dpq)(H2O)]·C4H9NO·H2O in reference 12d. The structural differences of two compounds illustrate that the influence of coordination modes of bridging ligand 1,3-BDC in the self-assembly of polymeric coordination architectures. Adjacent trinuclear clusters are connected by bidentate-monodentate bridging ligands 1,3-BDC to form 1-D infinite chain, as shown in Fig. 2 . Moreover, the 1-D chains are extended to 2-D network by π–π stacking interaction among the aromatic rings of Dpq ligands with face-to-face distance ca. 3.57Å (see Fig. 3 ), or π–π stacking interaction between the aromatic rings of Dpq ligands and the aromatic rings of 1,3-BDC ligands with face-to-face distance ca. 3.52Å (Fig. S1, supporting information). Additionally, the 2-D networks are ultimately packed into a 3-D supramolecular structure through the two kinds of π–π stacking interaction along c-axis, see Fig. 4 . In complex 1, there exists a weak hydrogen bonding between carboxylate oxygen atoms and the Dpq carbon atoms with O⋯C distances of 3.058(8) Å [C(7)…O(6)], 3.381(6) Å [C(18)…O(7)], the hydrogen bonding angles being 122° and 147°, respectively. The weak hydrogen bonding interactions consolidate the 3-D supramolecular framework of 1. [Cu2(BTC)(OH)(Dpq)2]·H2O (2): X-ray study reveals that complex 2 is a 3-D supramolecular network based on 2-D polymer layer composed of dinuclear copper building unit [Cu2(OH)(Dpq)2] and bridging ligand BTC. The coordination environment of Cu(II) is shown in Fig. 5 . In the dinuclear structure of 2, the Cu(II) center is coordinated by two nitrogen atoms from one Dpq ligand with Cu–N distances ranging from 2.011(4) to 2.069(4)Å, two carboxylate oxygen atoms from two BTC ligands with Cu–O distances 1.965(3)–2.220(3)Å, and a hydroxyl oxygen atom [Cu(1)–O(1)=1.913(3) and Cu(2)–O(1)=1.894(3)Å], showing a penta-coordination environment. The Cu–OHydroxo bond lengths are within normal range [17], and the Cu⋯Cu separation distance (3.431Å) is similar to other dinuclear CuII-bis(μ-hydroxo) complexes [17d]. In compound 2, BTC adopted only one coordination modes, but three carboxylate groups of the BTC link three CuII ions with two different coordination modes (see Chart 1c): unidentate mode and bidentate mode. One carboxylate group links two CuII ions [Cu(1) and Cu(2)] of one dinuclear [Cu2(OH)(Dpq)2] unit through bidentate bridging mode, the other two carboxylate groups links two CuII ions [Cu(1) and Cu(2)] from two different dinuclear [Cu2(OH)(Dpq)2] units in unidentate mode. Each dinuclear unit [Cu2(OH)(Dpq)2] is linked by three BTC bridges to form a 2-D layer network, as shown in Fig. 6 (and Fig. S2, supporting information). For perspicuous representation, the dinuclear units are represented as nodes and BTC linkers are represented by triangular units. The framework can be described as a distorted mesh network, in which each dinuclear unit connects to three BTC linkers and each BTC linker connects to three dinuclear units (Fig. 7 ). Ligand Dpq, as a heteroatoms cycle ligand is adpt to form the potential π–π stacking interaction to enhance the stability of the polymers [11]. Notably, there exist weak π–π interactions between Dpq ligands in neighboring layers for 2 (ca. 3.68Å, see Fig. 8 ) [11d], resulting in a 3-D supramolecular network. Moreover, the stability of 3-D supramolecular network in 2 was strengthened by the coexistence of two kinds of hydrogen bonding interactions [O⋯O hydrogen bonding: O(1W)⋯O(2)=2.774(8)Å, O(1W)⋯O(6)=2.899(10)Å; and C⋯O hydrogen bonding: C(12)⋯O(1W)=3.135(10)Å; C(18)⋯O(6)=3.198(8)Å]. 2.2 Infrared spectra The main features in the IR spectra of 1–2 mainly concern the carboxylate groups and the ligand Dpq (Figs. S3 and S4, supporting information). The IR spectra display the typical stretching bands of carboxylate groups between 1300 and 1640cm−1, a very strong band appears at around 1620cm−1 due to the asymmetric stretching (ν as) of the carboxylate group; the symmetrical stretching (ν s) band of this group appears at 1482–1629 and 1366–1480cm−1, respectively. The bands at about 1560, 1480, 1080, and 705cm−1 may be attributed to the ν C–N stretching of the pyridyl ring or pyrazinyl ring. No strong absorption peaks around 1700cm−1 for –COOH are observed, indicating that carboxyl groups of organic moieties in 1–2 are completely deprotonated [10c,18]. Weak absorptions observed at 2920–3085cm−1 for 1–2 can be attributed to the ν C−H of the pyridyl group. The strong broad bond at around 3500cm−1 is assigned to the vibrations of hydroxyl groups. 2.3 Thermal stability analysis To examine the thermal stability of title compounds, thermal gravimetric (TG) analyses were carried out for 1 and 2 in the temperature range of 30–630°C (Figs. S5 and S6, supporting information). The TG curve of complex 1 exhibits only one obvious weight loss step, the decomposition of organic ligands Dpq and 1,3-BDC occurring between 260 and 370°C. It gives a total weight loss of 82.08%, which agrees with the calculated value of 81.70%. The remaining weight (17.92%) indicates that the final product should be CuO (calc. 18.30%). While for complex 2, two weight loss steps were observed. The continuous weight loss step from 170 to 280°C is attributed to the loss of the lattice water molecule. The weight loss is about 2.53%, in correspondence with the calculated value of 2.16%. The sharp weight loss was observed in the range 330–470°C, corresponding to the decomposition of organic ligands (78.75%, calculated value of 78.64%). The remaining weight (18.82%) corresponds to the percentage (19.20%) of Cu and O components in CuO, indicating this is the final product. 2.4 Electrochemical behavior of the Cu-CPEs The electrochemical studies of the two copper complexes modified CPE (Cu-CPEs) were carried out in 0.1M phosphates buffer aqueous solution (pH 2). Fig. 9 shows the cyclic voltammograms at a bare CPE and the modified CPEs. It can be seen from Fig. 9 that in the potential range 600 to −400mV, there is no redox peak at the bare CPE. While at the modified Cu-CPEs, a redox couple attributed to the redox of Cu(II)/Cu(I) was observed [14c,14d,19]. The mean peak potentials E 1/2 =(E pa + E pc)/2 were −31mV and −44mV for 1-CPE and 2-CPE, respectively. In fact, there was a large reduction wave due to Cu(II)+e− →Cu(I) while the oxidation wave was quite small. This was most possibly due to the instability of the reduced form of complex which can undergo a fast chemical oxidation in an aqueous solution of pH 2.0 [20]. The cyclic voltammograms exhibited one anodic and cathodic peak corresponding to redox system Cu(II)/Cu(I), which showed a quasi-reversible behavior in an aqueous medium [21]. Scan rates effect on the electrochemical behavior of the Cu-CPEs was investigated in the potential range of +600 to −400mV in 0.1M pH 2 phosphates buffer aqueous solution as shown in Fig. 10 . When the scan rate was varied from 20 to 500mVs−1, the peak potentials change gradually: the cathodic peak potentials shifted to negative direction and the corresponding anodic peak potentials shifted to positive direction with increasing scan rate. The plots of peak currents versus scan rates were shown in inset of Fig. 10. As shown in inset of Fig. 10a, the anodic and the cathodic currents were proportional to the scan rate, suggesting that the redox process for 1-CPE was surface-confined process. While for 2-CPE at scan rates lower than 120mVs−1, the peak currents were proportional to the scan rates, which indicated the redox process of 2-CPE was surface-controlled; however, at scan rates higher than 120mVs−1, the peak currents were proportional to the square root of the scan rate, which indicated the redox process of 2-CPE was diffusion-controlled (inset in Fig. 10b). The different results of the Cu-CPEs may be attributed to the different structures of copper complexes. 2.5 Electrocatalytic activity of the Cu-CPEs 2.5.1 Electrocatalytic reduction towards bromate Bromate is a disinfectant by-product contaminant found in drinking water, and is formed during the ozonation of source water containing bromide. The overpotential for BrO3 − reduction is high and therefore an efficient electrocatalyst would be beneficial [22]. The reduction of BrO3 − is totally irreversible at a glassy carbon electrode in acidic aqueous solution and does not take place prior to the evolution of hydrogen [23]. However, the reduction of BrO3 − can readily be catalyzed by Cu-CPEs in pH 2 phosphate buffer solution. Fig. 11 and Fig. S7 (supporting information) show the comparative cyclic voltammograms for the electroreduction of bromate at the surface of bare CPE and Cu-CPEs in the absence and presence of bromate in pH 2 buffer solution. Upon the addition bromate there was a dramatic enhancement of the cathodic peak current and the anodic peak current decreased, which indicated a strong catalytic effect. The insets of Fig. 11 and Fig. S7 show that catalytic currents were linear with BrO3 − concentration up to 5 or 10mM. The electrochemical behaviors and the electrocatalytic activities of Cu-CPEs are similar to that of our report in Ref. [15]. 2.5.2 Electrocatalytic reduction towards nitrite The electrocatalytic reduction of nitrite in pH 2 phosphate buffer solution was investigated at the title complexes modified CPEs, as shown in Fig. 12 (and Fig. S8, supporting information). It is well known that direct electroreduction of nitrite ion requires a large overpotential at most electrode surfaces and no obvious response is observed at a bare CPE. Our results indicate that Cu-CPEs have good electrocatalytic activity toward the reduction of nitrite. With the addition of nitrite, the reduction peak currents increase markedly while the corresponding oxidation peak currents decrease markedly. Based on the results, the electrochemical catalytic pathway is probably the reduction of NO2 − to form NO and then further reduction to N2O in the acidic aqueous solution [14e]. We have also note that high scan rate (100mVs−1) has been used to register the electrocatalytic reduction of nitrite for 1-CPE and obtained noticeable catalytic currents, which indicates the reduction of nitrite at 1-CPE are fast. 2.6 Repeatability of surface-renewal and long-term stability Compared with other modified film electrodes, the three-dimensional bulk-modified Cu-CPEs show high stability. The electrodes can be renewed by squeezing a little carbon paste out glass tube and a fresh surface is exposed whenever needed. This is especially useful for electrocatalytic study since the catalytic activity is known to decrease when the electrode is fouled. When the potential range was maintained at 600 to −400mV, it was stable over 500 cycles at a scan rate of 100mVs−1 and the current response remained almost unchanged. When the Cu-CPEs were stored at room temperature for at least 4 months, the current response decreased only 4%. Moreover, experimental results show that the two Cu-CPEs give superior stability compared with the Cu-CPE in Ref. [15]. The better stability of the Cu-CPEs could be ascribed primarily to the insolubility of the copper complexes synthesized through hydrothermal method. 2.7 Conclusions Two novel copper complexes, [Cu3(1,3-BDC)4(Dpq)2] (1) and [Cu2(BTC)(OH)(Dpq)2]·H2O (2), were synthesized under the hydrothermal condition and structurally characterized by X-ray diffraction analyses. Two complexes exhibit 1-D chain and 2-D layer structures, respectively. And the adjacent chains in 1 and the adjacent layers in 2 are further linked by π–π stacking interactions to form 3-D supramolecular framework. The complexes 1 and 2 were employed to fabricate the bulk-modified carbon paste electrodes (Cu-CPEs: 1-CPE and 2-CPE) due to their insolubility. The Cu-CPEs show good electrocatalytic activities toward the reduction of bromate and nitrite. These preliminary results in this work represent potential applications in the field of electrocatalysis. 3 Experimental 3.1 Materials and methods All reagents employed were commercially available and used as received without further purification. Dpq were synthesized by the methods of the literature [24]. FT-IR spectra (KBr pellets) were taken on a Magna FT-IR 560 Spectrometer and the elemental analyses (C, H, and N) were carried out on a Perkin–Elmer 240C elemental analyzer. Thermogravimetric analysis was carried out with a Pyris Diamond TG-DTA instrument. The electrochemical experiments were carried out using a CHI 440 Electrochemical Quartz Crystal Microbalance. A conventional three-electrode cell was used at room temperature. The modified electrode was used as working electrode. A SCE and a platinum wire were used as reference and auxiliary electrodes, respectively. 3.2 Preparation of the compounds Synthesis of [Cu3(1,3-BDC)4(Dpq)2] (1): Compound 1 was prepared by simple hydrothermal reaction of CuCl2 ·2H2O (0.034g, 0.2mmol), 1,3-H2BDC (0.0332g, 0.2mmol), Dpq (0.023g, 0.1mmol), H2O (12mL) and NaOH (0.016, 0.4mmol), the mixture was stirred for 30min in air, then transferred and sealed in a 25mL Teflon reactor, which was heated at 160°C for 6 days leads to the formation of blue block crystals 1 (29% yield based on Cu). Anal. Calc. for C60H32N8O16Cu3: C, 54.90; H, 2.46; N, 8.54%. Found: C, 54.78; H, 2.62; N, 8.42%. IR (KBr, cm−1): 3415s, 3087m, 3011w, 2919w, 2355m, 2332m, 1624s, 1570s, 1479m, 1433s, 1410m, 1380s, 1326s, 1258m, 1210w, 1128w, 1075m, 999m, 816m, 740s, 709s, 664m, 595w, 564w, 518m. Synthesis of [Cu2(BTC)(OH)(Dpq)2]·H2O (2): A mixture of CuCl2 ·2H2O (0.034g, 0.2mmol), H3BTC (0.025g, 0.12mmol), Dpq (0.023g, 0.1mmol), H2O (12mL) and NaOH (0.015g, 0.37mmol) was stirred for 30min in air, then transferred and sealed in a 25mL Teflon reactor, which was heated at 160°C for 6 days leads to the formation of yellow block crystals, and washed by water, ethanol, dried in air. Yield: ∼25% (based on Cu). Anal. Calc. for C37H22N8O8Cu2: C, 53.30; H, 2.66; N, 13.45. Found: C, 53.18; H, 2.85; N, 13.56%. IR (KBr, cm−1): 3430s, 3082w, 2927w, 2355m, 2332m, 1621s, 1552s, 1482m, 1435w, 1413m, 1350s, 1227w, 1127m, 1065s, 1034w, 949w, 810m, 763s, 725s, 702m, 663w, 624w, 532w. 3.3 Preparation of modified CPEs The modified CPEs were fabricated as follows: 0.5g graphite powder and 0.035g compounds 1 (or 2) were mixed and ground together by agate mortar and pestle for approximately 20min to achieve an even, dry mixture; to the mixture 0.20mL paraffin oil was added and stirred with a glass rod; then the homogenized mixture was used to pack 3mm inner diameter glass tubes to a length of 0.8cm. The electrical contact was established with the copper stick, and the surface of the modified CPEs was wiped with weighing paper. The same procedure was used for preparation of bare CPE without copper complex. 3.4 X-ray crystallographic study Crystallographic data for two complexes was collected at 293(2)K on a Bruker Smart 1000 CCD diffractometer with Mo Kα (λ =0.71073Å) by ω-scan mode. The structure was solved by direct methods using the shelxs program of the shelxtl package and refined by full-matrix least-squares methods with shelxl [25]. Metal atoms in the complex were located from the E-maps, and all non-hydrogen atoms were refined anisotropically. For 1 and 2, hydrogen atoms of the hydroxyl groups could not be located. The hydrogen atoms of the ligand were generated theoretically onto the specific atoms and refined isotropically with fixed thermal factors. A summary of crystal data and structure refinements for the two compounds are provided in Table 1 . Selected bond lengths and angles are listed in Tables S1 and S2. The related hydrogen bonding geometries are given in Tables S3 and S4. Acknowledgements The supports of Natural Science Foundation of Liaoning Province (No. 20061073) and Education Committee Foundation of Liaoning Province (No. 2006031) are gratefully acknowledged. Appendix A Supplementary material CCDC 678435 and 669532 contain the supplementary crystallographic data for compounds 1 and 2. These data can be obtained free of charge from The Cambridge Crystallographic Data Centre via www.ccdc.cam.ac.uk/data_request/cif. Supplementary data associated with this article can be found, in the online version, at doi:10.1016/j.jorganchem.2008.05.031. Appendix A Supplementary material Supplementary Fig. S1 2-D supramolecular network of 1 formed by π–πstacking interaction between the aromatic rings of Dpq and 1,3-BDC along b-axis (H atoms omitted for clarity). Supplementary Fig. S2 The 2-D undulating network of 2 along a-axis. (H atoms are omitted for clarity). Supplementary Fig. S3 The IR spectrum of complex 1. Supplementary Fig. S4 The IR spectrum of complex 2. Supplementary Fig. S5 TG curve for complex 1. Supplementary Fig. S6 TG curve for complex 2. Supplementary Fig. S7 Cyclic voltammograms of a bare CPE containing 2mM KBrO3 (a) and a 2-CPE in pH 2 phosphate buffer solution containing BrO 3 - concentrations of 0.0 (b), 2 (c), 4 (d), 6 (e), 8 (f), 10 (g) mM. Scan rate: 100mVs−1. Inset: the variation of cathodic peak currents vs. bromate concentrations. Supplementary Fig. S8 Cyclic voltammograms of a bare CPE in phosphate buffer solution with pH of 2 containing 2mM NaNO2 (a) and 2-CPE in phosphate buffer solution containing NO 2 - concentrations of 0.0 (b), 2 (c), 4 (d), 6 (e), 8 (f) mM. Scan rate: 50mVs−1. Crystal structure and report Supplementary data References [1] (a) G.F. Swiegers T.J. Malefetse Chem. Rev. 100 2000 3483 (b) B. Moulton M.J. Zaworotko Chem. Rev. 101 2001 1629 (c) O.M. Yaghi M. OKeeffe N.W. Ockwig H.K. Chae M. Eddaoudi J. Kim Nature 423 2003 705 (d) X.H. Bu M.L. Tong H.C. Chang S. Kitagawa S.R. Batten Angew. Chem., Int. Ed. 43 2004 192 [2] (a) C. Qin X.L. Wang E.B. Wang Z.M. Su Inorg. Chem. 44 2005 7122 (b) B. Kesanli Y. Cui M.R. Smith E.W. Bittner B.C. Bockrath W.B. Lin Angew. Chem., Int. Ed. 44 2005 72 (c) X.L. Wang C. Qin E.B. Wang Z.M. Su Chem. Eur. J. 12 2006 2680 [3] (a) M.C. Hong Y.J. Zhao W.P. Su R. Cao M. Fujita Z.Y. Zhou A.S.C. Chan Angew. Chem., Int. Ed. 39 2000 2468 (b) B.L. Chen M. Eddaoudi S.T. Hyde M. O’Keeffe O.M. Yaghi Science 291 2001 1021 (c) C.Y. Su Y.P. Cai C.L. Chen M.D. Smith W. Kaim H.C. Loye J. Am. Chem. Soc. 125 2003 8595 (d) W. Zhao Y. Song T.A. Okamura J. Fan W.Y. Sun N. Ueyama Inorg. Chem. 44 2005 3330 [4] (a) R. Sun Y.Z. Li J.F. Bai Y. Pan Cryst. Growth Des. 7 2007 890 (b) S.N. Wang H. Xing Y.Z. Li J. Bai Y. Pan M. Scheer X.Z. You Eur. J. Inorg. Chem. 2006 2006 3041 (c) S. Wang J.F. Bai H. Xing Y.Z. Li Y. Song Y. Pan M.F. Scheer X.Z. You Cryst. Growth Des. 7 2007 747 [5] (a) Q.G. Zhai C.Z. Lu X.Y. Wu S.R. Batten Cryst. Growth Des. 7 2007 2332 (b) Y.Q. Lan X.L. Wang S.L. Li Z.M. Su K.Z. Shao E.B. Wang Chem. Commun. 2007 4863 (c) X.L. Wang C. Qin E.B. Wang Z.M. Su L. Xu S.R. Batten Chem. Commun. 2005 4789 [6] (a) W. Chen J.Y. Wang C. Chen Q. Yue H.M. Yuan J.S. Chen S.N. Wang Inorg. Chem. 42 2003 944 (b) X.M. Chen G.F. Liu Chem. Eur. J. 8 2002 4844 (c) B.H. Ye M.L. Tong X.M. Chen Coord. Chem. Rev. 249 2005 545 (d) Y.B. Go X.Q. Wang E.V. Anokhina A.J. Jacobson Inorg. Chem. 43 2004 5360 [7] (a) L.Y. Zhang G.F. Liu S.L. Zheng B.H. Ye X.M. Zhang X.M. Chen Eur. J. Inorg. Chem. 2003 2003 2965 (b) Y.G. Li N. Hao E.B. Wang Y. Lu C.W. Hu L. Xu Eur. J. Inorg. Chem. 2003 2003 2567 (c) C.B. Li W. Fang G.G. Gao B. Liu Acta Crystallogr., Sect. E 62 2006 1312 (d) Q.W. Wang Q.L. Meng Z.X. Yu X.H. Zhao Acta Crystallogr., Sect. E 62 2006 3009 [8] (a) C.A. Williams A.J. Blake P. Hubberstey M. Schröder Chem. Commun. 2005 5435 (b) B.H. Ye B.B. Ding Y.Q. Weng X.M. Chen Cryst. Growth Des. 5 2005 801 (c) D.F. Sun R. Cao Y.C. Liang Q. Shi M.C. Hong J. Chem. Soc., Dalton Trans. 2002 1847 [9] (a) L.H. Xie S.X. Liu B. Gao C.D. Zhang C.Y. Sun D.H. Li Z.M. Su Chem. Commun. 2005 2402 (b) Q.R. Fang G.S. Zhu M. Xue Z.P. Wang J.Y. Sun S.L. Qiu Cryst. Growth Des. 8 2008 319 (c) F. Luo Y.X. Che J.M. Zheng Eur. J. Inorg. Chem. 2007 2007 3906 (d) J. Zhang Y.B. Chen S.M. Chen Z.J. Li J.K. Cheng Y.G. Yao Inorg. Chem. 45 2006 3161 [10] (a) S.M.F. Lo S.S.Y. Chui L.Y. Shek Z.Y. Lin X.X. Zhang G.H. Wen I.D. Williams J. Am. Chem. Soc. 122 2000 6293 (b) K. Barthelet J. Marrot D. Riou G. Férey Angew. Chem., Int. Ed. 41 2002 281 (c) X.J. Gu D.F. Xue Cryst. Growth Des. 6 2006 2551 (d) G. Marinescu M. Andruh M. Julve F. Llusar S. Uriel J. Vaissermann Cryst. Growth Des. 5 2005 261 [11] (a) X.M. Chen G.F. Liu Chem. Eur. J. 8 2002 4811 (b) M.L. Tong H.J. Chen X.M. Chen Inorg. Chem. 39 2000 2235 (c) X.M. Zhang M.L. Tong S.H. Feng X.M. Chen J. Chem. Soc., Dalton Trans. 2001 2069 (d) Gary S. Nichol William Clegg Cryst. Growth Des. 6 2006 451 [12] (a) G.B. Che C.B. Liu B. Liu Q.W. Wang Z.L. Xu CrystEngComm 10 2008 184 (b) Z.B. Han X.N. Cheng X.M. Chen Cryst. Growth Des. 5 2005 695 (c) G.B. Che C.B. Liu Acta Crystallogr., Sect. E 62 2006 1728 (d) W.Z. Zhang Acta Crystallogr., Sect. E 63 2007 1692 [13] (a) X.L. Wang Y.F. Bi G.C. Liu H.Y. Lin T.L. Hu X.H. Bu CrystEngComm 2008 349 (b) X.L. Wang Y.F. Bi H.Y. Lin G.C. Liu Cryst. Growth Des. 7 2007 1086 (c) X.L. Wang H.Y. Lin T.L. Hu J.L. Tian X.H. Bu J. Mol. Struct. 798 2006 34 [14] (a) R. Balamurugan M. Palaniandavar M.A. Halcrow Polyhedron 25 2006 1077 (b) E.H. Kim D.I. Kim H.S. Lee J.C. Byun J.H. Choi Y.C. Park Polyhedron 26 2007 85 (c) G.G. Gao L. Xu W.J. Wang W.J. An Y.F. Qiu Z.Q. Wang E.B. Wang J. Phys. Chem. B 109 2005 8948 (d) A. Salimi V. Alizadeh H. Hadadzadeh Electroanalysis 16 2004 1984 (e) S.M. Chen J. Electroanal. Chem. 457 1998 23 [15] X.L. Wang H.Y. Zhao H.Y. Lin G.C. Liu J.N. Fang B.K. Chen Electroanalysis 20 2008 1055 [16] (a) J.C. Dai X.T. Wu Z.Y. Fu C.P. Cui S.M. Hu W.X. Du L.M. Wu H.H. Zhang R.Q. Sun Inorg. Chem. 41 2002 1391 (b) X.L. Wang Y.F. Bi H.Y. Lin G.C. Liu B.K. Chen J. Organomet. Chem. 692 2007 4353 [17] (a) K.L.V. Mann J.C. Jeffery J.A. Mecleverty P. Thornton M.D. Ward J. Chem. Soc., Dalton Trans. 1998 89 (b) S. Hikichi M. Yoshizawa Y. Sasajura M. Ajita Y. Moroja J. Am. Chem. Soc. 1998 10567 (c) C.M. Liu D.Q. Zhang D.B. Zhu Cryst. Growth Des. 3 2003 363 (d) G.S. Patricia G.T. Javier D.G. Virginia G.G. Rubén L.P. José Inorg. Chem. Commun. 8 2005 259 [18] L.J. Bellamy The Infrared Spectra of Complex Molecules 1958 Wiley New York [19] B.K. Santra P.A.N. Reddy G. Neelakanta S. Mahadevan M. Nethajia A.R. Chakravartya J. Inorg. Biochem. 89 2002 191 [20] N. Fay E. Dempsey T. Mccormac J. Electroanal. Chem. 574 2005 359 [21] J.N. Younathan K.S. Wood T.J. Meyer Inorg. Chem. 31 1992 3280 [22] G.L.L. Gonzalez H. Kahlert F. Scholz Electrochim. Acta 52 2007 1968 [23] X.L. Wang E.B. Wang Y. Lan Electroanalysis 14 2002 1116 [24] J.G. Collins A.D. Sleeman J.R. Aldrich-Wright I. Greguric T.W. Hambley Inorg. Chem. 37 1998 3133 [25] (a) G.M. Sheldrick shelxs-97, Program for Crystal Structure Solution 1997 Göttingen University Germany (b) G.M. Sheldrick shelxl-97, Program for Crystal Structure Refinement 1997 Göttingen University Germany
+<h1>Supplementary</h1>
+<h2>Page 1</h2>
+<p>checkCIF/PLATON report (publication<br>check)<br>No syntax errors found. CIF dictionary<br>Please wait while processing .... Interpreting this report<br>Datablock: complex1<br>Bond precision: C-C = 0.0068 A Wavelength=0.71073<br>Cell: a=10.344(4) b=11.236(4) c=11.627(2)<br>alpha=79.103(13) beta=85.05(2) gamma=83.280(19)<br>Temperature: 293 K<br>Calculated Reported<br>Volume 1315.0(7) 1315.0(7)<br>Space group P -1 P -1<br>Hall group -P 1 ?<br>Moiety formula C60 H32 Cu3 N8 O16 C60 H32 Cu3 N8 O16<br>Sum formula C60 H32 Cu3 N8 O16 C60 H32 Cu3 N8 O16<br>Mr 1311.59 1311.59<br>Dx,g cm-3 1.656 1.656<br>Z 1 1<br>Mu (mm-1) 1.287 1.287<br>F000 663.0 663.0</p>
+<h2>Page 2</h2>
+<p>F000' 664.24<br>h,k,lmax 12,13,14 12,13,14<br>Nref 5171 5169<br>Tmin,Tmax 0.686,0.803 0.686,0.803<br>Tmin' 0.673<br>Correction method= AbsCorr=EMPIRICAL<br>Data completeness= Ratio = 1.000Theta(max)= 26.000<br>R(reflections)= 0.0480( 3750) wR2(reflections)= 0.1454( 5169)<br>S = 1.043 Npar= 458<br>The following ALERTS were generated. Each ALERT has the format<br>test-name_ALERT_alert-type_alert-level.<br>Click on the hyperlinks for more details of the test.<br>Alert level A<br>PLAT350_ALERT_3_A Short C-H Bond (0.96A) C3 - H3 ... 0.58<br>Ang.<br>PLAT350_ALERT_3_A Short C-H Bond (0.96A) C6 - H6 ... 0.63<br>Ang.<br>Alert level B</p>
+<h2>Page 3</h2>
+<p>PLAT094_ALERT_2_B Ratio of Maximum / Minimum Residual Density ....<br>4.24<br>PLAT222_ALERT_3_B Large Non-Solvent H Ueq(max)/Ueq(min) ...<br>4.60 Ratio<br>PLAT350_ALERT_3_B Short C-H Bond (0.96A) C27 - H27 ... 0.74<br>Ang.<br>Alert level C<br>ABSTY02_ALERT_1_C An _exptl_absorpt_correction_type has been given<br>without<br>a literature citation. This should be contained in the<br>_exptl_absorpt_process_details field.<br>Absorption correction given as empirical<br>PLAT232_ALERT_2_C Hirshfeld Test Diff (M-X) Cu2 -- O6_c .. 5.14<br>su<br>PLAT245_ALERT_2_C U(iso) H6 Smaller than U(eq) C6 by ... 0.02<br>AngSq<br>PLAT245_ALERT_2_C U(iso) H16 Smaller than U(eq) C16 by ... 0.01<br>AngSq<br>PLAT245_ALERT_2_C U(iso) H28 Smaller than U(eq) C28 by ... 0.01<br>AngSq</p>
+<h2>Page 4</h2>
+<p>PLAT309_ALERT_2_C Single Bonded Oxygen (C-O .GT. 1.3 Ang) ........<br>O8<br>PLAT341_ALERT_3_C Low Bond Precision on C-C Bonds (x 1000) Ang ...<br>7<br>PLAT350_ALERT_3_C Short C-H Bond (0.96A) C12 - H12 ... 0.84<br>Ang.<br>PLAT350_ALERT_3_C Short C-H Bond (0.96A) C26 - H26 ... 0.79<br>Ang.<br>PLAT351_ALERT_3_C Long C-H Bond (0.96A) C11 - H11 ... 1.15<br>Ang.<br>PLAT601_ALERT_2_C Structure Contains Solvent Accessible VOIDS of .<br>40.00 A**3<br>PLAT066_ALERT_1_C Predicted and Reported Transmissions Identical .<br>?<br>PLAT125_ALERT_4_C No _symmetry_space_group_name_Hall Given .......<br>?<br>PLAT164_ALERT_4_C Nr. of Refined C-H H-Atoms in Heavy-At Struct...<br>16<br>PLAT194_ALERT_1_C Missing _cell_measurement_reflns_used datum ....<br>?<br>PLAT779_ALERT_4_C Suspect or Irrelevant (Bond) Angle in CIF ......<br>41.18 Deg.</p>
+<h2>Page 5</h2>
+<p>O5 -C29 -CU1 1.555 1.555 1.555<br>PLAT779_ALERT_4_C Suspect or Irrelevant (Bond) Angle in CIF ......<br>44.73 Deg.<br>O2 -C22 -CU1 1.555 1.555 1.555<br>Alert level G<br>PLAT199_ALERT_1_G Check the Reported _cell_measurement_temperature<br>293 K<br>PLAT200_ALERT_1_G Check the Reported _diffrn_ambient_temperature .<br>293 K<br>2 ALERT level A = In general: serious problem<br>3 ALERT level B = Potentially serious problem<br>17 ALERT level C = Check and explain<br>2 ALERT level G = General alerts; check<br>5 ALERT type 1 CIF construction/syntax error, inconsistent or missing data<br>7 ALERT type 2 Indicator that the structure model may be wrong or deficient<br>8 ALERT type 3 Indicator that the structure quality may be low<br>4 ALERT type 4 Improvement, methodology, query or suggestion<br>0 ALERT type 5 Informative message, check</p>
+<h2>Page 6</h2>
+<p>Datablock: complex2<br>Bond precision: C-C = 0.0069 A Wavelength=0.71073<br>Cell: a=10.039(5) b=15.379(8) c=21.480(11)<br>alpha=90 beta=90 gamma=90<br>Temperature: 293 K<br>Calculated Reported<br>Volume 3316(3) 3316(3)<br>Space group P 21 21 21 P 21 21 21<br>Hall group P 2ac 2ab ?<br>Moiety formula C37 H20 Cu2 N8 O7, H2 O C37 H20 Cu2 N8 O7, H2 O<br>Sum formula C37 H22 Cu2 N8 O8 C37 H22 Cu2 N8 O8<br>Mr 833.73 833.71<br>Dx,g cm-3 1.670 1.670<br>Z 4 4<br>Mu (mm-1) 1.353 1.353<br>F000 1688.0 1688.0<br>F000' 1691.19<br>h,k,lmax 12,19,27 12,19,27<br>Nref 4057[ 7248] 7223<br>Tmin,Tmax 0.718,0.784 0.718,0.784<br>Tmin' 0.678</p>
+<h2>Page 7</h2>
+<p>Correction method= AbsCorr=EMPIRICAL<br>Data completeness= 1.78[1.00] Theta(max)= 27.000<br>R(reflections)= 0.0464( 5967) wR2(reflections)= 0.1144( 7223)<br>S = 1.043 Npar= 491<br>The following ALERTS were generated. Each ALERT has the format<br>test-name_ALERT_alert-type_alert-level.<br>Click on the hyperlinks for more details of the test.<br>Alert level A<br>PLAT093_ALERT_1_A No su's on H-atoms, but refinement reported as .<br>mixed<br>Alert level B<br>PLAT201_ALERT_2_B Isotropic non-H Atoms in Main Residue(s) ....... 1<br>Alert level C<br>ABSTY02_ALERT_1_C An _exptl_absorpt_correction_type has been given<br>without<br>a literature citation. This should be contained in the<br>_exptl_absorpt_process_details field.<br>Absorption correction given as empirical</p>
+<h2>Page 8</h2>
+<p>PLAT094_ALERT_2_C Ratio of Maximum / Minimum Residual Density ....<br>2.53<br>PLAT220_ALERT_2_C Large Non-Solvent C Ueq(max)/Ueq(min) ...<br>2.78 Ratio<br>PLAT241_ALERT_2_C Check High Ueq as Compared to Neighbors for<br>O6<br>PLAT341_ALERT_3_C Low Bond Precision on C-C Bonds (x 1000) Ang ...<br>7<br>PLAT066_ALERT_1_C Predicted and Reported Transmissions Identical .<br>?<br>PLAT125_ALERT_4_C No _symmetry_space_group_name_Hall Given .......<br>?<br>PLAT194_ALERT_1_C Missing _cell_measurement_reflns_used datum ....<br>?<br>PLAT720_ALERT_4_C Number of Unusual/Non-Standard Labels ..........<br>2<br>Alert level G<br>REFLT03_ALERT_4_G Please check that the estimate of the number of<br>Friedel pairs is<br>correct. If it is not, please give the correct count in the<br>_publ_section_exptl_refinement section of the submitted CIF.</p>
+<h2>Page 9</h2>
+<p>From the CIF: _diffrn_reflns_theta_max 27.00<br>From the CIF: _reflns_number_total 7223<br>Count of symmetry unique reflns 4057<br>Completeness (_total/calc) 178.04%<br>TEST3: Check Friedels for noncentro structure<br>Estimate of Friedel pairs measured 3166<br>Fraction of Friedel pairs measured 0.780<br>Are heavy atom types Z>Si present yes<br>PLAT199_ALERT_1_G Check the Reported _cell_measurement_temperature<br>293 K<br>PLAT200_ALERT_1_G Check the Reported _diffrn_ambient_temperature .<br>293 K<br>PLAT804_ALERT_5_G ARU-Pack Problem in PLATON Analysis ............<br>27 Times<br>1 ALERT level A = In general: serious problem<br>1 ALERT level B = Potentially serious problem<br>9 ALERT level C = Check and explain<br>4 ALERT level G = General alerts; check<br>6 ALERT type 1 CIF construction/syntax error, inconsistent or missing data<br>4 ALERT type 2 Indicator that the structure model may be wrong or deficient</p>
+<h2>Page 10</h2>
+<p>1 ALERT type 3 Indicator that the structure quality may be low<br>3 ALERT type 4 Improvement, methodology, query or suggestion<br>1 ALERT type 5 Informative message, check<br>checkCIF publication errors<br>Alert level A<br>PUBL004_ALERT_1_A The contact author's name and address are missing,<br>_publ_contact_author_name and _publ_contact_author_address.<br>PUBL005_ALERT_1_A _publ_contact_author_email,<br>_publ_contact_author_fax and<br>_publ_contact_author_phone are all missing.<br>At least one of these should be present.<br>PUBL006_ALERT_1_A _publ_requested_journal is missing<br>e.g. 'Acta Crystallographica Section C'<br>PUBL008_ALERT_1_A _publ_section_title is missing. Title of paper.<br>PUBL009_ALERT_1_A _publ_author_name is missing. List of author(s)<br>name(s).<br>PUBL010_ALERT_1_A _publ_author_address is missing. Author(s)<br>address(es).<br>PUBL012_ALERT_1_A _publ_section_abstract is missing.<br>Abstract of paper in English.</p>
+<h2>Page 11</h2>
+<p>Alert level G<br>PUBL013_ALERT_1_G The _publ_section_comment (discussion of study) is<br>missing. This is required for a full paper submission (but is<br>optional for an electronic paper).<br>PUBL017_ALERT_1_G The _publ_section_references section is missing or<br>empty.<br>7 ALERT level A = Data missing that is essential or data in wrong format<br>2 ALERT level G = General alerts. Data that may be required is missing<br>Publication of your CIF<br>You should always attempt to resolve as many as possible of the alerts in all categories. Often<br>the minor alerts point to easily fixed oversights, errors and omissions in your CIF or refinement<br>strategy, so attention to these fine details can be worthwhile. In order to resolve some of the<br>more serious problems it may be necessary to carry out additional measurements or structure<br>refinements. However, the nature of your study may justify the reported deviations from the<br>submission requirements of the journal and these should be commented upon in the<br>discussion or experimental section of a paper - after all, they might represent an interesting<br>feature.<br>If level A alerts remain, which you believe to be justified deviations, and you intend to submit</p>
+<h2>Page 12</h2>
+<p>this CIF for publication in Acta Crystallographica Section C or Section E, you should<br>additionally insert an explanation in your CIF using the Validation Reply Form (VRF) below.<br>Your explanation will be considered as part of the review process.<br>If you intend to submit to another section of Acta Crystallographica or Journal of Applied<br>Crystallography or Journal of Synchrotron Radiation, you should make sure that at least a<br>basic structural check is run on the final version of your CIF prior to submission.<br># start Validation Reply Form<br>_vrf_PUBL004_GLOBAL<br>;<br>PROBLEM: The contact author's name and address are missing,<br>RESPONSE: ...<br>;<br>_vrf_PUBL005_GLOBAL<br>;<br>PROBLEM: _publ_contact_author_email, _publ_contact_author_fax and<br>RESPONSE: ...<br>;<br>_vrf_PUBL006_GLOBAL<br>;<br>PROBLEM: _publ_requested_journal is missing<br>RESPONSE: ...</p>
+<h2>Page 13</h2>
+<p>;<br>_vrf_PUBL008_GLOBAL<br>;<br>PROBLEM: _publ_section_title is missing. Title of paper.<br>RESPONSE: ...<br>;<br>_vrf_PUBL009_GLOBAL<br>;<br>PROBLEM: _publ_author_name is missing. List of author(s) name(s).<br>RESPONSE: ...<br>;<br>_vrf_PUBL010_GLOBAL<br>;<br>PROBLEM: _publ_author_address is missing. Author(s) address(es).<br>RESPONSE: ...<br>;<br>_vrf_PUBL012_GLOBAL<br>;<br>PROBLEM: _publ_section_abstract is missing.<br>RESPONSE: ...<br>;<br>_vrf_PLAT350_complex1</p>
+<h2>Page 14</h2>
+<p>;<br>PROBLEM: Short C-H Bond (0.96A) C3 - H3 ... 0.58 Ang.<br>RESPONSE: ...<br>;<br>_vrf_PLAT093_complex2<br>;<br>PROBLEM: No su's on H-atoms, but refinement reported as . mixed<br>RESPONSE: ...<br>;<br># end Validation Reply Form<br>If you wish to submit your CIF for publication in Acta Crystallographica Section C or E, you<br>should upload your CIF via the web. If your CIF is to form part of a submission to another IUCr<br>journal, you will be asked, either during electronic submission or by the Co-editor handling<br>your paper, to upload your CIF via our web site.<br>PLATON version of 29/04/2008; check.def file version of 22/04/2008<br>Datablock complex1 - ellipsoid plot</p>
+<h2>Page 15</h2>
+<p>Datablock complex2 - ellipsoid plot</p>
+<h2>Page 16</h2>
+<p>Download CIF editor (enCIFer) from the CCDC<br>Test a new CIF entry</p>
+
+<h2>Page 1</h2>
+<p>Supporting Information<br>Table S1. Selected Bond Distances (Å) and Angles (deg) for Complex 1<br>Cu(1)–O(5) 1.919(3) Cu(2)–O(1)B 1.941(3)<br>Cu(1)–O(5)A 1.919(3) Cu(2)–N(1) 2.008(4)<br>Cu(1)–O(2) 2.010(3) Cu(2)–N(2) 2.012(3)<br>Cu(1)–O(2)A 2.010(3) Cu(2)–O(6)B 2.283(3)<br>Cu(2)–O(3) 1.938(3)<br>O(5)–Cu(1)–O(5)A 180.0(2) O(1)B–Cu(2)–N(1) 168.48(15)<br>O(5)–Cu(1)–O(2) 88.12(14) O(3)–Cu(2)–N(2) 173.05(14)<br>O(5)A–Cu(1)–O(2) 91.88(14) O(1)B–Cu(2)–N(2) 88.70(13)<br>O(5)–Cu(1)–O(2)A 91.88(14) N(1)–Cu(2)–N(2) 81.32(14)<br>O(5)A–Cu(1)–O(2)A 88.12(14) O(3)–Cu(2)–O(6)B 86.60(13)<br>O(2)–Cu(1)–O(2)A 180.00(18) O(1)B–Cu(2)–O(6)B 94.05(13)<br>O(3)–Cu(2)–O(1)B 93.00(13) N(1)–Cu(2)–O(6)B 93.34(14)<br>O(3)–Cu(2)–N(1) 96.24(14) N(2)–Cu(2)–O(6)B 100.00(13)<br>Symmetry code: A: -x+2,-y+1,-z-1 B: -x+2,-y+1,-z<br>Table S2. Selected Bond Distances (Å) and Angles (deg) for Complex 2<br>Cu(1)–O(1) 1.913(3) Cu(2)–O(1) 1.894(3)<br>Cu(1)–O(3) 1.994(3) Cu(2)–O(5) 1.965(3)<br>Cu(1)–N(1) 2.011(4) Cu(2)–N(4) 2.020(4)<br>Cu(1)–N(2) 2.069(4) Cu(2)–N(3) 2.068(4)<br>Cu(1)–O(8) 2.175(3) Cu(2)–O(4) 2.220(3)<br>O(1)–Cu(1)–O(3) 89.28(12) O(3)–Cu(1)–N(1) 91.73(14)<br>O(1)–Cu(1)–N(1) 175.41(15) O(1)–Cu(1)–N(2) 97.54(14)<br>O(3)–Cu(1)–N(2) 157.67(14) N(1)–Cu(1)–N(2) 79.90(15)<br>O(1)–Cu(1)–O(8) 94.52(13) O(3)–Cu(1)–O(8) 103.72(13)<br>N(1)–Cu(1)–O(8) 89.59(15) N(2)–Cu(1)–O(8) 96.94(15)<br>O(1)–Cu(2)–O(5) 97.45(13) O(1)–Cu(2)–N(4) 172.43(14)<br>O(5)–Cu(2)–N(4) 88.75(14) O(1)–Cu(2)–N(3) 92.66(14)<br>O(5)–Cu(2)–N(3) 155.60(15) N(4)–Cu(2)–N(3) 79.96(15)<br>O(1)–Cu(2)–O(4) 91.56(13) O(5)–Cu(2)–O(4) 104.26(14)<br>N(4)–Cu(2)–O(4) 91.12(15) N(3)–Cu(2)–O(4) 97.58(15)</p>
+<h2>Page 2</h2>
+<p>Supporting Information<br>Table S3. Hydrogen-bonding geometry (Å, °) for Complex 1<br>D–H…A D–H H…A D…A D–H…A<br>C(7)–H(7)…O(6)a 0.98(7) 2.43(7) 3.058(8) 122(5)<br>C(18)–H(18)…O(7)b 0.96(5) 2.54(5) 3.381(6) 147(4)<br>Symmetry code for (a) -1+x,1+y,1+z (b) 1+x,y,z<br>Table S4. Hydrogen-bonding geometry (Å, °) for Complex 2<br>D–H…A D–H H…A D…A D–H…A<br>O(1W)–H(1WA)…O(2)a 0.95(9) 1.85(9) 2.774(8) 164(8)<br>O(1W)–H(1WB)…O(6)a 0.85(12) 2.08(12) 2.899(10) 162(11)<br>C(12)–H(12A)…O(1W)b 0.93(8) 2.37(9) 3.135(10) 139(9)<br>C(18)–H(18A)…O(6)c 0.93(9) 2.38(10) 3.198(8) 147(8)<br>Symmetry code for (a) -1+x,y,z (b) -x,1/2+y,1/2-z (c) 1/2-x,1-y,1/2+z</p>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Table S3. Hydrogen-bonding geometry (Å, °) for</th>
+      <th>Complex 1</th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table><br><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>D–H</th>
+      <th>…</th>
+      <th>A</th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table><br><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>H</th>
+      <th>…</th>
+      <th>A</th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table><br><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>D</th>
+      <th>…</th>
+      <th>A</th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table><br><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>D–H</th>
+      <th>…</th>
+      <th>A</th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table><br><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>C(7)</th>
+      <th>–H</th>
+      <th>(7)</th>
+      <th>…</th>
+      <th>O(</th>
+      <th>6)</th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table><br><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>C(18)</th>
+      <th>–H</th>
+      <th>(18)</th>
+      <th>…</th>
+      <th>O</th>
+      <th>(7</th>
+      <th>)</th>
+      <th>b</th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table><br><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Symmetry code for (a)</th>
+      <th>-1+x,1+y,1+z (b) 1+x,y,z</th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table><br><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Table S4. Hydrogen-bonding geometry (Å, °) for</th>
+      <th>Complex</th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table><br><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>D–H</th>
+      <th>…</th>
+      <th>A</th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table><br><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>H</th>
+      <th>…</th>
+      <th>A</th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table><br><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>D</th>
+      <th>…</th>
+      <th>A</th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table><br><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>D–H</th>
+      <th>…</th>
+      <th>A</th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table><br><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>O</th>
+      <th>(</th>
+      <th>1W</th>
+      <th>)</th>
+      <th>–H</th>
+      <th>(1WA)</th>
+      <th>…</th>
+      <th>O(2</th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table><br><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>O</th>
+      <th>(</th>
+      <th>1W</th>
+      <th>)</th>
+      <th>–H</th>
+      <th>(1WB</th>
+      <th>)…</th>
+      <th>O(6</th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table><br><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>0.85</th>
+      <th>(12</th>
+      <th>)</th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table><br><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>2.08(</th>
+      <th>12</th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table><br><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>2.899(</th>
+      <th>10</th>
+      <th>)</th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table><br><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>C</th>
+      <th>(</th>
+      <th>12)–H(1</th>
+      <th>2A</th>
+      <th>)…</th>
+      <th>O(1W</th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table><br><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>0.</th>
+      <th>93(8)</th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table><br><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>2.</th>
+      <th>37(9)</th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table><br><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>1</th>
+      <th>39(9)</th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table><br><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>C(1</th>
+      <th>8</th>
+      <th>)–H(1</th>
+      <th>8A</th>
+      <th>)…</th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table><br><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>0.93</th>
+      <th>(9)</th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table><br><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>2.</th>
+      <th>3</th>
+      <th>8</th>
+      <th>(10</th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table><br><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>1</th>
+      <th>47(8)</th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table><br>
+</body></html>

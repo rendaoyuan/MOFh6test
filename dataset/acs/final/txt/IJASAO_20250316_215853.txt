@@ -1,0 +1,5 @@
+IJASAO
+Chemical_Name: catena-((μ4-2,3,5,6-Tetramethylterephthalato)-bis(μ2-2,3,5,6-tetramethylterephthalato)-bis(1,10-phenanthroline)-di-erbium)
+Number: 747683
+Synonyms: N/A
+Er2(TBDC)3(phen)2·4dmf·2H2O (5) A mixture of ErCl3·6H2O (40 mg, 0.11 mmol), H2TBDC (20 mg, 0.09 mmol) and phen (10 mg, 0.06 mmol) was suspended in mixed solution of DMF/EtOH/H2O (V/V = 5:2:1, 15 ml), and heated in an uncovered tube at 50 ℃ for 3 days. The light pink needlelike crystals formed were collected, washed with ethanol and dried in the air. Yield: 51% (based on H2TBDC).

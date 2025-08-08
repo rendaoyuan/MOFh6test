@@ -1,0 +1,5 @@
+VEFMEA
+Chemical_Name: catena-((μ2-4,4'-Azopyridine)-(pyridine-2,6-dicarboxylato)-zinc(ii) tetrahydrate)
+Number: 861523
+Synonyms: N/A
+Preparation of Zn(PDA)(AZPY)·4H2O (1) A mixture of Zn(NO3)2·6H2O (0.0297g, 0.1mmol), H2PDA (0.01667g, 0.1mmol, AZPY (0.0184g, 0.1mmol) combined with 6mL DMF was stirred for 20min at room temperature. Then the solution was heated in a 30mL Teflon-lined stainless-steel vessel at 160°C for 3days, and then cooled to room temperature at the rate of 10°Ch−1. The colorless block-shaped crystalline product was collected by filtration, washed with DMA, and then air-dried.

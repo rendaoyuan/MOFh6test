@@ -1,0 +1,5 @@
+CAXPIC
+Chemical_Name: catena-[bis(μ4-5-Nitroisophthalato-O,O,O',O',O'',O''')-bis(μ4-5-nitroisophthalato-O,O',O'',O''')-bis(μ3-1,2,4-triazolato)-diaqua-penta-cobalt(ii)]
+Number: 849289
+Synonyms: N/A
+For compound-I, Co(CH3 COO)2·4H2O (0.249 g, 1 mM) was dissolved in 10 mL of water. To this, 5-nitroisophthalic acid (0.211 g, 1 mM) and 1,2,4-triazole (0.035 g, 0.5 mM) were added under continuous stirring. The mixture was homogenized for 30 min at room temperature. The final mixture was transferred, sealed in a 23 mL PTFE lined stainless steel autoclave and heated at 220 °C for 1 day under autogeneous pressure. The pH of the initial reaction mixture was found to be 5.1 while after the reaction, it was 4.5. The final product in all the cases contained large quantities of purple colored single crystals only, which were filtered under vacuum, washed with deionized water and dried under ambient conditions. The yields of the reactions are 63% for compound-I (yields are based on Co).

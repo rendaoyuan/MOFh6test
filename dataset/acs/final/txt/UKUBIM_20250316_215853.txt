@@ -1,0 +1,5 @@
+UKUBIM
+Chemical_Name: catena-((μ4-tetrakis((Pyridin-4-yloxy)methyl)methane)-bis(hydrogen sulfido)-cadmium tetrahydrate)
+Number: 763094
+Synonyms: N/A
+Preparation of [Cd(tpom)(SH)2] 3 4H2O (MSF-1). To the solution of tbms (0.024 g, 0.093 mmol) in 1.5 mL of N,N-dimethylformamide (DMF) was added a solution of Cd(NO3)2 3 4H2O (0.031 g, 0.10 mmol) in DMF (1.5 mL) to give a white solid. Aqueous HCl (1:1 volume) was added dropwise to the mixture until the solid disappeared, where the pH was about 5. To the above solution was added the solution of tpom (0.022 g, 0.049 mmol) in DMF (2 mL). A white precipitate appeared and disappeared after adding a drop of aqueous HCl (1:1; pH ∼5). The mixture was transferred into a vial, which was then sealed and heated at 100 °C for 3 days. The vial was then allowed to cool down to room temperature. Colorless octahedral crystals (0.031 g) were obtained by filtration and washed with DMF and acetonitrile three times each, respectively. Yield: 91.2% (based on tpom).

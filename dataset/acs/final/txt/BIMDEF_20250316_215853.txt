@@ -1,0 +1,5 @@
+BIMDEF
+Chemical_Name: catena-((μ8-1,3,5,7-adamantanetetracarboxylato)-diaqua-di-copper(ii) tetrahydrate)
+Number: 1111094
+Synonyms: N/A
+No synthesis method found for compound as-synthesized

@@ -1,0 +1,7 @@
+TADDOT
+Chemical_Name: catena-[(μ4-diethyl ((phenylsulfonyl)methyl)phosphonato-O,O,O',O',O'')-(μ4-diethyl ((phenylsulfonyl)methyl)phosphonato-O,O,O',O'',O'')-bis(μ2-chloro)-aqua-tri-lead]
+Number: 776499
+Synonyms: N/A
+Synthesis of [Pb3(L)2Cl2(H2O)] (1): A mixture of PbCl2 (0.32 mmol), Ph–SO2–CH2–PO(OEt)2 (0.30 mmol), and two drops of an HCl solution (1 ) in distilled water (12 mL) was sealed in a Parr Teflon-lined autoclave (23 mL) and heated at 150 °C for 3 d. The final pH value was ≈2.0 and colorless plate-shaped crystals of 1 were collected in approximately 78% yield (0.098 g) based on Pb.
+Abbreviation: L
+Full Name: Ph–SO2–CH2–PO3

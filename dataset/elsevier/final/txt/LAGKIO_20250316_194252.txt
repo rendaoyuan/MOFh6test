@@ -1,0 +1,5 @@
+LAGKIO
+Chemical_Name: catena-(bis(μ6-Trimesato)-tetra-aqua-di-cadmium(ii)-cobalt(ii) dihydrate)
+Number: 214203
+Synonyms: N/A
+0.134 g (0.502 mmol) cadmium(II) acetate dihydrate, 0.063 g (0.250 mmol) cobalt(II) acetate tetrahydrate, 0.106 g H3TMA (0.504 mmol), 1 ml pyridine and 12 ml water were loaded into a 23 cm3 Teflon-lined stainless-steel vessel, which was then sealed and placed in a programmable furnace. The resulting mixture was heated at a rate of ca. 100 °C h−1 to 140 °C and held at that temperature for three days, then cooled to room temperature at a rate of ca. 3 °C h−1 to give a 24.14% yield of 3 based on Cd, as pink crystals which were mechanically separated from the reaction mixture of a white solid, and washed with water (3×10 ml) and absolute alcohol (3×10 ml), then dried at 40 °C.

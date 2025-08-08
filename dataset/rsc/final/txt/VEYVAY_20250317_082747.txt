@@ -1,0 +1,5 @@
+VEYVAY
+Chemical_Name: catena-[μ4-Dihydrogenmellitato)-(μ2-2,4,6-tris(4-pyridyl)-1,3,5-triazine)-hexaaqua-di-cobalt hydrate]
+Number: 928746
+Synonyms: N/A
+A mixture of CoCl2?6H2O (75 mg, 0.30 mmol), tpt (14 mg, 0.05 mmol), mellitic acid (18 mg, 0.05 mmol), and H2O (6.0 mL) was heated in a stainless steel reactor with Teflon liner at 140 uC for 24 h and then was cooled slowly. Rosy, block crystals of 3a (y43% yield) formed together with some colorless crystals, which were easily removed.

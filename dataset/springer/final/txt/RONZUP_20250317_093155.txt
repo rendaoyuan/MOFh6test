@@ -1,0 +1,5 @@
+RONZUP
+Chemical_Name: catena-(trans-bis(Pyridyl)-tetrakis(μ2-cyano)-di-silver(i)-cadmium(ii) pyrrole clathrate)
+Number: None
+Synonyms: N/A
+To an aqueous solution containing 5 mmol of CdC12, 10 mmol of K[Ag(CN)2] and 3 mL of py, appropriate amounts of 2-aminoethanol (mea) and citric acid were added to obtain 200 mL of a clear aqueous solution at pH 9.5. The solution was covered with a pyrrole layer and allowed to stand in a refrigerator at 5 °C for several weeks. Colourless block crystals were obtained.

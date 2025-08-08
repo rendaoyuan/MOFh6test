@@ -1,0 +1,5 @@
+OROJEL
+Chemical_Name: catena-(bis(μ2-2,3-bis(Benzimidazol-1-ylmethyl)quinoxaline)-bis(μ2-iodo)-di-copper(i) chloroform solvate)
+Number: 806088
+Synonyms: N/A
+A buffer layer of a solution (5 mL) of CH3CN and CHCl3 (v:v = 1:1) was carefully layered over a CHCl3 solution (5 mL) of L (39 mg, 0.1 mmol). Then a solution of CuI (15 mg, 0.1 mmol) in CH3CN (5 mL) was layered over the buffer layer. The solution was left for about two weeks at room temperature, and yellow block crystals were obtained. Yield ∼30%.

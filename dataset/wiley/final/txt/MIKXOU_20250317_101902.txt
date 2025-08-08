@@ -1,0 +1,7 @@
+MIKXOU
+Chemical_Name: N/A
+Number: N/A
+Synonyms: N/A
+A methanolic solution (20 mL) of CuACHTUNGTRENUNG(ClO4)2·6H2O (0.30 g, 0.81 mmol) was added slowly to a magnetically stirred methanolic solution (15 mL) of H3L (0.09 g, 0.36 mmol). The mixture was stirred in air for 45 min while NEt3 (0.10 mL, 0.72 mmol) was added, whereby a deep-green solution was formed. An aqueous solution (10 mL) of NaN3 (0.023 g, 0.36 mmol) was added, and the mixture was heated at reflux for 1 h. The solution was then cooled to ambient temperature, filtered, and kept under air. Single crystals of 1 (0.63 g, 75%) for X-ray crystallography were obtained upon slow evaporation of the filtrate at ambient temperature for a few days.
+Abbreviation: H3L
+Full Name: 2,6-bis(hydroxyethyliminoethyl)-4-methyl phenol

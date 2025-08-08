@@ -1,0 +1,5 @@
+UPOZAB
+Chemical_Name: catena-(tris(μ6-oxanthreno(2,3-d:7,8-d')-bis(1,2,3-triazolato))-tetrachloro-penta-zinc unknown solvate)
+Number: 776578
+Synonyms: MFU-4l
+H2-BTDD (760 mg, 2.77 mmol) was dissolved in DMF (760 mL) under stirring and heating at 145 °C for 30 min. Anhydrous zinc chloride (7.78 g, 57.2 mmol) was added to a cooled (ca. 50 °C) solution of linker and the mixture was stirred until the zinc chloride was completely dissolved. The resulting solution was heated with stirring under reflux at 145 °C for 18 h and then cooled down to room temperature. The precipitate was removed by filtration, washed slowly with DMF (3 × 50 mL), methanol (3 × 50 mL), and dichloromethane (3 × 50 mL), and dried for 24 h at 180 °C under vacuum (ca. 0.2 mbar). Yield 940 mg (90% based on ligand) of an almost white microcrystalline powder.

@@ -1,0 +1,394 @@
+{
+    "VIJPAH": [
+        {
+            "abbreviation": "Abbreviation: H2O",
+            "full_name": "Full Name: water"
+        }
+    ],
+    "FUNLAD": [
+        {
+            "abbreviation": "Abbreviation: H2SDC",
+            "full_name": "Full Name: trans,trans-4,4′-stilbenedicarboxylic acid"
+        }
+    ],
+    "XIJPOX": [
+        {
+            "abbreviation": "Abbreviation: L1",
+            "full_name": "Full Name: 1,4-bis(5,6-dimethylbenzimidazole-1-ylmethyl) benzene"
+        },
+        {
+            "abbreviation": "Abbreviation: L2",
+            "full_name": "Full Name: 1,2-bis(5,6-dimethylbenzimidazole-1-ylmethyl)benzene"
+        }
+    ],
+    "XUWRIR01": [
+        {
+            "abbreviation": "Abbreviation: H2dpa",
+            "full_name": "Full Name: 2,20-biphenyldicarboxylate"
+        }
+    ],
+    "MIJXUZ": [
+        {
+            "abbreviation": "Abbreviation: L1",
+            "full_name": "Full Name: 1,3,5-tris(diphenylphosphino)benzene"
+        },
+        {
+            "abbreviation": "Abbreviation: L2",
+            "full_name": "Full Name: 2,4,6-tris(diphenylphosphino)pyrimidine"
+        },
+        {
+            "abbreviation": "Abbreviation: L3",
+            "full_name": "Full Name: 2,4,6-tris(diphenylphosphino)triazine"
+        }
+    ],
+    "QORTAU": [
+        {
+            "abbreviation": "Abbreviation: Abbreviation:",
+            "full_name": "Full Name: H4L"
+        },
+        {
+            "abbreviation": "Abbreviation: Abbreviation:",
+            "full_name": "Full Name: L"
+        }
+    ],
+    "KARLAS": [
+        {
+            "abbreviation": "Abbreviation: L2",
+            "full_name": "Full Name: Linear dicarboxylates"
+        },
+        {
+            "abbreviation": "Abbreviation: L4",
+            "full_name": "Full Name: Tetracarboxylate"
+        },
+        {
+            "abbreviation": "Abbreviation: L1",
+            "full_name": "Full Name: Monodentate ligand"
+        },
+        {
+            "abbreviation": "Abbreviation: L6",
+            "full_name": "Full Name: Hexacarboxylate"
+        },
+        {
+            "abbreviation": "Abbreviation: L2N",
+            "full_name": "Full Name: Exobidentate ligand similar to 4,4′-bipyridine"
+        },
+        {
+            "abbreviation": "Abbreviation: L3",
+            "full_name": "Full Name: Tricarboxylate"
+        },
+        {
+            "abbreviation": "Abbreviation: H2L",
+            "full_name": "Full Name: Pyrazole-3,5-dicarboxylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H3L",
+            "full_name": "Full Name: Pyrazole-3,5-dicarboxylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: L1H2",
+            "full_name": "Full Name: (4-carboxymethoxy-2,3-bis-arylsulfanyl naphthalene-1-yloxy) acetic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H4L",
+            "full_name": "Full Name: Methanetetra(tetrakis[4-(carboxyphenyl)oxamethyl]methane acid)"
+        },
+        {
+            "abbreviation": "Abbreviation: L",
+            "full_name": "Full Name: 1,2-bis[4-(pyrimidin-4-yl)phenoxy]ethane"
+        },
+        {
+            "abbreviation": "Abbreviation: L",
+            "full_name": "Full Name: N,N′-di(4-pyridyl)suberoamide"
+        },
+        {
+            "abbreviation": "Abbreviation: H2L",
+            "full_name": "Full Name: 5-(pyridin-4-yl)isophthalic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H4L",
+            "full_name": "Full Name: (Et)-2,2′-diethoxy-1,1′-binaphthyl-4,4′,6,6′-tetrabenzoate"
+        },
+        {
+            "abbreviation": "Abbreviation: L",
+            "full_name": "Full Name: (R)-2,2′-diethoxy-1,1′-binaphthyl-4,4′,6,6′-tetrabenzoate"
+        }
+    ],
+    "MULXUN": [
+        {
+            "abbreviation": "Abbreviation: L1",
+            "full_name": "Full Name: e,a-cis-chdc²⁻"
+        },
+        {
+            "abbreviation": "Abbreviation: L2",
+            "full_name": "Full Name: e,e-trans-chdc²⁻"
+        }
+    ],
+    "QETSOY": [
+        {
+            "abbreviation": "Abbreviation: H4btec",
+            "full_name": "Full Name: 1,2,4,5-benzenetetracarboxylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H4btec",
+            "full_name": "Full Name: 1,2,4,5-benzenetetracarboxylic dianhydride"
+        },
+        {
+            "abbreviation": "Abbreviation: H2btec",
+            "full_name": "Full Name: Protonated 1,2,4,5-benzenetetracarboxylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: btec",
+            "full_name": "Full Name: Deprotonated 1,2,4,5-benzenetetracarboxylic dianhydride"
+        }
+    ],
+    "YACTUS01": [
+        {
+            "abbreviation": "Abbreviation: L2−",
+            "full_name": "Full Name: the acid radical of H2phth"
+        },
+        {
+            "abbreviation": "Abbreviation: H2phth",
+            "full_name": "Full Name: phthalic acid"
+        }
+    ],
+    "NAZWOC": [
+        {
+            "abbreviation": "Abbreviation: H2oba",
+            "full_name": "Full Name: 2-(4-carboxyphenoxy)benzoic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: oba2-",
+            "full_name": "Full Name: (Derived from) 2-(4-carboxyphenoxy)benzoic acid"
+        }
+    ],
+    "ROHVOB": [
+        {
+            "abbreviation": "Abbreviation: L1",
+            "full_name": "Full Name: 1,3-bis(2-methylbenzimidazol-1-ylmethyl)benzene"
+        },
+        {
+            "abbreviation": "Abbreviation: L2",
+            "full_name": "Full Name: 1,3-bis(benzimidazol-1-ylmethyl)benzene"
+        },
+        {
+            "abbreviation": "Abbreviation: H2bdc",
+            "full_name": "Full Name: 1,3-benzenedicarboxylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H4btec",
+            "full_name": "Full Name: 1,2,4,5-benzenetetracarboxylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: L3",
+            "full_name": "Full Name: 1,4-bis(2-methylbenzimidazol-1-ylmethyl)benzene"
+        }
+    ],
+    "IYUMEU": [
+        {
+            "abbreviation": "Abbreviation: L1",
+            "full_name": "Full Name: 1,4-bis(3-pyridyl)-2,3-diaza-1,3-butadiene"
+        },
+        {
+            "abbreviation": "Abbreviation: L2",
+            "full_name": "Full Name: 1,4-bis(4-pyridyl)-2,3-diaza-1,3-butadiene"
+        }
+    ],
+    "AMIYEB01": [
+        {
+            "abbreviation": "Abbreviation: H2L",
+            "full_name": "Full Name: 1,4-benzenedicarboxylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: L",
+            "full_name": "Full Name: 1,10-(1,4-butanediyl)bis(imidazole)"
+        }
+    ],
+    "TEWPUI": [
+        {
+            "abbreviation": "Abbreviation: H2bdc",
+            "full_name": "Full Name: 1,3-benzenedicarboxylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H2da",
+            "full_name": "Full Name: diphenic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H4bptc",
+            "full_name": "Full Name: 3,30,4,40-biphenyltetracarboxylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H2bpdc",
+            "full_name": "Full Name: 2,20-bipyridine-3,30-dicarboxylic acid"
+        }
+    ],
+    "NATQUW": [
+        {
+            "abbreviation": "Abbreviation: H4btca",
+            "full_name": "Full Name: 1, 2, 4, 5-benzenetetracarboxylic acid"
+        }
+    ],
+    "HEPRIE": [
+        {
+            "abbreviation": "Abbreviation: L",
+            "full_name": "Full Name: cyclam"
+        }
+    ],
+    "MOJRAG": [
+        {
+            "abbreviation": "Abbreviation: L",
+            "full_name": "Full Name: N,N′-bis(pyridine-3-yl)pyridine-3,5-dicarboxamide"
+        },
+        {
+            "abbreviation": "Abbreviation: H2ox",
+            "full_name": "Full Name: Oxalic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H2chda",
+            "full_name": "Full Name: trans-1,4-cyclohexanedicarboxylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H2mip",
+            "full_name": "Full Name: 5-methylisophthalic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H2oba",
+            "full_name": "Full Name: 4,4′-oxybis(benzoic acid)"
+        },
+        {
+            "abbreviation": "Abbreviation: L",
+            "full_name": "Full Name: N-donor ligand"
+        },
+        {
+            "abbreviation": "Abbreviation: L",
+            "full_name": "Full Name: Semi-rigid tri-pyridyl-bis-amide ligand"
+        }
+    ],
+    "ISEFUI": [
+        {
+            "abbreviation": "Abbreviation: H2nico",
+            "full_name": "Full Name: 2-hydroxy-nicotinic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: Hnico",
+            "full_name": "Full Name: anion of 2-hydroxy-nicotinic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: Hnico",
+            "full_name": "Full Name: Hnico ligand"
+        }
+    ],
+    "YISTUR": [
+        {
+            "abbreviation": "Abbreviation: L1",
+            "full_name": "Full Name: 1,4-bis(imidazol-1-yl)benzene"
+        },
+        {
+            "abbreviation": "Abbreviation: L2",
+            "full_name": "Full Name: 1,4-bis(1-imidazol-yl)-2,5-dimethylbenzene"
+        }
+    ],
+    "KIXKOT": [
+        {
+            "abbreviation": "Abbreviation: 1. **Abbreviation**: H2L",
+            "full_name": "Full Name: **Full Name**: pyridyltetrazoles"
+        },
+        {
+            "abbreviation": "Abbreviation: 2. **Abbreviation**: L1",
+            "full_name": "Full Name: **Full Name**: pytz ligand"
+        },
+        {
+            "abbreviation": "Abbreviation: 3. **Abbreviation**: L2",
+            "full_name": "Full Name: **Full Name**: pytz ligand"
+        }
+    ],
+    "EHEPAJ": [
+        {
+            "abbreviation": "Abbreviation: H2BPDC",
+            "full_name": "Full Name: 2,20-bipyridyl-4,40-dicarboxylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: L1",
+            "full_name": "Full Name: l4-bidentate chelating-bridging mode to connect four Gd atoms"
+        },
+        {
+            "abbreviation": "Abbreviation: L2",
+            "full_name": "Full Name: l4-bridge with bis-monodentate bridge mode to link four Gd atoms"
+        },
+        {
+            "abbreviation": "Abbreviation: L3",
+            "full_name": "Full Name: l2-bridge to link two Gd atoms"
+        }
+    ],
+    "NATRAD": [
+        {
+            "abbreviation": "Abbreviation: H4btca",
+            "full_name": "Full Name: 1,2,4,5-benzenetetracarboxylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: Hbtca",
+            "full_name": "Full Name: 1,2,4,5-benzenetetracarboxylic acid"
+        }
+    ],
+    "HOTREO01": [
+        {
+            "abbreviation": "Abbreviation: H2L",
+            "full_name": "Full Name: adipic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H",
+            "full_name": "Full Name: monoanionic adipate"
+        },
+        {
+            "abbreviation": "Abbreviation: H2",
+            "full_name": "Full Name: dianionic adipate"
+        }
+    ],
+    "ZUCTIC": [
+        {
+            "abbreviation": "Abbreviation: H2DBrS",
+            "full_name": "Full Name: meso-2,3-dibromosuccinic acid"
+        }
+    ],
+    "CUJZAK": [
+        {
+            "abbreviation": "Abbreviation: L",
+            "full_name": "Full Name: 1,3-bis-(2-methylbenzimidazol-1-ylmethyl)benzene"
+        },
+        {
+            "abbreviation": "Abbreviation: H2nda",
+            "full_name": "Full Name: 2,6-naphthalenedicarboxylic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: H2tbta",
+            "full_name": "Full Name: tetrabromoterephthalic acid"
+        },
+        {
+            "abbreviation": "Abbreviation: L1",
+            "full_name": "Full Name: 1,4-bis(benzimidazole)butane"
+        },
+        {
+            "abbreviation": "Abbreviation: L2",
+            "full_name": "Full Name: 1,4-bis(2-methylbenzimidazole)-butane"
+        },
+        {
+            "abbreviation": "Abbreviation: H2tbi",
+            "full_name": "Full Name: 5-tert-butyl isophthalic acid"
+        }
+    ],
+    "NAFFOR": [
+        {
+            "abbreviation": "Abbreviation: H2L",
+            "full_name": "Full Name: 1,3-adamantanedicarboxylic acid"
+        }
+    ],
+    "VAWYEZ": [
+        {
+            "abbreviation": "Abbreviation: L1",
+            "full_name": "Full Name: bis[4-(2-pyridylmethyleneamino)phenyl] methane"
+        },
+        {
+            "abbreviation": "Abbreviation: L2",
+            "full_name": "Full Name: bis[4-(2-pyridylmethyleneamino)phenyl] ether"
+        }
+    ]
+}

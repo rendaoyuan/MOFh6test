@@ -1,0 +1,5 @@
+POSFIO
+Chemical_Name: catena-[hexakis(μ-4-(1H-imidazol-5-yl)benzoato)-tri-copper hydrate]
+Number: 964994
+Synonyms: N/A
+Preparation of [Cu3(4-HIBA)6]·7.8H2O (4). Reaction mixture of 4-H2IBA (18.8 mg, 0.1 mmol), Cu(NO3)2·3H2O (24.2 mg, 0.1 mmol), N,N′-dimethylacetamide (DMA)−H2O (1:5, v/v, 10 mL) was sealed in a 16 mL Teﬂon lined stainless steel container and heated at 120 °C for 4 days. After the mixture was cooled to room temperature, dark blue prism crystals of 4 were collected by ﬁltration and washed with water and ethanol several times with a yield of 78% (18.8 mg, based on 4-H2IBA).

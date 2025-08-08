@@ -1,0 +1,7 @@
+WASPAI
+Chemical_Name: catena-((μ2-1,1'-(1,4-Butanediyl)-bis(imidazole))-(μ2-fumarato)-diaqua-copper(ii))
+Number: 253915
+Synonyms: N/A
+Synthesis of [CuL(L1)]·2H2O (1): A mixture of CuCl2·2H2O (0.171 g, 1 mmol), NaOH (0.080 g, 2 mmol), and fumaric acid (H2L1; 0.116 g, 1 mmol) in water was stirred for 10 min at 60 °C, then 1,1-(1,4-butanediyl)bis(imidazole) (L; 0.190 g, 1 mmol) was added to the mixture. After stirring for 30 min, the blue precipitate was collected and dissolved in a minimum amount of ammonia (14 m). Blue single crystals of 1 were obtained by slow evaporation of the ammoniacal solution at ambient temperature. Yield: 66% (266 mg).
+Abbreviation: H2L1
+Full Name: fumaric acid

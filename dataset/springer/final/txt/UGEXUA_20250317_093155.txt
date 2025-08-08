@@ -1,0 +1,5 @@
+UGEXUA
+Chemical_Name: catena-(bis((μ2-1-(4-Pyridylmethyl)-1H-benzimidazole-N,N')-(azido))-cobalt(ii))
+Number: 721336
+Synonyms: N/A
+[Co(L)2(N3)2]? (2). NaN3 (7 mg, 0.1 mmol), L (21 mg, 0.1 mmol) and CoCl2 _x0001_ 6H2O (24 mg, 0.1 mmol) were dissolved in a mixture of H2O (5 mL) and MeOH (5 mL). The solution was mixed and ﬁltered, and the ﬁltrate was kept at room temperature. After several days, yellow single crystals suitable for X-ray analysis were obtained by slow evaporation of the solvent. Yield: *30% based on L.

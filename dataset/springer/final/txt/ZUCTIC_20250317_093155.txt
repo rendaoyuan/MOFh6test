@@ -1,0 +1,5 @@
+ZUCTIC
+Chemical_Name: catena-[(2,2'-bipyridine)-(μ-2,3-dibromosuccinato)-copper(ii)]
+Number: 995228
+Synonyms: N/A
+Synthesis of Cu(bipy)(DBrS) 1 Dropwise addition of 2.0 ml (1.0 M) NaOH aqueous solution to an aqueous methanolic solution of 0.2747 g (1.0 mmol) H2DBrS in 10.0 ml CH3OH/H2O (1:1, v/v), to which 0.2003 g (1.0 mmol) Cu(CH3COO)2_x0002_H2O dissolved in 20.0 ml CH3OH/H2O (1:1, v/v) was dropwise added and stirred for 30 min. Then 0.1549 g (1.0 mmol) bipy was added the mixture to give purple precipitate, which was separated by ﬁlter. The blue ﬁltrate (pH = 6.37) was allowed to stand at room temperature for slow evaporation for several weeks, which afforded purple needle-like crystal (yield: 93 % based on the initial Cu(CH3COO)2_x0002_H2O input).

@@ -1,0 +1,5 @@
+SEFSOM
+Chemical_Name: catena-(bis(μ3-5-sulfoisophthalato)-tetrakis(μ2-1,4-bis(imidazol-1-ylmethyl)benzene)-tri-cadmium(ii) octahydrate)
+Number: 276309
+Synonyms: N/A
+Synthesis of [Cd3(SIP)2(bix)4‚8H2O]n (3). A mixture of CdCl2‚2H2O (0.1142 g, 0.5 mmol), SIP (0.1334 g, 0.5 mmol), bix (0.1241 g, 0.5 mmol), NaOH (0.0398 g, 1.0 mmol), and H2O (3.5 mL) was heated at 140 °C for 3 days in an analogous to procedure to that for 1. After the reacant mixture was slowly cooled to room temperature, colorless crystals of 3 were obtained (yield 55% based on Cd).

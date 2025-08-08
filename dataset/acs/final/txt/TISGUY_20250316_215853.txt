@@ -1,0 +1,5 @@
+TISGUY
+Chemical_Name: catena-(tetrakis(μ2-1,1'-Biphenyl-2,2'-dicarboxylato)-tetrakis(μ2-pyrazine)-octaaqua-tetra-nickel(ii) undecahydrate)
+Number: 630604
+Synonyms: N/A
+Synthesis of [Ni4(dpa)4(pyz)4(H2O)8]·11H2O (1). Ni(NO3)2·6H2O (1.5 mmol) was dissolved in distilled water (ca. 6 cm3) at ambient temperature, followed by the addition of 1,1’-biphenyl-2,2’-dicarboxylic acid (1 mmol), pyrazine (0.5 mmol) and KOH (3 mmol) in distilled water (ca. 4 cm3), with vigorous magnetic stirring in a Parr Teflon-lined stainless steel vessel. The mixture was heated for 3 days at 175 °C yield fine olive drab crystals in 46.6% (based on pyrazine). Phase purity of the bulk materials was confirmed by comparison of its powder diffraction pattern with that calculated from the single crystal study.

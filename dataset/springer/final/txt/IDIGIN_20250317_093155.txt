@@ -1,0 +1,5 @@
+IDIGIN
+Chemical_Name: catena-(bis(μ2-3-(1H-Benzotriazol-1-yl)propanoato)-diaqua-zinc(ii))
+Number: 885073
+Synonyms: N/A
+Synthesis of [Zn(btap)2(H2O)2]n (2) A mixture of Hbtap (0.076 g, 0.40 mmol), Zn(NO3)2·6H2O (0.060 g, 0.20 mmol) and 12 ml distilled water was sealed in a 25-ml Teﬂon-lined stainless steel autoclave. The sealed vessel was heated to 120 _x0003_C for 48 h. Subsequently, the mixture was slowly cooled to ambient temperature over 24 h for crystallization. The colorless block crystals of 2 were obtained and collected by filtration, washed with water for several times and dried in air. Yield 0.054 g (56 % based on Zn).

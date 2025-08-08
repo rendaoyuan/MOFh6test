@@ -1,0 +1,5 @@
+XUWRIR01
+Chemical_Name: catena-((μ3-biphenyl-2,2'-dicarboxylato)-(μ2-4,4'-bipyridine)-manganese)
+Number: 715834
+Synonyms: N/A
+Synthesis of [Mn(dpa)(4,40-bipy)]n (2) H2dpa (0.121 g, 0.5 mmol), triethylamine (1 mmol, 0.101 g), 4,40-bipy (0.25 mmol, 0.048 g, Mn(ClO4)2_x0002_6H2O (0.181 g, 0.5 mmol), dissolved in a mixed solution of 6 mL water and 4 mL ethanol, stirred at room temperature for 10 min, then transferred the mixtures to a 25 cm3 Teﬂon-lined pot, heated at 165 _x0003_C for 72 h, and then cooled down to room temperature at a rate of 3 _x0003_C/h, the products were washed three times with water and ethanol, light yellow block crystals of 2 were collected in a yield of 30% (based on Mn).

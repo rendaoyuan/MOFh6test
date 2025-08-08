@@ -1,0 +1,5 @@
+DITRAB
+Chemical_Name: catena-[(μ4-2-(4-carboxyphenyl)-imidazolato-4,5-dicarboxylato)-bis(2,2'-bipyridine)-di-cadmium(ii) monohydrate]
+Number: 921450
+Synonyms: N/A
+A mixture of CdCl2.2H2O (11.0mg, 0.05mmol), p-CPhH4IDC (27.6mg, 0.1mmol), 2,2′-bipy (15.2mg, 0.1mmol) and Et3N (0.021mL, 0.15mmol) and 7mL of H2O in a Teflon lined stainless steel container was performed at 180°C for 96h. The mixture was cooled to room temperature, pare-yellow crystals of 3 were isolated, washed with distilled water several times, and dried in air with a yield of 45% based on Cd.

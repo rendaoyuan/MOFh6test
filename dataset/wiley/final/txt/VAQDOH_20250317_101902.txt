@@ -1,0 +1,5 @@
+VAQDOH
+Chemical_Name: catena-(bis((μ2-1-benzyl-4-trimethylsilyl-1,2,3-triazole-5-thiolato)-bis(tetrahydrofuran)-lithium))
+Number: 207849
+Synonyms: N/A
+No synthesis method found for compound 9

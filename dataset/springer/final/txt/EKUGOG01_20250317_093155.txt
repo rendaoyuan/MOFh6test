@@ -1,0 +1,5 @@
+EKUGOG01
+Chemical_Name: N/A
+Number: N/A
+Synonyms: N/A
+Synthesis of Complex {[Cu(phen)CN][Cu(phen)][Cu(CN)2]}n (1) CuCl2·2H2O (1 mmol, 0.170 g) and Na2[Fe(CN)5NO]·2H2O (1 mmol, 0.298 g) were solved in 10 mL deionized water, to which the solution of 1,10-phenanthroline (1 mmol, 0.198 g) in 6 mL ethanol was added. After stirred for about 20 min, the mixture was transferred into a 25 mL Teflon-lined reactor and heated at a rate of 25 °C per hour. The mixture was heated at 150 °C for 3 days under autogenous pressure. Upon cooling to room temperature at a rate of 20 °C per hour, dark red block crystals of 1 were obtained. Yield: 46% (based on Cu).

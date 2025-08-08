@@ -1,0 +1,5 @@
+UFEXIN
+Chemical_Name: catena-(hemikis(μ6-oxo)-octakis(μ3-hydroxo)-hexakis(μ3-3-hydroxypyrazine-2-carboxylato-O,O',O'')-hexa-aqua-tri-copper-hexa-holmium hexahydrate)
+Number: 662587
+Synonyms: N/A
+No synthesis method found for compound 2

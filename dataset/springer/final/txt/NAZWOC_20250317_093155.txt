@@ -1,0 +1,5 @@
+NAZWOC
+Chemical_Name: catena-((μ3-2-(4-carboxylatophenoxy)benzoato)-(2-(pyridin-4-yl)-1H-benzimidazole)-zinc)
+Number: 808868
+Synonyms: N/A
+Synthesis of [Zn(oba)(pbim)]n (3) Complex 3 was prepared by hydrothermal reaction. Zn(OAc)2·2H2O (0.216 g, 1 mmol), H2oba (0.258 g, 1 mmol), pbim (0.195 g, 1 mmol), NaOH (0.08 g, 2 mmol) and distilled water (15 mL) was heated to 160 °C for 96-h in a 25 mL stainless steel reactor with a Teﬂon liner. After reaction, the mixture was slowly cooled to room temperature. Yield: 42% (based on Zn).

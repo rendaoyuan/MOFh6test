@@ -1,0 +1,5 @@
+YOJTEX
+Chemical_Name: catena-((μ4-3-Carboxyphenylphosphonato)-aqua-zinc)
+Number: 686735
+Synonyms: N/A
+Preparation of Zn(H2O)(PO3C6H4COOH) (5) Hydrothermal Synthesis: In a 50-mL PTFE insert was dissolved 3-phosphonobenzoic acid (0.1 g, 0.49 mmol, 1 equiv.) in distilled water (15 mL). To this solution was added Zn(CH3COO)2·2H2O (0.162 g, 1.48 mmol, 1.5 equiv.). The insert was transferred into a Berghof pressure digestion vessel and heated from room temperature to 160 °C over 18 h and then further heated at 160 °C for 40 h and cooled to room temperature over 18 h. After filtration, the resulting compound obtained as a white powder was washed with water, rinsed with absolute ethanol and dried in air (0.095 g, 68% yield).

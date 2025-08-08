@@ -1,0 +1,5 @@
+KAPHAM
+Chemical_Name: catena( Di-potassium tetra-sodium (μ2-oxalato)-bis(2,2'-bipyridyl)-bis(germaundecatungstate-copper-neodymium) pentaoxonium dodecahydrate)
+Number: 737368
+Synonyms: N/A
+Synthesis of K2Na4H5[{Nd(GeW11O39)2}{Cu2(bpy)2- (μ-ox)}]·17H2O (2) A cationic complex [Cu2(2,2-bpy)2(μ-ox)]2+ (A) and the bis(undecatungstogermanate) anion [Nd(GeW11O39)2]13− (B) were prepared. For A: to an aqueous solution (20 mL) of CuCl2·2H2O (68 mg, 0.4 mmol) were successively added a solution of 2,2-bipyrine (62 mg, 0.4 mmol) in ethanol (10 mL) and oxalic acid (25 mg, 0.2 mmol) in water (10 mL). For B: to an aqueous solution (20 mL) of NdCl3 (25 mg, 0.1 mmol) was added a solution of K8−xNaxGeW11O39· 9H2O (610 mg, 0.2 mmol) in 1 mol/L (20 mL) potassium acetate buffer at pH 4.8. Then, solution A was added drop-wise to solution B and a blue precipitate appeared. The resulting mixture was heated to 80°C for 30 min, after cooling to room temperature, and the precipitate was removed by filtration. The filtrate was allowed to stand at room temperature for crystallization. Blue block-shaped crystals of compound 2 were obtained after about a week. Yield: 61% (based on W).

@@ -1,0 +1,5 @@
+GUPCEA
+Chemical_Name: catena-[bis(μ2-2-Ethylimidazolato)-cadmium hydrate]
+Number: 743553
+Synonyms: N/A
+CdIF-4 (rho): A mixture of cadmium acetate dihydrate (0.534 g, 2.0 mmol) and 2-ethylimidazole (0.961 g, 10.0 mmol) dissolved in 20 mL methanol was placed in a 20 mL Teflon-lined autoclave. The reactant mixture was heated at 120°C for 12 hours and then cooled to room temperature. After separation by filtering, colorless (or pale yellow) crystals were washed with methanol (3 ×10 mL) and evacuated in vacuum at room temperature (yield 60 %);

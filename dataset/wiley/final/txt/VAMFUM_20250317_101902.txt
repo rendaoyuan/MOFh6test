@@ -1,0 +1,5 @@
+VAMFUM
+Chemical_Name: catena-(bis(μ2-2-([(5-phenyl-1H-tetrazol-1-yl)sulfanyl]methyl)pyridine)-octakis(μ2-azido)-tetra-copper)
+Number: 827446
+Synonyms: N/A
+[Cu4L2(N3)8]n (3): A buffer layer of methanol/water (7 mL, 1:1) was carefully layered over an aqueous solution (3 mL) of CuSO4·5H2O (0.1 mmol) and NaN3 (0.2 mmol). Afterwards, a solution of L (0.1 mmol) in methanol (3 mL) was layered on the buffer layer. Black block crystals were collected after three weeks. Yield based on the ligand L: 20%.

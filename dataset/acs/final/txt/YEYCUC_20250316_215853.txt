@@ -1,0 +1,5 @@
+YEYCUC
+Chemical_Name: catena-[tris(μ4-2',3',5',6'-Tetramethyl-1,1':4',1''-terphenyl-4,4''-dicarboxylato)-bis(μ3-hydroxo)-bis(μ3-oxo)-tri-zirconium]
+Number: 946146
+Synonyms: PCN-58
+Syntheses of PCN-57 ZrCl4 (24 mg) and TPDC-4CH3 (56 mg) and benzoic acid (240 mg) were ultrasonically dissolved in DMF (3.0 mL) and charged into 100 ºC oven for 48 h. In the presence of benzoic acid, single crystals in octahedron shape (colorless for PCN-57) were harvested with yield of ~35 mg suitable for single crystal X-ray diffraction and further characterizations as well as click reactions. In the absence of benzoic acid, no single crystals suitable for single-crystal X-ray diffraction but higher-yield fine powders with diffraction profiles identified to be PCN-57 can be obtained.

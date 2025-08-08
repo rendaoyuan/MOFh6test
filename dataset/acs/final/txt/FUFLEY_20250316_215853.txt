@@ -1,0 +1,5 @@
+FUFLEY
+Chemical_Name: catena-[tetrakis(μ2-Propylene-1,3-diamine)-decakis(μ2-cyano)-dicyano-tri-cadmium(ii)-di-chromium(iii)]
+Number: 682764
+Synonyms: N/A
+To a solution of tn (0.220 mL, 2 mmol) and CdSO4 (0.312 g, 1 mmol) in 30 mL of water, an aqueous solution of the K3[Cr(CN)6] (0.332 g, 1 mmol) was added dropwise. The reaction mixture was stirred for 30 min, and then NaClO4 (0.12 g, 1 mmol) was added to aid crystallization. After stirring and heating at 75 °C for a few minutes, the mixture was filtered. Light yellow square-shaped crystals of compound 2 appeared from the filtrate after some days, yield of 0.14 g (42%).

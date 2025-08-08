@@ -1,0 +1,5 @@
+XUMVOS
+Chemical_Name: catena-[(μ-cyclobutane-1,2,3,4-tetracarboxylato)-bis(μ-aqua)-tetra-aqua-di-barium]
+Number: 980265
+Synonyms: N/A
+Synthesis and Characterization of [Ba2(rctt-cbtc)(H2O)6], (4). H4cbtc (58 mg, 0.25 mmol) was dispersed in a beaker containing 2 mL of MeOH. Ba(OH)2 (157 mg, 0.5 mmol) was dissolved in 5 mL of hot water. Hot Ba(OH)2 was filtered into methanolic H4cbtc at 100 °C, and the mixture was swirled simultaneously until white precipitate started forming. The resultant mixture was filtered again and left for slow evaporation in a crystallizing watch glass. Colorless block-shaped crystals were obtained in a day. Yield: 61%.

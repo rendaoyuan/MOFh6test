@@ -1,0 +1,5 @@
+COJLIX
+Chemical_Name: catena-((μ2-N,N'-(1,2-Phenylene)-diisonicotinamide-N'',N''')-(μ2-sulfato-O,O')-zinc(ii) dihydrate)
+Number: 609196
+Synonyms: N/A
+Preparation of [(ZnSO4)(pia)·2H2O] n (2) At room temperature, a clear DMF solution (5mL) of pia was slowly added to a methanol solution (10mL) of ZnSO4 with continuous stirring for 30min and a few deposits appear, then diluted acetic acid was added until the deposits disappear. The solution was filtered and the filtrate was allowed undisturbed for evaporation at ambient temperature. Colorless block crystals were obtained after two weeks.

@@ -1,0 +1,5 @@
+GIZVER
+Chemical_Name: catena-(bis(μ7-Methylenebis(isophthalato))-bis(μ3-hydroxo)-hexa-aqua-penta-cobalt heptahydrate)
+Number: 656231
+Synonyms: N/A
+{[Co5(MDIP)2(H2O)6(m-OH)2]$7H2O}n (3). 3 was synthesized hydrothermally in a 25 ml Teﬂon-lined autoclave by heating a 10 ml aqueous mixture of 0.1 mmol Na4MDIP, 0.2 mmol Co(NO3)2$6H2O and 0.1 mmol NaN3 at 120 _x0001_C for 3 days. Purple crystals were collected in 67% yield on the basis of cobalt.

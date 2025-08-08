@@ -1,0 +1,5 @@
+KAPWAB
+Chemical_Name: catena-(bis(μ2-4,4'-propane-1,3-diyldipyridine)-diisothiocyanato-cadmium(ii) benzenethiol solvate)
+Number: 804768
+Synonyms: N/A
+A mixture of [Cd(SPh)2] (99.1 mg, 0.3 mmol), tmdp (119.4 mg, 0.6 mmol), KSCN (58.3 mg, 0.6 mmol), acetonitrile (3.268 g) and water (1.251 g) was stirred for *20 min and then sealed in a 23-mL Teﬂon lined stainless autoclave. The vessel was heated at 150 _x0003_C for 3 days and then cooled to room temperature at a rate of 5 _x0003_C/h. Colorless block crystals of 3 were obtained and air dried. Yield: 180 mg, 68%.

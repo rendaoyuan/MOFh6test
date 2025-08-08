@@ -1,0 +1,7 @@
+BEXRUT
+Chemical_Name: catena-[bis(μ4-5-(3,5-dicarboxybenzyloxy)-3-pyridincarboxylato)-decaaqua-tri-nickel dimethylacetamide solvate tetrahydrate]
+Number: 915077
+Synonyms: N/A
+A mixture of H3L (3.2 mg, 0.01 mmol) and Ni(NO3)2·6H2O (5.8 mg, 0.02 mmol) was dissolved in 4 mL of DMA:water (1:1). The mixture was heated for 24 h in a bath-reactor at temperature of 120°C, and after cooling to room temperature green crystals were obtained, separated by filtration, washed with water and DMA, and then dried in air. The yield was approximately 41% based on metal salt.
+Abbreviation: H3L
+Full Name: 5-(3,5-dicarboxybenzyloxy)-3-pyridine carboxylic acid

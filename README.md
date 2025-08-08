@@ -1,0 +1,1 @@
+This repository contains the raw data obtained via a compliant TDM-based crawler during MOFh6 testing, together with the code for model fine-tuning, co-reference resolution, accuracy assessment of literature-based information extraction, and evaluation of structured synthesis description capabilities.

@@ -1,0 +1,5 @@
+HEKTAU
+Chemical_Name: catena-((μ3-4-(4,2':6',4''-terpyridin-4'-yl)benzoato)-acetato-aqua-cadmium(ii) N,N-dimethylacetamide solvate monohydrate)
+Number: 877575
+Synonyms: N/A
+Synthesis of [Cd(cptpy)(Ac)(H2O)·(DMA)(H2O)]n (1). A mixture of Cd(Ac)2·2H2O (26.7 mg, 0.10 mmol) and Hcptpy (17.7 mg, 0.05 mmol) in 3.0 mL of DMA−H2O (1:1 volume ratio) was placed in a parr Teﬂon-lined stainless steel vessel (25 cm3), and then the vessel was sealed and heated at 100 °C for 2 days. After the mixture was slowly cooled to room temperature, colorless plate crystals of 1 were obtained (yield: 70% based on Cd).

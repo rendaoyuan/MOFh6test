@@ -1,0 +1,5 @@
+PIHNUQ
+Chemical_Name: catena-(bis(μ4-4-Carboxylatophenoxyacetato)-(μ2-1,2-bis(4-pyridyl)ethane)-di-zinc(ii) n-propanol clathrate)
+Number: 637140
+Synonyms: N/A
+Synthesis of [Zn(cpoa)(bpe)0.5]?0.5(n-C3H7OH) (9) A mixture of Zn(OAc)2?2H2O (0.022 g, 0.1 mmol), H2cpoa (0.020 g, 0.1 mmol), bpe (0.018 g, 0.1 mmol), NaOH (0.2 mL, 0.65 M), distilled water (5 mL) and n-propanol (5 mL) was sealed in a Teflon-lined stainless vessel (25 mL) and heated at 140 uC for 72 h under autogenous pressure. The vessel was then cooled slowly to room temperature. Colorless stick crystals were obtained. Yield: 67.7%.

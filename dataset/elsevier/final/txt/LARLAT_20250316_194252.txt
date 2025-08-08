@@ -1,0 +1,5 @@
+LARLAT
+Chemical_Name: catena-[(μ2-1,1'-Methylenebis(1H-benzimidazole))-dichloro-mercury(ii)]
+Number: 752744
+Synonyms: N/A
+Synthesis of [HgCl2(mbbz)] n (1) A solution of mbbz (5.9mg, 0.025mmol) in 5mL dichloromethane was added slowly into a solution of HgCl2 (6.8mg, 0.025mmol) in 5mL methanol. The mixture was filtered to give a clear solution and then was left standing at room temperature without disturbration. The colorless block crystals suitable for single crystal X-ray diffraction were obtained about one week later (Yield: 8.4mg, 65% based on Hg).

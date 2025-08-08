@@ -1,0 +1,5 @@
+VIJPOV
+Chemical_Name: catena-[tris(μ2- 3-Methylbenzoato)-(3-methylbenzoato)-(μ2-4,4'-propane-1,3-diyldipyridine)-(4,4'-propane-1,3-diyldipyridine)-di-manganese(ii)]
+Number: 928850
+Synonyms: N/A
+Synthesis of Mn2(bpp)2(m-tol)4 3 Mn(m-tol)2·2H2O (0.1906 g, 0.50 mmol) was added to a solution of 1,3-bis(4-pyridyl)-propane (0.1096 g, 0.56 mmol) in ethanol (20 mL) plus H2O (10 mL). The mixture was stirred for 15 h, and the yellow precipitate was filtered off. The colorless filtrate was allowed to slowly evaporate at room temperature for several days gave colorless block crystals. Yield: 0.1337 g (46 % based on the initial Mn(m-tol)2·2H2O).

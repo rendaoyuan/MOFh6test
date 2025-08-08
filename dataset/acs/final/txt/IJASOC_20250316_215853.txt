@@ -1,0 +1,5 @@
+IJASOC
+Chemical_Name: catena-((μ4-2,3,5,6-Tetramethylterephthalato)-(μ2-2,3,5,6-tetramethylterephthalatolato-O,O',O'',O''')-(μ2-2,3,5,6-tetramethylterephthalato-O,O')-diaqua-bis(dimethylformamide)-di-thulium dimethylformamide solvate monohydrate)
+Number: 764697
+Synonyms: N/A
+No synthesis method found for compound 4

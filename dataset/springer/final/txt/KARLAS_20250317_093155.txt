@@ -1,0 +1,5 @@
+KARLAS
+Chemical_Name: catena-(hexakis(μ4-Benzene-1,4-dicarboxylato)-tetrakis(μ3-hydroxo)-dodecakis(μ3-isonicotinato)-dodeca-nickel dimethylacetamide methanol solvate)
+Number: 856758
+Synonyms: MCF-19-Ia
+No synthesis method found for compound Ia

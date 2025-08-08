@@ -1,0 +1,5 @@
+TECVOO
+Chemical_Name: catena(bis(μ9-Benzene-1,3,5-tricarboxylato)-tri-calcium)
+Number: 885046
+Synonyms: N/A
+A mixture of 1,3,5-benzenetricarboxylic acid (C9H6O6,H3, BTC, 0.063 g, 0.3 mmol), CaCl2 (0.0111 g, 0.1 mmol), DMF (2.0 mL) was stirred for 10 min at room temperature in a 5 ml vial to form a homogeneous solution. The vial was capped and kept in oven at 90 ºC for 24 h. After this time, colourless polyhedral crystals were obtained, which were filtered off using filter paper and washed thoroughly with 99.9% as received EtOH. The so-obtained MOF [Ca(BTC)] (16.15 mg, 70% yield) was dried at RT under air atmosphere (60 min).

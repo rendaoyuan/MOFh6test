@@ -1,0 +1,5 @@
+HACQUY
+Chemical_Name: catena-((μ2-4,4'-Bipyridyl)-diaqua-bis(1,2-bis(pyrid-4-yl)ethene)-nickel(ii) dinitrate 4,4'-bipyridyl 1,2-bis(pyrid-4-yl)ethene hydrate clathrate)
+Number: 164291
+Synonyms: N/A
+Compounds 2 was synthesized by reacting Ni(NO3)2·6H2O (0.1455 g) with BPY (0.0781 g) and BPEN (0.1842 g) in the mole ratio of 1:1:2 in 6 ml water. The reactions were carried out in a 23-ml acid digestion bomb at 120°C for 3 days. The products, green crystals of 2, was washed with water and acetone and dried in air. The yield is 73% for 2.

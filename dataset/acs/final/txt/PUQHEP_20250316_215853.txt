@@ -1,0 +1,5 @@
+PUQHEP
+Chemical_Name: catena-((μ5-5-(Carboxylatomethoxy)isophthalato)-(μ3-hydroxo)-(μ2-1,2-bis(4-pyridyl)ethene)-di-cobalt hydrate)
+Number: 769253
+Synonyms: N/A
+Synthesis of [Co2(OABDC)(bpe)(OH)]n3 (H2O)2.9n (3). Co(NO3)23 6H2O (0.0873 g, 0.3 mmol), 5-oxyacetate isophthalic acid (0.036 g, 0.15 mmol), 1,2-bis(4-pyridyl)ethylene (0.0273 g, 0.15 mmol), and NaOH (0.012 g, 0.3 mmol) were mixed in 7 mL of H2O/ethanol. Then, the mixture was placed in a Parr Teflon-lined stainless steel vessel (10 mL). The vessel was sealed and heated to 160 _x0001_C for 50 h. Then the reactant mixture was cooled at a rate of 10 _x0001_C h-1, leading to the formation of violet crystals of 3. Yield: (0.076 g, 82% based on Co).

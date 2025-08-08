@@ -1,0 +1,5 @@
+EBIPIQ
+Chemical_Name: catena-(bis(μ5-benzene-1,2,4,5-tetracarboxylato)-bis(μ2-1,1'-butane-1,4-diylbis(1H-1,2,4-triazole))-hexaaqua-tetra-copper methanol solvate monohydrate)
+Number: 810497
+Synonyms: N/A
+Synthesis of {[Cu2(btb)(btec)(H2O)3]0.5H2O$CH3OH]n (7) A solution of H4btec (0.064 g, 0.25 mmol) in 10 mL H2O was adjusted to approximately pH 6 with dilute NEt3 solution. Then btb (0.048 g, 0.25 mmol) in 10 mL CH3OH was added. This mixture was added to one side of an ‘‘H-shape’’ tube, and Cu (NO3)2$3H2O (0.121 g, 0.5 mmol) in 20 mL water was added to the other side of the ‘‘H-shape’’ tube. Green crystals of 7 were obtained after about one month with a yield of 65% (0.108 g).

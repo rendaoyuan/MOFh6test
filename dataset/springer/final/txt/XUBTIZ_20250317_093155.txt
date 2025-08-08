@@ -1,0 +1,5 @@
+XUBTIZ
+Chemical_Name: catena-((μ2-2,3,5,6-Tetrabromoterephthalato)-(μ2-1,1'-propane-1,3-diylbis(5,6-dimethyl-1H-benzimidazole))-cobalt hemihydrate)
+Number: 1009930
+Synonyms: N/A
+Synthesis of complex 1 A mixture of CoCl2_x0002_6H2O (24 mg, 0.1 mmol), pbdmbm (33 mg, 0.1 mmol), H2tbta (48 mg, 0.1 mmol), and H2O (10 mL) was stirred for 20 min at room temperature and then transferred to a 25 mL Teﬂon-lined stainless steel vessel, which was heated at 150 _x0003_C for 72 h and then cooled to room temperature at a rate of 5 _x0003_C /h. Purple crystals of 1 were obtained in 47 % yield based on Co.

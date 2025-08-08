@@ -1,0 +1,5 @@
+TUSVUZ
+Chemical_Name: catena-[bis(μ3-Glutarato)-(μ2-aqua)-tetrapyridyl-di-cobalt(ii) pyridine solvate]
+Number: 714524
+Synonyms: N/A
+Synthesis of {[Co2(μ-OH2)(μ-glutarato)2(pyridine)4]·pyridine} n (2) To 10cm3 of pyridine solution containing 0.066g (0.5mmol) glutaric acid was added 10cm3 of a dimethylformamide (DMF) solution of cobalt(II) acetate tetrahydrate, 0.124g (0.5mmol). The mixture was stirred and then allowed to stand for several days at room temperature, after which pink crystals were obtained (yield: 78.7%).

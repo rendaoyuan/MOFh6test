@@ -1,0 +1,5 @@
+AVUPIR
+Chemical_Name: catena-[tris(μ4-Piperazine-1,4-bis(methylenephosphonato))-di-zirconium nonahydrate]
+Number: 839820
+Synonyms: N/A
+Synthesis of Zr2H4[(O3PCH2)2N2C4H8]3 3 9H2O (1). A mixture of 1.5 mmol of H4L dissolved in 15 mL of water and 4.5 mL of NH3, 1 M, was added to a solution of 1 mmol of ZrOCl2·8H2O and 6 mmol of NH4F in 10 mL of water. The starting pH value was about 7. The closed plastic vessel was then put in an oven at 80 °C for 6 days. The white solid formed was filtered and washed with NH3, 0.1 M, and dried at 70 °C. Yield: 270 mg, 47% (calculated on Zr).

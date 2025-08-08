@@ -1,0 +1,5 @@
+ERUFUS
+Chemical_Name: catena-((μ2-2,5-bis(Pyrid-4-yl)-1,3,4-thiadiazole-N,N')-bis(μ2-thiocyanato-N,S)-cadmium(ii) methanol solvate)
+Number: 231586
+Synonyms: N/A
+Synthesis of {[CdL1(NCS)2](CH3OH)1.5}n, 4. A solution of an excess of NH4SCN (16 mg, 0.2 mmol) in CH3OH (10 mL) was carefully layered on a CH3OH/CHCl3 solution (5 mL/10 mL) containing Cd(ClO4)2‚6H2O (42 mg, 0.1 mmol) and L1 (24 mg, 0.1 mmol) in a straight glass tube. After ca. one week, block colorless single crystals were obtained. Yield: 39 mg (75%).

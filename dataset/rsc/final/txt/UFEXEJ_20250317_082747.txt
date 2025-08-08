@@ -1,0 +1,5 @@
+UFEXEJ
+Chemical_Name: catena-(hemikis(μ6-oxo)-octakis(μ3-hydroxo)-hexakis(μ3-3-hydroxypyrazine-2-carboxylato-O,O',O'')-hexa-aqua-tri-copper-hexa-dysprosium hexahydrate)
+Number: 662586
+Synonyms: N/A
+Synthesis of [Dy2Cu(m6–O)1/6(m3–OH)2/3(m3– OH)2(hpzc)2(H2O)2]$2H2O (1) A mixture of Dy2O3 (0.187 g, 0.5 mmol), CuCl2$2H2O (0.034 g, 0.2 mmol), H2pzdc (0.05 g, 0.3 mmol), H2O (10 mL) and HClO4 (0.5 mmol) was stirred in air for 1 h, and then was sealed in a Parr Teﬂon-lined stainless-steel bomb and heated at 160 _x0002_C for 3 d. The resulting dark-blue, rectangular-prism crystals of 1 were collected after washing with water (yield: 33%, based on CuCl2$2H2O).

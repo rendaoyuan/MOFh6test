@@ -1,0 +1,5 @@
+EDABOC
+Chemical_Name: catena-(bis(μ4-adipato)-bis(μ3-nicotinato)-di-praseodymium(iii) tetrahydrate)
+Number: 843088
+Synonyms: N/A
+Synthesis of [Pr(nic)(ad)]_x0002_2H2O (2) Complex 2 was synthesized by hydrothermal reaction. Pr2O3 (0.10 g, 0.29 mmol), nicotinic acid (0.10 g, 0.81 mmol), adipic acid (0.10 g, 0.68 mmol) and H2O (10 mL) were mixed in 25 mL beaker. After stirring for 2 h, the mixture was sealed in the bomb and heated at 180 _x0003_C for three days, then cooled at 10 _x0003_C/3 h to 100 _x0003_C, followed by slow cooling to room temperature. After ﬁltration, the product was washed with distilled water and then dried at room temperature. Brown crystals suitable for X-ray diffraction analysis were obtained in ca. 55% yield based on Pr(III).

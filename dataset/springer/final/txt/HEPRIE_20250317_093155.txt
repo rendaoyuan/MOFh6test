@@ -1,0 +1,7 @@
+HEPRIE
+Chemical_Name: catena-[bis(μ2-Maleato)-bis(1,4,8,11-tetraazacyclotetradecane)-di-nickel(ii) dihydrate]
+Number: 604126
+Synonyms: N/A
+Synthesis of {[Ni(L)(maleate)] Æ H2O}n (1) To a DMF solution of [Ni(L)] Æ 2ClO4 (228 mg, 0.5 mmol) was added an aqueous solution of disodium maleate (80 mg, 0.5 mmol). The mixture was placed in an open beaker at ambient temperatures. Purple needles of (1) were obtained in a week. Suitable crystals of (1) for X-ray diﬀraction studies and other measurements were manually collected under a microscope.
+Abbreviation: L
+Full Name: cyclam

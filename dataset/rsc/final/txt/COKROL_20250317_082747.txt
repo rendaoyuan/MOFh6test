@@ -1,0 +1,5 @@
+COKROL
+Chemical_Name: catena-[(μ5-4,4',4'',4'''-Porphyrinato-5,10,15,20-tetrayltetrabenzoato)-diaqua-di-indium unknown solvate]
+Number: 943643
+Synonyms: MMPF-7
+Synthesis of MMPF-7: A mixture of tcpp (0.005g), In(NO3)3·xH2O (0.006g), 1 drop of concentrated nitric acid (con. HNO3), 1.0 mL dimethylformamide (DMF) and 1.0 mL acetonitrile (MeCN) was put in a 4 mL vial and heated to 85 oC for 48 hours. The resulting dark colored block crystals were obtained (yield: 55% based on tcpp). The sample was scaled up into hundreds of milligrams using multiple vials.

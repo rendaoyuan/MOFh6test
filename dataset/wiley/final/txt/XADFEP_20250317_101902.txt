@@ -1,0 +1,5 @@
+XADFEP
+Chemical_Name: catena-((μ4-5,5'-Bipyrimidine)-(μ4-benzene-1,2,4,5-tetracarboxylato)-tetra-aqua-di-nickel tetrahydrate)
+Number: 769225
+Synonyms: N/A
+Synthesis of {[Ni2(btec)(bpym)(H2O)4]·4H2O}n (2): In a tube at ambient temperature, a solution of NiCl2·2H2O (0.40 mmol) in MeOH (5 mL) was carefully layered on top of a bilayer solution comprised of an aqueous solution (5 mL) that contained tetrapotassium benzene-1,2,4,5-tetracarboxylate (0.10 mmol) and 5,5'-bipyrimidine (0.10 mmol) on the bottom and a buffer solvent of THF on the top. Blue-green crystals of 2·7H2O were produced within a 7-day period; yield 32% (21.4 mg, based on btec).

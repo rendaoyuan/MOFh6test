@@ -1,0 +1,5 @@
+ECUZOT
+Chemical_Name: N/A
+Number: N/A
+Synonyms: N/A
+Synthesis of {[Pb2(tpmba)2(NO3)4]−MeOH}n A solution of tpmba (36.0 mg, 0.075 mmol) in methanol (15 mL) was added to an aqueous solution of Pb(NO3)2 (0.075 mmol mL−1, 1 mL). The mixture was stirred for 0.5 h, then filtered. Colorless crystals were obtained after the filtrate was allowed to stand for several weeks; yield, 58%.

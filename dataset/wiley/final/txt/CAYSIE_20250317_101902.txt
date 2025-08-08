@@ -1,0 +1,5 @@
+CAYSIE
+Chemical_Name: catena-((5,10,15,20-tetrakis(4-Pyridyl)porphyrinato)-cobalt(ii) acetic acid dihydrate clathrate)
+Number: 116979
+Synonyms: N/A
+A mixture of CoCl2 ´ 2H2O (0.2384 g), H2tpyp (0.1243 g), aqueous CsOH (0.3 mL, 50 wt%), CH3COOH (4 mL), and H2O (4 mL) was sealed in a 23-mL Teflon-lined stainless autoclave, heated to 2008C for 48 h, and cooled to 708C at 9Khÿ1. Needle-shaped purple crystals were filtered off and washed with methanol. Monophase crystalline material was confirmed by X-ray powder diffraction. The yield of crystalline material was 85% (0.1416 g) based on tpyp, and the synthesis was highly reproducible.

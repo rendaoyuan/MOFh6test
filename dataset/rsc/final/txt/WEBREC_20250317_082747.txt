@@ -1,0 +1,5 @@
+WEBREC
+Chemical_Name: N/A
+Number: N/A
+Synonyms: N/A
+Synthesis of {[Zn2(mpm-PBODB)2bpy]·3DMF}n (SNU-110). Zn(NO3)2·6H2O (150 mg, 0.50 mmol) and H2mpm-PBODB (176 mg, 0.50 mmol) were dissolved in DMF (10 mL), and the solution was heated at 90 oC for 12 h. After the solution was cooled to room temperature, 4,4’-bpy (39 mg, 0.25 mmol) was added and then heated again at 90 oC for 48 h. The crystals formed were filtered off, washed with DMF, and dried briefly in air (160 mg, 53%).
