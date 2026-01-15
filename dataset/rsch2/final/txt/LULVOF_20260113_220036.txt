@@ -1,0 +1,5 @@
+LULVOF
+Chemical_Name: catena-[tris(μ-4,4'-ethyne-1,2-diyldibenzoato)-bis(2,2'-bipyridine)-tri-cobalt N,N-dimethylformamide solvate monohydrate]
+Number: 1049567
+Synonyms: N/A
+Synthesis of [Co3(edba)3(bpy)2]·3DMF·H2O (3) A mixture of Co(NO3)2·6H2O (0.1 mmol, 0.0291 g), H2edba (0.1 mmol, 0.0266 g), bpy (0.1 mmol, 0.0156 g) in DMF (5 mL) and methanol (1 mL) was stirred for 30 min, and then heated in a 12 mL Teflon reactor at 90 °C for 3 days. After cooling to room temperature at a rate of 5 °C h−1, red block crystals of 3 were obtained, washed with DMF, collected by filtration and dried in air (yield: 60%).

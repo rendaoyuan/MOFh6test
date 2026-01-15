@@ -1,0 +1,5 @@
+KIVZAR
+Chemical_Name: catena-(bis(μ4-Azido-N,N,N'',N'')-bis(μ3-azido-N,N,N'')-(μ2-pyrazine-N,N')-tetra-copper(i))
+Number: 627750
+Synonyms: N/A
+Synthesis of [Cu4(py)(N3)4]n (3) Dark red block–like complex (3) was obtained from a mixture of pyrazine (0.182 g, 1 mmol), Cu(CH3COO)2 (0.201 g, 1 mmol), NaN3 (0.065 g, 1 mmol), H3PO3 (0.2 mL), and H2O (20 mL) was placed in a sealed 30 mL Teﬂon coated reactor and kept heating at 100 _x0002_C for 24 h and slowly cooled to room temperature 5 _x0002_C per hour. Red prism–like single crystals were collected in 47% yield on the basis of copper.

@@ -1,0 +1,5 @@
+IGEFOP
+Chemical_Name: catena-[(μ2-Bromo)-(bis(2-pyridylthio)methane-N)-bromo-mercury(ii)]
+Number: 169767
+Synonyms: N/A
+[HgBr2(bpytm)] (6). A solution of bpytm (0.184 g, 0.79 mmol) in 5 mL of a 2:3 mixture of ethyl acetate and acetonitrile was added dropwise to a solution of HgBr2 (0.283 g, 0.79 mmol) in 5 mL of a 3:2 mixture of the same solvents. The white suspension so obtained was refluxed for 5 hours. After stirring for 2 days, the solid was filtered out and dried in vacuo. Yield 76 %.

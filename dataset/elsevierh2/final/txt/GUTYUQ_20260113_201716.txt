@@ -1,0 +1,5 @@
+GUTYUQ
+Chemical_Name: catena-[bis(μ2-1,3,5-tris(1,2,4-Triazol-1-ylmethyl)-2,4,6-trimethylbenzene)-diaqua-nickel(ii) dinitrate tetrahydrate]
+Number: 731644
+Synonyms: N/A
+a 10mL aqueous solution of Ni(NO3)2·6H2O (0.5mmol) was added to a tube, then a 10mL CH3OH solution of 1,3,5-tri(1,2,4-triazol-1-ylmethyl)-2,4,6-trimethylbenzene (ttmb) (1.0mmol) was slowly added to the tube above the aqueous solution. Blue crystals 2 (yield: 47%) were obtained after about two weeks.

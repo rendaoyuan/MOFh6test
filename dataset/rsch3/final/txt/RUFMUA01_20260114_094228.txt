@@ -1,0 +1,5 @@
+RUFMUA01
+Chemical_Name: catena((μ5-5-carboxybenzene-1,3-dicarboxylato)-aqua-calcium monohydrate)
+Number: 885045
+Synonyms: N/A
+A mixture of 1,3,5-benzenetricarboxylic acid (C9H6O6,H3, BTC, 0.042 g, 0.2 mmol), Ca(OAc)2 (0.0316 g, 0.2 mmol), H2O (3.0 mL), and Ethanol (EtOH, 1.0 mL) was stirred for 20 min at room temperature in a 15 ml vial to form a homogeneous solution. The vial was capped and kept in oven at 90 ºC for 24 h. After this time, colourless needle like crystals were obtained, which were filtered off using Whatmann filter paper and washed thoroughly with 99.9 % as received EtOH. The so-obtained MOF [Ca2(BTC)(H2O)·H2O] (41.8 mg, 81% yield) was dried at RT under air atmosphere (60 min).

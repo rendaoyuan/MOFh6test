@@ -1,0 +1,5 @@
+FALQEQ
+Chemical_Name: catena-(hexakis(μ3-2,2'-iminodipropanoato)-tri-copper(ii)-di-lanthanum trihydrate)
+Number: 834764
+Synonyms: N/A
+Synthesis of {[La2Cu3(ANMA)6](H2O)3}(1): 0.246 g Cu(NO3)2·3H2O (1.0 mmol) and 0.376 g H2ANMA.HCl.0.25H2O (2.0 mmol) were dissolved in 10 mL of deionized water while stirring for 10 min. Then, to the solution were added 0.290 g La(NO3)3·6H2O (0.67mmol). The pH value of the mixture was slowly adjusted to about 5.0 to 5.5 with 1.0 mol L-1 sodium hydroxide solution. The mixture was subsequently transferred to 18 mL Teflon-lined Parr, heated to 130 oC for 30 min, then cooled to room temperature at a rate of 2 oC·h-1. Block blue crystals of 1 were obtained in about 48 % yield (based on La(NO3)3).

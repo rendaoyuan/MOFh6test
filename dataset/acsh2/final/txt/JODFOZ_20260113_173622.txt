@@ -1,0 +1,9 @@
+JODFOZ
+Chemical_Name: catena-[bis(μ2-4-(2-(pyridin-4-yl)vinyl)benzoato)-cobalt N,N-dimethylformamide solvate]
+Number: 970829
+Synonyms: N/A
+Synthesis of Co(L1)2, dia-7i-1-Co: A solvothermal reaction at 105 °C of 0.10 mmol (0.029 g) of Co(NO3)2·6H2O and 0.20 mmol (0.048 g) of HL1 in 15 mL of DMF/EtOH afforded red, rod-shaped crystals of dia-7i-1-Co were harvested after 24 h (yield 62%, 0.13 g based on Co(NO3)2).
+Abbreviation: HL1
+Full Name: 4-(2-(4-pyridyl)ethenyl)benzoic acid
+Abbreviation: L1
+Full Name: 4-(2-(4-pyridyl)ethenyl)benzoate

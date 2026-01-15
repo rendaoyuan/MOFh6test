@@ -1,0 +1,5 @@
+RESWOC
+Chemical_Name: catena-(tris(μ4-2,3,5,6-Tetrafluoro-1,4-benzenedicarboxylato)-aqua-(dimethylformamide)-di-erbium dimethylformamide solvate)
+Number: 628938
+Synonyms: N/A
+Preparation of Er2(BDC-F4)3(DMF)(H2O)‚DMF (2). A mixture of Er(NO3)3‚5H2O (0.0497 g, 0.112 mmol) with H2BDC-F4 (0.0400 g, 0.168 mmol) in a solution containing DMF (3 mL), C2H5OH (3 mL), and H2O (3 mL) in a sealed vial (20 mL) was heated at 80 °C for 24 h. Light-purple crystals of 2 were filtered, dried in air, and collected in ca. 43% yield [on the basis of Er(NO3)3‚5H2O].

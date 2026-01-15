@@ -1,0 +1,9 @@
+IGUHAU
+Chemical_Name: catena-((μ2-Glutarato)-bis(μ2-2-aminopyrimidine)-di-silver(i) monohydrate)
+Number: 714484
+Synonyms: N/A
+Synthesis of complex [Ag2(L1)2(L3)]·H2O (2) A mixture of AgNO3 (170mg, 1mmol), 2-aminopyrimidine (94mg, 1mmol) and glutarate (132mg, 1mmol) were stirred in CH3OH–H2O mixed solvent (10mL, v/v: 1/1). Then aqueous NH3 solution (25%) was dropped into the mixture to give a clear solution. The resultant solution was allowed slowly to evaporate in darkness at room temperature for several days to give colorless crystals of 2 were obtained in 62% yield. They were washed with a small volume of cold CH3OH and diethyl ether.
+Abbreviation: L1
+Full Name: 2-aminopyrimidine
+Abbreviation: L3
+Full Name: glutarate anion

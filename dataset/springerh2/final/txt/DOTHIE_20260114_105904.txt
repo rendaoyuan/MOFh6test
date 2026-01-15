@@ -1,0 +1,5 @@
+DOTHIE
+Chemical_Name: catena-(bis(μ2-dicyanamide)-bis(1H-benzimidazole)-cobalt(ii))
+Number: 295951
+Synonyms: N/A
+Synthesis of [Co(bim)2(dca2)n] (1) A methanolic solution (15 mL) of benzimidazole (bim) (0.117 g, 1.0 mmol) was added slowly to an aqueous solution (15 mL) of Co(NO3)2 _x0001_ 6H2O (0.146 g, 0.5 mmol) with stirring. To this colorless transparent solution, an aqueous solution (10 mL) of sodium dicyanamide (0.089 g, 1.0 mmol) was slowly added with constant stirring. The resulting solution was filtered and the filtrate was allowed to stand in air at room temperature. After several days, the well-shaped pink single crystals 1 were obtained. Yield: 74%.

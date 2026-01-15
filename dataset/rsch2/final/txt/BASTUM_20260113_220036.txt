@@ -1,0 +1,5 @@
+BASTUM
+Chemical_Name: catena-(bis(μ4-1H-benzimidazole-5,6-dicarboxylato)-bis(μ3-1H-benzimidazole-5,6-dicarboxylato)-di-holmium-di-silver pentahydrate)
+Number: 738829
+Synonyms: N/A
+Synthesis of [HoAg(Hbidc)2]·3(H2O) (6) A mixture of Ho(NO3)3·6H2O (0.2 mmol), AgNO3 (0.2 mmol), H3bidc (0.2 mmol), and water (10 mL) was sealed in a 23 mL Teﬂon reactor and was kept under autogenous pressure at 170 ◦C for 5 days, then cooled to room temperature over 3 days. Colorless square-shaped crystals were obtained with a yield of 0.1323 g (90% yield based on Ho(NO3)3) crystals were obtained.

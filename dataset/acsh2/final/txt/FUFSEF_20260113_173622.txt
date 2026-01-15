@@ -1,0 +1,5 @@
+FUFSEF
+Chemical_Name: catena-(tetrakis(μ3-2-(pyridin-4-yl)-1H-imidazole-4,5-dicarboxylato-O,O',O'',O''')-octa-aqua-tri-yttrium(iii) chloride tetrahydrate)
+Number: 706737
+Synonyms: N/A
+Synthesis of {[Y3(HPIDC)4(H2O)8]·Cl·4H2O}n (6). A mixture of YCl3 · 6H2O (0.081 g, 0.2 mmol), 2-(pyridin-4-yl)-1H-imidazole-4,5-dicarboxylic acid (0.070 g, 0.3 mmol), NaOH (0.024 g, 0.6 mmol) and H2O (15 mL) was sealed into a Teﬂon-lined stainless autoclave and heated at 160 °C for 4 days and then cooled to room temperature gradually. Red block crystals were obtained in 63% yield (based on Y).

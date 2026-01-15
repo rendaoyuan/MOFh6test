@@ -1,0 +1,79 @@
+======================================================================
+会话开始: 2026-01-15 01:13:07,300
+执行的脚本: main.py
+Python路径: F:\software\Anaconda\envs\c2ml\python.exe
+======================================================================
+
+2026-01-15 01:13:07,300 - INFO - DataFrame prepared with 54808 rows
+
+🌟 Initializing MOF Analysis System...
+
+💎 Welcome to MOF Analysis System!
+
+📋 Available Commands:
+📄 'How to synthesize <code/name>' - Obtain the synthesized text
+📄 'process pdf <path>' - Process a PDF document
+🔬 'workflow <path>' - Run analysis workflow on processed PDF
+💾 'show saved' - Show saved documents
+📥 'download cif <code>' - Download CIF file for a CCDC code
+🔮 'visualize <code>' - Visualize crystal structure for a CCDC code
+Query>  Can you find materials with PLD of 7.5-10 Å, LCD of 10-16 Å, VSA of 2000-2400 m2 cm-3
+2026-01-15 01:13:12,681 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-15 01:13:12,687 - INFO - Query analysis: {'query_type': 'range', 'materials': [], 'properties': [], 'operation': {'type': None, 'value': None}, 'range': {'min': {'PLD (Å)': 7.5, 'LCD (Å)': 10, 'VSA (m2/cm3)': 2000}, 'max': {'PLD (Å)': 10, 'LCD (Å)': 16, 'VSA (m2/cm3)': 2400}}, 'uses_context': False, 'reasoning': [], 'page_size': None}
+2026-01-15 01:13:12,688 - WARNING - Could not resolve property: VSA (m2/cm3)
+2026-01-15 01:13:12,688 - WARNING - Could not resolve property: VSA (m2/cm3)
+2026-01-15 01:13:14,805 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+Here are the materials that match your criteria:
+
+1. CCDC Code: ABACUF01
+2. CCDC Code: ABALOF
+3. CCDC Code: ABAVIJ
+4. CCDC Code: ABAVOP
+5. CCDC Code: ABAYEI
+
+If you need more details or additional results, please let me know!
+
+Query> is any others？
+2026-01-15 01:13:25,500 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-15 01:13:25,501 - INFO - Query analysis: {'query_type': 'chat', 'materials': [], 'properties': [], 'operation': {'type': None, 'value': None}, 'range': {'min': {'PLD': 7.5, 'LCD': 10}, 'max': {'PLD': 10, 'LCD': 16}}, 'uses_context': True, 'reasoning': [], 'page_size': None}
+2026-01-15 01:14:19,777 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+Here are some entries that match your criteria:
+
+1. **CCDC_code**: ACUCAC
+   - **Chemical_name**: catena-(octakis(μ2-3-(2-(4-pyridyl)ethenyl)benzoato)-tetra-zinc) (3-(2-(4-pyridyl)ethenyl)benzoic acid monohydrate)
+   - **LCD (Å)**: 11.77
+   - **PLD (Å)**: 9.20
+
+2. **CCDC_code**: ADATUW
+   - **Chemical_name**: catena-((μ3-tris(4-(1-(2-pyridin-2-ylhydrazono)ethyl)-phenyl)amine)-silver tetrafluoroborate acetonitrile dichloromethane solvate monohydrate)
+   - **LCD (Å)**: 10.35
+   - **PLD (Å)**: 8.86
+
+3. **CCDC_code**: ADAVAE
+   - **Chemical_name**: catena-((μ3-tris(4-(1-(2-pyridin-2-ylhydrazono)ethyl)-phenyl)amine)-silver tetrafluoroborate dichloromethane N,N-dimethylformamide solvate monohydrate)
+   - **LCD (Å)**: 10.21
+   - **PLD (Å)**: 8.81
+
+4. **CCDC_code**: ADAVEI
+   - **Chemical_name**: catena-[tris(μ3-tris(4-(1-(2-pyridin-2-ylhydrazono)ethyl)phenyl)amine)-tri-silver tris(tetrafluoroborate) acetonitrile chloroform methanol solvate monohydrate]
+   - **LCD (Å)**: 10.15
+   - **PLD (Å)**: 8.71
+
+5. **CCDC_code**: AFITIT
+   - **Chemical_name**: catena-[tetrakis(μ4-4,4'-Ethyne-1,2-diylbis(3-methylbenzoato)-O,O',O'',O''')-bis(μ2-4,4'-bipyridine-N,N')-tetra-zinc dimethylformamide solvate]
+   - **LCD (Å)**: 10.04
+   - **PLD (Å)**: 9.23
+
+If you need more information or additional entries, please let me know!
+
+Query> q!
+
+👋 Thank you for using MOF Analysis System. Goodbye!
+
+
+======================================================================
+会话结束: 2026-01-15 01:14:41,233
+退出代码: 1
+======================================================================

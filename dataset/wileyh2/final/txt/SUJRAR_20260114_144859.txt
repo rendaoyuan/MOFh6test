@@ -1,0 +1,5 @@
+SUJRAR
+Chemical_Name: catena-((μ4-Fumarato)-bis(μ2-trans-1,2-bis(4-pyridyl)ethene)-(μ2-fumarato)-di-zinc(ii) hemihydrate clathrate)
+Number: 751096
+Synonyms: N/A
+A solution of bpe (0.036 g, 0.2 mmol) in MeOH (2 mL) was slowly and carefully layered over a solution of Zn(NO3)2·6H2O (0.059 g, 0.2 mmol) in H2O (2 mL) using DMF/MeOH 1:1 (v/v, 2 mL) as a buffer; subsequently, a layer of H2fum (0.028 g, 0.2 mmol) neutralized with Et3N (0.021 g, 0.2 mmol) in EtOH (2 mL) was added. When H2fum was used in place of H2muco for the synthesis of 3 using a similar method as described for 1, colorless blocks of [Zn(bpe)(fum)]·0.25H2O (3) crystallized after two days (0.035 g, yield 50%).

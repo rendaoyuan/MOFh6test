@@ -1,0 +1,5 @@
+AREBOO
+Chemical_Name: catena-(bis(cis-Cyclohexane-1,2-diamine)-copper(ii) tetrakis((μ2-cyano)-(cis-cyclohexane-1,2-diamine))-octacyano-di-copper(ii)-di-iron(iii) octahydrate)
+Number: 213881
+Synonyms: N/A
+Cu(NO3)2·3H2O (72 mg, 0.3 mmol) and cis-chxn (68 mg, 0.6 mmol) were dissolved in the minimum amount of water. Slow diffusion of this solution and an aqueous solution of K3[Fe(CN)6] (66 mg, 0.2 mmol) produced brown crystals of the title compound. Complex 1 was also obtained by slow diffusion of [Cu(cis-chxn)2(NO3)2] (125 mg, 0.3 mmol) and K3[Fe(CN)6] (66 mg, 0.2 mmol) in water.

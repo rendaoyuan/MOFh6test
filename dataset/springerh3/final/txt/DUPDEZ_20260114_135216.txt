@@ -1,0 +1,5 @@
+DUPDEZ
+Chemical_Name: catena-[(μ4-piperazine-1,4-diyldiethane-2,1-diyl diisonicotinate)-bis(nitrato)-di-silver]
+Number: 793409
+Synonyms: N/A
+Synthesis of [Ag2(NO3)2(bip)] Ag(NO3)2 (1 mmol) in water (3 mL) was added to 1,4-bis(2-isonicotinoyloxyethyl)piperazine (bip) (0.5 mmol, 0.192 g) in ethanol (7 mL). The reaction mixture was stirred for 15 min, after which the precipitated powder was ﬁltered off and washed with ethanol several times. The solid was dissolved in acetonitrile and exposed to diethyl ether vapor to yield colorless crystals of [Ag2(NO3)2(bip)] formed in a 75% yield.

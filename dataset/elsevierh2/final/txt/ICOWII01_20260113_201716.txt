@@ -1,0 +1,5 @@
+ICOWII01
+Chemical_Name: catena-(bis(μ2-2-Propyl-1H-imidazole-5-carboxyl-4-carboxylato)-di-aqua-strontium)
+Number: 760032
+Synonyms: N/A
+Preparation of [Sr(H2PIDC)2(H2O)2] n (1) A mixture of Sr(NO3)2 (63.6mg, 0.3mmol), H3PIDC (59.4mg, 0.3mmol), KOH (33.7mg, 0.6mmol), deionized water (7mL) was stirred, and then it was transferred to and sealed in a 15mL Teflon-lined bomb, which was heated to 152°C for 5days. After the mixture was cooled to room temperature at a rate of 10°C/h, colorless block crystals of 1 were obtained in a 68% yield (based on Sr).

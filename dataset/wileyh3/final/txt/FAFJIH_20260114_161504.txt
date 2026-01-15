@@ -1,0 +1,5 @@
+FAFJIH
+Chemical_Name: catena-[bis(μ4-tetrakis(Imidazol-1-yl)borate-N3,N3',N3'',N3''')-bis(μ2-benzene-1,4-dicarboxylato-O,O')-hemiaqua-tri-zinc(ii) hydrate]
+Number: 795579
+Synonyms: catena-[bis(μ4-tetrakis(Imidazol-1-yl)borate-N3,N3',N3'',N3''')-bis(μ2-terephthalato-O,O')-hemiaqua-tri-zinc(ii) hydrate]
+Synthesis of MC-BIF-2H: NaB(im)4 (0.036 g), Zn(AC)2·2H2O (0.043 g), 1,4-Benzenebicarboxlic (1,4-BDC, 0.032 g), imidazole (im, 0.024 g) and H2O (2.12 g) were placed in a 20 ml vial. The sample was heated at 120 oC for 5 days, and then cooled to room-temperature. After washed by ethanol, the MC-BIF-2H (yield: 0.101 g, 64.5% based on B) was obtained.

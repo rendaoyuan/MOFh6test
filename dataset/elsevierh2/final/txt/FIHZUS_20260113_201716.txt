@@ -1,0 +1,5 @@
+FIHZUS
+Chemical_Name: catena-(tetrakis(μ2-pyridine-2,6-dicarboxylato-N,O,O',O'')-tetra-aqua-di-copper(ii)-praseodymium(iii) nonahydrate)
+Number: 249237
+Synonyms: N/A
+[{Pr4Cu2 (pydc)8 (H2O)8}·18H2O] n (2): A mixture of Pr2O3 (0.090 g, 0.25 mmol), CuO (0.040 g, 0.5 mmol), 2,6-pyridinedicarboxylic acid (0.133 g, 1.0 mmol), and H2O (20 mL) in a mole ratio of about 1:2:4:300 was heated in a 25-mL stainless-steel reactor with a Teflon liner at 140 °C for 80 h. Blue crystals of 2 formed. Yield 78%.

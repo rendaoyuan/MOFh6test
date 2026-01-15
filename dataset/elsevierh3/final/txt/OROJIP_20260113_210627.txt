@@ -1,0 +1,5 @@
+OROJIP
+Chemical_Name: catena-((μ2-2,3-bis(Benzimidazol-1-ylmethyl)quinoxaline)-dibromo-mercury(ii) dichloromethane solvate)
+Number: 806089
+Synonyms: N/A
+{[HgL(Br)2]4·2CH2Cl2}∞ (2) A buffer layer of a solution (5 mL) of CH3OH and CH2Cl2 (v:v = 1:1) was carefully layered over a CH2Cl2 solution (5 mL) of L (39 mg, 0.1 mmol). Then a solution of HgBr2 (36 mg, 0.1 mmol) in CH3OH (5 mL) was layered over the buffer layer. The solution was left for about two weeks at room temperature, and colorless block crystals were obtained. Yield ∼40%.

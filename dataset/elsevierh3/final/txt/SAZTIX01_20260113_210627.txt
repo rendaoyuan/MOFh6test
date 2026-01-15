@@ -1,0 +1,5 @@
+SAZTIX01
+Chemical_Name: catena-(bis(μ2-4,4'-Bipyridine)-(μ2-sulfato)-di-copper(i) hexahydrate)
+Number: 805893
+Synonyms: N/A
+Cu2(4,4′-bpy)2SO4·6(H2O), (1) 0.1153g (0.46mmol) of copper sulfate, 0.1030g (0.66mmol) of 4,4′-bpy and 0.0787g (0.59mmol) of l-asp were added into 16mL of distilled water under magnetic stirring. The mixture was transferred into a 40mL Teflon-lined autoclave and heated at 120°C in an oven for 3 days. After natural cooling, the sample was filtered and washed with 3×50mL distilled water. Greenish yellow crystals of (1) were obtained as a pure phase and air-dried at ambient conditions (0.08g, yield ca. 54% based on CuSO4).

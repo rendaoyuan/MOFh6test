@@ -1,0 +1,5 @@
+DACLAW
+Chemical_Name: catena-((μ4-5-Amino-1H-tetrazole)-(μ3-5-nitroisophthalato)-(μ3-hydroxo)-aqua-di-cobalt sesquihydrate)
+Number: 826949
+Synonyms: N/A
+A mixture of Co(NO3)2·6H2O (87.3 mg, 0.3 mmol), H2nip (21.1 mg, 0.1 mmol), Hatz (20.6 mg, 0.2 mmol), aqueous NaOH solution (0.1 M, 1.0 mL), ethanol (2.0 mL) and doubly deionized water (14.0 mL) was sealed in a 23.0 mL Teﬂon-lined stainless-steel autoclave and heated to 200 ◦C for 72 h. After the mixture was cooled to room temperature at a rate of 2.5 ◦C h-1, red block-shaped crystals suitable for X-ray diffraction analysis were obtained (Yield: 17% based on H2nip).

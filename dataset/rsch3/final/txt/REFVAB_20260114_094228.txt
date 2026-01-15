@@ -1,0 +1,5 @@
+REFVAB
+Chemical_Name: catena-((μ4-5-t-Butylisophthalato)-bis(μ3-5-t-butylisophthalato)-tetra-aqua-calcium-di-zinc trihydrate)
+Number: 884315
+Synonyms: N/A
+Synthesis of [Zn2Ca(H2O)4(tbip)3·3(H2O)]n (ZnCa-tbip) A mixture of zinc acetylacetonate hydrate (1.0 mmol), NH3·H2O (5.0 mmol), calcium nitrate (2.0 mmol) and 5-tert-butylisophthalic acid (2.0 mmol) in 20 mL H2O are stirred for 10 min at room temperature. The mixture is then transferred into a 40 mL, Teflon-lined stainless-steel vessel. The mixture is heated at 210℃ for five days under autogenously pressure. After the reaction mixture has slowly cooled down to room temperature, fawn-colored prism crystals of ZnCa-tbip are filtered off, washed with distilled water, and dried in air. Yield: ~50%.

@@ -1,0 +1,5 @@
+JOFKOF
+Chemical_Name: catena-((μ2-Isophthalato-O,O',O'')-aqua-(N,N'-bis(3-pyridylmethyl)piperazine-N,N')-copper dihydrate)
+Number: 661422
+Synonyms: N/A
+Preparation of {[Cu(ip)(3-bpmp)(H2O)]·2H2O} (2) Cu(NO3)2 ·6H2O (67mg, 0.277mmol), isophthalic acid (46mg, 0.277mmol), and 3-bpmp (74mg, 0.55mmol) were suspended in 6g (333mmol) distilled H2O (1:1:2mol ratio) into a borosilicate glass tube that had been previously flame sealed at one end. The tube was sealed and heated at 80°C for 240h, whereupon it was cooled slowly in air to 25°C. Light blue crystals of 2 (125mg, 40% yield based on Cu) were isolated after washing with distilled water and acetone and drying in air.

@@ -1,0 +1,5 @@
+RESWUI01
+Chemical_Name: catena-((μ4-1,4-Benzenedicarboxylato)-bis(μ2-1,4-benzenedicarboxylato)-diaqua-bis(dimethylformamide)-di-erbium)
+Number: 747682
+Synonyms: N/A
+A mixture of ErCl3·6H2O (40 mg, 0.11 mmol) and H2BDC (20 mg, 0.12 mmol) was suspended in the solution of DMF/EtOH (V/V = 2:1, 10 ml) and heated in teflon-lined steel bomb at 110℃ for 4 days. The pink block crystals were collected, washed with water and dried in the air. Yield: 64% (based on H2BDC).

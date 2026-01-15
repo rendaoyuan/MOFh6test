@@ -1,0 +1,5 @@
+FEJJUB
+Chemical_Name: catena-((μ5-benzene-1,2,4-tricarboxylato)-(μ3-4-(3,2':6',3''-terpyridin-4'-yl)benzoato)-di-zinc(ii))
+Number: 883240
+Synonyms: N/A
+Synthesis of [Zn2(cptpy)(2-btc)] n (4) A mixture of Zn(CH3COO)2·2H2O (0.0219g, 0.1mmol), Hcptpy (0.0353g, 0.1mmol), 1,2,4-benzenetricarboxylic acid (0.0192g, 0.1mmol) and deionized water (10mL) was stirred and the pH value was adjusted to 5.0 with 0.5M NaOH aqueous solution. The reaction mixture was then sealed in a 25mL Telfon-lined stainless steel container, which was heated to 180°C for 72h, then cooled to room temperature at a rate of 5°C/h. Colorless block crystals were obtained (yield: 30.7mg, 89% based on Zn).

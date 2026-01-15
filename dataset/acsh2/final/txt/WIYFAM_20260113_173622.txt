@@ -1,0 +1,5 @@
+WIYFAM
+Chemical_Name: catena-((μ4-1,4-benzenedicarboxylato)-(μ4-oxo)-bis(μ4-3,3',5,5'-tetramethyl-1H,1'H-4,4'-bipyrazolato)-tetra-zinc(ii) N,N-dimethylformamide solvate hexahydrate)
+Number: 683566
+Synonyms: N/A
+Synthesis of [Zn4O(bdc)(bpz)2]·4DMF·6H2O (1). A mixture of H2bdc (0.025 g, 0.15 mmol), H2bpz (0.057 g, 0.30 mmol), and Zn(NO3)2·6H2O (0.179 g, 0.60 mmol) in N,N′-dimethylformamide (DMF) (9 mL) was placed in a Teﬂon-lined stainless steel vessel (12 mL) and heated at 140 °C for 80 h, and then it was cooled to room temperature at a rate of 0.1 °C/min. The resulting white microcrystalline precipitate of 1 was isolated by ultrasonication (10 s) and decanting of the supernatant suspension, which was washed with DMF/ethanol and dried in vacuo. The yield was 88 mg (48%). Colorless single crystals for X-ray single-crystal diffraction were prepared by heating a solution of H2bdc (0.025 g, 0.15 mmol), H2bpz (0.029 g, 0.15 mmol), and Zn(NO3)2·6H2O (0.089 g, 0.30 mmol) in 9 mL of DMF in a 12 mL Teﬂon-lined stainless steel vessel at 120 °C for 80 h, and then the mixture was cooled to room temperature at a rate of 0.1 °C/min. The yield was ∼40 mg (22%).

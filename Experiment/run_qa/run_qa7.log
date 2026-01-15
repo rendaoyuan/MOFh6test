@@ -1,0 +1,57 @@
+======================================================================
+会话开始: 2026-01-15 01:10:39,016
+执行的脚本: main.py
+Python路径: F:\software\Anaconda\envs\c2ml\python.exe
+======================================================================
+
+2026-01-15 01:10:39,016 - INFO - DataFrame prepared with 54808 rows
+
+🌟 Initializing MOF Analysis System...
+
+💎 Welcome to MOF Analysis System!
+
+📋 Available Commands:
+📄 'How to synthesize <code/name>' - Obtain the synthesized text
+📄 'process pdf <path>' - Process a PDF document
+🔬 'workflow <path>' - Run analysis workflow on processed PDF
+💾 'show saved' - Show saved documents
+📥 'download cif <code>' - Download CIF file for a CCDC code
+🔮 'visualize <code>' - Visualize crystal structure for a CCDC code
+Query> hi
+2026-01-15 01:11:37,411 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-15 01:11:37,416 - INFO - Query analysis: {'query_type': 'greeting', 'materials': [], 'properties': [], 'operation': {'type': None, 'value': None}, 'range': {}, 'uses_context': False, 'reasoning': [], 'page_size': None}
+2026-01-15 01:11:39,206 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+Hello! How can I assist you today? If you have any questions about materials or properties, feel free to ask!
+
+Query> What is the average density?
+2026-01-15 01:12:02,255 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-15 01:12:02,256 - INFO - Query analysis: {'query_type': 'statistical', 'materials': ['ZZZUKQ02', 'ZZZVAA01', 'ZZZWCW01'], 'properties': ['density'], 'operation': {'type': 'mean', 'value': None}, 'range': {}, 'uses_context': True, 'reasoning': [], 'page_size': None}
+2026-01-15 01:12:04,242 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+The average density of the specified materials is 2.642 g/cm³.
+
+Query> Show material with highest gravimetric surface area
+2026-01-15 01:12:13,259 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-15 01:12:13,259 - INFO - Query analysis: {'query_type': 'statistical', 'materials': [], 'properties': ['Gravimetric Surface Area (m2/g)'], 'operation': {'type': 'max', 'value': None}, 'range': {}, 'uses_context': True, 'reasoning': [], 'page_size': None}
+2026-01-15 01:12:15,220 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+The materials with the highest gravimetric surface area are:
+
+1. CCDC_code: ABACUF01
+2. CCDC_code: ABALOF
+3. CCDC_code: ABAVIJ
+4. CCDC_code: ABAVOP
+5. CCDC_code: ABAYEI
+
+If you would like more details or additional entries, please let me know!
+
+Query> q!
+
+👋 Thank you for using MOF Analysis System. Goodbye!
+
+
+======================================================================
+会话结束: 2026-01-15 01:12:27,341
+退出代码: 1
+======================================================================

@@ -1,0 +1,5 @@
+BUHFER
+Chemical_Name: catena-[(μ-3,5-bis(pyridin-4-yl)-1,2,4-triazolato)-bis(μ-iodo)-tri-copper]
+Number: 934863
+Synonyms: N/A
+Synthesis of complex 2 CuI (0.190 g, 1 mmol) was dissolved in acetonitrile (6 ml) at room temperature, followed by the addition of a solution of Hdpt (0.112 g, 0.5 mmol) in acetonitrile (8 ml) with vigorous magnetic stirring in a 25 ml Parr Teflon-lined stainless steel vessel. The mixture was heated for 3 days at 150 °C and then cooled to room temperature at a rate of 10 °C/h. After cooling to room temperature, red block-like crystals of [Cu3I2(dpt)]n, complex 2, were obtained in a yield of 0.267 g, 80 % (based on Hdpt).

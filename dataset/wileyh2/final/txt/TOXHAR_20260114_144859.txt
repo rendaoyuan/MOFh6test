@@ -1,0 +1,11 @@
+TOXHAR
+Chemical_Name: catena-[(μ-1,3,5-tris(4-(carboxylatomethoxy)phenyl)-2,4,6-trimethylbenzene)-zinc N,N-dimethylformamide unknown solvate]
+Number: 1018752
+Synonyms: N/A
+Preparation of ZnL–DMF: A solution of H3L (0.025m) in DMF (3.0 mL) was mixed with Zn(NO3)2·6H2O in DMF (1.0 mL) in a tightly capped glass vial. The contents were heated at 908C. Dagger-shaped crystals of ZnL–DMF were obtained after 48 h: yield 81% (0.019 g, 0.025 mmol). Preparation of ZnL–Zn: A solution of H3L (0.20 g, 0.35 mmol) and Zn(NO3)2·6H2O (0.21 g, 0.70 mmol) in 14 mL of DEF/EtOH/H2O (4:2:1, v/v) mixture was heated at 908C in a tightly capped glass vial. After 20 h, long columnar crystals of ZnL–Zn were obtained: yield 98% (0.23 g, 0.34 mmol). Metal Exchange Studies: In a typical experiment, 25 mg of ZnL–Zn MOF was suspended in the solution of metal salt. For example, the MOF crystals were suspended in DCM (5.0 mL) containing FeCl3 (5.0 mg). The crystals, after metal exchange, were isolated and thoroughly washed with DEF/EtOH/H2O (4:2:1, v/v) mixture after 1, 2, 4, 6, and 10 d. The exchange with Ru3+ was performed by suspending the crystals of ZnL–Zn in RuCl3 (2.0 mL of 0.01m aqueous solution). Likewise, exchange with Cu2+ and Co2+ ions was carried out by using approximately 0.04m aqueous solutions. All the crystals upon isolation from the solution of the exchanging metal salt were air dried for 24 h and dried at 1008C for another 24 h prior to SEM-EDX and ICP-AES analyses.
+Abbreviation: H3L
+Full Name: tritopic triacid
+Abbreviation: H3L
+Full Name: trigonal triacid
+Abbreviation: H3L
+Full Name: triacetic acid based on mesitylene core

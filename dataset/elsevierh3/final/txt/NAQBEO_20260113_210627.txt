@@ -1,0 +1,5 @@
+NAQBEO
+Chemical_Name: catena-((μ3-5-methylisophthalato)-(μ2-5-methylisophthalato)-penta-aqua-di-cadmium(ii) trihydrate)
+Number: 775371
+Synonyms: N/A
+Cd2(mip)2(H2O)5·3H2O(3) A mixture of Cd(NO3)2·4H2O (0.0926 g, 0.3 mmol), H2mip (0.036 g, 0.2 mmol), triethylamine (0.02 mL), and H2O (5 mL) in a 23-mL Teflon reactor, which was heated at 110 °C for five days and then cooled to room temperature at a rate of 5 K h−1. Colorless crystals of 3 were obtained (43% yield based on Cd(NO3)2) after washing with H2O and drying in air.

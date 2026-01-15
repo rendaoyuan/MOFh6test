@@ -1,0 +1,5 @@
+OXUNEB
+Chemical_Name: N/A
+Number: N/A
+Synonyms: N, /, A
+Synthesis of the title compound 1: A mixture of 2 mmol (NH4)6Mo7O24·6H2O, 2 mmol Cd(CH3COO)2·2H2O, 2 mmol MgCl2·6H2O, 5 mmol H3PO4, 2 mmol ethylenediamine and 20 mL water was heated at 180 °C under static conditions for 36 h in a Teflon-lined stainless steel autoclave (filling volume of 70%). After cooling the reaction mixture to room temperature, the brown block-like crystals were separated and washed with distilled water and ethanol many times. Finally, the product was dried in air at room temperature.

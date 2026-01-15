@@ -1,0 +1,5 @@
+BEGZIY
+Chemical_Name: catena-[(μ2-4,4'-Bipyridine)-tetra-aqua-cobalt(ii) bis(4-hydroxypyridine-2,6-dicarboxylato)-cobalt(ii) hemikis(4,4'-bipyridine) tetrahydrate]
+Number: 830286
+Synonyms: N/A
+Synthesis of {4(H2O)·[Co(bipy)·(H2O)4]·(bipy)·[Co(HCAM)2]} n (4) In order to obtain novel hetero-metal complexes, a mixture of CoCl2·6H2O (7.89mg, 0.03mmol), La(Ac)3·6H2O (6.16mg, 0.05mmol), 4,4′-bipyridyl (7.77mg, 0.05mmol) and chelidamic acid (18.3mg, 0.10mmol) was initially dissolved in 10mL water under the pH 7 by ammonia (5mol/L). Stirring for about 1.5h, then the solution was filtered. The filtrate was allowed to stand at room temperature. And brown block crystals of 4 containing only Co ions that are stable in air were obtained over 4days. Yield based on chelidamic acid: 25.3%.

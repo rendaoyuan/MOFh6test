@@ -1,0 +1,5 @@
+OTAXOX
+Chemical_Name: N/A
+Number: N/A
+Synonyms: N/A
+Synthesis of γ-Mg-formate Mg3(O2CH)6⊃[NH(CH3)2]0.5. As 1,3-benzene-ditetrazole is sparingly soluble in water at moderate temperature, we used the solvent DMF in which it is readily soluble. We used the solvothermal condition (Teflon-lined stainless steel autoclave at 125 to 150 °C) for synthesis which results in the formation of single crystals suitable for X-ray diffraction. Before solvothermal reactions, stirring of the heterogeneous solutions for a period 30 min was helpful for the high purity of the product. Solvothermal reaction of Mg(CO2-CH3)2·4H2O (0.214 g, 1 mmol) with 1,3-benzene-ditetrazole (0.214 g, 1 mmol) in a 25 mL Teflon-lined stainless steel autoclave in 5 mL of dimethylformamide (DMF) and 0.2 mL of HNO3 (3.6 M) mixture at 150 °C for 60 h produces colorless crystals of Mg3(O2CH)6⊃[NH(CH3)2]0.5 in 61% yield. Crystals were collected by filtration and dried in air (10 min). [Yield: 61%, 0.130 g depending on Mg(CO2CH3)2·4H2O].

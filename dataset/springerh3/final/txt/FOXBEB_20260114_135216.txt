@@ -1,0 +1,5 @@
+FOXBEB
+Chemical_Name: catena-[(μ-1,2,5-thiadiazole-3,4-dicarboxylato)-diaqua-calcium]
+Number: 992610
+Synonyms: N/A
+[Ca(tdzdc)(H2O)2]n (2): A mixture of 104.4 mg H2tdzdc (0.6 mmol), 147.6 mg Ca(NO3)2·4H2O (0.6 mmol), 5 %(w/w) NaOH solution (5 d), ethanol (4 mL) and H2O (6 mL) was stirred for 10 min at room temperature. Then, the mixture was sealed in a Teﬂon-lined stainless steel vessel and heated at 160 _x0003_C for 48 h. After cooled to room temperature, the colorless transparent crystals of 2 were collected by ﬁltration, washed with water and ethanol respectively, and dried in air, with a yield of 45 % (based on metal salts).

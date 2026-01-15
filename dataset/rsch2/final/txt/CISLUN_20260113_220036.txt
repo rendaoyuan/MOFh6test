@@ -1,0 +1,5 @@
+CISLUN
+Chemical_Name: catena-(tetrakis(μ-5-(pyridin-4-yl)tetrazolato)-bis(μ-azido)-bis(N,N-dimethylformamide)-tri-copper N,N-dimethylformamide solvate)
+Number: 927384
+Synonyms: N/A
+Synthesis of {[Cu3(N3)2(4-ptz)4 (DMF)2]·2DMF}n (1) To an aqueous solution (6 mL) of Cu(CH3COO)2·H2O (1.25 mmol, 248 mg), an acetonitrile solution (8 mL) of 4-cyanopyridine (2 mmol, 208 mg) was added and stirred. After about 1 hour an aqueous solution of NaN3 (2 mmol, 130 mg) was added to the above solution under continuous stirring and the solution was heated to 50–60 °C. After stirring for 4 more hours, the solution was left to cool down to room temperature which resulted in the separation of a shiny dark green compound. It was filtered and washed with cold acetonitrile. A part of it was dissolved in DMF and the clear solution was left to stand at room temperature which harvested green, rhombohedral shaped crystals after several days. The crystals were separated, washed with cold water and Et2O and air-dried. (Yield 53%).

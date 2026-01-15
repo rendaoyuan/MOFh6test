@@ -1,0 +1,5 @@
+LARLIB
+Chemical_Name: catena-[(μ2-1,1'-Methylenebis(1H-benzimidazole))-bis(iodo)-mercury(ii)]
+Number: 753067
+Synonyms: N/A
+Synthesis of [HgI2(mbbz)] n (3) A solution of mbbz (5.9mg, 0.025mmol) in 5mL dichloromethane was added slowly into a solution of HgI2 (8.0mg, 0.025mmol) in 5mL methanol. The mixture was filtered to give a clear solution and then was left standing at room temperature without disturbration. The yellow block crystals suitable for single crystal X-ray diffraction were obtained about one week later (Yield: 8.0mg, 46% based on Hg).

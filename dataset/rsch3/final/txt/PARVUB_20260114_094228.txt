@@ -1,0 +1,5 @@
+PARVUB
+Chemical_Name: catena-(bis(μ3-5-sulfoisophthalato)-tetrakis(μ2-1,1'-butane-1,4-diylbis(1H-benzimidazole))-diaqua-tri-cobalt dihydrate)
+Number: 831733
+Synonyms: N/A
+Synthesis of [Co3(bbbm)4(SIP)2(H2O)2]?2H2O (2). A mixture of CoSO4?7H2O (0.084 g, 0.30 mmol), bbbm (0.015 g, 0.05 mmol), NaH2SIP (0.027 g, 0.10 mmol), H2O (8.0 mL) and NaOH (0.10 mol L21,1.8 mL) was stirred for 1 h in air, and then sealed in a 25 mL Teflon-lined stainless-steel autoclave at 150 uC for 72 h. The reaction system was cooled to room temperature at a rate of 4 uC h21. Purple block crystals of 2 were collected, and washed with distilled water and acetone. Yield: 48% (based on Co).

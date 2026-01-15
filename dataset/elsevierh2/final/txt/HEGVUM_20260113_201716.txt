@@ -1,0 +1,5 @@
+HEGVUM
+Chemical_Name: catena-[bis(μ5-Pyridine-2,3,5,6-tetracarboxylato)-hexakis(μ2-aqua)-hexaaqua-di-potassium-tri-zinc]
+Number: 632114
+Synonyms: N/A
+Preparation of 3: A mixture of K4pdtc (0.0815g, 0.2mmol), Zn(NO3)2·6H2O (0.0892g, 0.3mmol) and H2O (10mL) was stirred for 2h. The colorless and block crystals of 3 were obtained after the filtrate was allowed to stand at room temperature for 4weeks. Yield: 45% (based on Zn(II) salts).

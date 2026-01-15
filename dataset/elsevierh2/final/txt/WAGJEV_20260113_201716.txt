@@ -1,0 +1,5 @@
+WAGJEV
+Chemical_Name: catena-[(μ4-Biphenyl-2,2',6,6'-tetracarboxylato-O,O',O'',O''',O'''')-aqua-bis(1H,1'H-2,2'-biimidazole-N3,N3')-di-zinc(ii) monohydrate]
+Number: 779827
+Synonyms: N/A
+{[Zn2(bta)(H2biim)2(H2O)].H2O} n (3) A mixture of H4bta (0.066g, 0.2mmol), Zn(NO3)2·6H2O (0.118g, 0.4mmol), NaOH (0.032g, 0.8mmol), H2biim (0.107g, 0.8mmol) and H2O (10mL) was heated in a 25-mL Teflon-lined vessel at 180°C for 3 days, followed by slow cooling (5°Ch−1) to room temperature. After filtration and washing with H2O, colorless block crystals were collected and dried in air (0.319g, yield ca. 46% based on H4bta).

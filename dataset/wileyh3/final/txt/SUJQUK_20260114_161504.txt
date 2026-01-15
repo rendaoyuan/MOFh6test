@@ -1,0 +1,5 @@
+SUJQUK
+Chemical_Name: catena-((μ3-Benzene-1,4-dicarboxylato)-(μ2-trans-1,2-bis(4-pyridyl)ethene)-zinc(ii) dimethylformamide clathrate)
+Number: 751095
+Synonyms: N/A
+A solution of bpe (0.036 g, 0.2 mmol) in MeOH (2 mL) was slowly and carefully layered over a solution of Zn(NO3)2·6H2O (0.059 g, 0.2 mmol) in H2O (2 mL) using DMF/MeOH 1:1 (v/v, 2 mL) as a buffer; subsequently, a layer of H2bdc (0.028 g, 0.2 mmol) neutralized with Et3N (0.021 g, 0.2 mmol) in EtOH (2 mL) was added. The colorless blocks of [Zn(bpe)-(bdc)]·DMF (2) were obtained after two days (0.062 g, yield 65%).

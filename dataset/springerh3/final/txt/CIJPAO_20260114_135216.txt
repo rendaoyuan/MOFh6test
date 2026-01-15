@@ -1,0 +1,5 @@
+CIJPAO
+Chemical_Name: catena-(Diaqua-(μ2-2,2'-dihydroxy-1,1'-binaphthalene-3,3'-dicarboxylato)-bis(N,N-dimethylformamide)-nickel(ii) N,N-dimethylformamide solvate)
+Number: 861477
+Synonyms: N/A
+Preparation of {[Ni(H2bna)_(DMF)2_(H2O)2]_DMF}n (3) A solution of Ni(ClO4)2_6H2O (0.0366 g, 0.10 mmol) and H4bna (0.0187 g, 0.05 mmol) in DMF/MeOH/H2O (4:1:1, 6 mL) was stirred for 20 min in air and then placed in a Parr Teﬂon-lined stainless steel vessel (15 mL). After addition of 0.1 M NaOH (0.3 mL), the vessel was sealed and heated at 80 °C for 72 h, then cooled to room temperature. Light-green prismatic crystals of 3 were collected by ﬁltration, washed with water, and dried in air (yielding light-green prismatic crystals in 53% yield (based on Ni)).

@@ -1,0 +1,7 @@
+ICOBIN
+Chemical_Name: catena-(bis(μ2-phenyl(((pyrazin-2-yl)carbonyl)hydrazono)acetato)-diaqua-manganese(ii) methanol solvate)
+Number: 835343
+Synonyms: N/A
+Synthesis of Complexes [C28H30MnN8O10]n (1) and (C13H8N4O3)2Mn2(CH3OH)(H2O)3 (2): Mn(CH3COO)2·4H2O (0.10 g, 0.41 mmol) was dissolved in methanol (10 mL) in a round-bottomed flask. H2L5 (0.10 g, 0.34 mmol) was added to methanol (10 mL), and the solution was warmed. The two mixtures were combined to give a cloudy orange solution. H2O was added dropwise, but the precipitate still did not dissolve. The reaction mixture was then stirred and heated gently for 24 h. A cloudy orange solution resulted, which was gravity-filtered to give a clear light yellow filtrate, and an orange precipitate. Attempts to redissolve the precipitate were unsuccessful. The yellow filtrate was left to slowly concentrate at room temperature. Colourless crystals of 1 suitable for X-ray diffraction formed after 2 weeks (yield 45 mg, 16% based on metal salt). On further standing, a small quantity of orange crystals (ca. 15 mg) of 2 was obtained from the mother liquor, which were also suitable for X-ray diffraction.
+Abbreviation: H2L5
+Full Name: Ligands H2L5 and H2L6 also include heterocyclic components

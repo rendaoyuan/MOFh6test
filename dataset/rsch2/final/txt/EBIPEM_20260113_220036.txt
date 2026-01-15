@@ -1,0 +1,5 @@
+EBIPEM
+Chemical_Name: catena-((μ2-phthalato)-(μ2-1,1'-butane-1,4-diylbis(1H-1,2,4-triazole))-copper)
+Number: 810496
+Synonyms: N/A
+Synthesis of [Cu(btb)(1,2-bdc)]n (6) A solution of 1,2-H2bdc (0.083 g, 0.5 mmol) in 10 mL H2O was adjusted to approximately pH 6 with dilute NEt3 solution. Then btb (0.096 g, 0.5 mmol) in 10 mL CH3OH was added. This mixture was added to one side of an ‘‘H-shape’’ tube, and Cu (NO3)2$3H2O (0.121 g, 0.5 mmol) in 20 mL water was added to the other side of the ‘‘H-shape’’ tube. Green crystals of 6 were obtained after about three weeks with a yield of 53% (0.111 g).

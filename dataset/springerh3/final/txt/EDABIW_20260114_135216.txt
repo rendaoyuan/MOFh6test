@@ -1,0 +1,5 @@
+EDABIW
+Chemical_Name: catena-((μ4-adipato)-tetrakis(μ3-oxo)-hexakis(μ2-nicotinato)-diaqua-tetra-samarium(iii))
+Number: 843087
+Synonyms: N/A
+Synthesis of [Sm2(nic)3(ad)0.5(H2O)(l3-O)2] (1) Complex 1 was prepared by hydrothermal reaction. Sm2O3 (0.10 g, 0.29 mmol), nicotinic acid (0.10 g, 0.81 mmol), adipic acid (0.10 g, 0.68 mmol) and H2O (10 mL) were mixed in 25 mL beaker. After stirring for 2 h, the mixture was sealed in the bomb and heated at 180 _x0003_C for three days, then cooled at 10 _x0003_C/3 h to 100 _x0003_C, followed by slow cooling to room temperature. After ﬁltration, the product was washed with distilled water and then dried at room temperature. Yellow crystals suitable for X-ray diffraction analysis were obtained in ca. 54% yield based on Sm(III).

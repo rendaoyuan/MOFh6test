@@ -1,0 +1,5 @@
+DAJHUS
+Chemical_Name: catena-(bis(μ4-2,6-Naphthalenedicarboxylato-O,O',O'',O''')-(μ2-trans-1,2-bis(4-pyridyl)ethylene-N,N')-di-cobalt benzene solvate monohydrate)
+Number: 202100
+Synonyms: N/A
+No synthesis method found for compound 1

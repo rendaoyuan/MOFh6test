@@ -1,0 +1,5 @@
+ILAGUY
+Chemical_Name: catena-(bis(μ3-biphenyl-2,2'-dicarboxylato)-(μ2-1,4-bis(pyridin-3-ylmethyl)piperazin-1-ium)-(μ2-1,4-bis(pyridin-3-ylmethyl)piperazinediium)-bis(biphenyl-2,2'-dicarboxylato)-diaqua-tri-cadmium perchlorate heptahydrate)
+Number: 792200
+Synonyms: N/A
+Preparation of {[Cd3(diphenate)4(H23-bpmp)(H3-bpmp)(H2O)2](ClO4)·7H2O} n (2) Cd(ClO4)2·6H2O (75mg, 0.18mmol), 3-bpmp (99mg, 0.37mmol) and diphenic acid (44mg, 0.18mmol) were placed into 5mL distilled H2O in a 15mL screw-cap vial. The vial was sealed and heated in an oil bath at 80°C for 72h, whereupon it was cooled slowly to 25°C. Colorless plates of 2 (84mg, 67% yield based on Cd) were isolated after washing with distilled water and acetone, and drying in air.

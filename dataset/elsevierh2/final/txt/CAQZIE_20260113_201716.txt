@@ -1,0 +1,5 @@
+CAQZIE
+Chemical_Name: catena-[(μ2-1-Carboxybenzene-3,5-dicarboxylato)-aqua-(4,4'-bipyridine)-zinc(ii) trihydrate]
+Number: 229403
+Synonyms: N/A
+A mixture of Zn(NO3)2 ·6H2O (0.070g, 0.24mmol), H3btc (0.050g, 0.24mmol) and bpy (0.040g, 0.26mmol) in 10ml H2O at pH 4.0 (adjusted by HCl) was heated in the autoclave at 170°C for 4 days. After cooling to room temperature at 5°Ch−1, needle-like colorless crystals of 2 were isolated in 35.2% yield (based on Zn).

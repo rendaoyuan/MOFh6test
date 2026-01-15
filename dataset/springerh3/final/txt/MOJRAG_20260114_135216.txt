@@ -1,0 +1,9 @@
+MOJRAG
+Chemical_Name: catena-[(μ2-N,N'-di(pyridin-3-yl)pyridine-3,5-dicarboxamide)-(μ2-4,4'-oxydibenzoato)-cobalt]
+Number: 1002314
+Synonyms: N/A
+Preparation of [Co(L)(oba)]n (4) A mixture of CoCl2_x0002_6H2O (0.048 g, 0.2 mmol), L (0.032 g, 0.1 mmol), H2oba (0.052 g, 0.2 mmol), water (8 mL) and NaOH (0.016 g, 0.4 mmol) was placed in a 25-mL Teﬂon reactor. The mixture was heated at 120 _x0003_C for 4 days, and then the autoclave was gradually cooled to room temperature. Pink block-shaped crystals of 4 were gained. Yield: 0.038 g (30 %).
+Abbreviation: L
+Full Name: N,N′-bis(pyridine-3-yl)pyridine-3,5-dicarboxamide
+Abbreviation: L
+Full Name: semi-rigid tri-pyridyl-bis-amide ligand

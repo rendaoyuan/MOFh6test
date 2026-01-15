@@ -1,0 +1,5 @@
+COWRIR
+Chemical_Name: catena-[tris(μ4-4,4'-sulfonyldibenzoato)-bis(N,N-dimethylacetamide)-tri-cobalt N,N-dimethylacetamide solvate monohydrate]
+Number: 1018801
+Synonyms: N/A
+Synthesis of [Co3(C14H8O6S)3(DMA)2(MeOH)]·DMA (Ia): A mixture of CoCl2·4H2O (0.3 mmol) and H2SDBA (0.3 mmol) was dissolved in a solvent mixture of DMA/methanol (6 mL/2 mL) under continuous stirring. HBF4 (0.06 mL) and NH4OH (0.023 mL) were added and the reaction mixture was homogenized under continuous stirring for 20 min. The final reaction mixture with a composition of 1(CoCl2·4H2O):1H2SDBA:216DMA:165CH3OH:1HBF4:1NH4OH was transferred to a 23 mL PTFE lined stainless steel autoclave and heated to 110 °C for 3 d. Blue rod shaped crystals of Ia were filtered, washed with dry ethanol, and dried under vacuum (Yield ca. 68% based on Co). The initial and final pH of the reaction medium was found to be 2.1 and 5.2, respectively.

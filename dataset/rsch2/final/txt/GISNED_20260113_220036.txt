@@ -1,0 +1,9 @@
+GISNED
+Chemical_Name: catena-[tris(μ8-tetrakis((4-Carboxylatophenoxy)methyl)methane)-bis(μ4-oxo)-octa-zinc dimethylamine solvate decahydrate]
+Number: 935302
+Synonyms: IFMC-68
+Synthesis of IFMC-68 ([(Zn4O)2(L)3]$10H2O$46DMA) A solution of Zn(NO3)2$6H2O (0.150 g, 0.504 mmol) and H4L (0.050 g, 0.081 mmol) in DMA (5 mL) was heated at 85 _x0004_C for 72 h in a Teon-lined steel container. The resulting colorless crystals were collected, washed with Et2O, and dried at room temperature (yield: 79% based on H4L).
+Abbreviation: H4L
+Full Name: methanetetra(tetrakis[4-(carboxyphenyl)oxamethyl]methane acid)
+Abbreviation: L
+Full Name: Tetrakis[4-(carboxyphenyl)oxamethyl]methane acid

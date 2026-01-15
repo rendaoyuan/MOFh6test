@@ -1,0 +1,5 @@
+JOJGIA
+Chemical_Name: catena-[(μ4-2,2'-Bipyridine-3,3',6,6'-tetracarboxylato)-diaqua-di-copper dihydrate]
+Number: 861968
+Synonyms: N/A
+No synthesis method found for compound 2

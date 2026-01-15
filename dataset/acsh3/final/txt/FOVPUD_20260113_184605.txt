@@ -1,0 +1,5 @@
+FOVPUD
+Chemical_Name: catena-[bis(μ-(R,S-)2,2'-Bipyridine-3,3'-dicarboxylate-1,1'-dioxide)-(μ-4,4'-ethene-1,2-diyldipyridine)-diaqua-di-cadmium(ii) hydrate]
+Number: 999716
+Synonyms: N/A
+Synthesis of {[Cd2(bpdado)2(bpe)(H2O)2]·8.5H2O}n (3). A mixture of H2bpdado (0.05 mmol, 22.4 mg), bpe (0.05 mmol, 9.1 mg), and H2O (5 mL) was stirred and adjusted the pH to 7.0 with aqueous solution of KOH (1 mol/L). The other mixture of Cd(NO3)2·4H2O (0.05 mmol, 15.2 mg), methanol (2.5 mL), and H2O (2.5 mL) was stirred under air atmosphere for 5 min. Then, the metal salt solution was slowly layered onto the mixture of ligand. One week later, colorless block crystals of 3 were collected. Yield: 35% based on Cd.

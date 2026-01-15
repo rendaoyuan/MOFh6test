@@ -1,0 +1,5 @@
+QUKYOL
+Chemical_Name: catena-(bis(μ6-N-(Phosphonomethyl)iminodiacetato)-(μ2-oxalato)-hexa-aqua-di-copper(ii)-di-lanthanum(iii) hydrate)
+Number: 742515
+Synonyms: N/A
+Synthesis of 4-CuLa Cu(CH3COO)2$4H2O (100 mg, 0.50 mmol), H4PMIDA (114 mg, 0.5 mmol), H2C2O4 (23 mg, 0.25 mmol), and 0.5 mmol of La(NO3)3$6H2O were dissolved in 6 mL of H2O and heated at 100 _x0002_C for 2 days in stainless steel reactors with Teﬂon liners. After cooling to room temperature, crystals of single-phase products were collected, washed with H2O, and dried in air. Yields (based on Cu): 61% for 4-CuLa.

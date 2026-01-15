@@ -1,0 +1,5 @@
+BEZYIQ
+Chemical_Name: catena-[(μ4-5-(Isonicotinoylamino)isophthalato)-aqua-iron dihydrate]
+Number: 782387
+Synonyms: N/A
+Synthesis of [Fe(INAIP)(H2O)]n-2nH2O: A mixture containing FeSO4·7H2O (14.0 mg, 0.05 mmol), H2INAIP (28.6 mg, 0.1 mmol) and NaOH (0.8 mg, 0.2 mmol) dissolved in 10 mL H2O was placed in a 15 mL Teflon reactor and heated at 180 °C for 3 days. The mixture was cooled to room temperature, and platelet-shaped brown single crystals were collected by filtration and washed with water and ethanol several times. Yield 10.2 mg (26%).

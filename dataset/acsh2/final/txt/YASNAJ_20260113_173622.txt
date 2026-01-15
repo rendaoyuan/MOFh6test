@@ -1,0 +1,5 @@
+YASNAJ
+Chemical_Name: catena-((μ3-4,4'-Sulfonyldibenzoato)-(μ2-4,4'-(1,4-phenylene)dipyridine)-cobalt hydrate)
+Number: 877000
+Synonyms: N/A
+Synthesis of 4 A mixture of Co(NO3)2·6H2O (29.4 mg, 0.1 mmol), bpbenz (23.23 mg, 0.1 mmol), and 4,4′-sdb (15.82 mg, 0.1 mmol) was dissolved in 8 mL of DMF/H2O. The final mixture was placed in a Parr Teflon-lined stainless steel vessel (15 mL) under autogenous pressure and heated at 95 °C for 3 days. The colorless block crystals of 1 were obtained. For 4, the yield of the reaction was ca. 50% based on bpbenz ligand.

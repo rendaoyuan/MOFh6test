@@ -1,0 +1,5 @@
+KOLWEO
+Chemical_Name: catena-(bis(μ3-Benzene-1,3,5-tris(4-benzoato))-tris(ethyleneglycol-O,O')-tri-nickel tris(toluene) clathrate)
+Number: 692027
+Synonyms: N/A
+Synthesis of [Ni3(BTB)2(bipy)3(EG)3]$x(toluene), 2 A mixture of H3BTB (30 mg, 0.68 mmol), Ni(NO3)2$6H2O (30 mg, 1.02 mmol) and 4,40-bipyridine (32 mg, 2.05 mmol) in 2 ml of a DEF/EG/Toluene (molar ratio 1.3 : 1.7 : 1.0) solvent mixture was placed in a 23 ml Teﬂon-lined autoclave and stirred for 2 minutes to homogenise the mixture. The autoclave was sealed and heated at 120 _x0003_C for 48 h. The green block crystals were recovered by ﬁltra- tion and washed successively with DEF, EtOH and water followed by air-drying. Yield ¼ 63 mg (71%)

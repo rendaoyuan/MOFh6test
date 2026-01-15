@@ -1,0 +1,5 @@
+UGOXIX01
+Chemical_Name: catena-((μ4-1,5-Naphthalenedisulfonato-O,O',O'',O''')-diaqua-cadmium(ii))
+Number: 244648
+Synonyms: N/A
+Cd(1,5-nds)(H2O)2]n: Cd(CH3Coo)2 · 2H2O (0.13 g, 0.5 mmol) was added to the aqueous solution of 1,5-naphthalenedisulfonic acid (0.18 g, 0.5 mmol). The resulting solution was adjusted by 10% NaOH until pH 9, heated and stirred at 60◦C for 2 h, filtered. Crystals suitable for single-crystal structural analyses were obtained from the filtrate after a few days. Yield: 65%.

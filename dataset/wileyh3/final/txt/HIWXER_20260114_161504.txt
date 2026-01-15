@@ -1,0 +1,5 @@
+HIWXER
+Chemical_Name: catena-[bis(μ6-bis(Tetrazol-5-yl)amino)-bis(μ3-hydroxo)-bis(μ2-hydroxo)-penta-zinc(ii) dihydrate clathrate]
+Number: 658317
+Synonyms: N/A
+Synthesis of 2: To a Teflon-lined stainless steel vessel was added ZnCl2 (0.068 g, 0.5 mmol), Na[N(CN)2] (0.045 g, 0.5 mmol), and NaN3 (0.065 g, 1.0 mmol) in H2O (5 mL). The vessel was sealed and heated for 4 d at 175 °C. After the mixture was slowly cooled to room temperature, colorless block crystals of 2 were obtained. Yield: 85% based on Zn.

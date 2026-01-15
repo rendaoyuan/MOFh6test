@@ -1,0 +1,5 @@
+INIZOV
+Chemical_Name: catena-((μ2-glutarato)-(2-(pyridin-3-yl)-1H-imidazo[4,5-f][1,10]phenanthroline)-lead(ii) monohydrate)
+Number: 776750
+Synonyms: N/A
+No synthesis method found for compound 1

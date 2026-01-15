@@ -1,0 +1,5 @@
+COWLAC01
+Chemical_Name: catena-(bis(μ5-Sulfato-O,O,O',O'',O''')-bis(μ4-5-aminotetrazolato)-bis(μ3-5-aminotetrazolato)-bis(μ3-hydroxo)-penta-cadmium(ii))
+Number: 762089
+Synonyms: N/A
+Synthesis of [Cd5(atz)4(μ3-OH)2(μ5-SO4)2]n (5). A mixture of CdSO4 (0.2085 g, 1.0 mmol), NaN3 (0.0651 g, 1.0 mmol), DCDA (0.0841 g, 1.0 mmol), and water (8 mL) was stirred for 30 min in air, and then was sealed in a 23 mL Teflon autoclave and heated at 170 °C for 3 days. After the sample was cooled to room temperature at a rate of 10 °C/h, colorless pillar crystals were obtained in ca. 48% yield based on Cd.

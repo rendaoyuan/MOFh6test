@@ -1,0 +1,5 @@
+YONNUL
+Chemical_Name: catena-((μ8-tetrakis((4-carboxylatophenyl)oxymethyl)methane)-(μ2-4,4'-bipyridine)-di-zinc(ii) dimethylformamide solvate monohydrate)
+Number: 698341
+Synonyms: N/A
+Complex 3. To a solid mixture of 1 (0.06 g, 0.1mmol, 1 equiv), bipyridine (0.015 g, 0.1mmol, 1 equiv, Aldrich) and Zn(NO3)2·6H2O (0.03 g, 0.1 mmol, 1 equiv, Aldrich) was dissolved in 10ml DMF in a 20 ml vial. The reaction mixture was mixed and ultrasonicated until homogeneous. The reaction vial was capped tightly and placed in an oven at 100 °C. After 24 hours, the sample was removed from the oven and allowed to cool to RT. The mother liquor was decanted to get the transparent crystals were washed with DMF (3 mL × 3) and dried in air for 10 min.

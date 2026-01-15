@@ -1,0 +1,5 @@
+VEYVIG
+Chemical_Name: catena-[μ4-Dihydrogenmellitato)-(2,2'-bipyridine)-hexaaqua-di-cobalt hemihydrate]
+Number: 928744
+Synonyms: N/A
+A mixture of CoCl2?6H2O (48 mg, 0.20 mmol), 2,29-bpy (31 mg, 0.20 mmol), mellitic acid (17 mg, 0.05 mmol), and H2O (9.0 mL) was heated in a stainless steel reactor with Teflon liner at 140 uC for 48 h and was then cooled slowly. Pink plate crystals of 1 (y30% yield) were obtained as a single phase.

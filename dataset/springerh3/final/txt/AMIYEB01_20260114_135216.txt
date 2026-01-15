@@ -1,0 +1,5 @@
+AMIYEB01
+Chemical_Name: catena-(tris(μ2-terephthalato)-octaaqua-di-ytterbium dihydrate)
+Number: 780683
+Synonyms: N/A
+Synthesis of Compound 1 A mixture of YbCl3_x0002_6H2O (0.20 mmol, 0.775 g), 1,10-(1,4- butanediyl)bis(imidazole) (0.20 mmol, 0.039 g) and deionized water (15 mL) was added 1,4-benzenedicarb- oxylic acid (0.30 mmol, 0.500 g) and aqueous NaOH (0.50 mmol, 0.020 g). The pH of the solution was adjusted to 6.0 and then sealed in a Teﬂon-lined stainless steel bomb and heated at 453 K for ﬁve days, the bomb was cooled naturally to room temperature. The resulting block col- ourless crystals of 1 suitable for X-ray analysis were iso- lated from the solution by washing in water. The yield was 75.8%.

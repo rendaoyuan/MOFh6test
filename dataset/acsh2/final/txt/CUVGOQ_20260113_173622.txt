@@ -1,0 +1,5 @@
+CUVGOQ
+Chemical_Name: catena-((μ4-1,4-phenylenedicyanamide)-(μ2-4,4'-ethene-1,2-diyldipyridine)-manganese N,N-dimethylformamide solvate)
+Number: 785274
+Synonyms: N/A
+Synthesis of [Mn(DCNQI)(bpe)] 3 2DMF: A solution of Mn-(OAc) 3 4H2O (155 mg, 0.632 mmol) in MeOH (15 mL) was diffused into a solution of DNCQI H2 (100 mg, 0.632 mmol) and 1,2-bis(4-pyridyl)-ethylene (bpe) (115 mg, 0.632 mmol) in DMF (3 mL). Yellow crystals separated from the solution overnight, which were collected, washed with MeOH, and dried in air.

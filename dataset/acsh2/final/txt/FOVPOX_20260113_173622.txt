@@ -1,0 +1,5 @@
+FOVPOX
+Chemical_Name: catena-[bis(μ-(R,S-)2,2'-Bipyridine-3,3'-dicarboxylate-1,1'-dioxide)-(μ- 4,4'-ethane-1,2-diyldipyridine)-diaqua-di-cadmium(ii) N,N-dimethylformamide solvate trihydrate]
+Number: 999715
+Synonyms: N/A
+Synthesis of {[Cd2(bpdado)2(bpa)(H2O)2]·DMF·3H2O}n (2). A mixture of H2bpdado (0.05 mmol, 22.4 mg), bpa (0.05 mmol, 9.2 mg), and H2O (5 mL) was stirred and adjusted the pH to 7.0 with aqueous solution of NaOH (1 mol/L). The other mixture of Cd(CH3COO)2·2H2O (0.05 mmol, 13.4 mg), DMF (2.5 mL), and THF (2.5 mL) was stirred under air atmosphere for 5 min. Then, the metal salt solution was slowly layered onto the mixture of ligand. One week later, colorless block crystals of 2 were collected. Yield: 39% based on Cd.

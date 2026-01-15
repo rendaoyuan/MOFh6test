@@ -1,0 +1,5 @@
+VIJPAH
+Chemical_Name: catena-[(μ2-4,4'-bipyridine)-((5-sulfido-1H-tetrazol-1-yl)methanesulfonate)-(4,4'-bipyridine)-diaqua-cadmium(ii) sesquikis(4,4'-bipyridine) dihydrate]
+Number: 929455
+Synonyms: N/A
+Synthesis of complex 2 Bipyridine (77.8 mg, 0.5 mmol) was added to a stirred solution of Na2mtms (120.6 mg, 0.5 mmol) and Cd(ClO4)2_x0002_6H2O (1 mmol) in a mixture of 15 ml (1:1) H2O/EtOH. The mixture was stirred under reﬂux for 3 h and then ﬁltered. After a month, colorless block crystals were obtained from the ﬁltrate. Yield: 50 %.

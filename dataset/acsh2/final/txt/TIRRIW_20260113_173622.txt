@@ -1,0 +1,5 @@
+TIRRIW
+Chemical_Name: catena-[bis(μ4-2,6-Naphthalenedicarboxylato-O,O',O'',O''')-(μ2-4,4'-bipyridine-N,N')-di-cobalt tris(dimethylformamide) clathrate dihydrate]
+Number: 669542
+Synonyms: N/A
+Synthesis of 1. A mixture of Co(NO3)2‚6H2O (0.101 g, 0.34 mmol), H2NDC (0.0747 g, 0.34 mmol), and 4,4′-Bipy (0.0270 g, 0.17 mmol) was suspended in DMF (60 mL) and heated in a vial (60 mL) at 120 °C for 24 h. The dark-orange block-shaped crystals formed were collected, washed with DMF and hexane, and dried in air (0.127 g, 78%).

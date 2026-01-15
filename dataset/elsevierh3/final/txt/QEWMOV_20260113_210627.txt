@@ -1,0 +1,5 @@
+QEWMOV
+Chemical_Name: catena-((μ2-Glutarato)-aqua-(1,10-phenanthroline)-cadmium(ii))
+Number: 295555
+Synonyms: N/A
+Complex 3 was prepared from a mixture of CdCl2 ·2.5H2O (0.057g, 0.25mmol), glutaric acid (0.098g, 0.50mmol), 1,10′-phen (0.090g, 0.50mmol) and 8ml H2O and then the pH value was adjusted to 4 with 1M NaOH. The mixture was stirred for 20min, then placed in a Teflon-lined stainless steel bomb and heated to 160°C under autogenous pressure for 5 days. The reaction system was then cooled to room temperature during 24h. Yellow crystals 3 were obtained. Yield: 71% (based on Cd).

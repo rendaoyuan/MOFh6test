@@ -1,0 +1,547 @@
+Script started on Sat Jan 10 14:48:12 2026
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+[?1034hbash-3.2$ python main.py 
+
+🌟 Initializing MOF Analysis System...
+
+2026-01-10 14:48:26,068 - INFO - DataFrame prepared with 54808 rows
+💎 Welcome to MOF Analysis System!
+
+📋 Available Commands:
+📄 'How to synthesize <code/name>' - Obtain the synthesized text
+📄 'process pdf <path>' - Process a PDF document
+🔬 'workflow <path>' - Run analysis workflow on processed PDF
+💾 'show saved' - Show saved documents
+📥 'download cif <code>' - Download CIF file for a CCDC code
+🔮 'visualize <code>' - Visualize crystal structure for a CCDC code
+⏹️  'q!' - Exit the system
+
+Query> workflow AGAWUA
+
+🔧 Debug information:
+Input directory: ./ulanggraph/input
+Output directory: ./ulanggraph/output
+System file: ./extrfinetune/finetunetable/system198.txt
+CCDC data file: ./datareading/ccdcdata.json
+
+📄 File checks:
+Checking input file exists: True
+First bytes of file: b'Geometric requirements and examples of important s'
+Checking system file exists: True
+Checking CCDC file exists: True
+
+🚀 Starting workflow processing...
+
+🚀 Starting MOF workflow...
+
+🔄 Processing synthesis data...
+
+Processing files:   0%|                                 | 0/1 [00:00<?, ?file/s]2026-01-10 14:51:04,538 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+Processing files: 100%|█████████████████████████| 1/1 [01:34<00:00, 94.06s/file]
+Processing files: 100%|█████████████████████████| 1/1 [01:34<00:00, 94.06s/file]
+预测结果已保存到 'ulanggraph/output/synthesis/testpredictions_shot198_20260110_144930.xlsx'
+✅ Synthesis processing complete. Output saved to: ulanggraph/output/synthesis/testpredictions_shot198_20260110_144930.xlsx
+
+🔄 Extracting tables...
+
+Processing files:   0%|                                 | 0/1 [00:00<?, ?file/s]
+Processing AGAWUA.txt:   0%|                            | 0/1 [00:00<?, ?file/s]
+
+Calling for AGAWUA.txt:   0%|                           | 0/1 [00:00<?, ?call/s][A2026-01-10 14:51:24,458 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+
+Calling for AGAWUA.txt: 100%|███████████████████| 1/1 [00:19<00:00, 19.84s/call][A
+
+                                                                                [A
+Processing AGAWUA.txt: 100%|████████████████████| 1/1 [00:19<00:00, 19.84s/file]
+Processing AGAWUA.txt: 100%|████████████████████| 1/1 [00:19<00:00, 19.84s/file]
+结果已保存到文件: ulanggraph/output/tables/tables_20260110_144930.json
+✅ Table extraction complete. Output saved to: ulanggraph/output/tables/tables_20260110_144930.json
+
+🔄 Comparing data...
+
+Processing entries:   0%|                              | 0/1 [00:00<?, ?entry/s]2026-01-10 14:51:29,271 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+Processing entries: 100%|██████████████████████| 1/1 [00:04<00:00,  4.09s/entry]
+Processing entries: 100%|██████████████████████| 1/1 [00:04<00:00,  4.09s/entry]
+✅ 数据处理完成，结果已保存到 ulanggraph/output/comparison/comparison_20260110_144930.json
+✅ Data comparison complete. Output saved to: ulanggraph/output/comparison/comparison_20260110_144930.json
+
+🔄 Processing abbreviations...
+
+Processing files:   0%|                                 | 0/1 [00:00<?, ?file/s]
+Processing files: 100%|████████████████████████| 1/1 [00:00<00:00, 305.82file/s]
+❓ No results to save.
+⚠️ No valid abbreviations were extracted
+
+🔄 Generating final output...
+2026-01-10 14:51:33,470 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+✅ Final output generated and saved to: ulanggraph/output/final/final_output_20260110_144930.txt
+
+🔄 Post-processing final output...
+📁 Created TXT output directory: ulanggraph/output/final/txt
+💾 Processed output for AGAWUA saved to: ulanggraph/output/final/txt/AGAWUA_20260110_144930.txt
+💾 Processed output for No abbreviations found in synthesis text saved to: ulanggraph/output/final/txt/No abbreviations found in synthesis text_20260110_144930.txt
+📁 Generated 2 individual output files in ulanggraph/output/final/txt
+📋 Summary saved to: ulanggraph/output/final/processing_summary_20260110_144930.txt
+
+🔄 Converting outputs to structured Markdown format...
+📝 Processing files from: ulanggraph/output/final/txt
+📂 Found 2 files to process
+
+Processing files:   0%|                                   | 0/2 [00:00<?, ?it/s]2026-01-10 14:51:39,737 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+Processing files: 100%|███████████████████████████| 2/2 [00:06<00:00,  3.11s/it]
+Processing files: 100%|███████████████████████████| 2/2 [00:06<00:00,  3.11s/it]
+Found 1 entries in total.
+Successfully processed 1 entries.
+Results saved to: ulanggraph/output/final/structure/structure_output_20260110_144930.md
+✅ Structure processing complete. Output saved to: ulanggraph/output/final/structure/structure_output_20260110_144930.md
+
+✨ Workflow completed successfully!
+📄 Final output saved to: ulanggraph/output/final/final_output_20260110_144930.txt
+
+📄 Analysis Results:
+================================================================================
+AGAWUA
+Chemical_Name: catena-((μ4-Bicyclo(4.2.0)octa-1,3,5-diene-2,5-dicarboxylato)-aqua-zinc(ii) dimethylformamide monohydrate clathrate)
+Number: 179116
+Synonyms: MOF-103
+(MOF-103): Zn2(CB-BDC)2(H2O)2·(H2O)3(DMF)1.8. A mixture of anhydrous ZnCl2 (0.06 g, 0.44 mmol) and 1,2-dihydrocyclobutabenzene-3,6-dicarboxylic acid (CB-BDCH2) (0.05 g, 0.261 mmol) was dissolved in N,N'-dimethylformamide (10 ml) and transferred to a 20-ml glass vial. An aqueous solution of methylamine (0.6 M) was added dropwise to the solution (2.0 ml). The solution immediately became slightly cloudy. The mixture was vigorously shaken and then allowed to stand at room temperature for several days. Clear rectangular crystals were formed on the bottom of the vial and were collected for analysis by vacuum filtration.
+================================================================================
+
+
+2. To view structured results after analysis:
+   show structure
+
+
+
+Query> show structure
+
+📊 Structured Analysis Results:
+================================================================================
+# Identifier: AGAWUA
+**AGAWUA**  
+Chemical_Name: catena-((μ4-Bicyclo(4.2.0)octa-1,3,5-diene-2,5-dicarboxylato)-aqua-zinc(ii) dimethylformamide monohydrate clathrate)  
+Number: 179116  
+Synonyms: MOF-103
+(MOF-103)  
+|       Metal Source     | Organic Linkers Source             |     Modulator Source     |    Solvent Source     |    Quantity of Metal   | Quantity of Organic Linkers |  Quantity of Modulator |   Quantity of Solvent  |    pH   |  Synthesis Temperature |      Synthesis Time    |   Crystal Morphology   |          Yield         |       Equipment       |
+|------------------------|------------------------------------|--------------------------|------------------------|------------------------|-----------------------------|------------------------|------------------------|---------|------------------------|------------------------|-----------------------|------------------------|------------------------|
+|      ZnCl2             |  1,2-dihydrocyclobutabenzene-3,6-dicarboxylic acid  |    methylamine (0.6 M)   |     N,N'-dimethylformamide |  0.06 g, 0.44 mmol    |     0.05 g, 0.261 mmol    |        N/A             |         10 ml         |  N/A    |    room temperature    |  several days          |   clear rectangular crystals  |       N/A              |        glass vial      |
+================================================================================
+
+
+
+Query> workflow EFARAE
+
+🔧 Debug information:
+Input directory: ./ulanggraph/input
+Output directory: ./ulanggraph/output
+System file: ./extrfinetune/finetunetable/system198.txt
+CCDC data file: ./datareading/ccdcdata.json
+
+📄 File checks:
+Checking input file exists: True
+First bytes of file: b'metal-organic compounds m124 # 2002 International '
+Checking system file exists: True
+Checking CCDC file exists: True
+
+🚀 Starting workflow processing...
+
+🚀 Starting MOF workflow...
+
+🔄 Processing synthesis data...
+
+Processing files:   0%|                                 | 0/1 [00:00<?, ?file/s]2026-01-10 14:53:45,981 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+Processing files: 100%|█████████████████████████| 1/1 [00:32<00:00, 32.28s/file]
+Processing files: 100%|█████████████████████████| 1/1 [00:32<00:00, 32.28s/file]
+预测结果已保存到 'ulanggraph/output/synthesis/testpredictions_shot198_20260110_145313.xlsx'
+✅ Synthesis processing complete. Output saved to: ulanggraph/output/synthesis/testpredictions_shot198_20260110_145313.xlsx
+
+🔄 Extracting tables...
+
+Processing files:   0%|                                 | 0/1 [00:00<?, ?file/s]
+Processing EFARAE.txt:   0%|                            | 0/1 [00:00<?, ?file/s]
+
+Calling for EFARAE.txt:   0%|                           | 0/1 [00:00<?, ?call/s][A2026-01-10 14:53:50,887 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+
+Calling for EFARAE.txt: 100%|███████████████████| 1/1 [00:04<00:00,  4.86s/call][A
+
+                                                                                [A
+Processing EFARAE.txt: 100%|████████████████████| 1/1 [00:04<00:00,  4.86s/file]
+Processing EFARAE.txt: 100%|████████████████████| 1/1 [00:04<00:00,  4.86s/file]
+结果已保存到文件: ulanggraph/output/tables/tables_20260110_145313.json
+✅ Table extraction complete. Output saved to: ulanggraph/output/tables/tables_20260110_145313.json
+
+🔄 Comparing data...
+
+Processing entries:   0%|                              | 0/1 [00:00<?, ?entry/s]2026-01-10 14:53:55,071 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+Processing entries: 100%|██████████████████████| 1/1 [00:03<00:00,  3.65s/entry]
+Processing entries: 100%|██████████████████████| 1/1 [00:03<00:00,  3.65s/entry]
+✅ 数据处理完成，结果已保存到 ulanggraph/output/comparison/comparison_20260110_145313.json
+✅ Data comparison complete. Output saved to: ulanggraph/output/comparison/comparison_20260110_145313.json
+
+🔄 Processing abbreviations...
+
+Processing files:   0%|                                 | 0/1 [00:00<?, ?file/s]
+Processing files: 100%|███████████████████████| 1/1 [00:00<00:00, 4048.56file/s]
+❓ No results to save.
+⚠️ No valid abbreviations were extracted
+
+🔄 Generating final output...
+2026-01-10 14:53:58,779 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+✅ Final output generated and saved to: ulanggraph/output/final/final_output_20260110_145313.txt
+
+🔄 Post-processing final output...
+📁 Created TXT output directory: ulanggraph/output/final/txt
+💾 Processed output for EFARAE saved to: ulanggraph/output/final/txt/EFARAE_20260110_145313.txt
+💾 Processed output for No abbreviations found in synthesis text saved to: ulanggraph/output/final/txt/No abbreviations found in synthesis text_20260110_145313.txt
+📁 Generated 2 individual output files in ulanggraph/output/final/txt
+📋 Summary saved to: ulanggraph/output/final/processing_summary_20260110_145313.txt
+
+🔄 Converting outputs to structured Markdown format...
+📝 Processing files from: ulanggraph/output/final/txt
+📂 Found 2 files to process
+
+Processing files:   0%|                                   | 0/2 [00:00<?, ?it/s]2026-01-10 14:54:03,519 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+Processing files:  50%|█████████████▌             | 1/2 [00:04<00:04,  4.71s/it]
+Processing files: 100%|███████████████████████████| 2/2 [00:04<00:00,  2.35s/it]
+Found 1 entries in total.
+Successfully processed 1 entries.
+Results saved to: ulanggraph/output/final/structure/structure_output_20260110_145313.md
+✅ Structure processing complete. Output saved to: ulanggraph/output/final/structure/structure_output_20260110_145313.md
+
+✨ Workflow completed successfully!
+📄 Final output saved to: ulanggraph/output/final/final_output_20260110_145313.txt
+
+📄 Analysis Results:
+================================================================================
+EFARAE
+Chemical_Name: catena-((μ2-dicyanamido)-(dicyanamido)-(5,5'-dimethyl-2,2'-bipyridine-N,N')-copper(ii))
+Number: 182001
+Synonyms: N/A
+Synthesis of (I) A mixture of CuCl2 · 2H2O (0.1 g, 0.4 mmol), 5,5-dimethyl-2,2-bipyridine (0.1 g, 0.4 mmol) and dicyanamide (0.1 g, 1.2 mmol) in 10 ml of water was stirred for 1 h at room temperature. The resulting blue solution was filtered and left to evaporate slowly at room temperature. After a few days, blue crystals suitable for X-ray analysis were obtained. Yield 65%.
+================================================================================
+
+
+2. To view structured results after analysis:
+   show structure
+
+
+
+Query> ^[x   show structure
+
+📊 Structured Analysis Results:
+================================================================================
+# Identifier: EFARAE
+**EFARAE**  
+Chemical_Name: catena-((μ2-dicyanamido)-(dicyanamido)-(5,5'-dimethyl-2,2'-bipyridine-N,N')-copper(ii))  
+Number: 182001  
+Synonyms: N/A  
+{Compound_Name_or_Number_from_Synthesis}  
+|       Metal Source     | Organic Linkers Source |     Modulator Source   |     Solvent Source     |    Quantity of Metal   | Quantity of Organic Linkers |  Quantity of Modulator |   Quantity of Solvent  |            pH           |  Synthesis Temperature |      Synthesis Time    |    Crystal Morphology  |          Yield         |       Equipment        |  
+|------------------------|------------------------|------------------------|------------------------|------------------------|-----------------------------|------------------------|------------------------|-------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|  
+|     CuCl2 · 2H2O      |  5,5-dimethyl-2,2-bipyridine; dicyanamide |        N/A       |       water            |   0.1 g, 0.4 mmol      |   0.1 g, 0.4 mmol; 0.1 g, 1.2 mmol   |          N/A          |          10 ml         |        N/A              |     room temperature   |       1 h              |       blue crystals    |       65%              |      N/A               |
+================================================================================
+
+
+
+Query> workflow EGEXOD01
+
+🔧 Debug information:
+Input directory: ./ulanggraph/input
+Output directory: ./ulanggraph/output
+System file: ./extrfinetune/finetunetable/system198.txt
+CCDC data file: ./datareading/ccdcdata.json
+
+📄 File checks:
+Checking input file exists: True
+First bytes of file: b'Synthesis, Crystal Structure and Antibacterial Act'
+Checking system file exists: True
+Checking CCDC file exists: True
+
+🚀 Starting workflow processing...
+
+🚀 Starting MOF workflow...
+
+🔄 Processing synthesis data...
+
+Processing files:   0%|                                 | 0/1 [00:00<?, ?file/s]2026-01-10 14:55:05,283 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+Processing files: 100%|█████████████████████████| 1/1 [00:03<00:00,  3.61s/file]
+Processing files: 100%|█████████████████████████| 1/1 [00:03<00:00,  3.61s/file]
+预测结果已保存到 'ulanggraph/output/synthesis/testpredictions_shot198_20260110_145501.xlsx'
+✅ Synthesis processing complete. Output saved to: ulanggraph/output/synthesis/testpredictions_shot198_20260110_145501.xlsx
+
+🔄 Extracting tables...
+
+Processing files:   0%|                                 | 0/1 [00:00<?, ?file/s]
+Processing EGEXOD01.txt:   0%|                          | 0/1 [00:00<?, ?file/s]
+
+Calling for EGEXOD01.txt:   0%|                         | 0/1 [00:00<?, ?call/s][A2026-01-10 14:55:08,867 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+
+Calling for EGEXOD01.txt: 100%|█████████████████| 1/1 [00:03<00:00,  3.53s/call][A
+
+                                                                                [A
+Processing EGEXOD01.txt: 100%|██████████████████| 1/1 [00:03<00:00,  3.53s/file]
+Processing EGEXOD01.txt: 100%|██████████████████| 1/1 [00:03<00:00,  3.53s/file]
+结果已保存到文件: ulanggraph/output/tables/tables_20260110_145501.json
+✅ Table extraction complete. Output saved to: ulanggraph/output/tables/tables_20260110_145501.json
+
+🔄 Comparing data...
+
+Processing entries:   0%|                              | 0/1 [00:00<?, ?entry/s]2026-01-10 14:55:13,226 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+Processing entries: 100%|██████████████████████| 1/1 [00:03<00:00,  3.76s/entry]
+Processing entries: 100%|██████████████████████| 1/1 [00:03<00:00,  3.76s/entry]
+✅ 数据处理完成，结果已保存到 ulanggraph/output/comparison/comparison_20260110_145501.json
+✅ Data comparison complete. Output saved to: ulanggraph/output/comparison/comparison_20260110_145501.json
+
+🔄 Processing abbreviations...
+
+Processing files:   0%|                                 | 0/1 [00:00<?, ?file/s]
+Processing files: 100%|███████████████████████| 1/1 [00:00<00:00, 4064.25file/s]
+❓ No results to save.
+⚠️ No valid abbreviations were extracted
+
+🔄 Generating final output...
+2026-01-10 14:55:16,299 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+✅ Final output generated and saved to: ulanggraph/output/final/final_output_20260110_145501.txt
+
+🔄 Post-processing final output...
+📁 Created TXT output directory: ulanggraph/output/final/txt
+💾 Processed output for EGEXOD01 saved to: ulanggraph/output/final/txt/EGEXOD01_20260110_145501.txt
+💾 Processed output for No abbreviations found in synthesis text saved to: ulanggraph/output/final/txt/No abbreviations found in synthesis text_20260110_145501.txt
+📁 Generated 2 individual output files in ulanggraph/output/final/txt
+📋 Summary saved to: ulanggraph/output/final/processing_summary_20260110_145501.txt
+
+🔄 Converting outputs to structured Markdown format...
+📝 Processing files from: ulanggraph/output/final/txt
+📂 Found 2 files to process
+
+Processing files:   0%|                                   | 0/2 [00:00<?, ?it/s]2026-01-10 14:55:22,239 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+Processing files: 100%|███████████████████████████| 2/2 [00:05<00:00,  2.95s/it]
+Processing files: 100%|███████████████████████████| 2/2 [00:05<00:00,  2.95s/it]
+Found 1 entries in total.
+Successfully processed 1 entries.
+Results saved to: ulanggraph/output/final/structure/structure_output_20260110_145501.md
+✅ Structure processing complete. Output saved to: ulanggraph/output/final/structure/structure_output_20260110_145501.md
+
+✨ Workflow completed successfully!
+📄 Final output saved to: ulanggraph/output/final/final_output_20260110_145501.txt
+
+📄 Analysis Results:
+================================================================================
+EGEXOD01
+Chemical_Name: catena-((μ2-Aquo)-bis(μ2-5-methylpyrazinecarboxylato)-aqua-calcium)
+Number: 703320
+Synonyms: N/A
+Synthesis of the complex The complex was prepared according to a typical procedure, a solution of 0.5 mmol Ca(ClO4)2·4H2O in 10 ml 95% ethanol was added to a solution of 1.0 mmol 5-methyl-2-pyrazinecarboxylic acid and 1.0 mmol NaOH in 10 ml ethanol at room temperature. The mixture was refluxed for 2 h with stirring, then the resulting precipitate was filtered, washed, and dried in vacuo over P4O10 for 48 h. Single crystals of the title complex were grown from methanol solutions with slow evaporation at room temperature. Yield 76%.
+================================================================================
+
+
+2. To view structured results after analysis:
+   show structure
+
+
+
+Query> show structure
+
+📊 Structured Analysis Results:
+================================================================================
+# Identifier: EGEXOD01
+**EGEXOD01**  
+Chemical_Name: catena-((μ2-Aquo)-bis(μ2-5-methylpyrazinecarboxylato)-aqua-calcium)  
+Number: 703320  
+Synonyms: N/A  
+{full_name}  
+|       Metal Source     | Organic Linkers Source                 |     Modulator Source   |     Solvent Source      |    Quantity of Metal         | Quantity of Organic Linkers            |  Quantity of Modulator |   Quantity of Solvent   |            pH           |  Synthesis Temperature |      Synthesis Time    |    Crystal Morphology  |          Yield         |       Equipment        |
+|------------------------|---------------------------------------|------------------------|-------------------------|------------------------------|---------------------------------------|------------------------|------------------------|-------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|
+| Ca(ClO4)2·4H2O        | 5-methyl-2-pyrazinecarboxylic acid   | NaOH                   | 95% ethanol; ethanol    |  0.5 mmol                   | 1.0 mmol                             |      N/A               |    10 ml               | N/A                     | room temperature        |  2 h                   | precipitate             |         76%            |     N/A                |
+================================================================================
+
+
+
+Query> workflow FIRTEH
+
+🔧 Debug information:
+Input directory: ./ulanggraph/input
+Output directory: ./ulanggraph/output
+System file: ./extrfinetune/finetunetable/system198.txt
+CCDC data file: ./datareading/ccdcdata.json
+
+📄 File checks:
+Checking input file exists: True
+First bytes of file: b'5. Y. Zhang, Z. Li, P. Kim, L. Zhang, C. Zhou, ACS'
+Checking system file exists: True
+Checking CCDC file exists: True
+
+🚀 Starting workflow processing...
+
+🚀 Starting MOF workflow...
+
+🔄 Processing synthesis data...
+
+Processing files:   0%|                                 | 0/1 [00:00<?, ?file/s]2026-01-10 14:56:14,975 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+Processing files: 100%|█████████████████████████| 1/1 [00:05<00:00,  5.70s/file]
+Processing files: 100%|█████████████████████████| 1/1 [00:05<00:00,  5.70s/file]
+预测结果已保存到 'ulanggraph/output/synthesis/testpredictions_shot198_20260110_145609.xlsx'
+✅ Synthesis processing complete. Output saved to: ulanggraph/output/synthesis/testpredictions_shot198_20260110_145609.xlsx
+
+🔄 Extracting tables...
+
+Processing files:   0%|                                 | 0/1 [00:00<?, ?file/s]
+Processing FIRTEH.txt:   0%|                            | 0/1 [00:00<?, ?file/s]
+
+Calling for FIRTEH.txt:   0%|                           | 0/1 [00:00<?, ?call/s][A2026-01-10 14:57:31,439 - INFO - Retrying request to /chat/completions in 0.493680 seconds
+2026-01-10 14:57:36,283 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+
+Calling for FIRTEH.txt: 100%|███████████████████| 1/1 [01:21<00:00, 81.26s/call][A
+
+                                                                                [A
+Processing FIRTEH.txt: 100%|████████████████████| 1/1 [01:21<00:00, 81.27s/file]
+Processing FIRTEH.txt: 100%|████████████████████| 1/1 [01:21<00:00, 81.27s/file]
+结果已保存到文件: ulanggraph/output/tables/tables_20260110_145609.json
+✅ Table extraction complete. Output saved to: ulanggraph/output/tables/tables_20260110_145609.json
+
+🔄 Comparing data...
+
+Processing entries: 0entry [00:00, ?entry/s]
+Processing entries: 0entry [00:00, ?entry/s]
+✅ 数据处理完成，结果已保存到 ulanggraph/output/comparison/comparison_20260110_145609.json
+✅ Data comparison complete. Output saved to: ulanggraph/output/comparison/comparison_20260110_145609.json
+
+🔄 Processing abbreviations...
+
+Processing files:   0%|                                 | 0/1 [00:00<?, ?file/s]
+Processing files: 100%|████████████████████████| 1/1 [00:00<00:00, 743.54file/s]
+❓ No results to save.
+⚠️ No valid abbreviations were extracted
+
+🔄 Generating final output...
+✅ Final output generated and saved to: ulanggraph/output/final/final_output_20260110_145609.txt
+
+🔄 Post-processing final output...
+📁 Created TXT output directory: ulanggraph/output/final/txt
+💾 Processed output for Error: Missing required data saved to: ulanggraph/output/final/txt/Error: Missing required data_20260110_145609.txt
+📁 Generated 1 individual output files in ulanggraph/output/final/txt
+📋 Summary saved to: ulanggraph/output/final/processing_summary_20260110_145609.txt
+
+🔄 Converting outputs to structured Markdown format...
+📝 Processing files from: ulanggraph/output/final/txt
+📂 Found 1 files to process
+
+Processing files:   0%|                                   | 0/1 [00:00<?, ?it/s]
+Processing files: 100%|████████████████████████| 1/1 [00:00<00:00, 19691.57it/s]
+Found 0 entries in total.
+Successfully processed 0 entries.
+Results saved to: ulanggraph/output/final/structure/structure_output_20260110_145609.md
+✅ Structure processing complete. Output saved to: ulanggraph/output/final/structure/structure_output_20260110_145609.md
+
+✨ Workflow completed successfully!
+📄 Final output saved to: ulanggraph/output/final/final_output_20260110_145609.txt
+
+⚠️ Analysis results file not found: ulanggraph/output/final/txt/FIRTEH_20260110_145609.txt
+
+Query> workflow WALCIX
+
+🔧 Debug information:
+Input directory: ./ulanggraph/input
+Output directory: ./ulanggraph/output
+System file: ./extrfinetune/finetunetable/system198.txt
+CCDC data file: ./datareading/ccdcdata.json
+
+📄 File checks:
+Checking input file exists: True
+First bytes of file: b'DOI: 10.1126/science.1194237 , 650 (2010); 330 Sci'
+Checking system file exists: True
+Checking CCDC file exists: True
+
+🚀 Starting workflow processing...
+
+🚀 Starting MOF workflow...
+
+🔄 Processing synthesis data...
+
+Processing files:   0%|                                 | 0/1 [00:00<?, ?file/s]2026-01-10 14:58:39,980 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+Processing files: 100%|█████████████████████████| 1/1 [00:08<00:00,  8.15s/file]
+Processing files: 100%|█████████████████████████| 1/1 [00:08<00:00,  8.15s/file]
+预测结果已保存到 'ulanggraph/output/synthesis/testpredictions_shot198_20260110_145831.xlsx'
+✅ Synthesis processing complete. Output saved to: ulanggraph/output/synthesis/testpredictions_shot198_20260110_145831.xlsx
+
+🔄 Extracting tables...
+
+Processing files:   0%|                                 | 0/1 [00:00<?, ?file/s]
+Processing WALCIX.txt:   0%|                            | 0/1 [00:00<?, ?file/s]
+
+Calling for WALCIX.txt:   0%|                           | 0/1 [00:00<?, ?call/s][A2026-01-10 14:58:43,869 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+
+Calling for WALCIX.txt: 100%|███████████████████| 1/1 [00:03<00:00,  3.83s/call][A
+
+                                                                                [A
+Processing WALCIX.txt: 100%|████████████████████| 1/1 [00:03<00:00,  3.83s/file]
+Processing WALCIX.txt: 100%|████████████████████| 1/1 [00:03<00:00,  3.83s/file]
+结果已保存到文件: ulanggraph/output/tables/tables_20260110_145831.json
+✅ Table extraction complete. Output saved to: ulanggraph/output/tables/tables_20260110_145831.json
+
+🔄 Comparing data...
+
+Processing entries: 0entry [00:00, ?entry/s]
+Processing entries: 0entry [00:00, ?entry/s]
+✅ 数据处理完成，结果已保存到 ulanggraph/output/comparison/comparison_20260110_145831.json
+✅ Data comparison complete. Output saved to: ulanggraph/output/comparison/comparison_20260110_145831.json
+
+🔄 Processing abbreviations...
+
+Processing files:   0%|                                 | 0/1 [00:00<?, ?file/s]
+Processing files: 100%|███████████████████████| 1/1 [00:00<00:00, 1358.70file/s]
+❓ No results to save.
+⚠️ No valid abbreviations were extracted
+
+🔄 Generating final output...
+✅ Final output generated and saved to: ulanggraph/output/final/final_output_20260110_145831.txt
+
+🔄 Post-processing final output...
+📁 Created TXT output directory: ulanggraph/output/final/txt
+💾 Processed output for Error: Missing required data saved to: ulanggraph/output/final/txt/Error: Missing required data_20260110_145831.txt
+📁 Generated 1 individual output files in ulanggraph/output/final/txt
+📋 Summary saved to: ulanggraph/output/final/processing_summary_20260110_145831.txt
+
+🔄 Converting outputs to structured Markdown format...
+📝 Processing files from: ulanggraph/output/final/txt
+📂 Found 1 files to process
+
+Processing files:   0%|                                   | 0/1 [00:00<?, ?it/s]
+Processing files: 100%|████████████████████████| 1/1 [00:00<00:00, 16980.99it/s]
+Found 0 entries in total.
+Successfully processed 0 entries.
+Results saved to: ulanggraph/output/final/structure/structure_output_20260110_145831.md
+✅ Structure processing complete. Output saved to: ulanggraph/output/final/structure/structure_output_20260110_145831.md
+
+✨ Workflow completed successfully!
+📄 Final output saved to: ulanggraph/output/final/final_output_20260110_145831.txt
+
+⚠️ Analysis results file not found: ulanggraph/output/final/txt/WALCIX_20260110_145831.txt
+
+Query> q!
+
+👋 Thank you for using MOF Analysis System. Goodbye!
+bash-3.2$ exit
+exit
+
+Script done on Sat Jan 10 15:01:09 2026

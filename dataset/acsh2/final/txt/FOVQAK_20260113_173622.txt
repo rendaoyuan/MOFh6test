@@ -1,0 +1,5 @@
+FOVQAK
+Chemical_Name: catena-[bis(μ-(R,S-)2,2'-Bipyridine-3,3'-dicarboxylate-1,1'-dioxide)-(μ-4,4'-ethane-1,2-diyldipyridine)-di-lead(ii) decahydrate]
+Number: 999717
+Synonyms: N/A
+Synthesis of {[Pb2(bpdado)2(bpa)]·10H2O}n (4). A mixture of Pb(CH3COO)2·3H2O (0.05 mmol, 19.4 mg), H2bpdado (0.05 mmol, 13.6 mg), bpa (0.05 mmol, 9.2 mg), H2O (12 mL), methanol (2 mL), and an aqueous solution of KOH (1 mol/L, 0.25 mL) was stirred under air atmosphere for 20 min. The solution was placed in a Teﬂon-lined reactor (25 mL), and the reactor was sealed, and heated at 130 °C for 72 h. After slow cooling to room temperature, colorless block crystals of 4 were obtained. Yield: 50% based on Pb.

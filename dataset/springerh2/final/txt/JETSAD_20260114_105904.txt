@@ -1,0 +1,5 @@
+JETSAD
+Chemical_Name: catena-((μ2-4,4'-Bipyridine-N,N')-(μ2-hydrogen phosphito-O,O)-(μ2-hydrogen phosphito-O,O')-cobalt)
+Number: 297879
+Synonyms: catena-((μ2-4,4'-bipyridyl)-(μ2-phosphito-O,O)-(μ2-phosphito-O,O')-cobalt(ii))
+0⋅048 g of Co- powder was dispersed in 3 ml deionised water. To this, 0⋅272 g of H3PO3 and 0⋅259 g of 4,4′-bipyridine were added and the mixture was stirred at room temperature for 30 min. The final mixture with the composition, 1⋅0 Co : 4H3PO3 : 2(4,4′-bipyridine) : 200 H2O, was heated at 125°C for 7 days in a 7-ml PTFE-lined acid digestion bomb, to result in large quantities of pink-coloured crystals. The initial pH was ~ 2 and there was no appreciable change in pH during the reaction.

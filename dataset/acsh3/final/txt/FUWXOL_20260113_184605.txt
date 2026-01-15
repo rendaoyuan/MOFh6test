@@ -1,0 +1,5 @@
+FUWXOL
+Chemical_Name: catena-((μ3-4,5-bis(1H-Tetrazol-5-yl)-2H-imidazole)-zinc sesquihydrate)
+Number: 791492
+Synonyms: N/A
+Synthesis of complex 2. A mixture of 4,5-dicyanoimidazole (5 mg, 0.04 mmol), ZnCl2 (20 mg, 0.15 mmol) and NaN3 (10 mg, 0.15 mmol) was suspended in the solution (6 mL) of CH3CN (2 mL) and H2O (4 mL). Upon addition of a drop of HBF4, a colourless solution was formed, which was heated in a teflon-lined steel bomb at 130℃ for 3 days. Colorless prism-like crystals formed were collected (yield: 45%).

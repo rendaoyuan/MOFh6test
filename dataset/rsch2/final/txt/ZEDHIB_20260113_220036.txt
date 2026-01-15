@@ -1,0 +1,7 @@
+ZEDHIB
+Chemical_Name: catena-[(μ4-Isophthalato)-bis(μ3-isophthalato)-tetrakis(μ2-hydroxo)-(μ2-isophthalato)-tetrakis(μ2-N-(pyridin-3-ylmethyl)pyridin-3-amine)-hexa-zinc(ii)]
+Number: 870303
+Synonyms: N/A
+Synthesis of [Zn3(ip)2(OH)2(L2)2]n (8). A mixture of Zn(NO3)2?6H2O (297 mg, 1 mmol), H2ip (166 mg, 1 mmol), L2 (186 mg, 1 mmol), NaOH (40 mg, 1 mmol), MeOH (2 mL) and deionized water (6 mL) were sealed in a 25 mL Teflon-lined stainless steel vessel, and heated at 140 uC for 2 days. After slowly being cooled to room temperature, pale yellow crystals of complex 8 suitable for X-ray diffraction were isolated from the solution after slowly being cooled to room temperature. Yield: 77% (based on Zn atom).
+Abbreviation: L2
+Full Name: N-(pyridin-3-ylmethyl)pyridin-3-amine

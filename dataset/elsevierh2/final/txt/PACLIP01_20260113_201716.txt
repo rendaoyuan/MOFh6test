@@ -1,0 +1,5 @@
+PACLIP01
+Chemical_Name: N/A
+Number: N/A
+Synonyms: N, /, A
+[Zn(mal)(phen)(H2O)] (1) (mal=malate dianion) Compound 1 was synthesized hydrothermally in poly(tetrafluoroethylene)-lined stainless steel autoclaves under autogenous pressure. The reaction of Zn(OAc)2 ·2H2O (0.44g, 2mmol), maleic acid (0.35g, 3mmol), phen (0.4g, 2mmol) and H2O (15ml) was allowed to proceed at 170°C for 3d (pH 8, adjusted by NaOH solution); then the reactant mixture was cooled at room temperature to give a 75% yield (based on Zn) of 1 as colorless crystals, which were collected mechanically and washed with water.

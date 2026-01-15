@@ -1,0 +1,5 @@
+NISPIP
+Chemical_Name: catena-(dimethylammonium (μ4-4-phosphonatobenzoato)-zinc(ii))
+Number: 634100
+Synonyms: N/A
+The pure single-crystal phase of 2 was prepared in 73.4% yield by heating Zn(Ac)2·2H2O/H3pbc/DMF/water (1:1:64.9:278) at 1708C for 120 h. Crystals of 2 were also obtained as a mixed phase with 1 by reaction of Zn(Ac)2·2H2O/H3pbc/DMF/water (0.25:1:64.9:278) at 1708C for 48 h.

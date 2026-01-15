@@ -1,0 +1,5 @@
+OMEXUA
+Chemical_Name: catena-[(μ2-p-Carboxylatocinnamato)-(2,2'-bipyridine)-copper(ii)]
+Number: 783716
+Synonyms: N/A
+[Cu(cca)(2,2'-bpy)]n (2): A mixture of H2cca (0.019g, 0.1 mmol), CuCl2·2H2O (0.017g, 0.1 mmol), 2,2'-bpy (0.016g, 0.1 mmol), an aqueous solution of NaOH (0.3 mL, 0.65mol·L–1), and deionized water (5 mL) was sealed in a Teflon-lined stainless vessel (25 mL) and heated at 140 °C for 72 h under autogenous pressure. Afterwards, the vessel was cooled slowly to room temperature. Green single crystals were obtained by filtration, washed with deionized water, and dried in air. Yield 0.025 g (61.0 %).

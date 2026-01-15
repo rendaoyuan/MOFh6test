@@ -1,0 +1,5 @@
+EGAFOJ
+Chemical_Name: catena-[bis(μ4-2,2'-(ethane-1,2-diyldisulfanediyl)diacetato)-(μ2-2,2'-(ethane-1,2-diyldisulfanediyl)diacetato)-tetraaqua-di-lanthanum N,N-dimethylformamide solvate]
+Number: 982404
+Synonyms: N/A
+No synthesis method found for compound 1

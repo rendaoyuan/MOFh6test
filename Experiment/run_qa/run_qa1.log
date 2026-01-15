@@ -1,0 +1,36 @@
+======================================================================
+会话开始: 2026-01-13 22:45:41,560
+执行的脚本: main.py
+Python路径: F:\software\Anaconda\envs\c2ml\python.exe
+======================================================================
+
+2026-01-13 22:45:41,560 - INFO - DataFrame prepared with 54808 rows
+
+🌟 Initializing MOF Analysis System...
+
+💎 Welcome to MOF Analysis System!
+
+📋 Available Commands:
+📄 'How to synthesize <code/name>' - Obtain the synthesized text
+📄 'process pdf <path>' - Process a PDF document
+🔬 'workflow <path>' - Run analysis workflow on processed PDF
+💾 'show saved' - Show saved documents
+📥 'download cif <code>' - Download CIF file for a CCDC code
+🔮 'visualize <code>' - Visualize crystal structure for a CCDC code
+Query> hello
+2026-01-13 22:46:00,974 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-13 22:46:00,979 - INFO - Query analysis: {'query_type': 'greeting', 'materials': [], 'properties': [], 'operation': {'type': None, 'value': None}, 'range': {}, 'uses_context': False, 'reasoning': [], 'page_size': None}
+2026-01-13 22:46:02,185 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+Hello! How can I assist you today? If you have any questions about materials or properties, feel free to ask!
+
+Query> q!
+
+👋 Thank you for using MOF Analysis System. Goodbye!
+
+进程已结束，退出代码为 0
+
+======================================================================
+会话结束: 2026-01-13 22:46:42,176
+退出代码: 1
+======================================================================

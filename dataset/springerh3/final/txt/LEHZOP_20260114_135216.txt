@@ -1,0 +1,5 @@
+LEHZOP
+Chemical_Name: catena-((μ4-iodide)-(μ2-3,6-bis(pyridin-2-ylsulfanyl)pyridazine)-bis(μ2-iodide)-tri-copper)
+Number: 790849
+Synonyms: N/A
+The solution of CuI (18.5 mg, 0.1 mmol) in CH3CN (5 mL) was slowly added to the solution of PTP (30 mg, 0.1 mmol) in CH2Cl2 (5 mL). The reaction mixture was kept in the dark and was allowed to evaporate slowly, and obtained red single crystals 1 suitable for X-ray analysis in 73.2% yield based on CuI.

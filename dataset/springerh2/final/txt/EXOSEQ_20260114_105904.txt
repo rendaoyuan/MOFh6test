@@ -1,0 +1,5 @@
+EXOSEQ
+Chemical_Name: catena-[bis(μ2-(5-amino-1H-tetrazol-1-yl)acetato)-triaqua-strontium dihydrate]
+Number: 723389
+Synonyms: N/A
+Synthesis of [Sr(atza)2(H2O)3].2H2O (3) A methanol solution (4 mL) of Sr(NO3)2 (0.0212 g, 0.1 mmol) was mixed with an aqueous solution (2 mL) containing Hatza (0.0286 g, 0.2 mmol). The mixture was stirred at 85 °C for 3 h and then filtered. Slow evaporation of the filtrate in air gave rise to colorless crystals of [Sr(atza)2(H2O)3].2H2O. Yield: 22.6 mg (49% based on Sr).

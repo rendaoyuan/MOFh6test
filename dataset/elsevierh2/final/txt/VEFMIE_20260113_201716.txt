@@ -1,0 +1,5 @@
+VEFMIE
+Chemical_Name: catena-(tetrakis(μ2-4,4'-Azopyridine)-tetrakis(μ2-2,6-naphthalenedicarboxylato)-tetra-cobalt(ii) dimethylformamide solvate tetrahydrate)
+Number: 861524
+Synonyms: N/A
+Preparation of [Co(NDC)(AZPY)]2·2H2O·DMF (2) A mixture of CoCl2·6H2O (0.0238g, 0.1mmol), 2,6-NDC (0.0216g, 0.1mmol), AZPY (0.0184g, 0.1mmol) combined with 10mL DMF was stirred for 20min at room temperature. Then the solution was heated in a 30mL Teflon-lined stainless-steel vessel at 140°C for 2days, and then cooled to room temperature at the rate of 3°Ch−1. The purple block-shaped crystalline product was collected by filtration, washed with DMF and then air-dried.

@@ -1,0 +1,5 @@
+DUPKAC
+Chemical_Name: N/A
+Number: N/A
+Synonyms: N/A
+Synthesis of [(Zn4O)(DCPB)3]•11DMF•5H2O (JUC-135) A mixture of Zn(NO3)2•6H2O (10 mg, 0.034 mmol), H2DCPB (5 mg, 0.016 mmol), N, N-dimethylformamide (DMF, 5 ml) and dimethyl sulfoxide (DMSO, 0.5 ml) was sealed into a 20 ml capped vessel. The vessel was heated at 100 °C. The crystals were obtained after 3 days and washed with DMF. Yield: 78% (based on H2DCPB).

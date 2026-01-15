@@ -1,0 +1,5 @@
+ADAXEK
+Chemical_Name: catena-(bis(μ4-terephthalato)-(μ4-4,4'-bipyridine 1,1'-dioxide)-di-cobalt(ii) terephthalic acid methanol solvate)
+Number: 851173
+Synonyms: N/A
+A mixture of Co- (NO3)2·6H2O (0.0373 g, 0.128 mmol), H2BDC (0.0244 g, 0.13 mmol), BPNO (0.0226 g, 0.12 mmol), and methanol (9 mL) was sealed in a 15-mL Teflon-lined stainless autoclave and heated at 120 °C for 3 d. After the mixture was cooled to room temperature, red, stick-shaped crystals suitable for X-ray analysis were generated directly, washed with methanol, and dried in air. Yield: 67% based on the CoII salt.

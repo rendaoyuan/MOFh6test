@@ -1,0 +1,5 @@
+MADSER
+Chemical_Name: catena-((μ2-piperazine)-bis(5,5-diethyl-2,4,6-trioxotetrahydropyrimidin-1(2H)-yl)-di-silver(i) monohydrate)
+Number: 760572
+Synonyms: catena-((μ2-piperazine)-bis(5,5-diethyl-barbiturate)-di-silver(i) monohydrate)
+Synthesis of the Silver(I) Complexes A 10 mL aqueous solution of Na(barb) (5,5-diethylbarbituric acid sodium salt) (0.21 g, 1 mmol) was added to a 10 mL aqueous solution of AgNO3 (0.17 g, 1 mmol) with stirring at room temperature. The solution immediately became milky. The addition of 2,5-dimethylpyrazine (dmpyz) (0.11 mL, 1 mmol) together with a mixture of 2-propanol (PrOH) and acetonitrile (MeCN) (1:1) (10 mL) to the milky suspension resulted in a clear solution. The resulting solution was allowed to stand in darkness at room temperature and colorless crystals of [Ag(dmpyz)2][Ag(barb)2] (1) were obtained after 3 days. Yield 87%. {[Ag(ppz)][Ag(barb)2]_x0002_H2O}n (2) was synthesized in a similar way, replacing dmpyz with ppz. Yield 61%.

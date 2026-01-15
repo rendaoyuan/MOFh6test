@@ -1,0 +1,5 @@
+HABSAG
+Chemical_Name: catena-[(μ4-Benzene-1,4-dicarboxylato-O,O',O'',O''')-(μ4-tetrakis(imidazol-1-yl)borate-N3,N3',N3'',N3''')-(μ2-4-carboxybenzoato-O,O)-di-cadmium(ii) hemihydrate]
+Number: 764371
+Synonyms: MC-BIF-5H
+Synthesis of MC-BIF-5H: NaB(im)4 (0.036 g), Cd(AC)2·2H2O (0.043 g), 1,4-Benzenebicarboxlic (1,4-BDC, 0.032 g), imidazole (im, 0.024 g) and water (2.12 g) were placed in a 20 ml vial. The sample was heated at 120 oC for 5 days, and then cooled to room-temperature. After washed by ethanol, the colorless crystals were obtained (yield: 0.096 g, 82.7% based on B).

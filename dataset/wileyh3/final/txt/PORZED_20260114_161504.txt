@@ -1,0 +1,5 @@
+PORZED
+Chemical_Name: catena-[(μ3-5-bromoisophthalato)-(μ2-N-(pyridin-4-yl)nicotinamide)-cadmium]
+Number: 959253
+Synonyms: N/A
+Preparation of [Cd(Brip)(4-pna)]n (1): Cd(NO3)2·4H2O (86 mg, 0.28 mmol), 4-pna (37 mg, 0.19 mmol), and 5-bromoisophthalic acid (45 mg, 0.19 mmol) were mixed with distilled H2O (5 mL) and 1 m NaOH (0.5 mL) in a 15 mL glass vial. The vial was sealed and heated in a silicone oil bath at 85 °C for 18 h, and afterwards it was cooled slowly to 25 °C. Colorless needles of 1 (59 mg, 36% yield based on Cd) were isolated after washing with distilled water, ethanol, and acetone and drying in air.

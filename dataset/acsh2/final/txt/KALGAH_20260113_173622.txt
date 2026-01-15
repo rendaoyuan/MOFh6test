@@ -1,0 +1,5 @@
+KALGAH
+Chemical_Name: catena-((μ4-1,2,3,4-tetrakis(pyridin-4-yl)cyclobutane)-bis(μ3-isophthalato)-(μ2-aqua)-di-nickel benzene solvate)
+Number: 866142
+Synonyms: N/A
+Attempt to separate naphthalene/anthracene mixture in benzene solution by using 1 and formation of {[Ni2(μ2-OH2)(1,3-BDC)2(tpcb)]·4C6H6}n (1·4C6H6): A mixture of naphthalene (0.256 g, 2 mmol) and anthracene (0.356 g, 2 mmol) was dissolved in benzene to give a colorless solution. Then the crystals of 1 (0.415 g, 0.05 mmol) were added into the solution and afforded 1·4C6H6. Yield: 1.095 g (96% yield based on 1).

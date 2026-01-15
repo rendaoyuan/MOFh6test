@@ -1,0 +1,5 @@
+ACUXAY
+Chemical_Name: catena-(bis(μ4-4,5-imidazoledicarboxylato)-tetra-aqua-tri-manganese)
+Number: 258312
+Synonyms: N/A
+Synthesis and Initial Characterization: A mixture of H3IMDC (0.2341 g, 1.5 mmol), MnCO3 (0.0862 g, 0.75 mmol), and H2O (5 mL; MnCO3/H3IMDC/H2O molar ratio of 1:2:370) was stirred under ambient conditions. The resulting mixture with a pH of 4 was sealed in a 25-mL Teflon-lined steel autoclave and heated at 175 °C for 15 d under autogenous pressure. After cooling to room temperature, the colorless prismatic crystals of 1 were filtered off, washed with distilled water, and dried at ambient temperature (39 mg, yield 28.7% based on MnCO3).

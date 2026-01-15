@@ -1,0 +1,5 @@
+MOKQAG
+Chemical_Name: catena-(bis(μ2-4-Methyl-2,4-dihydro-3H-1,2,4-triazole-3-thione)-aqua-lead)
+Number: 928567
+Synonyms: N/A
+Synthesis of [Pb(l-mptrz)2(H2O)]n (2) 4-Methyl-1,2,4-triazole-3-thiol (0.37 g, 3.16 mmol) in CH3OH (10 ml) was added to a solution of Pb(OAc)2·3H2O (0.31 g, 0.79 mmol) in H2O (15 ml) and the resulting colorless solution was stirred at 45 °C for 20 min. Suitable crystals for X-ray diffraction measurement were obtained by methanol diffusion to a colorless solution of 2 in DMSO over 2 weeks (yield 0.27 g, 75.4 %).

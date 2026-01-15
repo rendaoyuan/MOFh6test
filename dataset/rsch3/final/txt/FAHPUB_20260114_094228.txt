@@ -1,0 +1,5 @@
+FAHPUB
+Chemical_Name: catena-(tris(μ4-4,4'-Ethyne-1,2-diyldibenzoato)-tetrakis(N,N-dimethylformamide)-tri-cobalt N,N-dimethylformamide solvate)
+Number: 839202
+Synonyms: N/A
+Synthesis of [Co3(edb)3(DMF)4]·2.6DMF: Co(NO3)2·6H2O (0.079 g, 0.27 mmol) and H2edb (0.080 g, 0.27 mmol) were placed in a pressure tube with DMF (10 cm3) and heated at 80 °C for 5 days, before being cooled slowly to room temperature. Pink crystals were formed which were kept under fresh DMF until required for characterisation. Yield 0.048 g (52%).

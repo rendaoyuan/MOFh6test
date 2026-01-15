@@ -1,0 +1,5 @@
+RUZDOG
+Chemical_Name: catena-((μ2-5-Nitroisophthalato)-diaqua-(1-(2-pyridyl)-2-(4-pyridyl)ethylene)-cadmium(ii) acetonitrile solvate monohydrate)
+Number: 790966
+Synonyms: N/A
+Synthesis of {[Cd(nip)(bpe)(H2O)2](CH3CN)·- (H2O)2}n (1) To a hot CH3CN (10 mL) solution of H2nip (21.1 mg, 0.1 mmol) was added a DMF (5 mL) solution of bpe (18.4 mg, 0.1 mmol) with stirring for ca. 10 min. Then, a H2O (5 mL) solution of Cd(NO3)2·4H2O (30.8 mg, 0.1 mmol) was added to the above mixture with continuous stirring for ca. 30 min. The resulting solution was filtered and left to stand at room temperature. Pale-yellow block crystals of 1 suitable for X-ray analysis were obtained by slow evaporation of the solvent after two days in 47% yield (28.1 mg).

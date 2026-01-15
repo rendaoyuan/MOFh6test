@@ -1,0 +1,5 @@
+FATJIV
+Chemical_Name: catena-(bis(μ2-N,N'-bis(Pyridin-3-yl)isophthalamide)-bis(μ2-sulfato-O,O')-di-zinc)
+Number: 827023
+Synonyms: N/A
+Synthesis of 1: A mixture of ligand bpip (38.1mg, 0.1mmol), ZnSO4·7H2O (28.7mg, 0.1mmol), and H2O/CH3OH (v/v 1:5, 10mL) was sealed in a Parr Teflon-lined stainless steel vessel and heated to 120°C for 3 days and cooled to room temperature in 12h. Block crystals were isolated by filtration and washed with distilled water and dried in air to give the product. Yield: 75% based on ZnSO4·7H2O.

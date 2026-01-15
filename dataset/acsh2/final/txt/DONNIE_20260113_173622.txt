@@ -1,0 +1,5 @@
+DONNIE
+Chemical_Name: catena-[(μ4-Benzene-1,4-dicarboxylato-O,O',O'',O''')-(μ2-hydroxo)-gallium(iii) pyridine clathrate]
+Number: 716225
+Synonyms: MIL-53
+Single-Crystal Growth and Characterization of Ga(OH)BDC· 0.74H2BDC (2) Compound 2, unlike 1, was obtained in single-crystal form in the absence of fluorine. Compound 2 was synthesized from a mixture of gallium nitrate (1 mmol), 1,4-benzenedicarboxylic acid (2 mmol), and deionized water (10 mL) in a molar ratio of 1:2:560. The starting chemicals were mixed in a flexible Teflon bag in air. The bag was then put into a hydrothermal reaction vessel containing 10 mL of deionized water and heated at 220 °C for 3 days. After quenching to room temperature, the product was filtered, washed with dimethylformamide to dissolve unreacted H2BDC followed by deionized water, and then dried at room temperature. The final product was a single-phase-containing colorless polyhedra of 2 suitable for single-crystal X-ray measurements.

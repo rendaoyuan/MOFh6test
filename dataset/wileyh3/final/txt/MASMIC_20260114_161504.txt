@@ -1,0 +1,5 @@
+MASMIC
+Chemical_Name: catena-(bis((μ2-4,4'-Bipyridyl)-(μ2-cyano)-copper) bis(4,4'-bipyridine) clathrate)
+Number: 139769
+Synonyms: N/A
+2 1[(CuCN)2(l-C10H8N2)] (1) (C10H8N2 = 4,4'-bpy) 89.6 mg CuCN (1 mmol), 32.6 mg KCN (0.5 mmol) and 78.1 mg 4,4'-bpy (0.5 mmol), were heated in a mixture of 2.5 ml acetonitrile with 0.1 ml H2O to 100 °C for 48 h. Slow cooling of the solution to room temperature over 80 h led to the growth of yellow crystals of 1 in 75% yield (125 mg). 3 1[{CuCN(l-C10H8N2)} ´ 2 C10H8N2] (2) 44.8 mg CuCN (0.5 mmol) and 234.3 mg 4,4'-bpy (1.5 mmol) were heated together in 2.5 ml CH3CN at 100 °C for 48 h. Slow cooling to room temperature afforded red crystals of 2 in 81% yield (226 mg).

@@ -1,0 +1,5 @@
+DAWBIO
+Chemical_Name: catena-(bis(μ3-L-Malato)-(μ2-4,4'-azobis(pyridine))-di-cobalt tetrahydrate)
+Number: 878038
+Synonyms: N/A
+Synthesis of [{Co(L-mal)(azpy)0.5}·2H2O]n (1) Co(NO3)2·6H2O (0.5 mmol, 0.145 g) was dissolved in 4 mL of DMF in a 20 mL glass vial; to this, an aqueous solution (2 mL) of L-malic acid (0.5 mmol, 0.067 g) was added with stirring. Then ethanolic solution (2 mL) of azpy (0.25 mmol, 0.045 g) was added, and the mixture was stirred for 30 min to mix well. Then the vial was sealed and heated to 120 °C for 12 h. After being cooled to room temperature, beautiful orange-red crystals of 1 was isolated, washed with DMF, and dried in air. Yield (75%) for 1.

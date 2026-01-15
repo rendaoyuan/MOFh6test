@@ -1,0 +1,5 @@
+KIYMIP
+Chemical_Name: catena-((μ4-4,4'-(hexafluoroisopropylidene)diphthalato)-bis(μ2-4,4'-bipyridine)-diaqua-di-nickel(ii) octahydrate)
+Number: 654289
+Synonyms: N/A
+[Ni2(hfpdpt)(bpy)2](H2O)8 (1). 4,4′-(Hexaﬂuoroisopropylidene)diphthalic anhydride (44 mg, 0.1 mmol), 4,4′-bipyridyl (30 mg, 0.2 mmol), Ni(NO3)2·6H2O (120 mg, 0.4 mmol), and LiOH (10 mg, 0.4 mmol) were mixed in H2O (10 mL) and heated in a Parr Teﬂon-lined stainless steel vessel (25 mL) under autogenous pressure, which was heated to 140 ◦C for 40 h and subsequently cooled to room temperature at a rate of 3 ◦C/h. The obtained blue crystals of 1 were collected, washed with water, and dried under a reduced pressure at room temperature. Yield: 42% (based on H4hfpdpt).

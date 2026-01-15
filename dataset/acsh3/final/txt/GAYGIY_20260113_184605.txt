@@ -1,0 +1,5 @@
+GAYGIY
+Chemical_Name: catena-(bis(μ2-4,4'-bipyrazole)-copper(ii) dinitrate)
+Number: 863375
+Synonyms: N/A
+Synthesis of [Cu(H2BPZ)2(NO3)2] (8). H2BPZ (0.0268 g, 0.2 mmol) was dissolved in 30 mL of methanol. After gentle warming at 45 °C for 15 min with concomitant stirring, Cu(NO3)2·2.5H2O (0.0468 g, 0.2 mmol) was added. The solution was stirred at room temperature for 24 h. A green precipitate immediately formed, which turned to violet-bluish in 12 h, reasonably because of a change in the stereochemistry of the metallic center. The bluish precipitate was ﬁltered oﬀ, washed with methanol (2 × 20 mL), and dried in vacuo. Yield: 80%.

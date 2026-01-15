@@ -1,0 +1,5 @@
+IGOJEV
+Chemical_Name: catena-[(μ-biphenyl-4,4'-dicarboxylato)-(μ-2,7-di(pyridin-4-yl)benzo[lmn][3,8]phenanthroline-1,3,6,8(2H,7H)-tetrone)-cadmium N-methylformamide solvate sesquihydrate]
+Number: 1035202
+Synonyms: N/A
+Syntheses of [Cd2(bpdc)2(DPNDI)2]·3H2O·NMF (1): A mixture of Cd(NO3)2·4H2O (15.42 mg, 0.05 mmol), H2bpdc (12.1 mg, 0.05 mmol), DPNDI (20.6 mg, 0.05 mmol), and NMF(3 mL) was added to a 10mL vial. The vial was sealed, held at 90 °C for 48 h, and finally cooled to room temperature. Yellow crystals of 1 were obtained in 60% yield based on Cd (49.89 mg).

@@ -1,0 +1,5 @@
+COJHIT
+Chemical_Name: catena-[bis(μ4-Benzene-1,4-bis(4-pyrazolato))-di-cobalt diethylformamide solvate dihydrate]
+Number: 701602
+Synonyms: N/A
+Synthesis of Co(BDP)⋅2DEF⋅H2O. A borosilicate tube (1.2 cm o.d. × 15 cm length) was charged with Co(CF3SO3)2 (120 mg, 0.34 mmol), H2BDP (60 mg, 0.29 mmol), and 2.0 mL of N,N′-diethylformamide (DEF). The reaction mixture was degassed by the freeze-pump-thaw method (5 cycles), and the tube was sealed under reduced pressure. The tube was heated in an oil bath at 130 °C for 6 days to afford a purple microcrystalline solid. Upon cooling to room temperature, the tube was broken open in air and the solid was immediately collected by filtration. The solid was then washed with successive aliquots of DEF (5 × 10 mL) and dried under reduced pressure for 30 min to afford 0.13 g (95%) of product. The compound was stored under an atmosphere of DEF vapor.

@@ -1,0 +1,5 @@
+GUPDUR
+Chemical_Name: catena-(bis(μ2-2-Phenylimidazolato)-cadmium)
+Number: 743562
+Synonyms: N/A
+CdIF-12 (dia): The syntheses are similar to the CdIF-1 synthesis with the molar ratio of cadmium acetate dehydrate/ Hpim (Hbim or Hphim) = 1/5, the solvents are ethanol and the reactions were all carried out at temperature 120 ℃ for 24 hours.

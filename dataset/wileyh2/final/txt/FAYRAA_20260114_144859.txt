@@ -1,0 +1,7 @@
+FAYRAA
+Chemical_Name: catena-[bis(μ6-tetrakis((4-Carboxylatophenoxy)methyl)methane)-(μ5-tetrakis((4-carboxylatophenoxy)methyl)methane)-hexakis(μ3-benzotriazolyl)-octa-zinc(ii) unknown solvate]
+Number: 854822
+Synonyms: MOF-01
+Synthesis of DMOF-10: A solid mixture of H4L4 (61.6 mg, 0.10 mmol) and TMBB-2 (130.2 mg, 0.10 mmol) was dissolved in DMF (5 mL) in a 20 mL Teflon-lined stainless steel container. The clear reaction solution was heated in an isotherm oven at 858C for 72 h, resulting in colorless microcrystals were isolated by washing with DMF and were immersed in dichloromethane for 24 h. After the removal of dichloromethane by decanting, the sample was dried under a dynamic vacuum at room temperature overnight. Yield: 145.0 mg, 79% based on 1 mol of H4L4.
+Abbreviation: H4L4
+Full Name: 3,3'-(4,4'-(2,2-bis((4-(2-carboxyvinyl)phenoxy)methyl)propane-1,3-diyl)bis(oxy)bis(4,1-phenylene))diacrylic acid

@@ -1,0 +1,5 @@
+ELINET
+Chemical_Name: catena-((μ2-1,4-Phenylenediacetato)-diaqua-bis(imidazole-N3)-nickel(ii) monohydrate)
+Number: 767438
+Synonyms: N/A
+Synthesis of [Ni(PDA)(Im)2(H2O)2]n·nH2O (4) Ni(OH)2 (0.5 mmol, 0.0463 g) was added into a mixture of 1,4-phenylenediacetic acid (0.5 mmol, 0.0970 g), Im (1.0 mmol, 0.0680 g), water (4 mL) and methanol (8 mL) in a flask. The resulted mixture was heated under reflux at 100 °C for 3 hours. Afterwards, it was cooled down to room temperature and filtered. The filtrate was left at ambient temperature to evaporate to give red crystals of 4 after one week in a yield of 80 %.

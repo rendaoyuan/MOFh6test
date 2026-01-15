@@ -1,0 +1,5 @@
+DOKBUC
+Chemical_Name: catena-[(μ6-3,5-bis(4-carboxylatophenoxy)benzoato)-(μ4-formato)-(μ2-1,1'-biphenyl-4,4'-diylbis(1H-imidazole))-di-iron dihydrate]
+Number: 1006437
+Synonyms: N/A
+No synthesis method found for compound 4

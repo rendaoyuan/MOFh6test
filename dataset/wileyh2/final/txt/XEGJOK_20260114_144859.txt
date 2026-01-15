@@ -1,0 +1,7 @@
+XEGJOK
+Chemical_Name: catena-((μ4-2,2',6,6'-Tetranitrobiphenyl-4,4'-dicarboxylato)-bis(μ3-2,2',6,6'-tetranitrobiphenyl-4,4'-dicarboxylato)-tetrakis(dimethylformamide)-di-gadolinium benzaldehyde solvate tetrahydrate)
+Number: 843414
+Synonyms: N/A
+Synthesis of {[Gd2(L)3ACHTUNGTRENUNG(dmf)4]·2(benzaldehyde)·4H2O}n (2): Single crystals of compound 1, upon exposure to benzaldehyde vapor for 5 days, afforded compound 2 without a loss in crystallinity.
+Abbreviation: L
+Full Name: 2,6,2’,6’-tetranitro-biphenyl-4,4’-dicarboxylic acid

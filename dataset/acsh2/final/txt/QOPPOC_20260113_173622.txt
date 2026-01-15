@@ -1,0 +1,5 @@
+QOPPOC
+Chemical_Name: N/A
+Number: N/A
+Synonyms: N/A
+Synthesis of [Cu3(cdm)4] K(cdm) (240 mg, 1.63 mmol) was almost completely dissolved in methanol (30 mL) with the aid of sonication. To this was added a methanolic solution (3 mL) of anhydrous CuCl2 (216 mg, 1.61 mmol). Upon addition of the green CuCl2 solution, the remaining suspended K(cdm) was dissolved to give a deep orange solution. Dark orange crystals of solvated [Cu3(cdm)4] (173 mg, 0.252 mmol, 62% yield) formed on the walls of the reaction vessel over a period of two days.

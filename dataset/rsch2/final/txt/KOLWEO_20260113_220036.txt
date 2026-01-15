@@ -1,0 +1,5 @@
+KOLWEO
+Chemical_Name: catena-(bis(μ3-Benzene-1,3,5-tris(4-benzoato))-tris(ethyleneglycol-O,O')-tri-nickel tris(toluene) clathrate)
+Number: 692027
+Synonyms: N/A
+No synthesis method found for compound 2

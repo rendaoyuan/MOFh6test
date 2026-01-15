@@ -1,0 +1,9 @@
+CAWVIH
+Chemical_Name: catena-[(μ6-tris(4'-Carboxylatobiphenyl-4-yl)amine)-(μ2-hydroxo)-di-zinc(ii) N,N-dimethylformamide solvate dihydrate]
+Number: 846687
+Synonyms: FIR-1
+Synthesis of [Zn2(OH)L]·2DMF·2H2O (FIR-1): H3L (60 mg, 0.1 mmol) and Zn(NO3)2·6H2O (60 mg, 0.2 mmol) were dissolved in DMF/EtOH/H2O (4:1:1, v/v/v), which were placed in a small vial. The mixture was heated at 120 °C for 24 h and then cooled to room temperature. Yellow rodlike crystals of the product were formed and collected by filtration (yield: 0.065 g, 71% based on L).
+Abbreviation: H3L
+Full Name: tris[(4-carboxyl)phenylduryl]amine
+Abbreviation: L
+Full Name: tris[(4-carboxyl)phenylduryl]amine

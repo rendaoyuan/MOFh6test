@@ -1,0 +1,5 @@
+EVURIX
+Chemical_Name: catena-(bis(μ2-5-(2-Amino-4-carboxyphenoxy)isophthalato)-bis(μ2-4,4'-bipyridine)-tetra-aqua-di-cobalt unknown solvate)
+Number: 825116
+Synonyms: N/A
+Co(ClO4)2 3 6H2O (23.4 mg, 0.06 mmol), 1 (5 mg, 0.015 mmol), and 4,40-bipyridyl (3.7 mg, 0.02 mmol) were placed in a capped glass vessel and dissolved in 4 mL of DMF/water (1:1). Then the mixture was heated for 48 h in bath-reactor at 80 _x0001_C, and after cooling to room temperature the reaction mixture was kept for slow evaporation. After 7 days red block crystals appeared and were collected by filtration. Yield: 89% (based on Co).

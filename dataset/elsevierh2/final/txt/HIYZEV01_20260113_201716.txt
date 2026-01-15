@@ -1,0 +1,5 @@
+HIYZEV01
+Chemical_Name: catena-[bis(μ5-Isophthalato)-bis(μ4-isophthalato)-bis(μ2-dimethylformamide)-tetra-manganese dimethylformamide solvate]
+Number: 837897
+Synonyms: N/A
+Synthesis of [Mn2(ip)2(dmf)]·dmf (1) H2ip (1.00mmol, 0.166g), MnCl2·4H2O (1.00mmol, 0.198g), and dmf (8.0mL) were successively added to a 23mL Teflon autoclave, and the formed mixture was then heated to 150°C in 2h and kept at this temperature for 3 days. After heating, it was allowed to cool to room temperature at a rate of 5°C per hour. A product in light yellow platelets was separated through filtration with yield of 75% based on the ligand.

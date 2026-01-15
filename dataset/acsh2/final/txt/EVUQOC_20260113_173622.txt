@@ -1,0 +1,5 @@
+EVUQOC
+Chemical_Name: catena-((μ5-5-(2-Amino-4-carboxylatophenoxy)isophthalato)-aqua-dimethylformamide-lanthanum monohydrate)
+Number: 825112
+Synonyms: N/A
+A mixture of 1 (5 mg, 0.015 mmol) and La(NO3)3 3 6H2O (6.5 mg, 0.015 mmol) was dissolved in 4 mL of water and placed in a capped glass vessel. The reaction mixture was heated at 80 °C for 48 h in a bath-reactor. Colorless crystals were obtained after cooling the reactor to room temperature. After filtration, the product (colorless crystals) was washed with distilled water and DMF and dried at room temperature. Yield: 54% (based on La).

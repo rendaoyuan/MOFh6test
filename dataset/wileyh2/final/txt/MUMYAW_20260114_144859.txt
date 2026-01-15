@@ -1,0 +1,5 @@
+MUMYAW
+Chemical_Name: N/A
+Number: N/A
+Synonyms: N, /, A
+[Co(DpyDClP)]6·18H2O (I): DpyDClP (0.069 g, 0.1 mmol), Co(NO3)2·6H2O (0.058 g, 0.2 mmol), and N,N-dimethylformamide (DMF, 5 mL) were placed in a Teflon-lined high-pressure vessel. The vessel was placed in an oven at 120 °C for 48 h. After cooling to room temperature, the purple crystalline needles were retrieved by filtration, washed with DMF, and dried in air for 1 d. The yield was 0.052 g (65%).

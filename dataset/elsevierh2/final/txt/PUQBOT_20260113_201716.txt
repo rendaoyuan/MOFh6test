@@ -1,0 +1,5 @@
+PUQBOT
+Chemical_Name: catena-((μ4-2,2'-Bipyridine-4,4'-dicarboxylato)-(μ2-acetato)-diaqua-neodymium(iii) monohydrate)
+Number: 748881
+Synonyms: N/A
+Error extracting synthesis method for compound 2

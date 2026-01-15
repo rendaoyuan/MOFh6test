@@ -1,0 +1,76 @@
+======================================================================
+会话开始: 2026-01-15 01:15:57,586
+执行的脚本: main.py
+Python路径: F:\software\Anaconda\envs\c2ml\python.exe
+======================================================================
+
+
+🌟 Initializing MOF Analysis System...
+
+💎 Welcome to MOF Analysis System!
+
+📋 Available Commands:
+📄 'How to synthesize <code/name>' - Obtain the synthesized text
+📄 'process pdf <path>' - Process a PDF document
+🔬 'workflow <path>' - Run analysis workflow on processed PDF
+💾 'show saved' - Show saved documents
+📥 'download cif <code>' - Download CIF file for a CCDC code
+🔮 'visualize <code>' - Visualize crystal structure for a CCDC code
+Query> 2026-01-15 01:15:57,586 - INFO - DataFrame prepared with 54808 rows
+What is the PLD of VUJBEI?
+2026-01-15 01:16:07,047 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-15 01:16:07,053 - INFO - Query analysis: {'query_type': 'property', 'materials': ['VUJBEI'], 'properties': ['PLD'], 'operation': {'type': None, 'value': None}, 'range': {}, 'uses_context': False, 'reasoning': [], 'page_size': None}
+2026-01-15 01:16:08,119 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+The PLD of VUJBEI is 4.92727 Å.
+
+Query> Was ist die PLD von VUJBEI?
+2026-01-15 01:16:15,545 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-15 01:16:15,545 - INFO - Query analysis: {'query_type': 'property', 'materials': ['VUJBEI'], 'properties': ['PLD (Å)'], 'operation': {'type': None, 'value': None}, 'range': {}, 'uses_context': True, 'reasoning': [], 'page_size': None}
+2026-01-15 01:16:16,592 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+Die PLD von VUJBEI beträgt 4.92727 Å.
+
+Query> VUJBEI的PLD是多少？
+2026-01-15 01:16:21,986 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-15 01:16:21,987 - INFO - Query analysis: {'query_type': 'property', 'materials': ['VUJBEI'], 'properties': ['PLD (Å)'], 'operation': {'type': None, 'value': None}, 'range': {}, 'uses_context': True, 'reasoning': [], 'page_size': None}
+2026-01-15 01:16:23,237 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+VUJBEI的PLD是4.92727 Å。
+
+Query> Сколько PLD у VUJBEI?
+2026-01-15 01:16:28,416 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-15 01:16:28,417 - INFO - Query analysis: {'query_type': 'property', 'materials': ['VUJBEI'], 'properties': ['PLD (Å)'], 'operation': {'type': None, 'value': None}, 'range': {}, 'uses_context': True, 'reasoning': [], 'page_size': None}
+2026-01-15 01:16:29,228 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+PLD у VUJBEI составляет 4.92727 Å.
+
+Query> Quel est le PLD de VUJBEI?
+2026-01-15 01:16:33,733 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-15 01:16:33,734 - INFO - Query analysis: {'query_type': 'property', 'materials': ['VUJBEI'], 'properties': ['PLD (Å)'], 'operation': {'type': None, 'value': None}, 'range': {}, 'uses_context': True, 'reasoning': [], 'page_size': None}
+2026-01-15 01:16:34,747 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+Le PLD de VUJBEI est de 4.92727 Å.
+
+Query> VUJBEIのPLDはいくらですか?
+2026-01-15 01:16:38,941 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-15 01:16:38,942 - INFO - Query analysis: {'query_type': 'property', 'materials': ['VUJBEI'], 'properties': ['PLD (Å)'], 'operation': {'type': None, 'value': None}, 'range': {}, 'uses_context': True, 'reasoning': [], 'page_size': None}
+
+VUJBEIのPLDは4.92727 Åです。
+
+Query> 2026-01-15 01:16:40,048 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+VUJBEI의 PLD는 얼마입니까?
+2026-01-15 01:16:45,356 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-15 01:16:45,356 - INFO - Query analysis: {'query_type': 'property', 'materials': ['VUJBEI'], 'properties': ['PLD (Å)'], 'operation': {'type': None, 'value': None}, 'range': {}, 'uses_context': True, 'reasoning': [], 'page_size': None}
+2026-01-15 01:16:46,749 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+VUJBEI의 PLD는 4.92727 Å입니다.
+
+Query> q!
+
+👋 Thank you for using MOF Analysis System. Goodbye!
+
+======================================================================
+会话结束: 2026-01-15 01:16:55,163
+退出代码: 1
+======================================================================

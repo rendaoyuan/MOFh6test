@@ -1,0 +1,5 @@
+IHECAB
+Chemical_Name: N/A
+Number: N/A
+Synonyms: N/A
+Synthesis of {[Zn(atz)(C2O4)0.5]_x0002_H2O}n (1) A mixture of Zn(NO3)2_x0002_6H2O (0.060 g, 0.2 mmol), Hatz (0.034 g, 0.20 mmol) and H2C2O4 (0.2 mmol, 0.018 g), NaOH (0.2 mmol, 0.008 g) and H2O (8 mL) was placed in a Parr Teﬂon-lined stainless steel vessel, then the vessel was sealed and heated to 160 _x0003_C. The temperature was held for 60 h, then the vessel was cooled to room temperature over 60 h to lead to the formation of colorless crystals of 1 (yield: 65 % based on Zn).

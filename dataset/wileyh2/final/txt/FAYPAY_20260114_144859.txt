@@ -1,0 +1,7 @@
+FAYPAY
+Chemical_Name: catena-[(μ4-tetrakis((4-Carboxylatophenoxy)methyl)methane)-hexakis(μ3-benzotriazolyl)-aqua-penta-zinc(ii) unknown solvate]
+Number: 854812
+Synonyms: DMOF-1
+Synthesis of DMOF-1 [Zn5ACHTUNGTRENUNG(btz)6(L1)ACHTUNGTRENUNG(H2O)]: A solid mixture of H4L1 (61.6 mg, 0.10 mmol) and TMBB-1 (130.2 mg, 0.10 mmol) was dissolved in DMF (5 mL) in a 20 mL Teflon-lined stainless steel container. The clear reaction solution was heated in an isotherm oven at 858C for 72 h, resulting in colorless crystals that were isolated by washing with DMF (5_x0004_5 mL) and were immersed in dichloromethane for 24 h. After the removal of dichloromethane by decanting, the sample was dried under a dynamic vacuum at room temperature overnight. Yield: 125.0 mg, 75% based on H4L1.
+Abbreviation: H4L1
+Full Name: 4,4'-(2,2-bis((4-carboxyphenoxy)methyl)propane-1,3-diyl)bis(oxy)dibenzoic acid

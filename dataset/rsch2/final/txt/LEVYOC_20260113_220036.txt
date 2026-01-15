@@ -1,0 +1,5 @@
+LEVYOC
+Chemical_Name: catena-[(μ5-5-Sulfoisophthalato)-(μ4-3,5-diamino-1,2,4-triazolato)-bis(μ3-hydroxo)-methanol-tri-cobalt unknown solvate hydrate]
+Number: 838389
+Synonyms: N/A
+A mixture containing Hdatrz (39.6 mg, 0.4 mmol), NaH2sip (53.6 mg, 0.2 mmol), Co(NO3)2·6H2O (87.2 mg, 0.3 mmol), methanol (4.0 mL) and water (6.0 mL) was placed in a Teﬂon-lined stainless steel vessel (23.0 mL), and the pH value of the mixture was adjusted to 5–6 by the slow addition of triethylamine with constant stirring. The resulting mixture was then heated at 165 °C for 72 h and cooled to room temperature at a rate of 5 °C h−1. Blue block-shaped single crystals suitable for single-crystal X-ray analysis were generated directly and dried in air. Yield: 51% based on CoII salt.

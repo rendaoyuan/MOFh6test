@@ -1,0 +1,200 @@
+Processing Summary
+Timestamp: 20260113_201716
+Total files processed: 195
+
+Processed Files:
+- ACOGUV_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- AGEZUI_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- AGIBAU_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- BAMJOP_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- BEGZEU_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- BEGZIY_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- BEJZOF_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- BUQZUJ_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- BURBAS_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- CAQZIE_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- CAQZOK_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- COJLIX_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- DALRAK_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- DEYMEA_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- DIPRUR_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- DITRAB_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- DIVKUQ_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- DUVTOE_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- EBEJIG_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- EHIVUN_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- FATJIV_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- FEJJOV_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- FEJJUB_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- FEVDER_20260113_201716.txt
+- FIHZOM_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- FIHZUS_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- GAWLIB_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- GAWMIC_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- GIXPEK_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- GOQWIU_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- GUTYOK_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- GUTYUQ_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- HACQOS_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- HACQUY_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- HAWBIS_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- HEGVUM_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- HIYZEV01_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- HOJJEX_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- HOJJIB_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- HOJJOH_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- HOTVUI01_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- ICOWII01_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- ICOWOO01_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- IGUGUN_20260113_201716.txt
+- IGUHAU_20260113_201716.txt
+- IGUHEY_20260113_201716.txt
+- ILAGUY_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- ILAHAF_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- JAMROF_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- JAMRUL_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- JOFKOF_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- JOFLAS_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- JOJGIA_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- JOJGOG_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- KIDFUA_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- KIFTEA_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- KIFTOK_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- KIFTUQ_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- LAGKIO_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- LAGKUA_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- LARLAT_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- LARLIB_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- LAVHAT_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- LAVHEX_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- LAVHIB_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- LAVHOH_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- MADVUJ_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- MADWEU_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- MADWIY_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- MOFDUI_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- MOFFEU_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- MOFFIY_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- MOFFOE_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- NAPZOV_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- NAPZUB_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- NAQBEO_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- ODAKEL_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- ODOMEB_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- OROJEL_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- OROJIP_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- PACLIP01_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- PALKOD_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- PEBLAL_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- PUQBOT_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- QAVBOG_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- QEWMIP_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- QEWMOV_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- RAQVIQ_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- RAQVOW_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- RULGEM_20260113_201716.txt
+- SAZTIX01_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- TEZLOB_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- TUSVUZ_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- VEFMEA_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- VEFMIE_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- WAGJEV_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- WEDPIG_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- WEDPUS_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- XAPQIQ_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt
+- ZUQHUQ_20260113_201716.txt
+- No abbreviations found in synthesis text_20260113_201716.txt

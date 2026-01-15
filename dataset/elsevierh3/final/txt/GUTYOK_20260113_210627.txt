@@ -1,0 +1,5 @@
+GUTYOK
+Chemical_Name: catena-[bis(μ3-1,3,5-tris(1,2,4-Triazol-1-ylmethyl)-2,4,6-trimethylbenzene)-hexaaqua-hexachloro-tri-nickel(ii) trihydrate]
+Number: 731643
+Synonyms: N/A
+Syntheses of 1: a 10mL aqueous solution of NiCl2·2H2O (1.5mmol) was added to a tube, then a 10mL CH3OH solution of 1,3,5-tri(1,2,4-triazol-1-ylmethyl)-2,4,6-trimethylbenzene (ttmb) (1.0mmol) was slowly added to the tube above the aqueous solution. Blue crystals 1 (yield: 62%) were obtained after about two weeks.

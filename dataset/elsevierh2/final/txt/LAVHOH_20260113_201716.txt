@@ -1,0 +1,5 @@
+LAVHOH
+Chemical_Name: catena-((μ3-4,4'-Diamino-2,2'-stilbenedisulfonato)-diaqua-calcium monohydrate)
+Number: 801852
+Synonyms: N/A
+Synthesis of {[Ca(dsd)(H2O)2]·H2O} n (2) Complex 2 was synthesized from the reaction mixture of 4,4′-diamino-2,2′-stilbenedisulfonic acid (0.370g, 1mmol), Ca(OH)2 (0.058g, 1mmol) and 10mL 90% ethanol solution in a 23mL Parr Teflon-lined autoclave at 150°C for 3days, then cooled to room temperature at a rate of 10°C/h. Yellowish single crystals of 2 were obtained in about 28% yield based on Ca.

@@ -1,0 +1,5 @@
+BUGSIG
+Chemical_Name: catena-((μ4-(4-carboxypiperidin-1-ylmethyl)phosphonato)-diaqua-gadolinium monohydrate)
+Number: 764680
+Synonyms: N/A
+Compounds 2 was synthesized in a general synthesis, a mixture of 4- cpmpH3 3 2H2O (0.10 mmol, 0.0259 g) and Gd(CH3COO)3 3 4H2O (0.1 mmol) in 8 mL of H2O, adjusted to a certain pH with 2 M HCl (3.46 for 2), was kept in a Teflon- lined autoclave at 140 _x0001_C for 24 h. After slowly being cooled to room temperature, colorless needlelike crystals were collected. For compound 2: Yield: 22.1 mg (51.3%).

@@ -1,0 +1,5 @@
+FAHPOV
+Chemical_Name: N/A
+Number: N/A
+Synonyms: N, /, A
+Synthesis of [Zn4O(edb)3(H2O)2]$6DMF: Zn(NO3)2$6H2O (0.160 g, 0.54 mmol) and H2edb (0.049 g, 0.16 mmol) were placed in a pressure tube with DMF (10 cm3). The reaction mixture was heated to 80 °C in an oil bath until the solids had dissolved, then stirred for 10 min. The reaction mixture was then transferred to a programmable oven where it was heated at 80 °C for 5 days, before cooling slowly to room temperature. The resultant cream crystals of 1 were separated by filtration. Yield 0.050 g (61%).

@@ -1,0 +1,7 @@
+VAWYEZ
+Chemical_Name: catena-((μ2-bis(4-(2-Pyridylmethyleneamino)phenyl) ether)-silver(i) perchlorate dichloromethane solvate)
+Number: 828803
+Synonyms: N/A
+Silver perchlorate (11.0 mg, 0.05 mmol) in acetonitrile (1 mL) was added to L2 (20.0 mg, 0.05 mmol) in dichloromethane (1 mL). Yellow needles of the complexes were obtained by slow diffusion of diethyl ether into the resulting solution in the dark over 2–3 days. The crystals were collected, washed with ether, and dried under vacuum. Yield, 27 mg (87%)
+Abbreviation: L2
+Full Name: bis[4-(2-pyridylmethyleneamino)phenyl] ether

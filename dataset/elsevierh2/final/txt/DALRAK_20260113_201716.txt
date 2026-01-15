@@ -1,0 +1,5 @@
+DALRAK
+Chemical_Name: catena-[(μ14-1,2-Ethylenediphosphonato)-tetra-silver(i)]
+Number: 246696
+Synonyms: N/A
+Preparation of [Ag4(O3PCH2CH2PO3)] (1) A mixture of AgNO3 (0.1708g, 1.005mmol), H2O3PCH2CH2PO3H2 (0.1005g, 0.5287mmol), NaF (0.0820g, 1.95mmol), H2O (5.0mL) and ethanol (5.0mL) was sealed in 25ml Teflon-lined stainless steel vessels and heated at 120°C for 72h. The role of NaF is increasing pH of reaction through forming HF. After the mixture slowly cooling to ambient temperature, dark yellow needle-like crystals were obtained. The pattern of powder XRD is agreement with that of simulated from single crystal X-ray data, which indicates a homogeneous phase. Yield 0.1091g (70% based on AgNO3).

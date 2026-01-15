@@ -1,0 +1,5 @@
+FUFREE
+Chemical_Name: catena-((μ3-2-(Pyridin-4-yl)-1H-imidazole-4,5-dicarboxylato-N,N',O,O',O'')-aqua-iron(ii) dihydrate)
+Number: 663363
+Synonyms: N/A
+Synthesis of {[Fe(HPIDC)(H2O)]·2H2O}n (1). A mixture of Fe(NO3)3·9H2O (0.081 g, 0.2 mmol), 2-(pyridin-4-yl)-1H-imidazole-4,5-dicarboxylic acid (0.070 g, 0.3 mmol), NaOH (0.024 g, 0.6 mmol) and H2O (15 mL) was sealed into a Teﬂon-lined stainless autoclave and heated at 160 °C for 4 days and then cooled to room temperature gradually. Red block crystals were obtained in 48% yield (based on Fe).

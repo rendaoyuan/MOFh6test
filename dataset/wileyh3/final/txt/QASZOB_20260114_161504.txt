@@ -1,0 +1,5 @@
+QASZOB
+Chemical_Name: catena-(bis(μ2-bromido)-(μ2-2,2',2'',2'''-benzene-1,2,4,5-tetrayltetrakis(1,1,3,3-tetramethylguanidine))-di-silver acetonitrile solvate)
+Number: 844514
+Synonyms: N/A
+Compound [1(AgBr)2]n: Compound 1 (500 mg, 0.942 mmol) was dissolved in CH3CN (10 mL). Subsequently, AgBr (354 mg, 1.884 mmol) was added, and the reaction mixture was heated at 90 °C to reflux for a period of 4 h. Then half of the solvent was removed under vacuum from the reaction mixture. The reaction mixture was filtered and washed with a small portion of CH3CN. The pale yellow product was dried under vacuum to yield 779 mg (0.860 mmol, 91%) [1(AgBr)2]n.

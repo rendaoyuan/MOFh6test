@@ -1,0 +1,5 @@
+WAVRAO
+Chemical_Name: catena-(tetrakis(μ-benzene-1,3,5-triphenylcarboxylato)-tris(μ3-hydroxo)-tris(N,N-dimethylacetamide)-tri-indium-tri-manganese N,N-dimethylacetamide solvate)
+Number: 850065
+Synonyms: CPM-21-Mn
+Synthesis of CPM-21-Mn: A mixture of In(NO3)3·5H2O (0.027 g), 1,3,5-tri(4-carboxyphenyl)benzene (0.045 g), Mn(NO3)3·6H2O (0.048 g), H2O (0.500 g) and DMA (2.500 g) was stirred in a 20 ml vial for 1 hour. And then the sample was heated at 100 oC for 5 days. After cooling to room-temperature, red crystals were obtained.

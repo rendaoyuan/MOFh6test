@@ -1,0 +1,11 @@
+RULGEM
+Chemical_Name: catena-[(μ-5-(benzylamino)isophthalato)-bis(N,N-dimethylformamide)-cadmium]
+Number: 1062891
+Synonyms: N/A
+Synthesis of [Cd(L)(DMF)] n (3) A mixture containing the ligand H2L (0.03g, 0.11mmol) and Cd(OAc)2·2H2O (0.05g, 0.19mmol) in 3mL of DMF and 1mL of H2O was sealed in a Teflon lined steel autoclave, heated under autogenous pressure to 80°C for two days and then allowed to cool to room temperature at a rate of 1°C per minute. Block-shaped colorless crystals of 3 were collected in ∼65% yield. The crystals were washed with water, followed by acetone and air-dried.
+Abbreviation: H2L
+Full Name: 5-(benzylamino)isophthalic acid
+Abbreviation: H2L
+Full Name: 5-phenylamino-isophthalic acid
+Abbreviation: L
+Full Name: 5-(benzylamino)isophthalic acid

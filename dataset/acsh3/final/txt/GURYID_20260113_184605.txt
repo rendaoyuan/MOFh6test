@@ -1,0 +1,5 @@
+GURYID
+Chemical_Name: N/A
+Number: N/A
+Synonyms: N, /, A
+Synthesis of [Cu(L)(ClO4)] • DMF • H2O, 3. Copper(II) perchlorate hexahydrate (0.0272 g, 0.0735 mmol) and L (0.0177 g, 0.0735 mmol) were added to separate 4 mL scintillation vials and dissolved in 1 mL of water and 2 mL of DMF, respectively. The vials were heated to 85 °C for 30 min in an aluminum heating block, followed by mixing of the solutions and additional heating. After heating for 24 h, colorless needles formed and were isolated and washed with water and S2 acetone to yield the pure product (12.5 mg, 34.4 % yield). 

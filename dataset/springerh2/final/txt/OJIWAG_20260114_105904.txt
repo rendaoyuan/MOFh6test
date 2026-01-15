@@ -1,0 +1,5 @@
+OJIWAG
+Chemical_Name: N/A
+Number: N/A
+Synonyms: N/A
+Preparation of {[Zn2(bdc)2(dpNDI)]·4(DMF)}n (1a). A mixture containing Zn(NO3)2•6H2O (149 mg, 0.50 mmol), H2bdc (83 mg, 0.50 mmol) and dpNDI (210 mg, 0.50 mmol) was suspended in DMF (50 ml) and heated to 95 °C for a period of 3 days. The slightly yellow crystals of 1a were then collected. Preparation of dried sample [Zn2(bdc)2(dpNDI)]n (1). The crystals of 1a were dried in a vacuum oven at 120 °C for 1 day, resulting in a dried framework, 1. Preparation of 1VOC. Dried crystals of 1 were immersed in each VOC liquid for 1 week, resulting in the formation of 1VOC.

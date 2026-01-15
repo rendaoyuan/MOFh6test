@@ -1,0 +1,5 @@
+FUFRII
+Chemical_Name: catena-((μ4-2-(Pyridin-4-yl)-1H-imidazole-4,5-dicarboxylato-N,N',O,O,O'')-aqua-cadmium(ii))
+Number: 668494
+Synonyms: N/A
+Synthesis of [Cd(HPIDC)(H2O)]n (2). A mixture of Cd(NO3)2·4H2O (0.061 g, 0.2 mmol), 2-(pyridin-4-yl)-1H-imidazole-4,5-dicarboxylic acid (0.046 g, 0.2 mmol), NaOH (0.016 g, 0.4 mmol) and H2O (15 mL) was sealed into a Teﬂon-lined stainless autoclave and heated at 160 °C for 4 days and then cooled to room temperature gradually. Colorless block crystals were obtained in 57% yield (based on Cd).

@@ -1,0 +1,5 @@
+TAPHID
+Chemical_Name: N/A
+Number: N/A
+Synonyms: N, /, A
+Preparation of {[Zn(NO2ip)(Hbpmp)][ZnCl(H2O)(NO2ip)]}n (1) Zinc chloride dihydrate (50 mg, 0.367 mmol), bpmp (99 mg, 0.369 mmol) and 5-nitroisophthalic acid (78 mg, 0.369 mmol) were placed into 10 mL distilled H2O in a 23 mL Teﬂon-lined Parr acid digestion bomb. The bomb was sealed and heated in an oven at 120 _x0004_C for 72 h, whereupon it was cooled slowly to 25 _x0004_C. Colorless blocks of 1 (91 mg, 61% yield based on Zn) were isolated after washing with distilled water and acetone, and drying in air.

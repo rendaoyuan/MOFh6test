@@ -1,0 +1,9 @@
+FAYQIH
+Chemical_Name: catena-[(μ4-tetrakis((4-(2-Carboxylatoethenyl)phenoxy)methyl)methane)-hexakis(μ3-benzotriazolyl)-penta-zinc(ii) unknown solvate]
+Number: 854819
+Synonyms: DMOF-9
+Synthesis of DMOF-8 [Zn15ACHTUNGTRENUNG(bme-btz)18(L3)3 ACHTUNGTRENUNG(H2O)2]: A solid mixture of H4L3 (61.6 mg, 0.10 mmol) and TMBB-2 (130.2 mg, 0.10 mmol) was dissolved in N,N-diethylformamide (DEF) (5 mL) in a 20 mL Teflon-lined stainless steel container. The clear reaction solution was heated in an isotherm oven at 858C for 72 h, resulting in colorless block crystals were isolated by washing with DMF and were immersed in dichloromethane for 24 h. After the removal of dichloromethane by decanting, the sample was dried under a dynamic vacuum at room temperature overnight. Yield: 142.4 mg, 69% based on 1 mol of H4L3.
+Abbreviation: H4L3
+Full Name: 6,6'-(2,2-bis((6-carboxynaphthalen-2-yloxy)methyl)propane-1,3-diyl)bis(oxy)di-2-naphthoic acid
+Abbreviation: L3
+Full Name: 6,6'-(2,2-bis((6-carboxynaphthalen-2-yloxy)methyl)propane-1,3-diyl)bis(oxy)di-2-naphthoic acid

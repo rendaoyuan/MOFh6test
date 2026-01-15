@@ -1,0 +1,5 @@
+TUBYOF
+Chemical_Name: catena-(bis(μ3-Pyridine-2,5-dicarboxylato)-bis(μ2-pyridine-2,5-dicarboxylato)-hexaaqua-copper(ii)-di-terbium(iii) dihydrate)
+Number: 709786
+Synonyms: N/A
+Synthesis of {[Tb2Cu(pydc)4(H2O)3]_x0001_H2O}n (1) A solution of Tb(NO3)3_x0001_6H2O (0.01 mmol) and Cu(OAc)2 (0.0190 g, 0.010 mmol) was added to a stirred solution of pydc (0.0167 g, 0.01 mmol) in water (12 mL). The pH of the mixture was adjusted to 5 with 0.1 mL ethylenediamine and 0.1 mL HCl (36–38%). After stirring for 1 h, the mixture was sealed in a bomb and heated at 160 _x0002_C for 3 days, then cooled at 10 _x0002_C/3 h to 100 _x0002_C, followed by slow cooling to room temperature. After filtration, the product was washed with distilled water and then dried at room temperature. Dark blue block crystals suitable for X-ray diffraction analysis were obtained in ca. 51% yield based on Tb(III).

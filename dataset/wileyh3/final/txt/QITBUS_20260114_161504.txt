@@ -1,0 +1,5 @@
+QITBUS
+Chemical_Name: catena-((μ3-Sulfato)-(μ2-p-xylylenediamine)-cadmium)
+Number: 900688
+Synonyms: N/A
+Synthesis of (PXDA)CdSO4 (4): The synthesis was performed using CdSO4·8H2O (0.01 mol) and p-xylylenediamine (PXDA) (0.0125 mol). Cd sulfate hydrate and p-xylylenediamine were ground, mixed, and placed in a 63-mL Teflon-lined stainless steel autoclave. The mixture was heated at 160 °C for 2 d and cooled naturally to room temperature. The product 4 was washed with a mixture of 2-propanol and water (2:1) and finally dried at room temperature.

@@ -1,0 +1,5 @@
+NATRAD
+Chemical_Name: catena-((μ6-2,5-dicarboxybenzene-1,4-dicarboxylato)-(μ6-benzene-1,2,4,5-tetracarboxylato)-diaqua-di-gadolinium(iii))
+Number: 829615
+Synonyms: N/A
+No synthesis method found for compound 3

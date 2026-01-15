@@ -1,0 +1,9 @@
+FEVDER
+Chemical_Name: catena-((μ3-3,5-bis(4-Pyridyl)benzoato-N,N',O,O')-(μ2-3,5-bis(4-pyridyl)benzoato-N,O)-cobalt tetrahydrate)
+Number: 903259
+Synonyms: N/A
+Synthesis of {[Co(L)2] ·4H2O}n (2) A mixture of Co(NO3)2·6H2O (29.1mg, 0.1mmol), HL (55.3mg, 0.2mmol) in 10mL H2O was placed in a Teflon-lined stainless steel vessel, and the pH value of the solution was adjusted to 6.0 by using 1M KOH solution, then MeOH (5mL) was added. The vessel was sealed and heated at 140°C for 3days. After cooling to the room temperature, block light-blue crystals of 2 were collected by filtration and washed by water for several times with a yield of 52%.
+Abbreviation: HL
+Full Name: 3,5-di(pyridine-4-yl)benzoic acid
+Abbreviation: L
+Full Name: ligand

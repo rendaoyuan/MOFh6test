@@ -1,0 +1,5 @@
+JUJMOS
+Chemical_Name: N/A
+Number: N/A
+Synonyms: N/A
+Synthesis of [Zn4O(CPMA)3]·6DMF (1) H2CPMA (0.040 g, 1.5 × 10–4 mol) was dissolved in DMF (2 mL) and added to the DMF solution (3 mL) of Zn(NO3)2•6H2O (0.051 g, 1.7 × 10-4 mol). The mixture was placed in a Teflon vessel within the autoclave and heated at 110 ºC for 24 h. The solution was cooled to room temperature, which resulted in deep orange block-like crystals. The crystals were filtered and washed briefly with DMF. Yield: 0.039 g (51%).

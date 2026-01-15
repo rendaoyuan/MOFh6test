@@ -1,0 +1,5 @@
+DAVKAO
+Chemical_Name: catena-((μ2-1,1'-(1,3-Phenylenebis(methylene))bis(1H-imidazole))-(μ2-sulfato)-zinc methanol solvate)
+Number: 710957
+Synonyms: N/A
+Synthesis of Complex 1 A buffer layer of a solution (5 mL) of methanol and water (1:1) was carefully layered over an aqueous solution (3 mL) of ZnSO4·7H2O (57.5 mg, 0.2 mmol). Then a solution of mbix (47.6 mg, 0.2 mmol) in methanol (5 mL) was layered over the buffer layer. Colorless block crystals were obtained after 1 week. Yield: 47% (based on mbix).

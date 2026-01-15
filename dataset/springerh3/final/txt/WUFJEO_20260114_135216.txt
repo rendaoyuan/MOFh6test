@@ -1,0 +1,5 @@
+WUFJEO
+Chemical_Name: catena-[(μ6-4-(Pyridin-3-yl)isophthalato)-aqua-barium]
+Number: 1025412
+Synonyms: N/A
+No synthesis method found for compound 2

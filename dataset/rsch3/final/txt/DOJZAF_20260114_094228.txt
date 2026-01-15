@@ -1,0 +1,5 @@
+DOJZAF
+Chemical_Name: catena-(tris(μ2-1,1'-(2,5-Dimethyl-1,4-phenylene)bis(1H-imidazole))-bis(hydrogen 3,5-bis(4-carboxylatophenoxy)benzoate)-tetra-aqua-di-nickel)
+Number: 986463
+Synonyms: N/A
+Synthesis of [Ni(HBCP)(1,4-bidb)1.5(H2O)2]n (6). A mixture of H3BCP (0.20 mmol, 0.079 g), 1,4-bidb (0.20 mmol, 0.048 g), NiSO4·6H2O (0.40 mmol, 0.105 g), NaOH (0.30 mmol, 0.012 g), and 12 mL H2O, and 2 mL DMF was placed in a Teflon-lined stainless steel vessel, heated to 170 °C for 3 days (after the reaction, pH = 6.6), followed by slow cooling (a descent rate of 10 °C h−1) to room temperature. Green block crystals of 6 were obtained. Yield of 56% (based on Ni).

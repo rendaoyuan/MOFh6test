@@ -1,0 +1,5 @@
+GICCOM
+Chemical_Name: catena-(bis(μ2-2,3,5,6-tetraiodoterephthalato)-octakis(methanol)-di-manganese(ii) N,N-dimethylformamide solvate)
+Number: 879574
+Synonyms: N/A
+Preparation of {[Mn(BDC-I4)(MeOH)4](DMF)}n (5) In a 30-mL vial, a mixture of Mn(OAc)2_x0002_4H2O (24.5 mg, 0.1 mmol) and H2BDC-I4 (67.0 mg, 0.1 mmol) was dis- solved in DMF (6 mL) and then diluted with methanol (18 mL). After stirring for 20 min, the reaction solution was ﬁltered and left to stand at room temperature. Color- less block crystals of 5 suitable for X-ray diffraction were obtained by slow evaporation of the solvents after 5 days in ca. 52 % yield (48.0 mg, based on H2BDC-I4).

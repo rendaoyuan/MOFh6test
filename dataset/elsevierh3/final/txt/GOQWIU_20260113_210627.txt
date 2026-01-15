@@ -1,0 +1,5 @@
+GOQWIU
+Chemical_Name: catena-[(μ-benzene-1,2,4,5-tetracarboxylato)-(μ-2-(3-(pyridin-3-yl)-1H-1,2,4-triazol-5-yl)-6-(5-(pyridin-3-yl)-1H-1,2,4-triazol-3-yl)pyridine)-di-cadmium monohydrate]
+Number: 993975
+Synonyms: N/A
+No synthesis method found for compound 3

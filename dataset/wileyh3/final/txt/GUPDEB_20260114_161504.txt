@@ -1,0 +1,5 @@
+GUPDEB
+Chemical_Name: catena-[bis(μ2-2-Nitroimidazolato)-cadmium hydrate]
+Number: 743559
+Synonyms: N/A
+CdIF-9 (rho): A mixture of Cd(NO3)2⋅4H2O (0.192g, 0.625 mmol), Hnim (0.1425 g, 1.25 mmol) and DMA (15 mL) was placed into a 20 mL Teflon-lined autoclave. Then, the autoclave was sealed and heated at 100 ℃ for 12 hours. After being cooled to ambient room temperature, the autoclave was opened and colorless crystals of CdIF-9 were separated by filtration, washed with methanol (10 mL ×3) and dried in air.

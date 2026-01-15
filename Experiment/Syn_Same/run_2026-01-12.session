@@ -1,0 +1,304 @@
+Script started on Mon Jan 12 10:21:18 2026
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+[?1034hbash-3.2$ python main.py 
+
+🌟 Initializing MOF Analysis System...
+
+2026-01-12 10:21:29,139 - INFO - DataFrame prepared with 54808 rows
+💎 Welcome to MOF Analysis System!
+
+📋 Available Commands:
+📄 'How to synthesize <code/name>' - Obtain the synthesized text
+📄 'process pdf <path>' - Process a PDF document
+🔬 'workflow <path>' - Run analysis workflow on processed PDF
+💾 'show saved' - Show saved documents
+📥 'download cif <code>' - Download CIF file for a CCDC code
+🔮 'visualize <code>' - Visualize crystal structure for a CCDC code
+⏹️  'q!' - Exit the system
+
+Query> How to synthesize ABUBUW
+
+🔍 Found compound: ABUBUW
+📝 DOI: 10.1021/ic200006m
+📥 Starting download process...
+2026-01-12 10:22:06,602 - INFO - Executing ./refer/ACS_crawler.py for ACS
+Download Start
+ABUBUW File downloaded: ./ulanggraph/input/ic200006m.pdf
+ABUBUW Renamed to: ./ulanggraph/input/ABUBUW_manuscript_temp.pdf
+ABUBUW Found 2 supplementary anchors
+ABUBUW Found PDF link: https://pubs.acs.org/doi/suppl/10.1021/ic200006m/suppl_file/ic200006m_si_001.pdf
+ABUBUW 该补充材料文件未在本地找到: ic200006m_si_001.pdf
+ABUBUW 合并 PDF 完成 -> ./ulanggraph/input/ABUBUW.pdf
+ABUBUW PDF -> TXT 转换完成: ./ulanggraph/input/ABUBUW.txt
+所有操作完成，仅保留同名 .txt 文件，其余 PDF 已删除。
+
+
+✅ Synthesis information retrieval initiated
+💡 Please use 'workflow ABUBUW' to analyze the downloaded content
+
+Query> workflow ABUBUW
+
+🔧 Debug information:
+Input directory: ./ulanggraph/input
+Output directory: ./ulanggraph/output
+System file: ./extrfinetune/finetunetable/system198.txt
+CCDC data file: ./datareading/ccdcdata.json
+
+📄 File checks:
+Checking input file exists: True
+First bytes of file: b'Manuscript Published: April 25, 2011 r 2011 Americ'
+Checking system file exists: True
+Checking CCDC file exists: True
+
+🚀 Starting workflow processing...
+
+🚀 Starting MOF workflow...
+
+🔄 Processing synthesis data...
+
+Processing files:   0%|                                 | 0/1 [00:00<?, ?file/s]2026-01-12 10:23:22,748 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+Processing files: 100%|█████████████████████████| 1/1 [00:24<00:00, 24.24s/file]
+Processing files: 100%|█████████████████████████| 1/1 [00:24<00:00, 24.24s/file]
+预测结果已保存到 'ulanggraph/output/synthesis/testpredictions_shot198_20260112_102258.xlsx'
+✅ Synthesis processing complete. Output saved to: ulanggraph/output/synthesis/testpredictions_shot198_20260112_102258.xlsx
+
+🔄 Extracting tables...
+
+Processing files:   0%|                                 | 0/1 [00:00<?, ?file/s]
+Processing ABUBUW.txt:   0%|                            | 0/1 [00:00<?, ?file/s]
+
+Calling for ABUBUW.txt:   0%|                           | 0/1 [00:00<?, ?call/s][A2026-01-12 10:23:34,605 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+
+Calling for ABUBUW.txt: 100%|███████████████████| 1/1 [00:11<00:00, 11.81s/call][A
+
+                                                                                [A
+Processing ABUBUW.txt: 100%|████████████████████| 1/1 [00:11<00:00, 11.81s/file]
+Processing ABUBUW.txt: 100%|████████████████████| 1/1 [00:11<00:00, 11.81s/file]
+结果已保存到文件: ulanggraph/output/tables/tables_20260112_102258.json
+✅ Table extraction complete. Output saved to: ulanggraph/output/tables/tables_20260112_102258.json
+
+🔄 Comparing data...
+
+Processing entries:   0%|                              | 0/1 [00:00<?, ?entry/s]2026-01-12 10:23:37,492 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+Processing entries: 100%|██████████████████████| 1/1 [00:02<00:00,  2.33s/entry]
+Processing entries: 100%|██████████████████████| 1/1 [00:02<00:00,  2.33s/entry]
+✅ 数据处理完成，结果已保存到 ulanggraph/output/comparison/comparison_20260112_102258.json
+✅ Data comparison complete. Output saved to: ulanggraph/output/comparison/comparison_20260112_102258.json
+
+🔄 Processing abbreviations...
+
+Processing files:   0%|                                 | 0/1 [00:00<?, ?file/s]
+Processing files: 100%|████████████████████████| 1/1 [00:00<00:00, 591.08file/s]
+❓ No results to save.
+⚠️ No valid abbreviations were extracted
+
+🔄 Generating final output...
+2026-01-12 10:23:40,476 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+✅ Final output generated and saved to: ulanggraph/output/final/final_output_20260112_102258.txt
+
+🔄 Post-processing final output...
+📁 Created TXT output directory: ulanggraph/output/final/txt
+💾 Processed output for ABUBUW saved to: ulanggraph/output/final/txt/ABUBUW_20260112_102258.txt
+💾 Processed output for No abbreviations found in synthesis text saved to: ulanggraph/output/final/txt/No abbreviations found in synthesis text_20260112_102258.txt
+📁 Generated 2 individual output files in ulanggraph/output/final/txt
+📋 Summary saved to: ulanggraph/output/final/processing_summary_20260112_102258.txt
+
+🔄 Converting outputs to structured Markdown format...
+📝 Processing files from: ulanggraph/output/final/txt
+📂 Found 2 files to process
+
+Processing files:   0%|                                   | 0/2 [00:00<?, ?it/s]2026-01-12 10:23:45,377 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+Processing files:  50%|█████████████▌             | 1/2 [00:04<00:04,  4.87s/it]
+Processing files: 100%|███████████████████████████| 2/2 [00:04<00:00,  2.43s/it]
+Found 1 entries in total.
+Successfully processed 1 entries.
+Results saved to: ulanggraph/output/final/structure/structure_output_20260112_102258.md
+✅ Structure processing complete. Output saved to: ulanggraph/output/final/structure/structure_output_20260112_102258.md
+
+✨ Workflow completed successfully!
+📄 Final output saved to: ulanggraph/output/final/final_output_20260112_102258.txt
+
+📄 Analysis Results:
+================================================================================
+ABUBUW
+Chemical_Name: catena-(bis(μ2-Phenyl-1,2-bis(hydrogen phosphonato))-uranium sesquihydrate)
+Number: 850996
+Synonyms: N/A
+UO2(NO3)2 6H2O(0.1496g, 0.2980 mmol) and NH4NO3 (0.0262 g, 0.3275 mmol) were added to an autoclave along with PhP2(0.1426 g, 0.5992 mmol). A total of 2 mL of water was then added, and the autoclave was sealed. After heating for 3 days at 220 °C, the reaction mixture was cooled to room temperature by turning off the furnace. The products are pale green acicular crystal of UPhP2 in low yield and some light brown amorphous material.
+================================================================================
+
+
+2. To view structured results after analysis:
+   show structure
+
+
+
+Query> show structure
+
+📊 Structured Analysis Results:
+================================================================================
+# Identifier: ABUBUW
+**ABUBUW**  
+Chemical_Name: catena-(bis(μ2-Phenyl-1,2-bis(hydrogen phosphonato))-uranium sesquihydrate)  
+Number: 850996  
+Synonyms: N/A  
+[UPhP2]  
+|       Metal Source     | Organic Linkers Source       |     Modulator Source   |     Solvent Source     |    Quantity of Metal   | Quantity of Organic Linkers |  Quantity of Modulator |   Quantity of Solvent  |            pH           |  Synthesis Temperature |      Synthesis Time    |    Crystal Morphology  |          Yield         |       Equipment        |
+|------------------------|------------------------------|------------------------|------------------------|------------------------|-----------------------------|------------------------|------------------------|-------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|
+| UO2(NO3)2·6H2O        | PhP2                         | NH4NO3                 | water                  | 0.1496 g, 0.2980 mmol  | 0.1426 g, 0.5992 mmol       | 0.0262 g, 0.3275 mmol  | 2 mL                   | N/A                     | 220 °C                 | 3 days                 | pale green acicular crystals; light brown amorphous material | low yield             | N/A                    |
+================================================================================
+
+
+
+Query> How to synthesize ABUBEG
+
+🔍 Found compound: ABUBEG
+📝 DOI: 10.1021/ic200006m
+📥 Starting download process...
+2026-01-12 10:24:27,731 - INFO - Executing ./refer/ACS_crawler.py for ACS
+Download Start
+ABUBEG File downloaded: ./ulanggraph/input/ic200006m.pdf
+ABUBEG Renamed to: ./ulanggraph/input/ABUBEG_manuscript_temp.pdf
+ABUBEG Found 2 supplementary anchors
+ABUBEG Found PDF link: https://pubs.acs.org/doi/suppl/10.1021/ic200006m/suppl_file/ic200006m_si_001.pdf
+ABUBEG 该补充材料文件未在本地找到: ic200006m_si_001.pdf
+ABUBEG 合并 PDF 完成 -> ./ulanggraph/input/ABUBEG.pdf
+ABUBEG PDF -> TXT 转换完成: ./ulanggraph/input/ABUBEG.txt
+所有操作完成，仅保留同名 .txt 文件，其余 PDF 已删除。
+
+
+✅ Synthesis information retrieval initiated
+💡 Please use 'workflow ABUBEG' to analyze the downloaded content
+
+Query> workflow ABUBEG
+
+🔧 Debug information:
+Input directory: ./ulanggraph/input
+Output directory: ./ulanggraph/output
+System file: ./extrfinetune/finetunetable/system198.txt
+CCDC data file: ./datareading/ccdcdata.json
+
+📄 File checks:
+Checking input file exists: True
+First bytes of file: b'Manuscript Published: April 25, 2011 r 2011 Americ'
+Checking system file exists: True
+Checking CCDC file exists: True
+
+🚀 Starting workflow processing...
+
+🚀 Starting MOF workflow...
+
+🔄 Processing synthesis data...
+
+Processing files:   0%|                                 | 0/1 [00:00<?, ?file/s]2026-01-12 10:25:36,179 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+Processing files: 100%|█████████████████████████| 1/1 [00:23<00:00, 23.62s/file]
+Processing files: 100%|█████████████████████████| 1/1 [00:23<00:00, 23.62s/file]
+预测结果已保存到 'ulanggraph/output/synthesis/testpredictions_shot198_20260112_102512.xlsx'
+✅ Synthesis processing complete. Output saved to: ulanggraph/output/synthesis/testpredictions_shot198_20260112_102512.xlsx
+
+🔄 Extracting tables...
+
+Processing files:   0%|                                 | 0/1 [00:00<?, ?file/s]
+Processing ABUBEG.txt:   0%|                            | 0/1 [00:00<?, ?file/s]
+
+Calling for ABUBEG.txt:   0%|                           | 0/1 [00:00<?, ?call/s][A2026-01-12 10:25:47,427 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+
+Calling for ABUBEG.txt: 100%|███████████████████| 1/1 [00:11<00:00, 11.20s/call][A
+
+                                                                                [A
+Processing ABUBEG.txt: 100%|████████████████████| 1/1 [00:11<00:00, 11.21s/file]
+Processing ABUBEG.txt: 100%|████████████████████| 1/1 [00:11<00:00, 11.21s/file]
+结果已保存到文件: ulanggraph/output/tables/tables_20260112_102512.json
+✅ Table extraction complete. Output saved to: ulanggraph/output/tables/tables_20260112_102512.json
+
+🔄 Comparing data...
+
+Processing entries:   0%|                              | 0/1 [00:00<?, ?entry/s]2026-01-12 10:25:50,307 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+Processing entries: 100%|██████████████████████| 1/1 [00:02<00:00,  2.26s/entry]
+Processing entries: 100%|██████████████████████| 1/1 [00:02<00:00,  2.26s/entry]
+✅ 数据处理完成，结果已保存到 ulanggraph/output/comparison/comparison_20260112_102512.json
+✅ Data comparison complete. Output saved to: ulanggraph/output/comparison/comparison_20260112_102512.json
+
+🔄 Processing abbreviations...
+
+Processing files:   0%|                                 | 0/1 [00:00<?, ?file/s]
+Processing files: 100%|███████████████████████| 1/1 [00:00<00:00, 1457.37file/s]
+❓ No results to save.
+⚠️ No valid abbreviations were extracted
+
+🔄 Generating final output...
+2026-01-12 10:25:54,236 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+✅ Final output generated and saved to: ulanggraph/output/final/final_output_20260112_102512.txt
+
+🔄 Post-processing final output...
+📁 Created TXT output directory: ulanggraph/output/final/txt
+💾 Processed output for ABUBEG saved to: ulanggraph/output/final/txt/ABUBEG_20260112_102512.txt
+💾 Processed output for No abbreviations found in synthesis text saved to: ulanggraph/output/final/txt/No abbreviations found in synthesis text_20260112_102512.txt
+📁 Generated 2 individual output files in ulanggraph/output/final/txt
+📋 Summary saved to: ulanggraph/output/final/processing_summary_20260112_102512.txt
+
+🔄 Converting outputs to structured Markdown format...
+📝 Processing files from: ulanggraph/output/final/txt
+📂 Found 2 files to process
+
+Processing files:   0%|                                   | 0/2 [00:00<?, ?it/s]2026-01-12 10:25:59,114 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+Processing files:  50%|█████████████▌             | 1/2 [00:04<00:04,  4.84s/it]
+Processing files: 100%|███████████████████████████| 2/2 [00:04<00:00,  2.42s/it]
+Found 1 entries in total.
+Successfully processed 1 entries.
+Results saved to: ulanggraph/output/final/structure/structure_output_20260112_102512.md
+✅ Structure processing complete. Output saved to: ulanggraph/output/final/structure/structure_output_20260112_102512.md
+
+✨ Workflow completed successfully!
+📄 Final output saved to: ulanggraph/output/final/final_output_20260112_102512.txt
+
+📄 Analysis Results:
+================================================================================
+ABUBEG
+Chemical_Name: catena-((μ3-Phenyl-1,2-bis(hydrogen phosphonato))-aqua-dioxo-uranium monohydrate)
+Number: 850993
+Synonyms: N/A
+UO2[C6H4(PO3H)2](H2O) 3H2O (UO2PhP2-2). Ce(NO3)336H2O (0.0448 g, 0.1032 mmol), UO2(NO3)236H2O (0.1516 g, 0.3020 mmol), and PhP2 (0.1429 g, 0.6004 mmol) were reacted with 2 mL of distilled water in a 23 mL PTFE autoclave linear. The closed linear was sealed inside a stainless steel autoclave and then heated to 180 _x0001_C for 9 days in a furnace. The furnace was turned off, and the autoclave was allowed to cool to room temperature before opening. The product consisted of pale orange needles of UO2CePhP2 as the major product along with very pale yellow needles of CePhP2 and yellow blocks of UO2PhP2-2.
+================================================================================
+
+
+2. To view structured results after analysis:
+   show structure
+
+
+
+Query> show structure
+
+📊 Structured Analysis Results:
+================================================================================
+# Identifier: ABUBEG
+**ABUBEG**  
+Chemical_Name: catena-((μ3-Phenyl-1,2-bis(hydrogen phosphonato))-aqua-dioxo-uranium monohydrate)  
+Number: 850993  
+Synonyms: N/A  
+UO2PhP2-2  
+|       Metal Source     | Organic Linkers Source |     Modulator Source   |     Solvent Source     |    Quantity of Metal   | Quantity of Organic Linkers |  Quantity of Modulator |   Quantity of Solvent  |            pH           |  Synthesis Temperature |      Synthesis Time    |    Crystal Morphology  |          Yield         |       Equipment        |
+|------------------------|------------------------|------------------------|------------------------|------------------------|-----------------------------|------------------------|------------------------|-------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|
+| UO2(NO3)236H2O        | PhP2                   | N/A                    | distilled water        | 0.1516 g (0.3020 mmol) | 0.1429 g (0.6004 mmol)     | N/A                    |    2 mL                | N/A                     |          180 °C        |         9 days         | pale orange needles; very pale yellow needles; yellow blocks | N/A                    | PTFE and stainless steel autoclave |
+================================================================================
+
+
+
+Query> q!
+
+👋 Thank you for using MOF Analysis System. Goodbye!
+bash-3.2$ exit
+exit
+
+Script done on Mon Jan 12 10:26:25 2026

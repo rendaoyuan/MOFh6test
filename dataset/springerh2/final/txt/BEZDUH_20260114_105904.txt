@@ -1,0 +1,5 @@
+BEZDUH
+Chemical_Name: catena-[decakis(μ2-cyano)-bis(pyrazin-2-amine)-diaqua-di-manganese-hexa-silver pyrazin-2-amine solvate]
+Number: 844687
+Synonyms: N/A
+No synthesis method found for compound 1

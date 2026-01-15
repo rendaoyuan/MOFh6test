@@ -1,0 +1,5 @@
+ZECKID
+Chemical_Name: N/A
+Number: N/A
+Synonyms: N, /, A
+A solution of H2dmcapz (110 mg, 1.0 mmol) in DMF (10 mL) was added to a solution of CuCl2·2H2O (170 mg, 1.0 mmol) in MeOH (10 mL). The mixture was stirred at 90°C for 24 h and a sky blue solid was collected by filtration. The solid was quickly washed with DMF and dried in air. Yield: 66%;

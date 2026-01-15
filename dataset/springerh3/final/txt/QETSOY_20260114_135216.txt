@@ -1,0 +1,5 @@
+QETSOY
+Chemical_Name: catena-((μ6-Benzene-1,2,4,5-tetracarboxylato)-(μ4-2,5-dicarboxybenzene-1,4-dicarboxylato)-diaqua-di-erbium(iii) tetrahydrate)
+Number: 606404
+Synonyms: N/A
+ECPC was prepared solvothermally from a mixture of ErCl3·6H2O, 1,2,4,5- benzentetracarboxylic dianhydride, acetic acid (36%) and H2O in a molar ratio of 1:1:160:900, heated in a Teﬂon-lined stainless steel autoclave at 180 ◦C for 7 days under static conditions and the ﬁlling volume is 75%. After cooling the reaction mixture to room temperature, the pink prism-like crystals were separated and washed by distilled water and ethanol many times. Finally, the products were dried in air at room temperature. The average size of the crystals is about 7.0 mm × 1.0 mm × 1.2 mm, and no other phase was found in the ﬁnal product.

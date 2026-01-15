@@ -1,0 +1,5 @@
+LUYHAP
+Chemical_Name: catena-((μ8-1,4-bis(3,5-Dicarboxylatophenyl)buta-1,3-diyne)-diaqua-di-copper dimethylacetamide solvate tetrahydrate)
+Number: 747535
+Synonyms: PCN-46
+Synthesis of PCN-46. H2ei (50 mg, 2.63 × 10-4 mol) and cupric acetate (125 mg, 6.26 × 10-4 mol) were dissolved in 20 mL of dimethylacetamide (DMA) in a vial, to which 10 drops of HBF4 were added. The vial was tightly capped and placed in a 85 °C oven for 72 h to yield 102 mg of green block crystals (yield: 77% based on H2ei).

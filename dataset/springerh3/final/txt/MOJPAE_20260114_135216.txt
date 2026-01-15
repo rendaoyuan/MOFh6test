@@ -1,0 +1,5 @@
+MOJPAE
+Chemical_Name: catena-[(μ5-Pyridine-2,5-dicarboxylato)-(μ2-aqua)-barium]
+Number: 936686
+Synonyms: N/A
+Synthesis of [Ba(2,5-PDC)H2O]n (2) A mixture of BaCl2·2H2O (0.1370 g, 0.50 mmol), 2,5-PDAH2 (0.0835 g, 0.50 mmol) 2 mL of N,N-dimethylformamide, and 8 mL of H2O was stirred for 30 min at room temperature, and then the mixture was sealed in a 25 mL Teﬂon-lined autoclave, which was heated at 110 _x0003_C for 4 days. After being slowly cooled to room temperature, colorless block-like crystal of 2 were collected by ﬁltration and washed by water for several times with yield of 35 %.

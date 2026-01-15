@@ -1,0 +1,5 @@
+NAGQET
+Chemical_Name: catena-[hexakis(μ2-3-(4-pyridyl)-5-(2-pyridyl)-1,2,4-triazolyl)-tri-cobalt dimethylformamide solvate sesquihydrate]
+Number: 749158
+Synonyms: N/A
+Synthesis of {[Co3(dpt24)6] 3 4DMF 3 1.5H2O}n (1). A mixture of CoCl2 3 6H2O (4.7 mg, 0.020 mmol), Hdpt24 (8.9 mg, 0.040 mmol), DMF (5.4 mL), and water (0.6 mL) was sealed at 130 _x0001_C for 24 h and then cooled at a rate of 2 _x0001_C/h to afford 1 as yellow block crystals (80%).

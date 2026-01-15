@@ -1,0 +1,5 @@
+SAMKOI
+Chemical_Name: catena-[(μ3-2-Nitro-1,4-benzenedicarboxylato)-bis(dimethylformamide)-cadmium dimethylformamide solvate]
+Number: 840366
+Synonyms: N/A
+Synthesis: Cd(NO3)2·6H2O (0.069 g, 0.2 mmol), H2nbdc (0.042 g, 0.2 mmol) and pyz (0.16 g, 0.2 mmol) were mixed in DMF (10 mL) with stirring for 30 min at air. After filtration, the filtrate was kept in 15 mL beaker sealed with parafilm at room temperature. A few block colorless crystals of [Cd2(nbdc)2(DMF)4]·2DMF (1) were isolated after a few days, and then [Cd2(nbdc)2(pyz)(DMF)2]·3DMF (2) were isolated at two weeks in the mother liquid. The block colorless crystals of [Cd2(nbdc)2(pyz)2]·4DMF (3) were obtained after six weeks in ~40% yield based on Cd. Alternative synthesis of 3: A solution of 0.5 M H2nbdc and pyz in DMF was layered on a 0.5 M solution of Cd(NO3)2·6H2O in DMF. After filtration, the filtrate was kept at room temperature. Block colorless crystals were obtained after a few days in ~30% yield based on Cd.

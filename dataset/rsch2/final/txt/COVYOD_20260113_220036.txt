@@ -1,0 +1,5 @@
+COVYOD
+Chemical_Name: catena-(bis(μ-phthalato)-bis(μ-1,2,3-triazolato)-tetrakis(μ-hydroxo)-penta-copper(ii) dihydrate)
+Number: 1013120
+Synonyms: N/A
+{[Cu5(μ-OH)2(μ3-OH)2(ta)2(pa)2]·2H2O}n (4). A mixture containing Hta (14.0 mg, 0.2 mmol), H2pa (16.6 mg, 0.1 mmol) and Cu(OAc)2·H2O (40.0 mg, 0.2 mmol) was dissolved in doubly deionized water (10.0 mL), and the initial pH value of the mixture was adjusted to ca. 6.0 by triethylamine. The resulting mixture was then transferred into a parr Teflon-lined stainless steel vessel (23.0 mL) and heated at 160 °C for 96 h under autogenous pressure. After the mixture was cooled to room temperature at a rate of 1.8 °C h−1, blue block-shaped crystals suitable for X-ray analysis were obtained directly, washed with water and dried in air (yield: 40.0% based on CuII salt).

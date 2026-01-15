@@ -1,0 +1,5 @@
+BURBAS
+Chemical_Name: catena-[(μ4-trans-1,2-bis(1,2,3,4-Tetrazol-5-yl)ethene-N2,N2',N3,N3')-(1,10-phenanthroline-N,N')-zinc]
+Number: 723833
+Synonyms: N/A
+No synthesis method found for compound 3

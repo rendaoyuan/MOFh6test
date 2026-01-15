@@ -1,0 +1,5 @@
+IDIXAU
+Chemical_Name: catena-(bis(μ4-Naphthalene-2,6-dicarboxylato)-bis(μ3-hydroxo)-tri-zinc tetrakis(N,N-diethylformamide) clathrate dihydrate)
+Number: 170966
+Synonyms: N/A
+A solid mixture of Zn(NO3)2 ¥ 6H2O (24.6 mg, 0.083 mmol) and H2ndc (8.9 mg, 0.041 mmol) was dissolved in a vial containing DEF (12 mL), 30% H2O2 (0.40 mL), and MeNH2 (0.20 mL, 51.4 m_x0001_ in DMF). The mixture was allowed to stand in a capped vial for seven days at room temperature. Colorless crystals of MOF-69B were collected and air-dried (18 mg, 80.4% yield).

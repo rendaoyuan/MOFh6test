@@ -1,0 +1,7 @@
+VUKHOZ
+Chemical_Name: catena-[(μ6-4,4'-(Hexafluoroisopropylidene)bis(benzoato)-O,O,O,O',O'',O''')-(μ4-4,4'-(hexafluoroisopropylidene)bis(benzoic acid)-O,O,O',O')-di-silver(i)]
+Number: 706424
+Synonyms: N/A
+[Ag2(H2L)(L)]n (6). A mixture of H2L (20.2 mg, 0.05 mmol), Ag(OAc) (16.8 mg, 0.10 mmol), and water (10 mL) was sealed in a Teﬂon-lined stainless steel vessel (20 mL), which was heated at 160 _x0002_C for three days and then cooled to room temperature. Colorless needle-like crystals of 6 suitable for X-ray diffraction were obtained by slow evaporation of the solvent after one week. Yield: 72% (17.9 mg, based on H2L).
+Abbreviation: H2L
+Full Name: 4,40-(hexafluoroisopropylidene)bis(benzoic acid)

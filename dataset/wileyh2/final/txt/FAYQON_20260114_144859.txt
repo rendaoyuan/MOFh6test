@@ -1,0 +1,5 @@
+FAYQON
+Chemical_Name: catena-[(μ4-tetrakis((4-(2-Carboxylatoethenyl)phenoxy)methyl)methane)-hexakis(μ3-5-methylbenzotriazolyl)-penta-zinc(ii) unknown solvate]
+Number: 854820
+Synonyms: DMOF-11
+No synthesis information available

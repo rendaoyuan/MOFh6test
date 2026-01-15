@@ -1,0 +1,5 @@
+HOJJEX
+Chemical_Name: catena-[(μ3-2-Hydroxy-5-sulfonatobenzoato)-(μ2-isonicotinamide)-(isonicotinamide)-di-silver methanol solvate monohydrate]
+Number: 1005872
+Synonyms: N/A
+A mixture of AgNO3 (0.17g, 1.0mmol), H3Ssal (0.218g, 1.0mmol) and isonicotinamide (0.24g, 2.0mmol) in the water:methanol mixture (20: 10mL) was stirred at room temperature for a hour and then aqueous NH3 solution (% 25) was dropped into the mixture to get a clear solution. This clear solution was left to evaporate slowly in darkness for about two weeks at room temperature. After one week, colorless crystals were obtained. Yield: 0.92g, 63.24% based on AgNO3.

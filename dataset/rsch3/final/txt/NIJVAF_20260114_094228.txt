@@ -1,0 +1,5 @@
+NIJVAF
+Chemical_Name: catena-(bis(μ2-thiophene-2,5-dicarboxylato)-tris(μ2-1,1'-biphenyl-4,4'-diylbis(1H-imidazole))-di-cadmium N,N-dimethylformamide methanol solvate monohydrate)
+Number: 930846
+Synonyms: N/A
+Synthesis of [Cd(tdc)(bpp)(H2O)·(H2O)2]n (2). A mixture of Cd(NO3)2·6H2O (30.8 mg, 0.10 mmol), H2tdc (17.2 mg, 0.10 mmol) and bpp (19.8 mg, 0.10 mmol), DMF (1 mL) and H2O (1 mL) was placed in a 5 mL glass vial, which was sealed and heated at 110 °C for 2 days. After the mixture was slowly cooled to room temperature, colorless crystals of 2 were collected (yield: 70% based on Cd).

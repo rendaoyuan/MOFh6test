@@ -1,0 +1,66 @@
+======================================================================
+会话开始: 2026-01-14 22:49:01,560
+执行的脚本: main.py
+Python路径: F:\software\Anaconda\envs\c2ml\python.exe
+======================================================================
+
+2026-01-14 22:49:01,560 - INFO - DataFrame prepared with 54808 rows
+
+🌟 Initializing MOF Analysis System...
+
+💎 Welcome to MOF Analysis System!
+
+📋 Available Commands:
+📄 'How to synthesize <code/name>' - Obtain the synthesized text
+📄 'process pdf <path>' - Process a PDF document
+🔬 'workflow <path>' - Run analysis workflow on processed PDF
+💾 'show saved' - Show saved documents
+📥 'download cif <code>' - Download CIF file for a CCDC code
+🔮 'visualize <code>' - Visualize crystal structure for a CCDC code
+Query> Tell me about VUJBEI
+2026-01-14 22:49:13,241 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-14 22:49:13,246 - INFO - Query analysis: {'query_type': 'chat', 'materials': ['VUJBEI'], 'properties': [], 'operation': {'type': None, 'value': None}, 'range': {}, 'uses_context': False, 'reasoning': [], 'page_size': None}
+
+The compound with CCDC code **VUJBEI** is described as:
+
+- **Chemical Name**: catena-((μ12-tris(2-(3,5-Dicarboxylatophenyl)ethynyl)benzene)-triaqua-tri-zinc dimethylformamide solvate pentahydrate)
+- **Synonyms**: PCN-60
+- **CCDC Number**: 745527
+- **Lattice Constants (LCD)**: 18.45826 Å
+- **Lattice Constants (PLD)**: 4.92727 Å
+- **Density**: 0.595044 g/cm³
+- **Accessible Surface Area**: 
+  - 2003.25 m²/cm³
+  - 3366.56 m²/g
+- **Volume Fraction**: 0.77786
+
+If you need more details or additional entries, feel free to ask!
+
+Query> 2026-01-14 22:49:17,392 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+ what information you can give me about catena-(bis(μ5-2,3-dioxidobutanedioato)-(μ3-2,3-dioxidobutanedioato)-(μ2-2,3-dioxidobutanedioato)-bis(μ2-aqua)-penta-aqua-di-barium-tetra-antimony tetrahydrate)
+2026-01-14 22:49:32,238 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-14 22:49:32,240 - INFO - Query analysis: {'query_type': 'chat', 'materials': ['catena-(bis(μ5-2,3-dioxidobutanedioato)-(μ3-2,3-dioxidobutanedioato)-(μ2-2,3-dioxidobutanedioato)-bis(μ2-aqua)-penta-aqua-di-barium-tetra-antimony tetrahydrate'], 'properties': [], 'operation': {'type': None, 'value': None}, 'range': {}, 'uses_context': True, 'reasoning': [], 'page_size': None}
+
+Here is the information available for **catena-(bis(μ5-2,3-dioxidobutanedioato)-(μ3-2,3-dioxidobutanedioato)-(μ2-2,3-dioxidobutanedioato)-bis(μ2-aqua)-penta-aqua-di-barium-tetra-antimony tetrahydrate**:
+
+- **CCDC Code**: SANDAO
+- **CCDC Number**: 787781
+- **Chemical Name**: catena-(bis(μ5-2,3-dioxidobutanedioato)-(μ3-2,3-dioxidobutanedioato)-(μ2-2,3-dioxidobutanedioato)-bis(μ2-aqua)-penta-aqua-di-barium-tetra-antimony tetrahydrate
+- **Density**: 2.68147 g/cm³
+- **LCD (Å)**: 4.81788
+- **PLD (Å)**: 1.86119
+- **Volume Fraction**: 0.31104
+- **Accessible Surface Area**: 0.0 m²/cm³, 0.0 m²/g
+
+If you need more detailed information or additional rows, please let me know!
+
+Query> 2026-01-14 22:49:36,808 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+q!
+
+👋 Thank you for using MOF Analysis System. Goodbye!
+
+
+======================================================================
+会话结束: 2026-01-14 22:49:52,314
+退出代码: 1
+======================================================================

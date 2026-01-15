@@ -1,0 +1,9 @@
+XEGJIE
+Chemical_Name: catena-((μ4-2,2',6,6'-Tetranitrobiphenyl-4,4'-dicarboxylato)-bis(μ3-2,2',6,6'-tetranitrobiphenyl-4,4'-dicarboxylato)-tetrakis(dimethylformamide)-di-gadolinium dimethylformamide solvate trihydrate)
+Number: 843413
+Synonyms: N/A
+Synthesis of {[Gd2(L)3ACHTUNGTRENUNG(dmf)4]·4DMF·3H2O}n (1): A mixture of [Gd- ACHTUNGTRENUNG(NO3)3]·6H2O (0.5 mmol) and H2L (0.5 mmol) in DMF (10 mL) and EtOH (5 mL) was heated at 1008C under autogenous pressure in a Teflon-lined steel bomb for 2 days, followed by slow cooling (58Ch_x0002_1) to RT. Yellowish block-shaped crystals were collected, washed with DMF, and preserved in dry DMF. Yield: 64%;
+Abbreviation: H2L
+Full Name: 2,6,2’,6’-tetranitro-biphenyl-4,4’-dicarboxylic acid
+Abbreviation: L
+Full Name: 2,6,2’,6’-tetranitro-biphenyl-4,4’-dicarboxylic acid

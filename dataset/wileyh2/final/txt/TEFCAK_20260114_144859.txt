@@ -1,0 +1,5 @@
+TEFCAK
+Chemical_Name: catena-((μ4-naphthalene-2,6-dicarboxylato)-bis(μ3-naphthalene-2,6-dicarboxylato)-(μ2-naphthalene-2,6-dicarboxylato)-tetrakis(1H-imidazo[4,5-f][1,10]phenanthroline)-tetra-zinc(ii) hexahydrate)
+Number: 766968
+Synonyms: N/A
+Synthesis of Zn2(HIMP)2(NDC)2·3H2O (8): A mixture of ZnSO4·7H2O (0.05 mmol, 0.014 g), HIMP (0.05 mmol, 0.011 g), H2NDC (0.05 mmol, 0.011g), NaOH (0.15 mmol) and water (8 mL) was sealed in Teflon-lined autoclaves and heated at 150 °C for 3 days, followed by slow cooling to room temperature. The resulting green block-shaped crystals of complex 8 were isolated by mechanical separation from a green amorphous solid and washed with water (yield: ca. 80% based on Zn).

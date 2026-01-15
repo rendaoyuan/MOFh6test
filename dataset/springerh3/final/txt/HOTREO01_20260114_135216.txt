@@ -1,0 +1,5 @@
+HOTREO01
+Chemical_Name: catena-(bis(μ2-adipato)-bis(2,2'-bipyridine)-di-aqua-di-copper(ii) tetrahydrate)
+Number: 615240
+Synonyms: N/A
+To 2 mmol (0.536 g) of CuSO4·6H2O in 10 mL distilled water, 2,2'-bipyridyl (2 mmol, 0.312 g) in 5 mL EtOH was added slowly with constant stirring till deep blue solution was obtained. To this solution, 2 mmol (0.292 g) of adipic acid dissolved in water was added and the pH of this solution was adjusted to 5. This solution was heated on a water bath at 80 °C for 5 h and the hot solution was filtered. The resulting solution kept at room temperature gave two types of crystals with different morphology (Pale blue plates appeared first and dark blue blocks appeared later) after three to five days interval. Both types of crystals were unstable upon exposure to air for longer time and the X-ray data collection was carried out under LN temperature. Both the complexes obtained were characterized by Elemental analysis and IR spectroscopy and TGA.

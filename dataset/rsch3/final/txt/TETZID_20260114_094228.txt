@@ -1,0 +1,5 @@
+TETZID
+Chemical_Name: catena-(bis(μ3-Thiophene-2,5-dicarboxylato)-bis(μ2-N,N'-di(pyridin-4-yl)terephthalamide)-di-cadmium(ii) dihydrate)
+Number: 890924
+Synonyms: N/A
+SYNTHESIS OF CD2(TDC)2(L)2·2H2O (2). A mixture of Cd-(NO3)2·4H2O (0.05 mmol, 0.015 g), H2TDC (0.05 mmol, 0.009 g), L (0.05 mmol, 0.016 g) and water (8 mL) was adjusted to pH = 5.8 by NH3·H2O, and then heated at 120 °C in Teflon-lined autoclaves for 3 days, followed by slow cooling to room temperature. The resulting colorless prismatic crystals were filtered oﬀ (yield: ca. 45% based on Cd).

@@ -1,0 +1,7 @@
+XEGJUQ
+Chemical_Name: catena-((μ4-2,2',6,6'-Tetranitrobiphenyl-4,4'-dicarboxylato)-bis(μ3-2,2',6,6'-tetranitrobiphenyl-4,4'-dicarboxylato)-tetrakis(dimethylformamide)-di-gadolinium hydroxy(phenyl)acetonitrile solvate trihydrate)
+Number: 843415
+Synonyms: N/A
+Synthesis of {[Gd2(L)3ACHTUNGTRENUNG(dmf)2(3-pyridinecarboxaldehyde)2]·3(3-pyridine- carboxaldehyde)·3H2O}n (3): Single crystals of compound 2, upon exposure to trimethylsilyl cyanide vapor for 2 h, afforded compound 3 without a loss in crystallinity.
+Abbreviation: L
+Full Name: 2,6,2’,6’-tetranitro-biphenyl-4,4’-dicarboxylic acid

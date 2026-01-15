@@ -1,0 +1,5 @@
+NAZTOZ
+Chemical_Name: catena-((μ4-3-methylhexanedioato)-hexamethyl-di-tin)
+Number: 839292
+Synonyms: N/A
+Synthesis of Complex {(Me3Sn)2[C5H10(COO)2]}n (3) The reaction was carried out under nitrogen atmosphere by use of standard Schlenk techniques. The 3-methyladipic acid (0.160 g, 1 mmol) was added to the solution of methanol (30 mL) together with sodium ethoxide (0.136 g, 2 mmol), and the mixture was stirred for 0.5 h. After the addition of trimethyltin chloride (0.398 g, 2 mmol), the mixture was stirred at 50 _x0003_C for 12 h and then filtered. The solvent was gradually removed by evaporation under vacuum until a solid product was obtained. The solid was then recrystallized from methanol, and colorless crystals of complex 3 were recovered. Yield: 81%.

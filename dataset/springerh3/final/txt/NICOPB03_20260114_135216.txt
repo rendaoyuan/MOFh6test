@@ -1,0 +1,5 @@
+NICOPB03
+Chemical_Name: N/A
+Number: N/A
+Synonyms: N, /, A
+Synthesis Pb(CH3COO)2_x0002_3H2O (189.6 mg, 0.5 mmol) and Hpyc (123.1 mg, 1 mmol) were dissolved in 10 mL water. Tri- ethyl amine (0.14 mL, 1 mmol) was added to the solution. The transparent solution was poured into a 25 mL Teﬂon lined bomb. The bomb was heated at 140 _x0003_C for 48 h. After cooling the solution to room temperature colorless needle- shaped crystals were isolated by ﬁltering the supernatant liquid and washed with deionized water, ethanol and dried in air. Yield: 60%.

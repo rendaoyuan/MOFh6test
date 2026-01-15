@@ -1,0 +1,5 @@
+PALKOD
+Chemical_Name: catena-((μ2-5-Sulfoisophthalato-O,O',O'')-diaqua-(piperazinium-N')-cadmium(ii))
+Number: 259347
+Synonyms: N/A
+Synthesis: a methanol solution of 5-sulfoisophthalic acid monosodium salt (26.8 mg, 0.1mmol) and piperazine (8.6mg, 0.1mmol) was carefully layered on top of a aqueous solution of Cd(II) nitrate tetrahydrate (30.8mg, 0.1mmol). Colorless crystals of 1 were obtained after 8 days. (yield 59% based on Cd).

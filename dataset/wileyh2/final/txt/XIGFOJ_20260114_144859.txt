@@ -1,0 +1,5 @@
+XIGFOJ
+Chemical_Name: catena-(tris(μ5-4,4'-Biphenyldicarboxylato)-(dimethylformamide-O)-tri-cadmium pentakis(dimethylformamide) octadecahydrate clathrate)
+Number: 622797
+Synonyms: N/A
+JUC-48: A mixture of Cd(NO3)2·4H2O (0.15 g, 0.5 mmol), H2bpdc (0.05 g, 0.25 mmol), and dmf (50.0 mL) was stirred in air for 2 h. Subsequently, triethylamine (0.5 mL) in dmf (15.0 mL) was slowly diffused in at 608C over three days. The resulting colorless rod-shaped crystals of JUC-48 were collected in 80% yield based on cadmium. The complex was insoluble in common organic solvents such as acetone, methanol, ethanol, dichloromethane, acetonitrile, chloroform, and dmf.

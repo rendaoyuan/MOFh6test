@@ -1,0 +1,5 @@
+ZUQHUQ
+Chemical_Name: catena-((μ2-5-Nitroisophthalato)-(μ2-1,1'-(1,2-phenylenebis(methylene))bis(1H-1,2,4-triazole))-copper monohydrate)
+Number: 1031742
+Synonyms: N/A
+Synthesis of {[Cu(o-bbtz)(nip) ]·H2O} n (3) A mixture of Cu(NO3)2·3H2O (0.024g, 0.10mmol), H2nip (0.011g, 0.05mmol), o-bbtz (0.024g, 0.10mmol), H2O (5mL), and DMF (2mL) was stirred for 30min at room temperature, and then added two drops of 1molL−1 HCl aqueous solution and sealed in a 23mL Teflon-lined stainless steel vessel, which was heated at 80°C for 3days and then cooled to room temperature at a rate of 10°Ch−1. Blue block crystals of 3 were filtered, washed with water for several times and air dried. Yield: 45% based on Cu.

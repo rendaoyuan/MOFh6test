@@ -1,0 +1,5 @@
+TATSIS
+Chemical_Name: catena-(tetrakis(μ3-isonicotinato)-di-cobalt N,N-dimethylformamide solvate)
+Number: 835981
+Synonyms: N/A
+Synthesis of [Co(INA)2 •(DMF)] Co-INA-2: 1.5 mL isonicotinic acid (0.20 M) solution in DMF was taken in a 5 mL glass vial. 0.5 mL Co(NO3)2• 6H2O solution (0.20 M) in DMF was added to this solution. The vial was capped and heated to 85 °C for 72 h. The mother liquor was decanted and plate pink crystals were filtered off, washed with DMF and dried in air (10 min). (Yield: 17 mg, 58% based on Co).

@@ -1,0 +1,5 @@
+EXEQII
+Chemical_Name: catena-[(μ8-Biphenyl-3,3',5,5'-tetracarboxylato)-bis(μ2-hydroxo)-di-scandium(iii) hydrate]
+Number: 824685
+Synonyms: NOTT-400
+Synthesis of {[Sc2(BPTC)(OH)2]·(H2O)1.25}∞ NOTT-400 Scandium triflate (0.030g, 0.061 mmol) and H4BPTC (0.010 g, 0.030 mmol) were mixed in THF (4.0 ml), DMF (3.0 ml), water (1.0 ml) and HCl (36.5 %, 2 drops). The resultant slurry mixture was stirred until complete dissolution occurred. The solution was then placed in a pressure tube and heated in an oil bath to 75 oC for 72 h. The tube was cooled down to room temperature at a rate of 0.1 oC/min, and the colourless crystalline product was separated by filtration, washed with DMF (5.00 ml) and dried in air. Yield: 67.6 % (based on ligand).

@@ -1,0 +1,5 @@
+YAKKEC
+Chemical_Name: catena-(bis(μ2-1,2-bis(Benzimidazolyl)ethane)-bis(μ2-iodo)-di-copper acetonitrile solvate)
+Number: 759606
+Synonyms: N/A
+[{Cu2(μ-I)2(ebbm)2}·2MeCN]n (3). A mixture of CuI (19 mg, 0.1 mmol) and ebbm (26 mg, 0.1 mmol) was dissolved in n-hexane (0.1 mL) and MeCN (2 mL) was dissolved in DMF (0.5 mL) to give a colorless solution, which was transferred into a Pyrex glass tube. It was then sealed and heated at 150 °C for 2 d, and cooled to room temperature at a rate of 5 °C h−1. Colorless plates of 3 were formed, which were collected by filtration, washed with MeCN/Et2O (v/v = 1:4) and dried in air. Yield: 48% (based on Cu).

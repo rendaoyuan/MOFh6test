@@ -1,0 +1,5 @@
+HIFTOG02
+Chemical_Name: catena-(hexakis(μ4-Benzene-1,4-dicarboxylato)-bis(μ4-oxo)-octa-zinc unknown solvate)
+Number: 645081
+Synonyms: N/A
+Synthesis of the MOF-5 material consisting of nanocrystals was performed according to ref 7. To obtain the same phase with microsized crystals, the original synthesis procedure was modified. The reactants molar ratio was not altered, but the crystallizations were carried out at an elevated temperature without adding base. The preparation of microsized crystals was performed by mixing Zn(NO3)2‚6H2O (0.29 g, 1 mmol), 1,4-benzenedicarboxylic acid (H2- BDC) (0.08 g, 0.5 mmol), and N,N′-dimethylformamide (DMF) (9.5 g, 130 mmol) at room temperature. The thus obtained mixture was sealed, placed in the oven at 120 °C, and left at this temperature for 21 h. Crystallization was carried out under static conditions. The resulting solid was filtered, repeatedly washed with DMF, and dried at room temperature. The samples were stored in a vacuum desiccator to avoid water adsorption.

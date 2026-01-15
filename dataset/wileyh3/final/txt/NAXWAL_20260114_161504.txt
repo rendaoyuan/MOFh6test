@@ -1,0 +1,5 @@
+NAXWAL
+Chemical_Name: catena-[(μ2-1,4-bis(Phenylthio)butane)-bis(μ2-bromo)-dibromo-di-mercury(ii)]
+Number: 269216
+Synonyms: N/A
+Preparation of [{PhS(CH2)4SPh}Hg2Br4]n A mixture of 1 (137 mg, 0.5 mmol) and HgBr2 (180 mg, 0.5 mmol) was refluxed in toluene for 15 min, then the solution was allowed to reach room temperature. After two days colorless crystals of 2b suitable for X-ray diffraction were formed and collected by filtration. (256 mg, 81 % yield).

@@ -1,0 +1,5 @@
+XADFAL
+Chemical_Name: catena-((μ4-5,5'-Bipyrimidine)-(μ4-benzene-1,2,4,5-tetracarboxylato)-tetra-aqua-di-copper tetrahydrate)
+Number: 741018
+Synonyms: N/A
+Synthesis of {[Cu2(btec)(bpym)(H2O)4]·4H2O}n (1): A solution of CuCl2·6H2O (0.40 mmol) in MeOH (5 mL) was carefully layered on top of a bilayer solution composed of a solution of tetrapotassium benzene-1,2,4,5-tetracarboxylate (K4btec, 0.10 mmol) and 5,5'-bipyrimidine (bpym, 0.10 mmol) in water (5 mL) on the bottom and a buffer solvent of THF on the top. It was then allowed to stand at room temperature for a week, whereupon blue prismatic crystals of 1 were formed in 78% yield (53.0 mg, based on btec).

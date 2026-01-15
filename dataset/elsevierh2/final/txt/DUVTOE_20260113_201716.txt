@@ -1,0 +1,5 @@
+DUVTOE
+Chemical_Name: catena-[(μ6-5-Nitrobenzene-1,2,3-tricarboxylato-O,O,O',O'',O'',O''',O'''',O''''')-(μ6-5-nitrobenzene-1,2,3-tricarboxylato-O,O,O',O',O'',O'',O''',O'''',O'''')-bis(μ2-aqua)-diaqua-tri-cadmium(ii)]
+Number: 752114
+Synonyms: N/A
+An aqueous solution (10mL) containing H6abhca (44.6mg, 0.1mmol), Cd(NO3)2·4H2O (30.8mg, 0.1mmol) and NaOH (20mg, 0.5mmol) was placed in a Parr Teflon-lined stainless steel vessel (25mL) under autogenous pressure, which was heated to 140°C for 3d and subsequently cooled to room temperature at a rate of 5°Ch−1. Colorless block crystalline products were obtained in 48% yield (based on Cd).

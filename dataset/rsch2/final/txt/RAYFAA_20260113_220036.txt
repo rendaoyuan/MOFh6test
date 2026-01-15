@@ -1,0 +1,5 @@
+RAYFAA
+Chemical_Name: catena-[(μ4-5'-(pyridin-2-yl)-2H,4'H-3,3'-bi(1,2,4-triazole))-(μ3-5'-(pyridin-2-yl)-2H,4'H-3,3'-bi(1,2,4-triazole))-bis(μ3-sulfato)-bis(dimethylformamide)-methanol-tetra-copper heptahydrate dimethylformamide solvate]
+Number: 869685
+Synonyms: N/A
+Synthesis of {[Cu4(pbt)2(SO4)2(DMF)2(CH3OH)]·7H2O·DMF}n (1) A MeOH solution of CuSO4·5H2O (9.6 mg in 3 mL) was carefully layered onto a N,N-dimethylformamide (DMF) solution of H2pbt (6.3 mg in 3 mL). After the solution was allowed to stand for about 7 days, the turquoise rhombus crystals formed were isolated in 73% yield by filtration.

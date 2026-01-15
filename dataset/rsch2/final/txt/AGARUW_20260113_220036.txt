@@ -1,0 +1,7 @@
+AGARUW
+Chemical_Name: catena-(bis(μ4-Pyrazole-3,5-dicarboxylato-N,O,O,O',O'',O''')-(μ4-carbonato-O,O,O',O',O'',O'')-diaqua-di-lanthanum heptahydrate)
+Number: 685597
+Synonyms: N/A
+Complex 1 was prepared as follows: An aqueous reaction mixture was prepared by dissolving H3L (0.044 g, 0.25 mmol), NaHCO3 (0.022 g, 0.25 mmol), and La(NO3)3 (0.108g, 0.25 mmol) in 18 mL of de-ionized water. Its pH was adjusted to 6.4 with 1.0 M NaOH. The resulting mixture was transferred to a 25-mL Teflon-lined vessel (Parr) and heated at 150oC for 1000 min. Cooling of the reaction mixture to room temperature at a rate of 5oC per hour afforded colourless crystalline solids as the product (yield: 0.027g; 27% based on La).
+Abbreviation: H3L
+Full Name: pyrazole-3,5-dicarboxylic acid

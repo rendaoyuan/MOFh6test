@@ -1,0 +1,5 @@
+HEFDIH
+Chemical_Name: catena-(tetrakis(μ2-cyano)-bis(2,13-dimethyl-3,6,9,12,18-pentaazabicyclo[12.3.1]octadeca-1(18),2,12,14,16-pentaene)-tricyano-di-manganese-molybdenum dihydrate)
+Number: 866544
+Synonyms: N/A
+Compound 1 was prepared by slow diffusion of solutions of K4[MoIII(CN)7] and [MnII(dpop)]Cl2 in the dark under a nitrogen atmosphere; the related phase, 2, was prepared by subjecting crystals of 1 to a dynamic vacuum at 1258C for 8 h and further pumping using the “outgas” function of a gas adsorption analyzer for 5 h at 1508C.

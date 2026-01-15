@@ -1,0 +1,5 @@
+ODAKEL
+Chemical_Name: catena-[bis(μ4-Isophthalato)-bis(μ3-isophthalato)-hexakis(dimethylformamide)-tetra-manganese dimethylformamide solvate]
+Number: 837898
+Synonyms: N/A
+Synthesis of [Mn4(ip)4(dmf)6]·2dmf (2) H2ip (1.00mmol, 0.166g) and MnCl2·4H2O (1.00mmol, 0.198g) were dissolved in dmf (15.0mL), into which a solution mixture of triethylamine (0.2mL) and dmf (2.0mL) was allowed to diffuse slowly. After 2 weeks, compound 2 was isolated as light yellow needle-like crystals with yield of 58% based on ligand from the reaction mixture.

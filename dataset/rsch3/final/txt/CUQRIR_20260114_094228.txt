@@ -1,0 +1,7 @@
+CUQRIR
+Chemical_Name: catena-[bis(μ-3,5-dimethyl-1,2,4-triazolato)-(μ-4,4'-ethene-1,2-diyldibenzoato)-di-zinc hexahydrate]
+Number: 1063268
+Synonyms: N/A
+Synthesis of {[Zn2Ĳdmtrz)2ĲL1)]·6H2O}n (MAC-11). ZnĲNO3)2 ·6H2O (0.3 mmol, 0.089 g), Hdmtrz (0.2 mmol, 0.018 g) and H2L1 (0.1 mmol, 0.0271 g) were dissolved in 2 mL DMF. The mixture was stirred at room temperature for 10 min. HNO3 (0.2 mL) and HBF4 (0.06 mL) were added to the solution and stirred for another 30 min. The mixture was then transferred into a 15 mL Teflon-lined stainless steel vessel, sealed and heated at 140 °C for 3 days under autogenous pressure. Light-yellow sheet crystals of MAC-11 were collected by filtration, washed with acetone three times, and air-dried (yield: 62% based on ZnĲII)).
+Abbreviation: H2L1
+Full Name: (E)-4,4′-stilbenedicarboxylic acid

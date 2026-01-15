@@ -1,0 +1,5 @@
+DIVKUQ
+Chemical_Name: catena-(bis(μ4-Naphthalene-1,8-dicarboxylato)-bis(μ3-iodo)-bis(μ2-pyrazine-2-carboxylato)-triaqua-di-copper-di-dysprosium)
+Number: 947874
+Synonyms: N/A
+Synthesis of compound 1: A mixture of Dy2O3 (0.5mmol, 0.186g), CuI (0.5mmol, 0.095g), 2-pyrazinecarboxylic acid (1mmol, 0.124g) and 1,8-naphthalene anhydride (1mmol, 0.198g), H2O (10mL) and HClO4 (0.5mmol) was stirred for 30min. The pH value of the reaction system was about 2.0. Whereafter, the suspension was transferred to a Teflon-lined stainless steel autoclave (30mL) and kept at 140°C for 7days, then cooled to room temperature. Pale yellow prismatic crystals of compound 1 were recovered by filtration, washed with distilled water, and dried in air (35% yield based on Dy2O3).

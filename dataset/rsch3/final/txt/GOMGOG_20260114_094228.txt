@@ -1,0 +1,5 @@
+GOMGOG
+Chemical_Name: catena-[bis(μ-4,4',4'',4'''-(oxydibenzene-5,1,3-triyl)tetrapyridine)-(μ-4,4'-iminodibenzoato)-dihydroxo-di-cobalt unknown solvate]
+Number: 1002454
+Synonyms: N/A
+Compounds 1 can be synthesized by a general step: a mixture of Co(NO3)2·6H2O, L and H2nba was dissolved in a DMF–H2O–CH3CN mixed solvent. The final mixture was placed in a Parr Teflon-lined stainless steel vessel (25 mL) under autogenous pressure and heated at 95 °C for 3 days. The detailed information of synthesis and the main features are displayed in Table 1.

@@ -1,0 +1,9 @@
+NAFFOR
+Chemical_Name: catena-[(μ2-Adamantane-1,3-dicarboxylato-O,O',O'')-aqua-(1,10-phenanthroline-N,N')-cobalt(ii) monohydrate]
+Number: 770368
+Synonyms: N/A
+Synthesis of [Co(phen)(H2O)L]·H2O Dropwise addition of 0.1 M aqueous NaOH (6.0 ml) to a stirred aqueous solution of CoCl2·6H2O (0.0714 g, 0.30 mmol) in H2O (5.0 ml) produced a violet precipitate of Co(OH)2·nH2O, which was centrifuged and washed with water until no Cl- was detected in the supernatant. The resulting solid was added to a solution of H2L (0.0672 g, 0.30 mmol) and phen (0.0595 g, 0.30 mmol) in H2O (10 ml). The mixture (pH 4.30) was then placed in a 23 ml Teﬂon-lined stainless steel autoclave, which was heated at 150 _x0003_C for 3 days, then cooled at 10 _x0003_C/h to room temperature. The product was ﬁltered off, washed with ethanol and then dried under ambient conditions. Red crystals of [Co(phen)(H2O)L]·H2O suitable to X-ray diffraction analysis were obtained (yield: ca. 40%, based on Co).
+Abbreviation: H2L
+Full Name: 1,3-adamantanedicarboxylic acid
+Abbreviation: L
+Full Name: 1,3-adamantanedicarboxylate

@@ -1,0 +1,5 @@
+NAPZOV
+Chemical_Name: catena-((μ4-5-methylisophthalato)-dimethylformamide-cadmium(ii))
+Number: 775366
+Synonyms: N/A
+A mixture of Cd(NO3)2·4H2O (0.0926 g, 0.3 mmol), H2mip (0.036 g, 0.2 mmol), triethylamine (0.02 mL), and DMF (5 mL) in a 23-mL Teflon reactor, which was heated at 110 °C for five days and then cooled to room temperature at a rate of 5 K h−1. Straw yellow block crystals of 1 were obtained in 55% yield after washing with DMF and drying in air.

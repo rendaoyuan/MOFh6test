@@ -1,0 +1,5 @@
+SOKQOZ
+Chemical_Name: catena-[(μ4-2,6-Naphthalenedicarboxylato-O,O',O'',O''')-(1,10-phenanthroline-N,N')-manganese(ii)]
+Number: 674728
+Synonyms: N/A
+Synthesis of [Mn(ndc)(phen)] (2) A mixture of manganese acetate tetrahydrate (0.24 g, 1 mmol), H2ndc (0.10 g, 0.5 mmol), phen (0.20 g, 1 mmol), triethylamine (0.3 ml, 1 mmol), and deionized water (10 ml) was sealed in a Teﬂon-lined steel autoclave and heated at 180 _x0002_C for 72 h, then cooled slowly to room temperature. Yellow crystals were collected and washed with water and ethanol (yield 60%).

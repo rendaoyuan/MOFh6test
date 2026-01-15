@@ -1,0 +1,5 @@
+HAKCIG
+Chemical_Name: catena-[hexakis(μ2-2-(4-Pyridyl)thiazole-4-carboxylato)-tri-copper tetradecahydrate]
+Number: 256509
+Synonyms: N/A
+In a typical reaction, Pytac (0.05 mmol) and NaOH (0.05 mmol) were dissolved 10 mL of warm methanol. A solution of copper(II) nitrate (0.025 mmol) in 15 mL of water was added and the mixture was stirred at 80 ºC for 10 minutes. After filtration the reaction mixture was left standing at room temperature for several days to yield aquamarine crystals in ~91% yield.

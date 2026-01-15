@@ -1,0 +1,5 @@
+QEWMIP
+Chemical_Name: catena-((μ4-Malato)-(1,10-phenanthroline)-chloro-di-zinc)
+Number: 295553
+Synonyms: N/A
+Complex 1 was prepared from the mixture of ZnCl2 ·6H2O (0.061g, 0.25mmol) maleic acid (0.067g, 0.50mmol), phen (0.090g, 0.50mmol) and 8ml H2O, was stirred for 30min, and then the pH value was adjusted to 5 with 1M NaOH. After stirring for another 30min, the mixture was transferred to a 23ml Teflon-lined stainless steel bomb and kept at 160°C under autogenous pressure for 5 days. The reaction system was cooled to room temperature during 24h. A large amount of yellow block crystals of 1 were obtained. Yield: 51% (base on Zn).

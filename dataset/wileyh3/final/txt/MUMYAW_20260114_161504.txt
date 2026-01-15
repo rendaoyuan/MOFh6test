@@ -1,0 +1,5 @@
+MUMYAW
+Chemical_Name: catena-[(μ3-5,15-bis(4-Cyanophenyl)-10,20-bis(pyridin-4-yl)porphyrinato)-cobalt hydrate]
+Number: 1030289
+Synonyms: N/A
+No synthesis method found for compound C44H24N8O1.33Co

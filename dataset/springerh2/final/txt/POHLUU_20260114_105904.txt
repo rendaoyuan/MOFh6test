@@ -1,0 +1,5 @@
+POHLUU
+Chemical_Name: catena-((μ4-3,3',4,4'-Biphenyltetracarboxylato)-diaqua-bis(1,10-phenanthroline)-di-copper(ii) dihydrate)
+Number: 652482
+Synonyms: N/A
+Preparation of [Cu2(phen)2(BPTC)(H2O)2] 2H2O (2) A mixture of Cu(NO3)2 3H2O (24.2 mg, 0.1 mmol) or CuCl2 2H2O (17 mg, 0.1 mmol), 3,30,4,40-biphenyltetracarboxylic acid dianhydride (14.4 mg, 0.05 mmol), phen (20 mg, 0.1 mmol), four drops of 1 M NaOH, and water (8 mL) was placed in a 15 mL Teﬂon-lined stainless steel vessel and heated at 153 °C for 3 days, followed by cooling to room temperature at 10 °C/h. Blue acicular crystals of 2 were obtained. Yield: 18.3 mg, 41% based on BPTC.

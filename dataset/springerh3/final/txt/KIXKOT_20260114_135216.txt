@@ -1,0 +1,5 @@
+KIXKOT
+Chemical_Name: catena-[(μ3-5-(pyridin-2-yl)-tetrazolato)-(μ5-5-(pyridin-3-yl)-tetrazolato)-aqua-tri-silver tetrakis(μ4-oxo)-tetrakis(μ3-oxo)-(μ2-hydroxo)-nonadecakis(μ2-oxo)-dodecaoxo-germanium-silver-dodeca-molybdenum monohydrate]
+Number: 932969
+Synonyms: N/A
+Synthesis of New POMs Compound A mixture of Na4GeMo12O40 (240 mg), AgNO3 (150 mg), pytz (28 mg), NH4VO3(24 mg) and H2O (10 ml) in the mole ratios 1:1:2:2:1,000 was stirred for 1 h in air. The pH was then adjusted to ca. 3 with 1 M NaOH, and the mixture was transferred to an 18 ml Teﬂon-lined reactor. After heating at 160 °C for 4 days, the reactor was slowly cooled to room temperature. Red block crystals of 1 were filtered, washed with water, and dried at room temperature (36 % yield based on Mo).

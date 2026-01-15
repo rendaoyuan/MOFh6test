@@ -1,0 +1,5 @@
+EHIVUN
+Chemical_Name: catena-((μ2-2,2'-(5-(Pyridin-4-yl)-4H-1,2,4-triazole-3,4-diyl)dipyridine)-dichloro-mercury(ii))
+Number: 808074
+Synonyms: N/A
+Synthesis of 1. A water solution (5mL) of HgCl2 (27.2mg, 0.1mmol) was added to a solution of L 2 (15.0mg, 0.05mmol) in CH3OH (10mL). After ca. 30min of vigorous mixing, the resulting solution was filtered and left to stand under ambient conditions. Upon slow evaporation of the solvents, colorless block crystals of 1 were obtained after ca. 10days. For 1: 53% yield (15.2mg, based on L 2 ).

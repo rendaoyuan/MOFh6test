@@ -1,0 +1,5 @@
+NERVEL
+Chemical_Name: catena-(bis(μ3-Nicotinato)-bis(μ2-nicotinato)-(μ2-aqua)-di-cobalt(ii) ethanol hemihydrate clathrate)
+Number: 176367
+Synonyms: N/A
+Co2(H2O)(C6H4O2N)4‚0.5CH3CH2OH‚0.5H2O (1). Single crystals of 1 were synthesized by heating a mixture of Co(NO3)2‚6H2O (0.1 mmol) and 3-cyanopyridine (0.1 mmol) in the mixture of the solvents ethanol (1.25 mL) and water (3.75 mL) at 140 °C for 96 h. The solid product was washed by distilled water and isolated by suction filtration. The final product contained a single phase of red-lathy crystals of 1 in a yield of 58% based on nicotinate.

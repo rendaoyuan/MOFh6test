@@ -1,0 +1,5 @@
+LAGKUA
+Chemical_Name: catena-((μ5-Trimesato)-(μ4-trimesato)-(μ3-hydroxo)-(piperazinium-N)-triaqua-tri-cadmium(ii) monohydrate)
+Number: 214205
+Synonyms: N/A
+No synthesis method found for compound 1

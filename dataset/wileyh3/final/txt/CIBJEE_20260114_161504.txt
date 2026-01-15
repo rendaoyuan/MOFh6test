@@ -1,0 +1,7 @@
+CIBJEE
+Chemical_Name: N/A
+Number: N/A
+Synonyms: N, /, A
+A mixture of HL1 (11.8 mg, 0.05 mmol), CuI (19.1 mg, 0.1 mmol), C2H5OH (3 mL), and one drop of aqueous methylamine (40%, about 0.05 mL) was sealed in an 8 mL hard glass tube and heated in an oven at 180 °C for 72 h, then slowly cooled to room temperature at a rate of 5 °C h−1. Light yellow block crystals were obtained (25% yield based on the ligand).
+Abbreviation: HL1
+Full Name: 3-(4-pyridyl)-5-p-tolyl-1H-pyrazole

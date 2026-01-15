@@ -1,0 +1,7 @@
+XEGKIF
+Chemical_Name: catena-((μ4-2,2',6,6'-Tetranitrobiphenyl-4,4'-dicarboxylato)-bis(μ3-2,2',6,6'-tetranitrobiphenyl-4,4'-dicarboxylato)-bis(dimethylformamide)-bis(3-formylpyridine)-di-gadolinium 3-pyridinecarboxaldehyde solvate trihydrate)
+Number: 843418
+Synonyms: N/A
+Synthesis of {[Gd2(L)3ACHTUNGTRENUNG(dmf)2(3-pyridinecarboxaldehyde)2]·3(3-pyridinecarboxaldehyde)·3H2O}n (6): Single crystals of compound 1, upon exposure to 3-pyridinecarboxaldehyde vapor for 5 days, afforded compound 6 without a loss in crystallinity.
+Abbreviation: L
+Full Name: 2,6,2’,6’-tetranitro-biphenyl-4,4’-dicarboxylic acid

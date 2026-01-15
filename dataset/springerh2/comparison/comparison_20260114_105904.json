@@ -1,0 +1,753 @@
+{
+    "AJEMIN": {
+        "AJEMIN": {
+            "Compound": "2",
+            "Molecule_Identifier": "AJEMIN",
+            "Number": 1045750,
+            "Chemical_Name": "catena-[(μ2-2-((Pyridin-4-yl)methyl)-7-((pyridin-4-yl)methyl)benzo[lmn][3,8]phenanthroline-1,3,6,8(2H,7H)-tetrone)-tetra-aqua-di-cobalt(ii) dinitrate dihydrate]",
+            "Synonyms": []
+        }
+    },
+    "AMIYEB01": {
+        "AMIYEB01": {
+            "Compound": "1",
+            "Molecule_Identifier": "AMIYEB01",
+            "Number": "780683",
+            "Chemical_Name": "catena-(tris(μ2-terephthalato)-octaaqua-di-ytterbium dihydrate)",
+            "Synonyms": []
+        }
+    },
+    "BEZDUH": {
+        "BEZDUH": {
+            "Compound": "1",
+            "Molecule_Identifier": "BEZDUH",
+            "Number": "844687",
+            "Chemical_Name": "catena-[decakis(μ2-cyano)-bis(pyrazin-2-amine)-diaqua-di-manganese-hexa-silver pyrazin-2-amine solvate]",
+            "Synonyms": []
+        }
+    },
+    "BEZYIQ": {
+        "BEZYIQ": {
+            "Compound": "[Fe(INAIP)(H2O)]n-2nH2O",
+            "Molecule_Identifier": "BEZYIQ",
+            "Number": "782387",
+            "Chemical_Name": "catena-[(μ4-5-(Isonicotinoylamino)isophthalato)-aqua-iron dihydrate]",
+            "Synonyms": []
+        }
+    },
+    "BUHFER": {
+        "BUHFER": {
+            "Compound": "2",
+            "Molecule_Identifier": "BUHFER",
+            "Number": "934863",
+            "Chemical_Name": "catena-[(μ-3,5-bis(pyridin-4-yl)-1,2,4-triazolato)-bis(μ-iodo)-tri-copper]",
+            "Synonyms": []
+        }
+    },
+    "CIGCEC": {
+        "CIGCEC": {
+            "Compound": "2",
+            "Molecule_Identifier": "CIGCEC",
+            "Number": 892186,
+            "Chemical_Name": "catena-((μ2-N,N'-bis(3-Aminopropyl)butane-1,4-diamine)-bis(μ2-isopropoxo)-hexakis(isopropoxy)-di-titanium)",
+            "Synonyms": []
+        }
+    },
+    "CIJPAO": {
+        "CIJPAO": {
+            "Compound": "3",
+            "Molecule_Identifier": "CIJPAO",
+            "Number": 861477,
+            "Chemical_Name": "catena-(Diaqua-(μ2-2,2'-dihydroxy-1,1'-binaphthalene-3,3'-dicarboxylato)-bis(N,N-dimethylformamide)-nickel(ii) N,N-dimethylformamide solvate)",
+            "Synonyms": []
+        }
+    },
+    "CUJZAK": {
+        "CUJZAK": {
+            "Compound": "1",
+            "Molecule_Identifier": "CUJZAK",
+            "Number": "1030692",
+            "Chemical_Name": "catena-[bis(μ-naphthalene-2,6-dicarboxylato)-bis(μ-1,1'-(1,3-phenylenebis(methylene))bis(2-methyl-1H-benzimidazole))-di-cadmium sesquihydrate]",
+            "Synonyms": []
+        }
+    },
+    "DAVKAO": {
+        "DAVKAO": {
+            "Compound": "1",
+            "Molecule_Identifier": "DAVKAO",
+            "Number": 710957,
+            "Chemical_Name": "catena-((μ2-1,1'-(1,3-Phenylenebis(methylene))bis(1H-imidazole))-(μ2-sulfato)-zinc methanol solvate)",
+            "Synonyms": []
+        }
+    },
+    "DOTHIE": {
+        "DOTHIE": {
+            "Compound": "1",
+            "Molecule_Identifier": "DOTHIE",
+            "Number": "295951",
+            "Chemical_Name": "catena-(bis(μ2-dicyanamide)-bis(1H-benzimidazole)-cobalt(ii))",
+            "Synonyms": []
+        }
+    },
+    "DUPDEZ": {
+        "DUPDEZ": {
+            "Compound": "[Ag2(NO3)2(bip)]",
+            "Molecule_Identifier": "DUPDEZ",
+            "Number": "793409",
+            "Chemical_Name": "catena-[(μ4-piperazine-1,4-diyldiethane-2,1-diyl diisonicotinate)-bis(nitrato)-di-silver]",
+            "Synonyms": []
+        }
+    },
+    "ECUXAD": {
+        "ECUXAD": {
+            "Compound": "2",
+            "Molecule_Identifier": "ECUXAD",
+            "Number": 868375,
+            "Chemical_Name": "catena-(bis(μ2-4,4'-propane-1,3-diyldipyridine)-(μ2-2,2'-(1,4-phenylenebis(oxy))diacetato)-cadmium(ii) dihydrate)",
+            "Synonyms": []
+        }
+    },
+    "EDABIW": {
+        "EDABIW": {
+            "Compound": "1",
+            "Molecule_Identifier": "EDABIW",
+            "Number": 843087,
+            "Chemical_Name": "catena-((μ4-adipato)-tetrakis(μ3-oxo)-hexakis(μ2-nicotinato)-diaqua-tetra-samarium(iii))",
+            "Synonyms": []
+        }
+    },
+    "EDABOC": {
+        "EDABOC": {
+            "Compound": "2",
+            "Molecule_Identifier": "EDABOC",
+            "Number": 843088,
+            "Chemical_Name": "catena-(bis(μ4-adipato)-bis(μ3-nicotinato)-di-praseodymium(iii) tetrahydrate)",
+            "Synonyms": []
+        }
+    },
+    "EHEPAJ": {
+        "EHEPAJ": {
+            "Compound": "N/A",
+            "Molecule_Identifier": "N/A",
+            "Number": "N/A",
+            "Chemical_Name": "N/A",
+            "Synonyms": "N/A"
+        }
+    },
+    "ETUBIF01": {
+        "ETUBIF01": {
+            "Compound": "2",
+            "Molecule_Identifier": "ETUBIF01",
+            "Number": "710960",
+            "Chemical_Name": "catena-((μ2-1,1'-(1,3-Phenylenebis(methylene))bis(1H-imidazole))-dinitrato-cadmium)",
+            "Synonyms": []
+        }
+    },
+    "EXOSEQ": {
+        "EXOSEQ": {
+            "Compound": "3",
+            "Molecule_Identifier": "EXOSEQ",
+            "Number": "723389",
+            "Chemical_Name": "catena-[bis(μ2-(5-amino-1H-tetrazol-1-yl)acetato)-triaqua-strontium dihydrate]",
+            "Synonyms": []
+        }
+    },
+    "FEQVEE": {
+        "FEQVEE": {
+            "Compound": "3",
+            "Molecule_Identifier": "FEQVEE",
+            "Number": 861369,
+            "Chemical_Name": "catena-(bis(μ3-pyrazole-3,5-dicarboxylato)-penta-aqua-penta-zinc)",
+            "Synonyms": []
+        }
+    },
+    "FOXBEB": {
+        "FOXBEB": {
+            "Compound": "2",
+            "Molecule_Identifier": "FOXBEB",
+            "Number": 992610,
+            "Chemical_Name": "catena-[(μ-1,2,5-thiadiazole-3,4-dicarboxylato)-diaqua-calcium]",
+            "Synonyms": []
+        }
+    },
+    "FUNLAD": {
+        "FUNLAD": {
+            "Compound": "1",
+            "Molecule_Identifier": "FUNLAD",
+            "Number": 1041093,
+            "Chemical_Name": "catena-[(μ-4,4'-(anthracene-9,10-diyldiethene-2,1-diyl)dipyridine)-bis(μ-4,4'-ethene-1,2-diyldibenzoato)-di-zinc N,N-dimethylformamide solvate tetrahydrate]",
+            "Synonyms": []
+        }
+    },
+    "GICCOM": {
+        "GICCOM": {
+            "Compound": "5",
+            "Molecule_Identifier": "GICCOM",
+            "Number": "879574",
+            "Chemical_Name": "catena-(bis(μ2-2,3,5,6-tetraiodoterephthalato)-octakis(methanol)-di-manganese(ii) N,N-dimethylformamide solvate)",
+            "Synonyms": []
+        }
+    },
+    "HEPRIE": {
+        "HEPRIE": {
+            "Compound": "1",
+            "Molecule_Identifier": "HEPRIE",
+            "Number": 604126,
+            "Chemical_Name": "catena-[bis(μ2-Maleato)-bis(1,4,8,11-tetraazacyclotetradecane)-di-nickel(ii) dihydrate]",
+            "Synonyms": []
+        }
+    },
+    "HOTREO01": {
+        "HOTREO01": {
+            "Compound": "1",
+            "Molecule_Identifier": "HOTREO01",
+            "Number": 615240,
+            "Chemical_Name": "catena-(bis(μ2-adipato)-bis(2,2'-bipyridine)-di-aqua-di-copper(ii) tetrahydrate)",
+            "Synonyms": []
+        }
+    },
+    "HULREN": {
+        "HULREN": {
+            "Compound": "1",
+            "Molecule_Identifier": "HULREN",
+            "Number": 931213,
+            "Chemical_Name": "catena-[bis(μ2-4-(1H-imidazol-1-yl)benzoato)-nickel]",
+            "Synonyms": []
+        }
+    },
+    "IDIGIN": {
+        "IDIGIN": {
+            "Compound": "2",
+            "Molecule_Identifier": "IDIGIN",
+            "Number": 885073,
+            "Chemical_Name": "catena-(bis(μ2-3-(1H-Benzotriazol-1-yl)propanoato)-diaqua-zinc(ii))",
+            "Synonyms": []
+        }
+    },
+    "IHEPES": {
+        "IHEPES": {
+            "Compound": "N/A",
+            "Molecule_Identifier": "N/A",
+            "Number": "N/A",
+            "Chemical_Name": "N/A",
+            "Synonyms": "N/A"
+        }
+    },
+    "ISEFUI": {
+        "ISEFUI": {
+            "Compound": "3",
+            "Molecule_Identifier": "ISEFUI",
+            "Number": 752965,
+            "Chemical_Name": "catena-(tris(μ3-2-oxidopyridinium-3-carboxylato)-cobalt(ii)-sodium(i))",
+            "Synonyms": []
+        }
+    },
+    "IYUMEU": {
+        "IYUMEU": {
+            "Compound": "[Co(saccharinate)2(L1)(H2O)2]n solvate",
+            "Molecule_Identifier": "IYUMEU",
+            "Number": "207291",
+            "Chemical_Name": "catena-[(μ2-1,4-bis(3-Pyridyl)-2,3-diaza-1,3-butadiene)-diaqua-bis(saccharinato)-cobalt(ii) unknown solvate]",
+            "Synonyms": []
+        }
+    },
+    "JETSAD": {
+        "JETSAD": {
+            "Compound": "I",
+            "Molecule_Identifier": "JETSAD",
+            "Number": 297879,
+            "Chemical_Name": "catena-((μ2-4,4'-Bipyridine-N,N')-(μ2-hydrogen phosphito-O,O)-(μ2-hydrogen phosphito-O,O')-cobalt)",
+            "Synonyms": [
+                "catena-((μ2-4,4'-bipyridyl)-(μ2-phosphito-O,O)-(μ2-phosphito-O,O')-cobalt(ii))"
+            ]
+        }
+    },
+    "KAPHAM": {
+        "KAPHAM": {
+            "Compound": "2",
+            "Molecule_Identifier": "KAPHAM",
+            "Number": "737368",
+            "Chemical_Name": "catena( Di-potassium tetra-sodium (μ2-oxalato)-bis(2,2'-bipyridyl)-bis(germaundecatungstate-copper-neodymium) pentaoxonium dodecahydrate)",
+            "Synonyms": []
+        }
+    },
+    "KAPWAB": {
+        "KAPWAB": {
+            "Compound": "3",
+            "Molecule_Identifier": "KAPWAB",
+            "Number": 804768,
+            "Chemical_Name": "catena-(bis(μ2-4,4'-propane-1,3-diyldipyridine)-diisothiocyanato-cadmium(ii) benzenethiol solvate)",
+            "Synonyms": []
+        }
+    },
+    "KIVWAO": {
+        "KIVWAO": {
+            "Compound": "2",
+            "Molecule_Identifier": "KIVWAO",
+            "Number": 603762,
+            "Chemical_Name": "catena-((μ2-Thiocyanato-N,S)-(2,2'-bipyridine-N,N')-copper(i))",
+            "Synonyms": []
+        }
+    },
+    "KIVZAR": {
+        "KIVZAR": {
+            "Compound": "3",
+            "Molecule_Identifier": "KIVZAR",
+            "Number": 627750,
+            "Chemical_Name": "catena-(bis(μ4-Azido-N,N,N'',N'')-bis(μ3-azido-N,N,N'')-(μ2-pyrazine-N,N')-tetra-copper(i))",
+            "Synonyms": []
+        }
+    },
+    "LEHZOP": {
+        "LEHZOP": {
+            "Compound": "[Cu3I3(PTP)]n (1)",
+            "Molecule_Identifier": "LEHZOP",
+            "Number": 790849,
+            "Chemical_Name": "catena-((μ4-iodide)-(μ2-3,6-bis(pyridin-2-ylsulfanyl)pyridazine)-bis(μ2-iodide)-tri-copper)",
+            "Synonyms": []
+        }
+    },
+    "MADSER": {
+        "MADSER": {
+            "Compound": "2",
+            "Molecule_Identifier": "MADSER",
+            "Number": 760572,
+            "Chemical_Name": "catena-((μ2-piperazine)-bis(5,5-diethyl-2,4,6-trioxotetrahydropyrimidin-1(2H)-yl)-di-silver(i) monohydrate)",
+            "Synonyms": [
+                "catena-((μ2-piperazine)-bis(5,5-diethyl-barbiturate)-di-silver(i) monohydrate)"
+            ]
+        }
+    },
+    "MAPFIU": {
+        "MAPFIU": {
+            "Compound": "7",
+            "Molecule_Identifier": "MAPFIU",
+            "Number": "784566",
+            "Chemical_Name": "catena-[(μ2-2-(3-Chlorophenoxy)propanoato-O,O')-trimethyl-tin(iv)]",
+            "Synonyms": []
+        }
+    },
+    "MIJXUZ": {
+        "MIJXUZ": {
+            "Compound": "C97H92NP6Ag3S3F9O11",
+            "Molecule_Identifier": "MIJXUZ",
+            "Number": 600811,
+            "Chemical_Name": "catena-[bis(μ3-1,3,5-tris(Diphenylphosphino)benzene-P,P',P'')-tris(trifluoromethanesulfonato-O)-acetonitrile-tri-silver diethyl ether solvate sesquihydrate]",
+            "Synonyms": []
+        }
+    },
+    "MOJPAE": {
+        "MOJPAE": {
+            "Compound": "2",
+            "Molecule_Identifier": "MOJPAE",
+            "Number": "936686",
+            "Chemical_Name": "catena-[(μ5-Pyridine-2,5-dicarboxylato)-(μ2-aqua)-barium]",
+            "Synonyms": []
+        }
+    },
+    "MOJRAG": {
+        "MOJRAG": {
+            "Compound": "4",
+            "Molecule_Identifier": "MOJRAG",
+            "Number": "1002314",
+            "Chemical_Name": "catena-[(μ2-N,N'-di(pyridin-3-yl)pyridine-3,5-dicarboxamide)-(μ2-4,4'-oxydibenzoato)-cobalt]",
+            "Synonyms": []
+        }
+    },
+    "MOKQAG": {
+        "MOKQAG": {
+            "Compound": "2",
+            "Molecule_Identifier": "MOKQAG",
+            "Number": "928567",
+            "Chemical_Name": "catena-(bis(μ2-4-Methyl-2,4-dihydro-3H-1,2,4-triazole-3-thione)-aqua-lead)",
+            "Synonyms": []
+        }
+    },
+    "MOKVAL": {
+        "MOKVAL": {
+            "Compound": "2",
+            "Molecule_Identifier": "MOKVAL",
+            "Number": 958429,
+            "Chemical_Name": "catena-[(μ-but-2-enedioato)-aqua-(2-(4,5-dihydro-1H-imidazol-2-yl)pyridine)-copper(ii) monohydrate]",
+            "Synonyms": []
+        }
+    },
+    "MOKZAP": {
+        "MOKZAP": {
+            "Compound": "2",
+            "Molecule_Identifier": "MOKZAP",
+            "Number": 907116,
+            "Chemical_Name": "catena-[(μ2-1,1'-butane-1,4-diylbis(1H-imidazole))-(μ2-pyridine-2,6-dicarboxylato)-aqua-cadmium pentahydrate]",
+            "Synonyms": []
+        }
+    },
+    "MULXUN": {
+        "MULXUN": {
+            "Compound": "1",
+            "Molecule_Identifier": "MULXUN",
+            "Number": 288344,
+            "Chemical_Name": "catena-[(μ4-cis-1,4-Cyclohexanedicarboxylato-O,O,O',O'',O'',O''')-(μ4-cis-1,4-cyclohexanedicarboxylato-O,O',O'',O''')-tetrakis(dimethylformamide)-bis(nitrato-O,O')-di-lanthanum(iii)]",
+            "Synonyms": []
+        }
+    },
+    "NAFFOR": {
+        "NAFFOR": {
+            "Compound": "[Co(phen)(H2O)L]·H2O",
+            "Molecule_Identifier": "NAFFOR",
+            "Number": "770368",
+            "Chemical_Name": "catena-[(μ2-Adamantane-1,3-dicarboxylato-O,O',O'')-aqua-(1,10-phenanthroline-N,N')-cobalt(ii) monohydrate]",
+            "Synonyms": []
+        }
+    },
+    "NATQUW": {
+        "NATQUW": {
+            "Compound": "2",
+            "Molecule_Identifier": "NATQUW",
+            "Number": "829614",
+            "Chemical_Name": "catena-((μ6-2,5-dicarboxybenzene-1,4-dicarboxylato)-(μ6-benzene-1,2,4,5-tetracarboxylato)-diaqua-di-europium(iii))",
+            "Synonyms": []
+        }
+    },
+    "NATRAD": {
+        "NATRAD": {
+            "Compound": "3",
+            "Molecule_Identifier": "NATRAD",
+            "Number": "829615",
+            "Chemical_Name": "catena-((μ6-2,5-dicarboxybenzene-1,4-dicarboxylato)-(μ6-benzene-1,2,4,5-tetracarboxylato)-diaqua-di-gadolinium(iii))",
+            "Synonyms": []
+        }
+    },
+    "NAZTIT": {
+        "NAZTIT": {
+            "Compound": "1",
+            "Molecule_Identifier": "NAZTIT",
+            "Number": 839291,
+            "Chemical_Name": "catena-((μ4-3-methylhexanedioato)-(μ3-oxo)-tetramethyl-di-tin)",
+            "Synonyms": []
+        }
+    },
+    "NAZTOZ": {
+        "NAZTOZ": {
+            "Compound": "3",
+            "Molecule_Identifier": "NAZTOZ",
+            "Number": "839292",
+            "Chemical_Name": "catena-((μ4-3-methylhexanedioato)-hexamethyl-di-tin)",
+            "Synonyms": []
+        }
+    },
+    "NAZWOC": {
+        "NAZWOC": {
+            "Compound": "3",
+            "Molecule_Identifier": "NAZWOC",
+            "Number": "808868",
+            "Chemical_Name": "catena-((μ3-2-(4-carboxylatophenoxy)benzoato)-(2-(pyridin-4-yl)-1H-benzimidazole)-zinc)",
+            "Synonyms": []
+        }
+    },
+    "NENJUN": {
+        "NENJUN": {
+            "Compound": "3",
+            "Molecule_Identifier": "NENJUN",
+            "Number": "801480",
+            "Chemical_Name": "catena-[(μ2-2,5-Dicarboxybenzene-1,4-dicarboxylato)-diaqua-bis(3,3'-(1H-1,2,4-triazole-3,5-diyl)dipyridine)-zinc(ii) dihydrate]",
+            "Synonyms": []
+        }
+    },
+    "NICOPB03": {
+        "NICOPB03": {
+            "Compound": "N/A",
+            "Molecule_Identifier": "N/A",
+            "Number": "N/A",
+            "Chemical_Name": "N/A",
+            "Synonyms": "N/A"
+        }
+    },
+    "OHIXIO": {
+        "OHIXIO": {
+            "Compound": "2",
+            "Molecule_Identifier": "OHIXIO",
+            "Number": 972290,
+            "Chemical_Name": "catena-[bis(μ2-2,6-di(1H-imidazol-1-yl)pyridine)-bis(nitrato)-cadmium]",
+            "Synonyms": []
+        }
+    },
+    "OXUNEB": {
+        "OXUNEB": {
+            "Compound": "N/A",
+            "Molecule_Identifier": "N/A",
+            "Number": "N/A",
+            "Chemical_Name": "N/A",
+            "Synonyms": "N/A"
+        }
+    },
+    "POHLUU": {
+        "POHLUU": {
+            "Compound": "2",
+            "Molecule_Identifier": "POHLUU",
+            "Number": "652482",
+            "Chemical_Name": "catena-((μ4-3,3',4,4'-Biphenyltetracarboxylato)-diaqua-bis(1,10-phenanthroline)-di-copper(ii) dihydrate)",
+            "Synonyms": []
+        }
+    },
+    "QADBII": {
+        "QADBII": {
+            "Compound": "2",
+            "Molecule_Identifier": "QADBII",
+            "Number": 736317,
+            "Chemical_Name": "catena-((μ4-phenylsuccinato)-hexamethyl-di-tin dimethylformamide solvate)",
+            "Synonyms": []
+        }
+    },
+    "QAVTEO": {
+        "QAVTEO": {
+            "Compound": "1",
+            "Molecule_Identifier": "QAVTEO",
+            "Number": 808380,
+            "Chemical_Name": "catena-[bis(μ3-4,4'-Methylenedibenzoato)-(μ2-aqua)-bis(μ2-1,1'-(oxydi-4,1-phenylene)bis(1H-imidazole))-di-nickel(ii)]",
+            "Synonyms": []
+        }
+    },
+    "QEQSUB": {
+        "QEQSUB": {
+            "Compound": "4",
+            "Molecule_Identifier": "QEQSUB",
+            "Number": "277018",
+            "Chemical_Name": "catena-((μ2-Thiosalicylato-O,O',S)-bis(3-chlorobenzyl)-tin(iv))",
+            "Synonyms": []
+        }
+    },
+    "QORTAU": {
+        "QORTAU": {
+            "Compound": "2",
+            "Molecule_Identifier": "QORTAU",
+            "Number": 870034,
+            "Chemical_Name": "catena-[bis(μ5-5,5'-(ethane-1,2-diylbis(oxy))diisophthalato)-(μ2-aqua)-tetrakis(1,10-phenanthroline)-tetra-nickel monohydrate]",
+            "Synonyms": []
+        }
+    },
+    "ROHVOB": {
+        "ROHVOB": {
+            "Compound": "1",
+            "Molecule_Identifier": "ROHVOB",
+            "Number": "981056",
+            "Chemical_Name": "catena-[(μ-benzene-1,2,4,5-tetracarboxylato)-bis(μ-1,1'-(1,3-phenylenebis(methylene))bis(2-methyl-1H-benzimidazole))-di-cobalt]",
+            "Synonyms": []
+        }
+    },
+    "RONZUP": {
+        "RONZUP": {
+            "Compound": "2",
+            "Molecule_Identifier": "RONZUP",
+            "Number": null,
+            "Chemical_Name": "catena-(trans-bis(Pyridyl)-tetrakis(μ2-cyano)-di-silver(i)-cadmium(ii) pyrrole clathrate)",
+            "Synonyms": []
+        }
+    },
+    "RUZDOG": {
+        "RUZDOG": {
+            "Compound": "1",
+            "Molecule_Identifier": "RUZDOG",
+            "Number": 790966,
+            "Chemical_Name": "catena-((μ2-5-Nitroisophthalato)-diaqua-(1-(2-pyridyl)-2-(4-pyridyl)ethylene)-cadmium(ii) acetonitrile solvate monohydrate)",
+            "Synonyms": []
+        }
+    },
+    "SOKQOZ": {
+        "SOKQOZ": {
+            "Compound": "2",
+            "Molecule_Identifier": "SOKQOZ",
+            "Number": 674728,
+            "Chemical_Name": "catena-[(μ4-2,6-Naphthalenedicarboxylato-O,O',O'',O''')-(1,10-phenanthroline-N,N')-manganese(ii)]",
+            "Synonyms": []
+        }
+    },
+    "TEWPUI": {
+        "TEWPUI": {
+            "Compound": "[Ag2(bpe)2](bdc)·8H2O",
+            "Molecule_Identifier": "TEWPUI",
+            "Number": 857955,
+            "Chemical_Name": "catena-[(μ2-4-(2-(pyridin-4-yl)ethyl)pyridine)-silver hemikis(isophthalate) tetrahydrate]",
+            "Synonyms": []
+        }
+    },
+    "TUBYOF": {
+        "TUBYOF": {
+            "Compound": "1",
+            "Molecule_Identifier": "TUBYOF",
+            "Number": "709786",
+            "Chemical_Name": "catena-(bis(μ3-Pyridine-2,5-dicarboxylato)-bis(μ2-pyridine-2,5-dicarboxylato)-hexaaqua-copper(ii)-di-terbium(iii) dihydrate)",
+            "Synonyms": []
+        }
+    },
+    "UGEXUA": {
+        "UGEXUA": {
+            "Compound": "2",
+            "Molecule_Identifier": "UGEXUA",
+            "Number": 721336,
+            "Chemical_Name": "catena-(bis((μ2-1-(4-Pyridylmethyl)-1H-benzimidazole-N,N')-(azido))-cobalt(ii))",
+            "Synonyms": []
+        }
+    },
+    "UGOXIX01": {
+        "UGOXIX01": {
+            "Compound": "[Cd(1,5-nds)(H2O)2]n",
+            "Molecule_Identifier": "UGOXIX01",
+            "Number": 244648,
+            "Chemical_Name": "catena-((μ4-1,5-Naphthalenedisulfonato-O,O',O'',O''')-diaqua-cadmium(ii))",
+            "Synonyms": []
+        }
+    },
+    "VAWYEZ": {
+        "VAWYEZ": {
+            "Compound": "{[Ag(L2)]ClO4-CH2Cl2}n (2)",
+            "Molecule_Identifier": "VAWYEZ",
+            "Number": "828803",
+            "Chemical_Name": "catena-((μ2-bis(4-(2-Pyridylmethyleneamino)phenyl) ether)-silver(i) perchlorate dichloromethane solvate)",
+            "Synonyms": []
+        }
+    },
+    "VIJPAH": {
+        "VIJPAH": {
+            "Compound": "2",
+            "Molecule_Identifier": "VIJPAH",
+            "Number": "929455",
+            "Chemical_Name": "catena-[(μ2-4,4'-bipyridine)-((5-sulfido-1H-tetrazol-1-yl)methanesulfonate)-(4,4'-bipyridine)-diaqua-cadmium(ii) sesquikis(4,4'-bipyridine) dihydrate]",
+            "Synonyms": []
+        }
+    },
+    "VIJPIP": {
+        "VIJPIP": {
+            "Compound": "4",
+            "Molecule_Identifier": "VIJPIP",
+            "Number": 928851,
+            "Chemical_Name": "catena-[Diaqua-bis(4,4'-bipyridine)-bis(4-methylbenzoato)-manganese(ii) (μ2-4,4'-bipyridine)-(μ2-4-methylbenzoato)-(4-methylbenzoato)-manganese(ii) hexahydrate]",
+            "Synonyms": []
+        }
+    },
+    "VIJPOV": {
+        "VIJPOV": {
+            "Compound": "3",
+            "Molecule_Identifier": "VIJPOV",
+            "Number": "928850",
+            "Chemical_Name": "catena-[tris(μ2- 3-Methylbenzoato)-(3-methylbenzoato)-(μ2-4,4'-propane-1,3-diyldipyridine)-(4,4'-propane-1,3-diyldipyridine)-di-manganese(ii)]",
+            "Synonyms": []
+        }
+    },
+    "VURQIJ": {
+        "VURQIJ": {
+            "Compound": "2",
+            "Molecule_Identifier": "VURQIJ",
+            "Number": "775397",
+            "Chemical_Name": "catena-(bis(μ2-4-imidazolebenzoato)-aqua-cadmium(ii) tetrahydrate)",
+            "Synonyms": []
+        }
+    },
+    "WOHWAT": {
+        "WOHWAT": {
+            "Compound": "2",
+            "Molecule_Identifier": "WOHWAT",
+            "Number": 949366,
+            "Chemical_Name": "catena-[(μ2-ethane-1,2-diylbis(diphenylphosphine))-bis(μ2-1,2-benzothiazol-3(2H)-one 1,1-dioxide)-di-silver]",
+            "Synonyms": []
+        }
+    },
+    "WUFJEO": {
+        "WUFJEO": {
+            "Compound": "2",
+            "Molecule_Identifier": "WUFJEO",
+            "Number": "1025412",
+            "Chemical_Name": "catena-[(μ6-4-(Pyridin-3-yl)isophthalato)-aqua-barium]",
+            "Synonyms": []
+        }
+    },
+    "XIJPOX": {
+        "XIJPOX": {
+            "Compound": "1",
+            "Molecule_Identifier": "XIJPOX",
+            "Number": 897111,
+            "Chemical_Name": "catena-[(μ2-Benzene-1,4-dicarboxylato)-(μ2- 1,1'-(1,4-phenylenebis(methylene))bis(5,6-dimethyl-1H-benzimidazole))-cadmium(ii) acetonitrile solvate dihydrate]",
+            "Synonyms": []
+        }
+    },
+    "XUBJAF03": {
+        "XUBJAF03": {
+            "Compound": "4",
+            "Molecule_Identifier": "XUBJAF03",
+            "Number": 848009,
+            "Chemical_Name": "catena-((μ4-Malonato-O,O,O',O'',O'',O''')-bis(μ2-malonato-O,O',O'')-hexa-aqua-di-europium)",
+            "Synonyms": []
+        }
+    },
+    "XUBTIZ": {
+        "XUBTIZ": {
+            "Compound": "1",
+            "Molecule_Identifier": "XUBTIZ",
+            "Number": 1009930,
+            "Chemical_Name": "catena-((μ2-2,3,5,6-Tetrabromoterephthalato)-(μ2-1,1'-propane-1,3-diylbis(5,6-dimethyl-1H-benzimidazole))-cobalt hemihydrate)",
+            "Synonyms": []
+        }
+    },
+    "XUWRIR01": {
+        "XUWRIR01": {
+            "Compound": "2",
+            "Molecule_Identifier": "XUWRIR01",
+            "Number": "715834",
+            "Chemical_Name": "catena-((μ3-biphenyl-2,2'-dicarboxylato)-(μ2-4,4'-bipyridine)-manganese)",
+            "Synonyms": []
+        }
+    },
+    "YACTUS01": {
+        "YACTUS01": {
+            "Compound": "{[Cu(L)(Phen)(H2O)]·H2O}n",
+            "Molecule_Identifier": "YACTUS01",
+            "Number": "226677",
+            "Chemical_Name": "catena-((μ2-o-Phthalato)-aqua-(1,10-phenanthroline)-copper(ii) monohydrate)",
+            "Synonyms": []
+        }
+    },
+    "YAKKEC": {
+        "YAKKEC": {
+            "Compound": "3",
+            "Molecule_Identifier": "YAKKEC",
+            "Number": "759606",
+            "Chemical_Name": "catena-(bis(μ2-1,2-bis(Benzimidazolyl)ethane)-bis(μ2-iodo)-di-copper acetonitrile solvate)",
+            "Synonyms": []
+        }
+    },
+    "YIBVUC": {
+        "YIBVUC": {
+            "Compound": "2",
+            "Molecule_Identifier": "YIBVUC",
+            "Number": "933477",
+            "Chemical_Name": "catena-[tetrakis(μ2-1,1'-Butane-1,4-diylbis(1H-benzimidazole))-bis(2-nitrobenzene-1,4-dicarboxylato)-diaqua-tetra-silver octahydrate]",
+            "Synonyms": []
+        }
+    },
+    "YISTUR": {
+        "YISTUR": {
+            "Compound": "2",
+            "Molecule_Identifier": "YISTUR",
+            "Number": 927374,
+            "Chemical_Name": "catena-[bis(μ3-Pyridine-2,5-dicarboxylato)-bis(μ2-1,1'-(2,5-dimethyl-1,4-phenylene)bis(1H-imidazole))-diaqua-di-cadmium dihydrate]",
+            "Synonyms": []
+        }
+    },
+    "YIVZIO": {
+        "YIVZIO": {
+            "Compound": "JUC-94",
+            "Molecule_Identifier": "YIVZIO",
+            "Number": 886583,
+            "Chemical_Name": "catena-[(μ7-4,4',4'',4'''-silanetetrayltetrabenzoato)-(μ6-4,4',4'',4'''-silanetetrayltetrabenzoato)-bis(N,N-dimethylacetamide)-nitrato-tetraoxo-tri-praseodymium N,N-dimethylacetamide ethanol solvate trihydrate]",
+            "Synonyms": []
+        }
+    },
+    "ZUCTIC": {
+        "ZUCTIC": {
+            "Compound": "1",
+            "Molecule_Identifier": "ZUCTIC",
+            "Number": 995228,
+            "Chemical_Name": "catena-[(2,2'-bipyridine)-(μ-2,3-dibromosuccinato)-copper(ii)]",
+            "Synonyms": []
+        }
+    }
+}

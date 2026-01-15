@@ -1,0 +1,5 @@
+WEHVIP02
+Chemical_Name: catena-(bis(μ3-Chloro)-(μ2-1,2-bis(4-pyridyl)ethene-N,N')-di-copper(i))
+Number: 627197
+Synonyms: N/A
+No synthesis method found for compound 1

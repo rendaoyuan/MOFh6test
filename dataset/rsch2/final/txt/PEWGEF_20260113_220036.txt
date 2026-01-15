@@ -1,0 +1,5 @@
+PEWGEF
+Chemical_Name: catena-((μ3-Hydroxo)-bis(μ3-3,5-dimethyl-1,2,4-triazolato)-(μ2-aqua)-(μ2-oxo)-(acetato-O)-triaqua-tri-copper dimethylamine)
+Number: 906127
+Synonyms: N/A
+Synthesis of [Cu3(m3-OH)(m2-O)(dmtrz)2(CH3COO)(m2-H2O)(H2O)3](CH3)2NH (2). Cu(NO3)2?6H2O (0.3 mmol, 0.088 g) and Hdmtrz (0.2 mmol, 0.019 g) were dissolved in 12 mL mixed solution of N,N9-dimethylacetamide (DMAC)–H2O–CH3CH2OH (1 : 1 : 1). The blue solution was then stirred at room temperature for another 30 min. Then the mixture was transferred into 15 mL Teflon-lined stainless steel vessel, sealed and heated at 60 uC for 3 days under autogenous pressure. The resulting block blue crystals of 2 were collected by filtration, washed with acetone three times, and dried in air (yield: 51%, based on Cu(II)).

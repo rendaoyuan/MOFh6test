@@ -1,0 +1,5 @@
+YUWHOO
+Chemical_Name: catena-(pentakis(μ2-Imidazolato)-(imidazolato-N3)-(imidazole-N3)-di-gallium(iii))
+Number: 774000
+Synonyms: N/A
+Synthesis of 3 ∞[Ga2(Im)6ImH] Gallium (70 mg = 1 mmol) and imidazole (ImH, C3H3NNH; 204 mg = 3 mmol) were sealed in an evacuated DURAN glass ampoule. The reaction mixture was heated in 24 h to 120 °C and held at this temperature for 1850 h. The melt was cooled to room temperature in 1 h. The reaction gave a colourless crystalline product of trapezoidal crystals of 3 ∞[Ga2(Im)6ImH]. Yield (ImH): 181 mg (69 %). Shorter reaction times decrease the yield of the reaction. Higher reaction temperatures result in a different poorly crystalline product.

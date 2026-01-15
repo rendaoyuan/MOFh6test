@@ -1,0 +1,5 @@
+CUVWOG
+Chemical_Name: catena-((μ2-4,4'-(1,1,1,3,3,3-hexafluoropropane-2,2-diyl)dibenzoato)-bis(μ2-formato)-bis(1,10-phenanthroline)-di-zinc(ii))
+Number: 752229
+Synonyms: F-MOF-8
+Synthesis of Zn(hfbba)0.5(phen)(HCO2) (F-MOF-8): 0.5 mL 1,10-Phenanthroline stock solution (0.20 M) and 1.5 mL 4,4′-Hexafluoroisopropylidene-bis-benzoic acid stock solution (0.20 M) were mixed in a 5 mL vial. To this solution was added 0.5 mL Zn(NO3)2·6H2O stock solution (0.20 M). The vial was capped and heated to 85 ºC for 72 h. The mother liquor was decanted and the products were washed with DMF (15 mL) three times. Colorless crystals of F-MOF-8 were collected by filtration and dried in air (10 min) (yield: 55%). Crystals suitable for X-ray diffraction were grown by heating the reaction mixture for 96h. However heating the reaction mixture for a longer period decreases the yield.

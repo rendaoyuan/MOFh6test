@@ -1,0 +1,7 @@
+HIFGIO
+Chemical_Name: catena-[bis(μ4-2',5'-Dimethyl-1,1':4',1''-terphenyl-4,4''-dicarboxylato)-bis(μ3-oxo)-tri-zinc unknown solvate]
+Number: 947362
+Synonyms: N/A
+A mixture containing Zn- (NO3)2·6H2O (40 mg, 0.13 mmol), H2L (20 mg, 0.06 mmol), 0.1 mL of 1 M NaOH in 2 mL N,N-dimethylformamide (DMF) and 1 mL of EtOH were sealed in a Teﬂon-lined stainless steel autoclave and heated under autogenous pressure to 100 °C for 60 h. It was allowed to cool to room temperature at the rate of 1 °C per minute to produce prism shaped colorless crystals of complex 1 in ∼56% yield. The crystals were washed with hot DMF, water, and ﬁnally with acetone and air-dried.
+Abbreviation: H2L
+Full Name: p-terphenyl-4,4″-dicarboxylic acid, 2′,5′-dimethyl

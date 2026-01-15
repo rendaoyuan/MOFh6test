@@ -1,0 +1,5 @@
+ICOWOO01
+Chemical_Name: catena-(bis(μ2-5-carboxy-2-propyl-1H-imidazole-4-carboxylato)-triaqua-barium monohydrate)
+Number: 760026
+Synonyms: N/A
+Error extracting synthesis method for compound 2

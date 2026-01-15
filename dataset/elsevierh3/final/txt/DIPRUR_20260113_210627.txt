@@ -1,0 +1,5 @@
+DIPRUR
+Chemical_Name: catena-(bis(μ2-2,5-dihydroxyterephthalato)-bis(6,8,15,17-tetramethyl-5,14-dihydrodibenzo[b,i][1,4,8,11]tetraazacyclotetradecine)-di-germanium ethyl acetate solvate)
+Number: 872189
+Synonyms: N/A
+Synthesis of 2: a solution of Ge(tmtaa)Cl2 (48.6mg, 0.1mmol) in methanol and ethyl acetate (1:1, v/v%; 8mL) was carefully layered on a solution of disodium 2,5-dihydroxyl-1,4-benezedicarboxylate (21.0mg, 0.1mmol) in water (5mL). The mixture was kept at room temperature and the orange crystals of 2 containing ethyl acetate molecules formed after three weeks. The powder of 2 was acquired in a yield of 83%.

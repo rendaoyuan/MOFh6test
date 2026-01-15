@@ -1,0 +1,7 @@
+CUJZAK
+Chemical_Name: catena-[bis(μ-naphthalene-2,6-dicarboxylato)-bis(μ-1,1'-(1,3-phenylenebis(methylene))bis(2-methyl-1H-benzimidazole))-di-cadmium sesquihydrate]
+Number: 1030692
+Synonyms: N/A
+Synthesis of [Cd(L)(nda)(H2O)_x0002_0.75H2O]n (1) A mixture of Cd(OAc)2_x0002_3H2O (0.1 mmol, 23.1 mg), L ligand (0.1 mmol, 36.6 mg), H2nda (0.1 mmol, 21.6 mg), NaOH (8.0 mg, 0.2 mmol) and H2O (10 mL) was stirred for 0.5 h at room temperature, and then transferred and sealed in a 25 mL Teﬂon-lined stainless vessel reactor and heated to 140 _x0003_C for 3 d under autogenous pressure. The resulting mixture was cooled to room temperature at a rate of 5 _x0003_C/h. The colorless block crystals of 1 were isolated by ﬁltration, washed with distilled water and dried in air. Yield 36.8 % based on Cd(OAc)2_x0002_3H2O.
+Abbreviation: L
+Full Name: 1,3-bis-(2-methylbenzimidazol-1-ylmethyl)benzene

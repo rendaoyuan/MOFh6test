@@ -1,0 +1,5 @@
+IDIXAU
+Chemical_Name: N/A
+Number: N/A
+Synonyms: N, /, A
+MOF-69A: A solid mixture of Zn(NO3)2 ¥ 6H2O (24.6 mg, 0.083 mmol) and H2bpdc (10 mg, 0.041 mmol) was dissolved in a vial containing DEF (12 mL), 30% H2O2 (0.40 mL), and MeNH2 (0.20 mL, 51.4 m_x0001_ in DMF). The mixture was allowed to stand in a capped vial for seven days at room temperature. Colorless crystals of MOF-69A were collected and air-dried (21 mg, 86.1% yield).

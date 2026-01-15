@@ -1,0 +1,5 @@
+BAMJOP
+Chemical_Name: catena-((μ2-η6,η2,η1,η1-Calix(4)arene-O,O',O'',O'')-(μ2-η3,η3,η1,η1-calix(4)arene-O,O')-aqua-di-cesium acetonitrile solvate)
+Number: 187711
+Synonyms: N/A
+[Cs2(LH3)2(H2O)]·CH3CN (3) Calix[4]arene (110 mg, 0.26 mmol) was dissolved in CHCl3 (50 ml) with a large excess of NEt3 (4 ml). Cs2CO3 in excess (330 mg, 1.01 mmol) was then added and the resulting cloudy whitish solution was stirred for 1 h at r.t., then filtered. The solution was evaporated to dryness and recrystallized from CH3CN, giving colourless single crystals suitable for X-ray crystallography on slow evaporation.

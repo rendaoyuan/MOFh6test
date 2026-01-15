@@ -1,0 +1,5 @@
+MAPFIU
+Chemical_Name: catena-[(μ2-2-(3-Chlorophenoxy)propanoato-O,O')-trimethyl-tin(iv)]
+Number: 784566
+Synonyms: N/A
+Synthesis of Complexes 7 The acid (1.0 mmol), sodium ethoxide (0.068 g, 1.0 mmol) and trimethyltin chloride (0.199 g, 1.0 mmol) were reacted for 12-h at 45 _x0003_C.

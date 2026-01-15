@@ -1,0 +1,5 @@
+FECWOB01
+Chemical_Name: N/A
+Number: N/A
+Synonyms: N, /, A
+Synthesis and characterization of [Zn2(TBC)2]2.3(H2O), 1 Zn(NO3)2$6H2O (0.1 g, 0.34 mmol) and 4-tetrazolyl benzene-carboxylic acid (0.07 g, 0.36 mmol) were added into methanol (10 ml). The mixture was transferred to a Teﬂon-lined autoclave (23 ml total volume) and placed inside an oven at 150 °C for 3 days. The autoclave was allowed to cool to room temperature naturally to yield colorless crystals. Yield: 0.36 g (36%).

@@ -1,0 +1,5 @@
+GUFQOO
+Chemical_Name: catena-((μ2-1,3-Phenylenediacetate-O,O')-(μ2-1,3-bis(4-pyridyl)propane-N,N')-zinc(ii))
+Number: 717138
+Synonyms: N/A
+No synthesis method found for compound 3

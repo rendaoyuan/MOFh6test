@@ -1,0 +1,5 @@
+XAPQIQ
+Chemical_Name: catena-(bis(μ3-sulfato)-bis(μ3-chloro)-bis(μ2-1-(3,5-bis(1H-imidazol-1-ylmethyl)-2,4,6-trimethylbenzyl)-1H-imidazol-3-ium)-tetrakis(μ2-chloro)-diaqua-dichloro-penta-cadmium)
+Number: 790851
+Synonyms: N/A
+Synthesis of 1: To a 10mL Pyrex glass tube CdSO4·8/3H2O (8mg, 0.03mmol), titmb (11mg, 0.03mmol), HCl (0.3mL (0.1M), 0.01mmol) and 2mL of water were loaded. The pH value was 4.0. The tube was sealed and heated in an oven to 150°C for 2d, and then cooled down to ambient temperature at the rate of 5°C h−1 to obtain colorless crystals of 1, which were washed with ethanol and dried in air. Yield: 4mg (55% based on Cd).

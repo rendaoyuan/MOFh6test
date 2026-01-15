@@ -1,0 +1,11 @@
+TOWXEK
+Chemical_Name: N/A
+Number: N/A
+Synonyms: N, /, A
+Preparation of ZnL–DMF: A solution of H3L (0.025m) in DMF (3.0 mL) was mixed with Zn(NO3)2·6H2O in DMF (1.0 mL) in a tightly capped glass vial. The contents were heated at 908C. Dagger-shaped crystals of ZnL–DMF were obtained after 48 h: yield 81% (0.019 g, 0.025 mmol). Preparation of ZnL–Zn: A solution of H3L (0.20 g, 0.35 mmol) and Zn(NO3)2·6H2O (0.21 g, 0.70 mmol) in 14 mL of DEF/EtOH/H2O (4:2:1, v/v) mixture was heated at 908C in a tightly capped glass vial. After 20 h, long columnar crystals of ZnL–Zn were obtained: yield 98% (0.23 g, 0.34 mmol).
+Abbreviation: H3L
+Full Name: tritopic triacid
+Abbreviation: H3L
+Full Name: trigonal triacid
+Abbreviation: H3L
+Full Name: triacetic acid based on mesitylene core

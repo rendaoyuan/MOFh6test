@@ -1,0 +1,7 @@
+EQOXUD
+Chemical_Name: catena-((μ2-1,3-bis(trans-4-pyridylethenyl)benzene)-bis(hexafluoroacetylacetonato)-manganese(ii))
+Number: 229026
+Synonyms: N/A
+Synthesis of [Mn(L1)(hfac)2]∞(5). Mn(hfac)2 (33 mg, 0.07 mmol) in 4 mL of acetonitrile solution was layered onto a solution of L1 (20 mg, 0.07 mmol) in 4 mL of MeOH, and the mixed solvent was evaporated in several days to give 5 (42 mg, 79% yield).
+Abbreviation: L1
+Full Name: 1,3-bis(trans-4-styrylpyridyl)benzene

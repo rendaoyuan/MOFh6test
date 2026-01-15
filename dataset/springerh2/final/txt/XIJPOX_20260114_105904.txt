@@ -1,0 +1,7 @@
+XIJPOX
+Chemical_Name: catena-[(μ2-Benzene-1,4-dicarboxylato)-(μ2- 1,1'-(1,4-phenylenebis(methylene))bis(5,6-dimethyl-1H-benzimidazole))-cadmium(ii) acetonitrile solvate dihydrate]
+Number: 897111
+Synonyms: N/A
+Synthesis of {[Cd(L1)(chdc)]_x0002_(CH3CN)_x0002_(H2O)2}n (1) A mixture of Cd(NO3)2 . 4H2O (23.6 mg, 0.1 mmol), L1 (39.5 mg, 0.1 mmol), H2chdc (34.4 mg, 0.1 mmol), CH3 CN (1 mL), and H2O (4 mL) was sealed in a 25 mL Teﬂon-lined stainless vessel and heated to 140 _x0003_C for 3-d under autogenous pressure, and then cooled to room temperature at a cooling rate of 5 _x0003_C h. The slightly yellow block-shaped crystal of 1 was obtained by ﬁltration. 1 was washed with distilled water and dried in the air; yield, 50.4 % [based on Cd(NO3)2 . 4H2O].
+Abbreviation: L1
+Full Name: 1,4-bis(5,6-dimethylbenzimidazole-1-ylmethyl) benzene

@@ -1,0 +1,5 @@
+WANJOL
+Chemical_Name: catena-((μ3-Pyridine-3,5-dicarboxylato)-bis(pyridine)-copper(ii))
+Number: 255538
+Synonyms: N/A
+Synthesis of 2: 3,5-pyridinedicarboxylic acid (0.04 mmol), Cu(NO3)2?2.5H2O (0.04 mmol), DMF (1.5 mL), EtOH (0.5 mL), and py (0.4 mL). Solution heated at 85 uC for 12 h, then cooled to room temperature. Light blue needle crystals collected and air dried (85% yield).

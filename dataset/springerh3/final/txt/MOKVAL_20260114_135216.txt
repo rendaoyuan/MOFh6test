@@ -1,0 +1,5 @@
+MOKVAL
+Chemical_Name: catena-[(μ-but-2-enedioato)-aqua-(2-(4,5-dihydro-1H-imidazol-2-yl)pyridine)-copper(ii) monohydrate]
+Number: 958429
+Synonyms: N/A
+Preparation of [Cu(PI)(fum)(H2O)]·H2O (2) Cu(OAc)2·H2O (0.1 mmol, 20.0 mg) was dissolved in 5 ml water, and carefully layered by 5 ml methanol solution of PI (0.1 mmol, 14.8 mg) and H2fum (0.10 mmol, 11.6 mg). Slow evaporation of the diffused mixture provided suitable blue block single crystals of 2 for X-ray crystallography after a week. Yield: 55 % (based on PI).

@@ -1,0 +1,5 @@
+QIWCOQ
+Chemical_Name: catena-[(μ6-4,4',4'',4'''-(ethane-1,1,2,2-tetrayltetrakis(1H-pyrazole-1,4-diyl))tetrabenzoato)-diaqua-di-copper N,N-dimethylformamide solvate]
+Number: 980812
+Synonyms: N/A
+In a screw cap vial, Cu(NO3)2·2.5H2O (6.5 mg, 0.022 mmol) and L (10.0 mg, 0.013 mmol) were combined and dissolved in DMF (1.5 mL) and water (1 mL). Acetic acid (2 drops) was added to the mixture and the mixture sonicated for 2 min. The mixture heated at 100 °C for 2 days to give blue crystals of [Cu2(L)(H2O)2]·1.4DMF, which were washed three times with DMF. Yield 7.0 mg (60%, based on analysis for [Cu2(L)(H2O)2]·4H2O).

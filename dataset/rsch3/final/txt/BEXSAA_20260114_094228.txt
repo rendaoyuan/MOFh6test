@@ -1,0 +1,7 @@
+BEXSAA
+Chemical_Name: catena-[bis(μ4-5-(3,5-dicarboxybenzyloxy)-3-pyridincarboxylato)-octaaqua-bis(dimethylformamide)-tri-manganese dimethylformamide solvate]
+Number: 915076
+Synonyms: N/A
+Synthesis of Compound 4: A mixture of H3L (3.2 mg, 0.01 mmol) and Mn(NO3)2·4H2O (5.2 mg, 0.02 mmol) was dissolved in 4 mL of DMF:water (1:1). The mixture was heated for 24 h in a bath-reactor at temperature of 120°C, and after cooling to room temperature colorless crystals were obtained, separated by filtration, washed with water and DMF, and then dried in air. The yield was approximately 49% based on metal salt.
+Abbreviation: H3L
+Full Name: 5-(3,5-dicarboxybenzyloxy)-3-pyridine carboxylic acid

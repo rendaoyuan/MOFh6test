@@ -1,0 +1,5 @@
+LAVHAT
+Chemical_Name: catena-((μ2-4,4'-Diamino-2,2'-stilbenedisulfonato)-tetra-aqua-magnesium)
+Number: 683100
+Synonyms: N/A
+Synthesis of [Mg(dsd)(H2O)4] n (1) Complex 1 was synthesized from the reaction mixture of 4,4′-diamino-2,2′-stilbenedisulfonic acid (0.370g, 1mmol), Mg(OH)2 (0.058g, 1mmol) and 10mL 90% ethanol solution in a 23mL Parr Teflon-lined autoclave at 150°C for 3days, then cooled to room temperature at a rate of 10°C/h. Yellowish crystals suitable for single-crystal X-ray diffraction analysis were washed by ethanol and dried in air. Yield: 41% based on Mg.

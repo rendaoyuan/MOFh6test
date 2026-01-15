@@ -1,0 +1,5 @@
+JOJGOG
+Chemical_Name: catena-[(μ3-3,3'-Dicarboxy-2,2'-bipyridine-6,6'-dicarboxylato)-aqua-cadmium(ii)]
+Number: 861967
+Synonyms: N/A
+A mixture of bptcH4 ligand (0.0664g, 0.2mmol), Cd(PiC)2·6H2O (0.271g, 0.4mmol) (PiC=picronitric acid), and H2O (10mL) was sealed in a 23mL Teflon-lined stainless steel container and heated at 130°C for 3 days, then cooled to room temperature at a rate of 2°Ch−1 and colorless block crystals of 1 were obtained. After filtration, the crystals were washed with DMF and dried in air (166mg yield 90% based on Cd).

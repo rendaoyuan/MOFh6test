@@ -1,0 +1,5 @@
+VIYYOT
+Chemical_Name: N/A
+Number: N/A
+Synonyms: N/A
+Preparation of {[Cd(4-cpa) (bpp)2H2O]}n (1) Complex 1 was prepared by addition of stoichiometric amounts of Cd(NO3)2·4H2O (0.077 g, 0.25 mmol) and bpp (0.137 g, 0.5 mmol) to a hot aqueous solution (12 mL) of 4-Hcpa (0.093 g, 0.5 mmol), which the pH was adjusted to 7–8 with NaOH (0.08 g, 0.2 mmol) in advance. The resulting solution was stirred for 30 min at room temperature and sealed in a 23 mL Teflon-lined stainless steel autoclave and heated at 160 °C for 3 days under autogenous pressure. Colorless single crystals of (1) were obtained (yield: 56 %, based on 4-cpa) upon cooling the solution to room temperature at 5 °C/h.

@@ -1,0 +1,5 @@
+HOJJOH
+Chemical_Name: catena-[(μ2-Octane-1,8-diamine)-silver (μ3-2-hydroxy-5-sulfobenzoato)-silver]
+Number: 1005874
+Synonyms: N/A
+A mixture of AgNO3 (0.17g, 1.0mmol), H3Ssal (0.218g, 1.0mmol) and 1,8-diaminooctane (0.144g, 1.0mmol) in the water:methanol mixture (20: 10mL) was stirred at room temperature for a hour and then aqueous NH3 solution (% 25) was dropped into the mixture to get a clear solution. This clear solution was left to evaporate slowly in darkness for about one week at room temperature. After one week, colorless crystals were obtained. Yield: 0.44g, 38.16% based on AgNO3.

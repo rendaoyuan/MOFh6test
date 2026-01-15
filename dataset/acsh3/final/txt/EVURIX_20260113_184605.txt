@@ -1,0 +1,5 @@
+EVURIX
+Chemical_Name: catena-(bis(μ2-5-(2-Amino-4-carboxyphenoxy)isophthalato)-bis(μ2-4,4'-bipyridine)-tetra-aqua-di-cobalt unknown solvate)
+Number: 825116
+Synonyms: N/A
+No synthesis method found for compound 8

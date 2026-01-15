@@ -1,0 +1,7 @@
+WASNUA
+Chemical_Name: catena-(bis(μ2-1,1'-Ferrocenedicarboxylato)-tris(μ2-1,1'-(1,4-butanediyl)-bis(imidazole))-di-copper(ii) hexahydrate)
+Number: 228776
+Synonyms: N/A
+Synthesis of [CuL1.5(L2)]·3H2O (2): A mixture of CuCl2·2H2O (0.171 g, 1 mmol), NaOH (0.080 g, 2 mmol), and 1,1- ferrocenedicarboxylic acid (H2L2; 0.116 g, 1 mmol) in water was stirred for 10 min at 60 °C, then 1,1-(1,4-butanediyl)bis(imidazole) (L; 0.190 g, 1 mmol) was added to the mixture. After stirring for 30 min, the blue precipitate was collected and dissolved in a minimum amount of ammonia (14 m). Blue single crystals of 2 were obtained by slow evaporation of the ammoniacal solution at ambient temperature. Yield: 72% (324 mg).
+Abbreviation: H2L2
+Full Name: 1,1-ferrocenedicarboxylic acid

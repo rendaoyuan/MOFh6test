@@ -1,0 +1,5 @@
+WEDPUS
+Chemical_Name: catena-((μ4-4,4',4'',4'''-cyclobutane-1,2,3,4-tetrayltetrapyridine)-tetrakis(benzoato)-diaqua-di-cadmium(ii) methanol solvate dihydrate)
+Number: 857200
+Synonyms: N/A
+Synthesis of 6-Cd. 14.2mg (0.10mmol) of ammonium benzoate and 15.7mg (0.05mmol) of Cd(NO3)2·4H2O were dissolved in 4mL H2O and carefully layered by 4mL methanol solution of trans-1,2-bis(4-pyridyl)ethylene ligand (4.7mg, 0.025mmol). Suitable crystals of compound 6-Cd for X-ray analysis were obtained in several months. The yield was 5.1mg (15.5%).

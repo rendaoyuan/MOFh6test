@@ -1,0 +1,5 @@
+CUNWEO
+Chemical_Name: catena-[(μ3-Trimellitic nicotinato)-(μ2-trimellitic nicotinato)-cadmium(ii) dimethylformamide nitrobenzene monohydrate clathrate]
+Number: 747407
+Synonyms: N/A
+Synthesis of 1: A DMF solution (2 mL) containing Cd-(NO3)2 3 6H2O (8.64 mg, 0.028 mmol) was added to HTriNA (15 mg, 0.058 mmol) and nitrobenzene (1 mL) in a scintillation vial, sealed and heated at 105 _x0001_C for 24 h, which produced colorless parallelepiped crystals.

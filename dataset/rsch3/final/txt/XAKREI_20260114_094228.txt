@@ -1,0 +1,5 @@
+XAKREI
+Chemical_Name: catena-((μ2-Biphenyl-2,2'-dicarboxylato)-(μ2-4,4'-methylenebis(3,5-dimethyl-1H-pyrazole))-copper(ii))
+Number: 838983
+Synonyms: N/A
+No synthesis method found for compound 3

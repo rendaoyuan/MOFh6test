@@ -1,0 +1,5 @@
+FAYPAY
+Chemical_Name: catena-[(μ4-tetrakis((4-Carboxylatophenoxy)methyl)methane)-hexakis(μ3-benzotriazolyl)-aqua-penta-zinc(ii) unknown solvate]
+Number: 854812
+Synonyms: DMOF-1
+No synthesis information available

@@ -1,0 +1,5 @@
+AGEZUI
+Chemical_Name: catena-((μ4-Benzene-1,3,5-tricarboxylato-O,O',O'',O''')-(μ2-hydroxo)-bis(pyrazino(2,3-f)(1,10)phenanthroline-N,N')-di-copper(ii) monohydrate)
+Number: 669532
+Synonyms: N/A
+Synthesis of [Cu2(BTC)(OH)(Dpq)2]·H2O (2): A mixture of CuCl2 ·2H2O (0.034g, 0.2mmol), H3BTC (0.025g, 0.12mmol), Dpq (0.023g, 0.1mmol), H2O (12mL) and NaOH (0.015g, 0.37mmol) was stirred for 30min in air, then transferred and sealed in a 25mL Teflon reactor, which was heated at 160°C for 6 days leads to the formation of yellow block crystals, and washed by water, ethanol, dried in air. Yield: ∼25% (based on Cu).

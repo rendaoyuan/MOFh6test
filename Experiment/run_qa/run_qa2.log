@@ -1,0 +1,85 @@
+======================================================================
+会话开始: 2026-01-14 22:18:34,399
+执行的脚本: main.py
+Python路径: F:\software\Anaconda\envs\c2ml\python.exe
+======================================================================
+
+2026-01-14 22:18:34,399 - INFO - DataFrame prepared with 54808 rows
+
+🌟 Initializing MOF Analysis System...
+
+💎 Welcome to MOF Analysis System!
+
+📋 Available Commands:
+📄 'How to synthesize <code/name>' - Obtain the synthesized text
+📄 'process pdf <path>' - Process a PDF document
+🔬 'workflow <path>' - Run analysis workflow on processed PDF
+💾 'show saved' - Show saved documents
+📥 'download cif <code>' - Download CIF file for a CCDC code
+🔮 'visualize <code>' - Visualize crystal structure for a CCDC code
+Query> give me the pld of mof-5
+2026-01-14 22:18:52,036 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-14 22:18:52,042 - INFO - Query analysis: {'query_type': 'property', 'materials': ['MOF-5'], 'properties': ['PLD'], 'operation': {'type': None, 'value': None}, 'range': {}, 'uses_context': False, 'reasoning': [], 'page_size': None}
+2026-01-14 22:18:55,845 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+The PLD (Pore Length Diameter) values for MOF-5 are as follows:
+
+1. CCDC Code: MIBQAR - PLD: 7.9588 Å
+2. CCDC Code: MIBQAR01 - PLD: 7.9644 Å
+3. CCDC Code: MIBQAR02 - PLD: 7.96701 Å
+4. CCDC Code: MIBQAR03 - PLD: 7.95718 Å
+5. CCDC Code: MIBQAR04 - PLD: 7.96677 Å
+
+If you need more details or additional rows, please let me know!
+
+Query> the pld of SAHYOQ is what？
+2026-01-14 22:19:08,877 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-14 22:19:08,878 - INFO - Query analysis: {'query_type': 'property', 'materials': ['SAHYOQ03', 'SAHYOQ04', 'SAHYOQ05'], 'properties': ['PLD (Å)'], 'operation': {'type': None, 'value': None}, 'range': {}, 'uses_context': True, 'reasoning': [], 'page_size': None}
+
+The PLD values for SAHYOQ are as follows:
+
+- SAHYOQ03: 7.95238 Å
+- SAHYOQ04: 7.94526 Å
+- SAHYOQ05: 7.91769 Å
+
+If you need more details or additional information, feel free to ask!
+
+Query> 2026-01-14 22:19:11,002 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+i vary hungry of the density of QOWTIG
+2026-01-14 22:20:25,829 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-14 22:20:25,829 - INFO - Query analysis: {'query_type': 'property', 'materials': ['QOWTIG'], 'properties': ['density (g/cm³)'], 'operation': {'type': None, 'value': None}, 'range': {}, 'uses_context': True, 'reasoning': [], 'page_size': None}
+2026-01-14 22:20:27,114 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+The density of QOWTIG is 0.957987 g/cm³.
+
+Query> What is the name of ABIGEZ06?
+2026-01-14 22:20:46,536 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-14 22:20:46,537 - INFO - Query analysis: {'query_type': 'chat', 'materials': ['ABIGEZ06'], 'properties': [], 'operation': {'type': None, 'value': None}, 'range': {}, 'uses_context': True, 'reasoning': [], 'page_size': None}
+2026-01-14 22:20:49,000 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+The name of ABIGEZ06 is "catena-(bis(μ2-Quinoline-8-thiolato)-cobalt(ii))".
+
+Query> what about it ccdc number
+2026-01-14 22:20:57,364 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-14 22:20:57,365 - INFO - Query analysis: {'query_type': 'chat', 'materials': ['ABIGEZ06'], 'properties': [], 'operation': {'type': None, 'value': None}, 'range': {}, 'uses_context': True, 'reasoning': [], 'page_size': None}
+2026-01-14 22:20:58,679 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+The CCDC number for the compound with CCDC code ABIGEZ06 is 799881. 
+
+If you need more information or additional entries, feel free to ask!
+
+Query> the pld of BIT-103，and it chemical name
+2026-01-14 22:21:08,114 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-14 22:21:08,115 - INFO - Query analysis: {'query_type': 'property', 'materials': ['BIT-103'], 'properties': ['PLD (Å)', 'chemical name'], 'operation': {'type': None, 'value': None}, 'range': {}, 'uses_context': True, 'reasoning': [], 'page_size': None}
+2026-01-14 22:21:10,807 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+The PLD of BIT-103 is 3.45366 Å, and its chemical name is catena-[hexakis(μ6-Benzene-1,3,5-tricarboxylato)-hepta-aqua-tetrakis(nitrato)-undeca-zinc N,N-dimethylformamide dimethylacetamide solvate hydrate].
+
+Query> q!
+
+👋 Thank you for using MOF Analysis System. Goodbye!
+
+======================================================================
+会话结束: 2026-01-14 22:21:11,251
+退出代码: 1
+======================================================================

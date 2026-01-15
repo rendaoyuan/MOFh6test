@@ -1,0 +1,5 @@
+HABROT
+Chemical_Name: catena-[(μ4-Benzene-1,3,5-tricarboxylato-O,O',O'',O''')-(μ4-tetrakis(imidazol-1-yl)borate-N3,N3',N3'',N3''')-di-zinc(ii) trihydrate]
+Number: 764369
+Synonyms: MC-BIF-3H
+Synthesis of MC-BIF-3H: NaB(im)4 (0.036 g), Zn(AC)2·2H2O (0.043 g), 1,3,5-BTC (0.032 g), imidazole (im, 0.016 g) and H2O (2.12 g) were placed in a 20 ml vial. The sample was heated at 120 oC for 5 days, and then cooled to room-temperature. After washed by ethanol, the colorless crystals were obtained (yield: 0.048 g, 51.6% based on B).

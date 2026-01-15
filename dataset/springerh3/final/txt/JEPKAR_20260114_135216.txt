@@ -1,0 +1,5 @@
+JEPKAR
+Chemical_Name: catena-(bis(μ2-Thiocyanato-N,S)-aqua-(cis-syn-cis-dicyclohexyl-18-crown-6)-bis(thiocyanato)-barium-platinum)
+Number: 227556
+Synonyms: N/A
+Synthesis of complex 1 This complex was prepared by adding 10 mL aqueous mixture of BaCO3 (0.0494 g, 0.25 mmol), H2PtCl4 (0.25 mmol) and Ba(SCN)2 (0.759 g, 3 mmol) to 10 mL cis-syn-cis- dicyclohexyl-18-crown-6 (0.3722 g, 1 mmol) in 1,2-dichloroethane. The reaction mixture was stirred for 3 h at room temperature, then the organic phase was separated. Yellow crystals were obtained from 4:1 diethyl ether/1,2- dichloroethane solution over a period of 15 days. Yield, 60% (based on Pt).

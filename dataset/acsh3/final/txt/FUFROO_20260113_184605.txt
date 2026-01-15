@@ -1,0 +1,5 @@
+FUFROO
+Chemical_Name: catena-((μ3-5-carboxy-2-(pyridin-4-yl)imidazole-4-carboxylato-N,N',N'',O,O'')-aqua-zinc(ii))
+Number: 671833
+Synonyms: N/A
+Synthesis of [Zn(HPIDC)(H2O)]n (3). A mixture of Zn(NO3)2 · 6H2O (0.061 g, 0.2 mmol), 2-(pyridin-4-yl)-1H-imidazole-4,5-dicarboxylic acid (0.046 g, 0.2 mmol), NaOH (0.016 g, 0.4 mmol) and H2O (15 mL) was sealed into a Teﬂon-lined stainless autoclave and heated at 160 °C for 4 days and then cooled to room temperature gradually. Colorless block crystals were obtained in 53% yield (based on Zn).

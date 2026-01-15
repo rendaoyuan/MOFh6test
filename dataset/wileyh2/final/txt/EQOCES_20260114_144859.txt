@@ -1,0 +1,5 @@
+EQOCES
+Chemical_Name: catena-(tetrakis(μ2-Imidazol-1,3-diyl)-di-cobalt(ii) cyclohexanol clathrate)
+Number: 212355
+Synonyms: N/A
+[Co2(im)4ÊCyhol]8 (2): Co(Ac)2¥4H2O (1.245 g, 5.0 mmol) was dissolved in cyclohexanol (10 mL) and then a cyclohexanol solution (20 mL containing 10 mmol imidazole and 5 mmol piperazine) was added. The heterogeneous mixture was stirred at room temperature for 12 h and then was placed into a Teflon-lined autoclave (34 mL). The autoclave was sealed and heated at 1408C for 24 h. After the mixture was cooled to room temperature, violet crystals were collected and washed with ethanol (3î 15 mL; yield: 85%).

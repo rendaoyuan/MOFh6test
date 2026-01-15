@@ -1,0 +1,5 @@
+GOLYUD
+Chemical_Name: catena-[(μ-4,4',4'',4'''-(oxydibenzene-5,1,3-triyl)tetrapyridine)-tris(μ-4,4'-sulfonyldibenzoato)-aqua-tri-cobalt N,N-dimethylformamide solvate]
+Number: 1002457
+Synonyms: N/A
+Compounds 3 can be synthesized by a general step: a mixture of Co(NO3)2·6H2O, L and H2sdb was dissolved in a DMF–H2O–CH3CN mixed solvent. The final mixture was placed in a Parr Teflon-lined stainless steel vessel (25 mL) under autogenous pressure and heated at 95 °C for 3 days.

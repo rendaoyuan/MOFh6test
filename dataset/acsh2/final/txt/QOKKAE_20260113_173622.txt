@@ -1,0 +1,5 @@
+QOKKAE
+Chemical_Name: catena-[bis(μ5-pyridine-2,3,5,6-tetracarboxylato)-bis(μ2-oxalato)-decaaqua-tetra-ytterbium tetradecahydrate]
+Number: 770816
+Synonyms: N/A
+Preparation of {[Yb2(ptc)(ox)(H2O)5]·7H2O}n (2). A mixture of Yb(NO3)3·6H2O (0.0934 g, 0.2 mmol), H4ptc (0.0510 g, 0.2 mmol), and water (10 mL) was poured into a 25 mL Teﬂon high-temperature kettle and kept at 150 °C for 24 h. Then it was cooled to 110 °C at a rate of 2 °C h−1 and to room temperature at a rate of 1 °C h−1. The pH value of the solution was 2−3. Colorless crystals of 2 were obtained. Yield 47% based on Yb.

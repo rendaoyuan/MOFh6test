@@ -1,0 +1,5 @@
+LUNVUL
+Chemical_Name: catena-[(μ3-bis(1,2,4-Triazol-1-yl)methane)-(μ2-nitrato)-silver(i)]
+Number: 202148
+Synonyms: N/A
+To a solution of tz2(CH2) (0.150 g, 1.0 mmol) in ethanol (30 mL) was added an ethanol solution of AgNO3 (0.169 g, 1.0 mmol) in the same solvent (10 mL). The mixture was stirred at 50 °C for 2 h. It was then cooled and left at 4 °C until a colorless crystalline solid was formed, which was filtered off, washed with diethyl ether, and dried to constant weight under reduced pressure (0.254 g, 0.8 mmol, 80% yield).

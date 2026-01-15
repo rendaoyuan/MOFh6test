@@ -1,0 +1,5 @@
+PACZUQ
+Chemical_Name: catena-(tris(μ5-3,3',3''-Nitrilotripropionato)-hexa-aqua-tri-praseodymium decahydrate)
+Number: 744742
+Synonyms: N/A
+Synthesis of Compound 1 Pr(NO3)3·6H2O (0.17 g, 0.40 mmol) and H3NTP(0.05 g, 0.20 mmol) acid in a molar ratio of 2:1 were added to H2O (20 mL). The mixture was stirred and heated under reflux for 6 h. Green crystals of [Pr3(NTP)3(H2O)6]·10H2O (1) appeared after storage of the mixture for three months at room temperature. Yield over 67 % based on the initial Pr(NO3)3·6H2O.

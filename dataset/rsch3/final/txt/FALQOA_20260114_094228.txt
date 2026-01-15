@@ -1,0 +1,5 @@
+FALQOA
+Chemical_Name: catena-(hexakis(μ3-2,2'-iminodipropanoato)-tri-copper(ii)-di-neodymium trihydrate)
+Number: 834766
+Synonyms: N/A
+No synthesis method found for compound 3

@@ -1,0 +1,5 @@
+HOJJIB
+Chemical_Name: catena-[bis(μ4-2-Hydroxy-5-sulfonatobenzoato)-tris(μ2-2,5-dimethylpyrazine)-tetra-silver tetrahydrate]
+Number: 1005873
+Synonyms: N/A
+A mixture of AgNO3 (0.17g, 1.0mmol), H3Ssal (0.218g, 1.0mmol) and 2,5-dimethylpyrazine (0.108g, 1.0mmol) in the water:methanol mixture (20: 10mL) was stirred at room temperature for a hour and then aqueous NH3 solution (% 25) was dropped into the mixture to get a clear solution. This clear solution was left to evaporate slowly in darkness for about four days at room temperature. After four days later, colorless crystals of 3 were collected. Yield: 0.62g, 48.96% based on AgNO3.

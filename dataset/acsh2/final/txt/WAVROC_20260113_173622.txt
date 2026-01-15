@@ -1,0 +1,5 @@
+WAVROC
+Chemical_Name: catena-((μ6-Benzene-1,3,5-triphenylcarboxylato)-tris((μ5-benzene-1,3,5-triphenylcarboxylato)-(μ3-hydroxo))-hexa-aqua-tri-indium-tri-magnesium tetrahydrate)
+Number: 850068
+Synonyms: N/A
+Synthesis of CPM-23: A mixture of In(NO3)3·5H2O (0.025 g), 1,3,5-tri(4-carboxyphenyl)benzene (0.045 g), Mg(NO3)2·4H2O (0.048 g), H2O (0.50 g) and DMA (2.50 g) was stirred in a 20 ml vial for 1 hour. And then the sample was heated at 100 oC for 5 days. After cooling to room-temperature, colorless crystals were obtained.

@@ -1,0 +1,5 @@
+RUBGOM
+Chemical_Name: catena-(bis(μ4-6,6'-Disulfanediyldinicotinato-O,O,O',O'',O''')-(μ4-6,6'-disulfanediyldinicotinato-O,O',O'',O''')-bis(5,5'-dimethyl-2,2'-bipyridine)-tri-manganese dimethylformamide solvate dihydrate)
+Number: 1037970
+Synonyms: N/A
+Synthesis of {[Mn6Ĳdtdn)6Ĳ5,5′-dmbpy)4]Ĵ5DMFĴ2H2O}n (2) A mixture of H2dtdn (15.5 mg, 0.0499 mmol), 5,5′-dimethyl-2,2′-bipyridine Ĳ5,5′-dmbpy, 9.20 mg, 0.0500 mmol) and manganeseĲII) nitrate hexahydrate (29.1 mg, 0.101 mmol) was dissolved in a DMF solution (H2O : DMF = 0.5 mL : 5.0 mL). The resulting solution was kept at 50 °C for 17 days. The pale yellow rectangular crystals of 2 were collected by filtration, washed with water and DMF, and dried in air. Yield: 58.2% (15.8 mg, 0.00484 mmol) based on H2dtdn.

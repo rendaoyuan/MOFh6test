@@ -1,0 +1,5 @@
+KIFTEA
+Chemical_Name: catena-((μ2-1,1'-(1,4-Phenylenebis(methylene))bis(1H-1,2,4-triazole))-bis(μ3-4-nitrophthalic acid)-tetraaqua-di-cobalt)
+Number: 884151
+Synonyms: N/A
+A mixture of Co(NO3)2·6H2O (0.116g, 0.40mmol), 1,4-bis(1,2,4-triazol-1-ylmethyl) benzene (0.024g, 0.10mmol), 4-nitrophthalic acid (0.042g, 0.20mmol), NaOH (0.008g, 0.20mmol) and H2O (10mL) was sealed in a 25mL Teflon-lined stainless steel vessel and heated at 150°C for 2days, and then cooled to room temperature. Red block-shaped crystals were filtered off, washed with water and dried in air. Yield: 73% based on btx.

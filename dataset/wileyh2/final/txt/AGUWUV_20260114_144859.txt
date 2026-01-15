@@ -1,0 +1,5 @@
+AGUWUV
+Chemical_Name: N/A
+Number: N/A
+Synonyms: N/A
+Synthesis {[Ni3(H2O)4(ptz)2(btec)]·4H2O}n (1): NiCl2·6H2O (47.5 mg, 0.2 mmol), H4btec (25.4 mg, 0.1 mmol), 2-cyanopyrazine (10.5 mg, 0.1 mmol), and NaN3 (13.0 mg, 0.2 mmol) were dissolved in water (10 mL) and stirred for 10 minutes. Afterwards, the resulting mixture was transferred into a parr Teflon-lined stainless steel vessel (23 mL) and heated to 160 °C for 96 h under autogenous pressure. Green block-shaped crystals suitable for X-ray analysis were obtained directly, washed with ethanol, and dried in air. Yield: 56 % based on 2-cyanopyrazine.

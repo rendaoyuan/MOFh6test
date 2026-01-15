@@ -1,0 +1,5 @@
+RAWROX
+Chemical_Name: N/A
+Number: N/A
+Synonyms: N/A
+Synthesis of [La(2,5-PZDC)1.5(H2O)]n A solution of LaCl3·7H2O (0.038 g, 0.1 mmol), 2,5-pyrazinedicarboxylic acid (0.016 g, 0.15 mmol), H2O (5.0 mL), and aqueous NaOH (0.44 mL, 0.29 mmol) was sealed in a 25-mL stainless steel reactor with Teﬂon liner and heated at 160◦C for 72 h. Colorless crystals were obtained. Yield: 15 mg (37%).

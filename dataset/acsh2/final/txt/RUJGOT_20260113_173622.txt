@@ -1,0 +1,9 @@
+RUJGOT
+Chemical_Name: catena-(bis((μ3-Nicotinate N-oxide-O,O',O'')-(μ3-formato)-(μ3-hydroxo))-tri-manganese(ii) tetrahydrate)
+Number: 751501
+Synonyms: N/A
+Synthesis. A mixture of Mn(HCO2)2 3 4H2O and HL (L = nicotinate N-oxide) at a ratio of 1:0.75 in 15 mL of methanol was sealed in a Teflon-lined stainless steel vessel, heated at 140 _x0001_C for 2 days under autogenous pressure, and then cooled to room temperature. Yellow crystals of 1 were harvested in ca. 20% yield based on Mn(HCO2)2 3 4H2O.
+Abbreviation: HL
+Full Name: nicotinate N-oxide
+Abbreviation: L
+Full Name: nicotinate N-oxide

@@ -1,0 +1,9 @@
+WIPFIM
+Chemical_Name: catena-[pentakis(μ2-4,4'-bipyridine)-bis(hydrogen (2,4,6-trimethyl-3-(phosphonomethyl)benzyl)phosphonato)-dodeca-aqua-tetra-nickel(ii) bis(hydrogen (2,4,6-trimethyl-3-(phosphonomethyl)benzyl)phosphonate) tetradecahydrate]
+Number: 902268
+Synonyms: N/A
+Synthesis of [Ni2(H2L)(bipy)2.5(H2O)6]·(H2L)2–·7H2O (2): A mixture of H4L (0.0616 g, 0.2 mmol), Ni(NO3)2·6H2O (0.08724 g, 0.3 mmol) and 4,4_x0002_-bipyridine (0.04685 g, 0.3 mmol) was dissolved in distilled water (10 mL). The further process was the same as that for compound 1 (Scheme 1). Green crystals of compound 2 were collected in about 56% yield based on H4L.
+Abbreviation: H2L
+Full Name: (2,4,6-trimethyl-1,3-phenylene)bis(methylene)diphosphonic acid
+Abbreviation: H4L
+Full Name: (2,4,6-trimethyl-1,3-phenylene)bis(methylene)diphosphonic acid

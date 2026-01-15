@@ -1,0 +1,7 @@
+IYUMEU
+Chemical_Name: catena-[(μ2-1,4-bis(3-Pyridyl)-2,3-diaza-1,3-butadiene)-diaqua-bis(saccharinato)-cobalt(ii) unknown solvate]
+Number: 207291
+Synonyms: N/A
+Synthesis of [Co(saccharinate)2(L1)(H2O)2]n solvate A solution of [Co(saccharinate)2· 4H2O] ·2H2O (0.100 mmol) in warm ethanol (8 mL) was carefully layered onto a solution of L1 (0.200 mmol) in warm methylene chloride (8 mL). Diffusion between the two solutions over a period of 1 week produced orange block-shaped crystals suitable for single crystal X-ray analysis.
+Abbreviation: L1
+Full Name: 1,4-bis(3-pyridyl)-2,3-diaza-1,3-butadiene

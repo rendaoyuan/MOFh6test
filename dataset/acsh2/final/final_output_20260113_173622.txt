@@ -1,0 +1,805 @@
+AVUPIR
+Chemical_Name: catena-[tris(μ4-Piperazine-1,4-bis(methylenephosphonato))-di-zirconium nonahydrate]
+Number: 839820
+Synonyms: N/A
+Synthesis of Zr2H4[(O3PCH2)2N2C4H8]3 3 9H2O (1). A mixture of 1.5 mmol of H4L dissolved in 15 mL of water and 4.5 mL of NH3, 1 M, was added to a solution of 1 mmol of ZrOCl23 8H2O and 6 mmol of NH4F in 10 mL of water. The starting pH value was about 7. The closed plastic vessel was then put in an oven at 80 _x0001_C for 6 days. The white solid formed was filtered and washed with NH3, 0.1 M, and dried at 70 _x0001_C. Yield: 270 mg, 47% (calculated on Zr).
+Abbreviation: H4L
+Full Name: piperazine-N,N′-bis(methylenephosphonic acid)
+
+BIMDEF
+Chemical_Name: catena-((μ8-1,3,5,7-adamantanetetracarboxylato)-diaqua-di-copper(ii) tetrahydrate)
+Number: 1111094
+Synonyms: N/A
+Synthesis of MOF-11: A mixture of H4ATC (0.069 g, 0.22 mmol) and Cu(NO3)2‚2.5H2O (0.110 g, 0.47 mmol) in aqueous NaOH (6.0 × 10-5 mmol) was heated to 190 °C for 24 h to give green crystals of MOF-11 in 54% yield) along with tiny amounts of Cu2O.
+
+No abbreviations found in synthesis text
+
+BOWJAA
+Chemical_Name: catena-(Triethylammonium (μ4-5-ethynylisophthalato)-(μ3-hydroxo)-(μ2-5-ethynylisophthalato-O,O',O'')-(μ2-5-ethynylisophthalato-O,O')-(μ2-aqua)-methanol-tri-zinc methanol solvate hydrate)
+Number: 1025923
+Synonyms: N/A
+S y n t h e s i s o f [ H N E t 3 ] [ Z n 3 ( μ 3 - O H ) ( μ 2 - H 2 O ) - (ebdc)3(MeOH)0.67(H2O)0.33]·MeOH·1.33H2O (5). Zinc network 5 was obtained by slow layering of Zn(ClO4)2·6H2O (0.04 g, 0.11 mmol) in H2O and H2ebdc (0.02 g, 0.11 mmol) in MeOH with trace amounts of NEt3 for several days at room temperature in a sealed vial. The layers were allowed to slowly diﬀuse through a 1:1 (H2O/MeOH) buﬀer layer. Yellow plate crystals were obtained. Bulk purity was determined by PXRD.
+
+No abbreviations found in synthesis text
+
+BUCXUT
+Chemical_Name: catena-(tris(μ3-3-Amino-1,2,4-triazolato-N,N',N'')-(μ3-sulfido)-tri-zinc nitrate monohydrate)
+Number: 725470
+Synonyms: N/A
+Synthesis of [Zn3(AmTAZ)3S](NO3)·(H2O) (1·(H2O)). Zinc nitrate (297 mg, 1 mmol), potassium thiocyanate (97 mg, 1 mmol), and HAmTAZ (84 mg, 1 mmol) were combined in a 23 mL Teﬂon-lined Parr autoclave with 6 mL of H2O and 4 mL of ethanol (pH ) 4.6). The autoclave was sealed and heated at 140 °C for 7 days under autogenous pressure before cooling to room temperature at 0.1 °C min-1. Colorless crystals of 1·(H2O) were isolated by ﬁltration and washed once each with water (10 mL) and ethanol (10 mL).
+
+No abbreviations found in synthesis text
+
+BUGSAY
+Chemical_Name: catena-((μ4-(4-carboxypiperidin-1-ylmethyl)phosphonato)-diaqua-dysprosium monohydrate)
+Number: 764678
+Synonyms: N/A
+Compounds 4 was synthesized in a general synthesis, a mixture of 4- cpmpH3 3 2H2O (0.10 mmol, 0.0259 g) and Dy(CH3COO)3 3 4H2O (0.1 mmol) in 8 mL of H2O, adjusted to a certain pH with 2 M HCl (3.46 for 4), was kept in a Teflon- lined autoclave at 140 _x0001_C for 24 h. After slowly being cooled to room temperature, colorless needlelike crystals were collected. For compound 4: Yield 19.1 mg (43.7%).
+
+No abbreviations found in synthesis text
+
+BUGSIG
+Chemical_Name: catena-((μ4-(4-carboxypiperidin-1-ylmethyl)phosphonato)-diaqua-gadolinium monohydrate)
+Number: 764680
+Synonyms: N/A
+Compounds 2 was synthesized in a general synthesis, a mixture of 4- cpmpH3 3 2H2O (0.10 mmol, 0.0259 g) and Gd(CH3COO)3 3 4H2O (0.1 mmol) in 8 mL of H2O, adjusted to a certain pH with 2 M HCl (3.46 for 2), was kept in a Teflon- lined autoclave at 140 _x0001_C for 24 h. After slowly being cooled to room temperature, colorless needlelike crystals were collected. For compound 2: Yield: 22.1 mg (51.3%).
+
+No abbreviations found in synthesis text
+
+BUGSOM
+Chemical_Name: catena-((μ4-(4-carboxypiperidin-1-ylmethyl)phosphonato)-diaqua-terbium monohydrate)
+Number: 764681
+Synonyms: N/A
+Compounds 3 was synthesized as follows: In a general synthesis, a mixture of 4- cpmpH3 3 2H2O (0.10 mmol, 0.0259 g) and Tb(CH3COO)3 3 4H2O (0.1 mmol) in 8 mL of H2O, adjusted to a certain pH with 2 M HCl (3.54 for 3), was kept in a Teflon- lined autoclave at 140 _x0001_C for 24 h. After slowly being cooled to room temperature, colorless needlelike crystals were collected. For compound 3: Yield 12.2 mg (28.2%).
+
+No abbreviations found in synthesis text
+
+CAWVIH
+Chemical_Name: catena-[(μ6-tris(4'-Carboxylatobiphenyl-4-yl)amine)-(μ2-hydroxo)-di-zinc(ii) N,N-dimethylformamide solvate dihydrate]
+Number: 846687
+Synonyms: FIR-1
+Synthesis of [Zn2(OH)L]·2DMF·2H2O (FIR-1): H3L (60 mg, 0.1 mmol) and Zn(NO3)2·6H2O (60 mg, 0.2 mmol) were dissolved in DMF/EtOH/H2O (4:1:1, v/v/v), which were placed in a small vial. The mixture was heated at 120 °C for 24 h and then cooled to room temperature. Yellow rodlike crystals of the product were formed and collected by filtration (yield: 0.065 g, 71% based on L).
+Abbreviation: H3L
+Full Name: tris[(4-carboxyl)phenylduryl]amine
+Abbreviation: L
+Full Name: tris[(4-carboxyl)phenylduryl]amine
+
+COJHIT
+Chemical_Name: catena-[bis(μ4-Benzene-1,4-bis(4-pyrazolato))-di-cobalt diethylformamide solvate dihydrate]
+Number: 701602
+Synonyms: N/A
+Synthesis of Co(BDP)⋅2DEF⋅H2O. A borosilicate tube (1.2 cm o.d. × 15 cm length) was charged with Co(CF3SO3)2 (120 mg, 0.34 mmol), H2BDP (60 mg, 0.29 mmol), and 2.0 mL of N,N′-diethylformamide (DEF). The reaction mixture was degassed by the freeze-pump-thaw method (5 cycles), and the tube was sealed under reduced pressure. The tube was heated in an oil bath at 130 °C for 6 days to afford a purple microcrystalline solid. Upon cooling to room temperature, the tube was broken open in air and the solid was immediately collected by filtration. The solid was then washed with successive aliquots of DEF (5 × 10 mL) and dried under reduced pressure for 30 min to afford 0.13 g (95%) of product. The compound was stored under an atmosphere of DEF vapor.
+
+No abbreviations found in synthesis text
+
+COWLAC01
+Chemical_Name: catena-(bis(μ5-Sulfato-O,O,O',O'',O''')-bis(μ4-5-aminotetrazolato)-bis(μ3-5-aminotetrazolato)-bis(μ3-hydroxo)-penta-cadmium(ii))
+Number: 762089
+Synonyms: N/A
+Synthesis of [Cd5(atz)4(μ3-OH)2(μ5-SO4)2]n (5). A mixture of CdSO4 (0.2085 g, 1.0 mmol), NaN3 (0.0651 g, 1.0 mmol), DCDA (0.0841 g, 1.0 mmol), and water (8 mL) was stirred for 30 min in air, and then was sealed in a 23 mL Teflon autoclave and heated at 170 °C for 3 days. After the sample was cooled to room temperature at a rate of 10 °C/h, colorless pillar crystals were obtained in ca. 48% yield based on Cd.
+
+No abbreviations found in synthesis text
+
+CUNWEO
+Chemical_Name: catena-[(μ3-Trimellitic nicotinato)-(μ2-trimellitic nicotinato)-cadmium(ii) dimethylformamide nitrobenzene monohydrate clathrate]
+Number: 747407
+Synonyms: N/A
+Synthesis of 1: A DMF solution (2 mL) containing Cd-(NO3)2 3 6H2O (8.64 mg, 0.028 mmol) was added to HTriNA (15 mg, 0.058 mmol) and nitrobenzene (1 mL) in a scintillation vial, sealed and heated at 105 _x0001_C for 24 h, which produced colorless parallelepiped crystals.
+
+No abbreviations found in synthesis text
+
+CUVGOQ
+Chemical_Name: catena-((μ4-1,4-phenylenedicyanamide)-(μ2-4,4'-ethene-1,2-diyldipyridine)-manganese N,N-dimethylformamide solvate)
+Number: 785274
+Synonyms: N/A
+Synthesis of [Mn(DCNQI)(bpe)] 3 2DMF: A solution of Mn-(OAc) 3 4H2O (155 mg, 0.632 mmol) in MeOH (15 mL) was diffused into a solution of DNCQI H2 (100 mg, 0.632 mmol) and 1,2-bis(4-pyridyl)-ethylene (bpe) (115 mg, 0.632 mmol) in DMF (3 mL). Yellow crystals separated from the solution overnight, which were collected, washed with MeOH, and dried in air.
+
+No abbreviations found in synthesis text
+
+CUVWOG
+Chemical_Name: catena-((μ2-4,4'-(1,1,1,3,3,3-hexafluoropropane-2,2-diyl)dibenzoato)-bis(μ2-formato)-bis(1,10-phenanthroline)-di-zinc(ii))
+Number: 752229
+Synonyms: F-MOF-8
+Synthesis of Zn(hfbba)0.5(phen)(HCO2) (F-MOF-8): 0.5 mL 1,10-Phenanthroline stock solution (0.20 M) and 1.5 mL 4,4′-Hexafluoroisopropylidene-bis-benzoic acid stock solution (0.20 M) were mixed in a 5 mL vial. To this solution was added 0.5 mL Zn(NO3)2·6H2O stock solution (0.20 M). The vial was capped and heated to 85 ºC for 72 h. The mother liquor was decanted and the products were washed with DMF (15 mL) three times. Colorless crystals of F-MOF-8 were collected by filtration and dried in air (10 min) (yield: 55%). Crystals suitable for X-ray diffraction were grown by heating the reaction mixture for 96h. However heating the reaction mixture for a longer period decreases the yield.
+
+No abbreviations found in synthesis text
+
+CUVXIB
+Chemical_Name: catena-((μ3-4,4'-(1,1,1,3,3,3-hexafluoropropane-2,2-diyl)dibenzoato)-(2,9-dimethyl-1,10-phenanthroline)-manganese hemihydrate)
+Number: 752233
+Synonyms: F-MOF-11A
+Synthesis of [Mn(hfbba)2(dm-phen)] 3 (H2O) (F-MOF-11A) : Hydrothermal reaction of Mn(NO3)2·6H2O (0.035, 0.12 mmol) with 2, 9-Dimethyl-1, 10-Phenanthroline (0.025 g, 0.12 mmol) and excess 4,4′-Hexafluoroisopropylidene-bis-benzoic acid (0.196 g, 0.50 mmol) in a 25 ml acid-digestion bomb using de-ionized water (7 mL) at 120 0C for 72 h produced colorless crystals of F-MOF-11A in quantitative yield. Crystals were collected by filtration, washed with Ethanol and dried in air (10 min).
+
+No abbreviations found in synthesis text
+
+DAWBIO
+Chemical_Name: catena-(bis(μ3-L-Malato)-(μ2-4,4'-azobis(pyridine))-di-cobalt tetrahydrate)
+Number: 878038
+Synonyms: N/A
+Synthesis of [{Co(L-mal)(azpy)0.5}·2H2O]n (1) Co(NO3)2·6H2O (0.5 mmol, 0.145 g) was dissolved in 4 mL of DMF in a 20 mL glass vial; to this, an aqueous solution (2 mL) of L-malic acid (0.5 mmol, 0.067 g) was added with stirring. Then ethanolic solution (2 mL) of azpy (0.25 mmol, 0.045 g) was added, and the mixture was stirred for 30 min to mix well. Then the vial was sealed and heated to 120 °C for 12 h. After being cooled to room temperature, beautiful orange-red crystals of 1 was isolated, washed with DMF, and dried in air. Yield (75%) for 1.
+
+No abbreviations found in synthesis text
+
+DAWBOU
+Chemical_Name: catena-(bis(μ3-L-Malato)-(μ2-4,4'-azobis(pyridine))-di-nickel tetrahydrate)
+Number: 878039
+Synonyms: N/A
+Synthesis of [{Ni(L-mal)(azpy)0.5}·2H2O]n (2) Ni(acetate)2·4H2O (0.100 g, 0.4 mmol) and L-malic acid (0.055 g, 0.4 mmol) were dissolved in 2 mL of water. To this, ethanolic solution (1 mL) of azpy (0.055 g, 0.3 mmol) was added. The mixture was stirred for half an hour and then taken in a 23 mL PTFE- lined acid digestion bomb and heated at 150 °C for 3 days. After being cooled to room temperature, reddish-brown crystals of 2 was isolated. The crystals were washed with ethanol to remove unreacted substances and dried in air. Yield (63%) for 2.
+
+No abbreviations found in synthesis text
+
+DONNIE
+Chemical_Name: catena-[(μ4-Benzene-1,4-dicarboxylato-O,O',O'',O''')-(μ2-hydroxo)-gallium(iii) pyridine clathrate]
+Number: 716225
+Synonyms: MIL-53
+Single-Crystal Growth and Characterization of Ga(OH)BDC· 0.74H2BDC (2) Compound 2, unlike 1, was obtained in single-crystal form in the absence of fluorine. Compound 2 was synthesized from a mixture of gallium nitrate (1 mmol), 1,4-benzenedicarboxylic acid (2 mmol), and deionized water (10 mL) in a molar ratio of 1:2:560. The starting chemicals were mixed in a flexible Teflon bag in air. The bag was then put into a hydrothermal reaction vessel containing 10 mL of deionized water and heated at 220 °C for 3 days. After quenching to room temperature, the product was filtered, washed with dimethylformamide to dissolve unreacted H2BDC followed by deionized water, and then dried at room temperature. The final product was a single-phase-containing colorless polyhedra of 2 suitable for single-crystal X-ray measurements.
+
+No abbreviations found in synthesis text
+
+EQOCES01
+Chemical_Name: catena-[tetrakis(μ2-Imidazolato)-di-cobalt(ii) cyclohexanol clathrate]
+Number: 228486
+Synonyms: N/A
+[Co(im)2‚0.5Ch]∞(7′). Co(Ac)2‚4H2O (1.245 g, 5.0 mmol), imidazole (0.68 g, 10 mmol), and piperazine (0.68 g, 8 mmol) were added to cyclohexanol (25 mL). The reaction mixture was stirred at room temperature for 12 h and then placed in a Teflon-lined autoclave with 5 g of newly activated 4A- zeolite. The autoclave was sealed and heated at 150 °C for 3 days. After cooling to room temperature, violet octahedral crystals of 7′ mixed with compound 27b were collected and washed with 3 × 15 mL of ethanol (0.6 g, yield ca. 43%).
+
+No abbreviations found in synthesis text
+
+EQOXUD
+Chemical_Name: catena-((μ2-1,3-bis(trans-4-pyridylethenyl)benzene)-bis(hexafluoroacetylacetonato)-manganese(ii))
+Number: 229026
+Synonyms: N/A
+Synthesis of [Mn(L1)(hfac)2]∞(5). Mn(hfac)2 (33 mg, 0.07 mmol) in 4 mL of acetonitrile solution was layered onto a solution of L1 (20 mg, 0.07 mmol) in 4 mL of MeOH, and the mixed solvent was evaporated in several days to give 5 (42 mg, 79% yield).
+Abbreviation: L1
+Full Name: 1,3-bis(trans-4-styrylpyridyl)benzene
+
+ERUFUS
+Chemical_Name: catena-((μ2-2,5-bis(Pyrid-4-yl)-1,3,4-thiadiazole-N,N')-bis(μ2-thiocyanato-N,S)-cadmium(ii) methanol solvate)
+Number: 231586
+Synonyms: N/A
+Synthesis of {[CdL1(NCS)2](CH3OH)1.5}n, 4. A solution of an excess of NH4SCN (16 mg, 0.2 mmol) in CH3OH (10 mL) was carefully layered on a CH3OH/CHCl3 solution (5 mL/10 mL) containing Cd(ClO4)2‚6H2O (42 mg, 0.1 mmol) and L1 (24 mg, 0.1 mmol) in a straight glass tube. After ca. one week, block colorless single crystals were obtained. Yield: 39 mg (75%).
+Abbreviation: L1
+Full Name: 2,5-bis(4-pyridyl)-1,3,4-thiadiazole
+
+EVUQOC
+Chemical_Name: catena-((μ5-5-(2-Amino-4-carboxylatophenoxy)isophthalato)-aqua-dimethylformamide-lanthanum monohydrate)
+Number: 825112
+Synonyms: N/A
+A mixture of 1 (5 mg, 0.015 mmol) and La(NO3)3 3 6H2O (6.5 mg, 0.015 mmol) was dissolved in 4 mL of water and placed in a capped glass vessel. The reaction mixture was heated at 80 °C for 48 h in a bath-reactor. Colorless crystals were obtained after cooling the reactor to room temperature. After filtration, the product (colorless crystals) was washed with distilled water and DMF and dried at room temperature. Yield: 54% (based on La).
+
+No abbreviations found in synthesis text
+
+EVURIX
+Chemical_Name: catena-(bis(μ2-5-(2-Amino-4-carboxyphenoxy)isophthalato)-bis(μ2-4,4'-bipyridine)-tetra-aqua-di-cobalt unknown solvate)
+Number: 825116
+Synonyms: N/A
+Co(ClO4)2 3 6H2O (23.4 mg, 0.06 mmol), 1 (5 mg, 0.015 mmol), and 4,40-bipyridyl (3.7 mg, 0.02 mmol) were placed in a capped glass vessel and dissolved in 4 mL of DMF/water (1:1). Then the mixture was heated for 48 h in bath-reactor at 80 _x0001_C, and after cooling to room temperature the reaction mixture was kept for slow evaporation. After 7 days red block crystals appeared and were collected by filtration. Yield: 89% (based on Co).
+
+No abbreviations found in synthesis text
+
+FEYJID
+Chemical_Name: catena-((μ8-1,1'-biphenyl-3,3',5,5'-tetracarboxylato)-(μ2-aqua)-tetraaqua-di-cobalt(ii) tris(dimethylformamide) ethanol clathrate tetrahydrate)
+Number: 257467
+Synonyms: N/A
+MOF-501 was prepared from reaction of H4BPTC (0.030 g, 0.09 mmol) and Co(NO3)2‚6H2O (0.050 g, 0.17 mmol) in a solution containing DMF (3 mL), C2H5OH (3 mL), and H2O (2 mL). This solution was sealed in a Teflon-lined stainless steel digestion bomb (23 mL) and heated to 75 °C at a rate of 2 °C/min for 48 h. It was then cooled to room temperature at 1 °C/min to give orange cubic crystals of MOF-501, which was formulated as Co2(BPTC)-(H2O)5‚(DMF)3(EtOH)(H2O)4 (37% yield, based on H4BPTC). During the synthesis of MOF-501, a small amount of a second phase was observed as purple plates whose proportion increased when reaction times were extended. Subsequently, a pure sample of the second phase, named MOF-502, was obtained by heating the reaction mixture for 144 h at 75 °C. This was obtained in 56% yield (based on H4BPTC) and formulated as Co2(BPTC)(H2O)(DMF)2‚(DMF)(H2O)1.5. The direct transformation of MOF-501 into MOF-502 was also achieved by submerging isolated MOF-501 crystals in the original mother liquor and heating for 96 h at 75 °C.
+
+No abbreviations found in synthesis text
+
+FOVBUP
+Chemical_Name: catena-((μ5-2,2'-Bipyridine-3,3'-dicarboxylate-1,1'-dioxide)-diaqua-dichloro-di-lead)
+Number: 999719
+Synonyms: N/A
+Synthesis of [Pb2(bpdado)Cl2(H2O)2]n (6). A mixture of PbCl2 (0.1 mmol, 27.9 mg), H2bpdado (0.1 mmol, 27.8 mg), H2O (12 mL), methanol (3 mL), and an aqueous solution of KOH (1 mol/L, 0.25 mL) was stirred under air atmosphere for 20 min. The solution was placed in a Teﬂon-lined reactor (25 mL), and then the reactor was sealed, and heated at 135 °C for 72 h. After slow cooling to room temperature, colorless block crystals of the 6 were obtained. Yield: 60% based on Pb.
+
+No abbreviations found in synthesis text
+
+FOVPIR
+Chemical_Name: catena-[(μ-(R,S-)2,2'-Bipyridine-3,3'-dicarboxylate-1,1'-dioxide)-diaqua-cadmium(ii)]
+Number: 999714
+Synonyms: N/A
+Synthesis of [Cd(bpdado)(H2O)2]n (1). A mixture of CdCl2 (0.1 mmol, 18.2 mg), H2bpdado (0.1 mmol, 27.2 mg), H2O (12 mL), methanol (3 mL), and an aqueous solution of KOH (1 mol/L, 0.25 mL) was stirred under air atmosphere for 20 min. The solution was placed in a Teﬂon-lined reactor (25 mL), and then the reactor was sealed, and heated at 135 °C for 72 h. After slow cooling to room temperature, colorless block crystals of the 1 were obtained. Yield: 70% based on Cd.
+
+No abbreviations found in synthesis text
+
+FOVPOX
+Chemical_Name: catena-[bis(μ-(R,S-)2,2'-Bipyridine-3,3'-dicarboxylate-1,1'-dioxide)-(μ- 4,4'-ethane-1,2-diyldipyridine)-diaqua-di-cadmium(ii) N,N-dimethylformamide solvate trihydrate]
+Number: 999715
+Synonyms: N/A
+Synthesis of {[Cd2(bpdado)2(bpa)(H2O)2]·DMF·3H2O}n (2). A mixture of H2bpdado (0.05 mmol, 22.4 mg), bpa (0.05 mmol, 9.2 mg), and H2O (5 mL) was stirred and adjusted the pH to 7.0 with aqueous solution of NaOH (1 mol/L). The other mixture of Cd(CH3COO)2·2H2O (0.05 mmol, 13.4 mg), DMF (2.5 mL), and THF (2.5 mL) was stirred under air atmosphere for 5 min. Then, the metal salt solution was slowly layered onto the mixture of ligand. One week later, colorless block crystals of 2 were collected. Yield: 39% based on Cd.
+
+No abbreviations found in synthesis text
+
+FOVPUD
+Chemical_Name: catena-[bis(μ-(R,S-)2,2'-Bipyridine-3,3'-dicarboxylate-1,1'-dioxide)-(μ-4,4'-ethene-1,2-diyldipyridine)-diaqua-di-cadmium(ii) hydrate]
+Number: 999716
+Synonyms: N/A
+Synthesis of {[Cd2(bpdado)2(bpe)(H2O)2]·8.5H2O}n (3). A mixture of H2bpdado (0.05 mmol, 22.4 mg), bpe (0.05 mmol, 9.1 mg), and H2O (5 mL) was stirred and adjusted the pH to 7.0 with aqueous solution of KOH (1 mol/L). The other mixture of Cd(NO3)2·4H2O (0.05 mmol, 15.2 mg), methanol (2.5 mL), and H2O (2.5 mL) was stirred under air atmosphere for 5 min. Then, the metal salt solution was slowly layered onto the mixture of ligand. One week later, colorless block crystals of 3 were collected. Yield: 35% based on Cd.
+
+No abbreviations found in synthesis text
+
+FOVQAK
+Chemical_Name: catena-[bis(μ-(R,S-)2,2'-Bipyridine-3,3'-dicarboxylate-1,1'-dioxide)-(μ-4,4'-ethane-1,2-diyldipyridine)-di-lead(ii) decahydrate]
+Number: 999717
+Synonyms: N/A
+Synthesis of {[Pb2(bpdado)2(bpa)]·10H2O}n (4). A mixture of Pb(CH3COO)2·3H2O (0.05 mmol, 19.4 mg), H2bpdado (0.05 mmol, 13.6 mg), bpa (0.05 mmol, 9.2 mg), H2O (12 mL), methanol (2 mL), and an aqueous solution of KOH (1 mol/L, 0.25 mL) was stirred under air atmosphere for 20 min. The solution was placed in a Teﬂon-lined reactor (25 mL), and the reactor was sealed, and heated at 130 °C for 72 h. After slow cooling to room temperature, colorless block crystals of 4 were obtained. Yield: 50% based on Pb.
+
+No abbreviations found in synthesis text
+
+FUFLEY
+Chemical_Name: catena-[tetrakis(μ2-Propylene-1,3-diamine)-decakis(μ2-cyano)-dicyano-tri-cadmium(ii)-di-chromium(iii)]
+Number: 682764
+Synonyms: N/A
+To a solution of tn (0.220 mL, 2 mmol) and CdSO4 (0.312 g, 1 mmol) in 30 mL of water, an aqueous solution of the K3[Cr(CN)6] (0.332 g, 1 mmol) was added dropwise. The reaction mixture was stirred for 30 min, and then NaClO4 (0.12 g, 1 mmol) was added to aid crystallization. After stirring and heating at 75 °C for a few minutes, the mixture was filtered. Light yellow square-shaped crystals of compound 2 appeared from the filtrate after some days, yield of 0.14 g (42%).
+
+No abbreviations found in synthesis text
+
+FUFREE
+Chemical_Name: catena-((μ3-2-(Pyridin-4-yl)-1H-imidazole-4,5-dicarboxylato-N,N',O,O',O'')-aqua-iron(ii) dihydrate)
+Number: 663363
+Synonyms: N/A
+Synthesis of {[Fe(HPIDC)(H2O)]·2H2O}n (1). A mixture of Fe(NO3)3·9H2O (0.081 g, 0.2 mmol), 2-(pyridin-4-yl)-1H-imidazole-4,5-dicarboxylic acid (0.070 g, 0.3 mmol), NaOH (0.024 g, 0.6 mmol) and H2O (15 mL) was sealed into a Teﬂon-lined stainless autoclave and heated at 160 °C for 4 days and then cooled to room temperature gradually. Red block crystals were obtained in 48% yield (based on Fe).
+
+No abbreviations found in synthesis text
+
+FUFRII
+Chemical_Name: catena-((μ4-2-(Pyridin-4-yl)-1H-imidazole-4,5-dicarboxylato-N,N',O,O,O'')-aqua-cadmium(ii))
+Number: 668494
+Synonyms: N/A
+Synthesis of [Cd(HPIDC)(H2O)]n (2). A mixture of Cd(NO3)2·4H2O (0.061 g, 0.2 mmol), 2-(pyridin-4-yl)-1H-imidazole-4,5-dicarboxylic acid (0.046 g, 0.2 mmol), NaOH (0.016 g, 0.4 mmol) and H2O (15 mL) was sealed into a Teﬂon-lined stainless autoclave and heated at 160 °C for 4 days and then cooled to room temperature gradually. Colorless block crystals were obtained in 57% yield (based on Cd).
+
+No abbreviations found in synthesis text
+
+FUFROO
+Chemical_Name: catena-((μ3-5-carboxy-2-(pyridin-4-yl)imidazole-4-carboxylato-N,N',N'',O,O'')-aqua-zinc(ii))
+Number: 671833
+Synonyms: N/A
+Synthesis of [Zn(HPIDC)(H2O)]n (3). A mixture of Zn(NO3)2 · 6H2O (0.061 g, 0.2 mmol), 2-(pyridin-4-yl)-1H-imidazole-4,5-dicarboxylic acid (0.046 g, 0.2 mmol), NaOH (0.016 g, 0.4 mmol) and H2O (15 mL) was sealed into a Teﬂon-lined stainless autoclave and heated at 160 °C for 4 days and then cooled to room temperature gradually. Colorless block crystals were obtained in 53% yield (based on Zn).
+
+No abbreviations found in synthesis text
+
+FUFSAB
+Chemical_Name: catena-(tetrakis(μ3-2-(pyridin-4-yl)-1H-imidazole-4,5-dicarboxylato-O,O',O'',O''')-octa-aqua-tri-terbium(iii) chloride tetrahydrate)
+Number: 706736
+Synonyms: N/A
+Synthesis of {[Tb3(HPIDC)4(H2O)8]·Cl·4H2O}n (5). A mixture of TbCl3 · 6H2O (0.081 g, 0.2 mmol), 2-(pyridin-4-yl)-1H-imidazole- 4,5-dicarboxylic acid (0.070 g, 0.3 mmol), NaOH (0.024 g, 0.6 mmol) and H2O (15 mL) was sealed into a Teﬂon-lined stainless autoclave and heated at 160 °C for 4 days and then cooled to room temperature gradually. Red block crystals were obtained in 60% yield (based on Tb).
+
+No abbreviations found in synthesis text
+
+FUFSEF
+Chemical_Name: catena-(tetrakis(μ3-2-(pyridin-4-yl)-1H-imidazole-4,5-dicarboxylato-O,O',O'',O''')-octa-aqua-tri-yttrium(iii) chloride tetrahydrate)
+Number: 706737
+Synonyms: N/A
+Synthesis of {[Y3(HPIDC)4(H2O)8]·Cl·4H2O}n (6). A mixture of YCl3 · 6H2O (0.081 g, 0.2 mmol), 2-(pyridin-4-yl)-1H-imidazole-4,5-dicarboxylic acid (0.070 g, 0.3 mmol), NaOH (0.024 g, 0.6 mmol) and H2O (15 mL) was sealed into a Teﬂon-lined stainless autoclave and heated at 160 °C for 4 days and then cooled to room temperature gradually. Red block crystals were obtained in 63% yield (based on Y).
+
+No abbreviations found in synthesis text
+
+FUWXOL
+Chemical_Name: catena-((μ3-4,5-bis(1H-Tetrazol-5-yl)-2H-imidazole)-zinc sesquihydrate)
+Number: 791492
+Synonyms: N/A
+Synthesis of complex 2. A mixture of 4,5-dicyanoimidazole (5 mg, 0.04 mmol), ZnCl2 (20 mg, 0.15 mmol) and NaN3 (10 mg, 0.15 mmol) was suspended in the solution (6 mL) of CH3CN (2 mL) and H2O (4 mL). Upon addition of a drop of HBF4, a colourless solution was formed, which was heated in a teflon-lined steel bomb at 130℃ for 3 days. Colorless prism-like crystals formed were collected (yield: 45%).
+
+No abbreviations found in synthesis text
+
+FUWYAY
+Chemical_Name: catena-((μ4-5-Aminotetrazolato)-(μ4-sulfato)-(μ3-hydroxo)-aqua-di-manganese(ii) hydrate)
+Number: 748324
+Synonyms: N/A
+Synthesis of [Mn8(atz)4(μ3-OH)4(μ4-SO4)4(H2O)4]n 3 nH2O (2). A mixture of MnSO4 3 H2O (0.085 g, 0.5 mmol), Hatz (0.065 g, 1.0 mmol), DCDA (DCDA = dicyandiamide, 0.168 g, 2.0 mmol), and water (5 mL) was stirred for 30 min in air and then sealed in a 23 mL Teflon autoclave and heated to 130 _x0001_C for 3 days (Scheme 1). After the sample was cooled to room temperature at a rate of 10 _x0001_C/h, colorless needle-shaped crystals were obtained in ca. 45% yield based on Mn(II).
+
+No abbreviations found in synthesis text
+
+GAYGIY
+Chemical_Name: N/A
+Number: N/A
+Synonyms: N, /, A
+No synthesis method found for compound N/A
+
+No abbreviations found in synthesis text
+
+GIYSIR
+Chemical_Name: catena-[tetrakis(μ3-Sulfido)-bis(μ2-1,3-bis(4-pyridyl)propane)-bis(μ2-cyano)-tetra-copper-molybdenum acetonitrile aniline clathrate]
+Number: 682676
+Synonyms: N/A
+To a 30 mL aniline solution containing [Et4N]2[MoS4(CuCN)2]· (H2O) (0.664 g, 1 mmol) and 1,3-bis(4-pyridyl)propane (bpp) (0.396 g, 2 mmol) was added dropwise [Cu(MeCN)4][ClO4] (0.654 g, 2 mmol) in 40 mL of aniline solution; the resulting mixture was slowly stirred until the insoluble product began to precipitate (ca. 60% of the [Cu(MeCN)4][ClO4]/aniline solution was used), which was ﬁltered off, and black crystals suitable for X-ray analysis were obtained by standing the ﬁltrate in a dark room for a few days. (0.448 g, 42.0% based on Mo). The black crystals 1b were obtained by immersing 1a in a mixture of DMF/MeCN solution for 3 days. The black crystals 1c were obtained by immersing 1a in a mixture of DMF/MeCN solution for 30 days.
+
+No abbreviations found in synthesis text
+
+GURYID
+Chemical_Name: N/A
+Number: N/A
+Synonyms: N, /, A
+Synthesis of [Cu(L)(ClO4)] • DMF • H2O, 3. Copper(II) perchlorate hexahydrate (0.0272 g, 0.0735 mmol) and L (0.0177 g, 0.0735 mmol) were added to separate 4 mL scintillation vials and dissolved in 1 mL of water and 2 mL of DMF, respectively. The vials were heated to 85 °C for 30 min in an aluminum heating block, followed by mixing of the solutions and additional heating. After heating for 24 h, colorless needles formed and were isolated and washed with water and S2 acetone to yield the pure product (12.5 mg, 34.4 % yield). Synthesis of [Cu2(L)2(ClO4)2] • 4DMF • H2O, 4. Copper(II) perchlorate hexahydrate (0.0545 g, 0.147 mmol) and L (0.0177 g, 0.0735 mmol) were added to separate 4 mL scintillation vials and dissolved in 1 and 2 mL of DMF, respectively. The vials were heated to 85 °C for 1 h in an aluminum heating block, followed by mixing of the solutions and additional heating. After heating for 36 h, colorless needles formed and were isolated and washed with DMF and acetone to yield the pure product (34.0 mg, 41.4 % yield). Synthesis of [Cu(L)(ClO4)] • DMA • H2O, 5. Copper(II) perchlorate hexahydrate (0.136 g, 0.368 mmol) and L (0.0177 g, 0.0735 mmol) were added to separate 4 mL scintillation vials and dissolved in 1 mL of water and 2 mL of DMA, respectively. The vials were heated to 85 °C for 1 h in an aluminum heating block, followed by mixing of the solutions and additional heating. After heating for 2 weeks, colorless needles formed that could not be isolated in bulk. Synthesis of [Cu(L)(ClO4)] • NMP • H2O, 6. Copper(II) perchlorate hexahydrate (0.136 g, 0.368 mmol) and L (0.0177 g, 0.0735 mmol) were added to separate 4 mL scintillation vials and dissolved in 1 mL of water and 2 mL of NMP, respectively. The vials were heated to 85 °C for 30 min in an aluminum heating block, followed by mixing of the solutions and additional heating. After heating for 2 weeks, colorless needles formed and were isolated and washed with water and acetone to yield the pure product (26.4 mg, 68.9 % yield). Synthesis of [Cu2(L)2(ClO4)2] • 3NMP, 7. Copper(II) perchlorate hexahydrate (0.0136 g, 0.0367 mmol) and L (0.0177 g, 0.0735 mmol) were added to separate 4 mL scintillation vials and dissolved in 1 and 2 mL of NMP, respectively. The vials were heated to 85 °C for 30 min in an aluminum heating block, followed by mixing of the solutions and additional heating. After heating for 3 d, colorless needles formed and were isolated and washed with NMP and acetone to yield the pure product (8.80 mg, 19.9 % yield).
+
+No abbreviations found in synthesis text
+
+GUXPOF
+Chemical_Name: catena-(bis(μ4-5-t-Butylisophthalato-O,O,O',O'',O''')-bis(μ3-5-t-butylisophthalato-O,O,O',O'')-bis(μ2-4,4'-dipyridylsulfide-N,N')-diaqua-tetra-cobalt(ii) methanol solvate tetrahydrate)
+Number: 703311
+Synonyms: N/A
+A mixture of H2tbip (0.1 mmol, 22.5 mg), dpds (0.1 mmol, 22.3 mg), Co(OAc)2 · 4H2O (0.1 mmol, 24.2 mg,), KOH (0.1 mmol, 5.6 mg) and H2O-CH3OH (15:2 ) 17mL was placed in a Teflon-lined stainless steel vessel, heated to 160 oC for 3 days, and then cooled to room temperature over 24 h. Red block crystals of 2 were obtained.
+
+No abbreviations found in synthesis text
+
+HAKCIG
+Chemical_Name: catena-[hexakis(μ2-2-(4-Pyridyl)thiazole-4-carboxylato)-tri-copper tetradecahydrate]
+Number: 256509
+Synonyms: N/A
+In a typical reaction, Pytac (0.05 mmol) and NaOH (0.05 mmol) were dissolved 10 mL of warm methanol. A solution of copper(II) nitrate (0.025 mmol) in 15 mL of water was added and the mixture was stirred at 80 ºC for 10 minutes. After filtration the reaction mixture was left standing at room temperature for several days to yield aquamarine crystals in ~91% yield.
+
+No abbreviations found in synthesis text
+
+HAPHUD
+Chemical_Name: catena-((μ6-1,3-bis(3,5-dicarboxylatophenyl)urea)-bis(μ2-4,4'-bipyridine)-di-zinc N,N-dimethylformamide solvate)
+Number: 878676
+Synonyms: N/A
+Experimental Procedure for NU-601. A single crystal of NU-601 was synthesized via the solvothermal reaction of 2.2 equiv. Zn(NO3)·6H2O (1.026 mmol, 0.305g), 1.0 equiv. 1 (0.466 mmol, 0.181g), and 2.0 equiv. 4,4’- bipyridine (4-4’BIPY) in 36 ml of DMF. The reagents and solvent were added to a 125 ml Erlenmeyer flask and sonicated until the solution was homogeneous. This flask was capped with a rubber septum and placed in an oven set to 90 °C. After 2 days light yellow needle crystals were visible. The solvent was replaced with fresh DMF (50 ml), which had been warmed to 90 °C. The flask was then allowed to cool to room temperature. The crystals were isolated by vacuum filtration and exchanged with MeNO2 by suspending the crystals in a fresh MeNO2 solution and exchanging the solution every day for 4 days. After four days of exchanging NMR spectroscopy (500 MHz, D2SO4) was used to confirm all of the DMF had been removed. From Figure S9, one can see there are 3.4 MeNO2 molecules per strut 1, corresponding to 3.4 MeNO2 molecules per unit cell. If a unit cell has one molecule of 1 (minus 4 hydrogen atoms), two 4-4’ BIPY molecules, 2 zinc atoms, and 3.4 MeNO2 molecules (mw unit cell = 384+(166*2)+(65*2)+(61*3.4) = 1053) then the unit cell is 36.46% 1 w/w (384/1053 = 0.3646). Total amount of NU-601 isolated was 280 mg, so with a theoretical mass of 496 mg (0.181g of 1/0.3646), the % yield is 56.5%.
+
+No abbreviations found in synthesis text
+
+HEDCEA
+Chemical_Name: catena-(bis(μ4-4,4'-Oxydibenzoato)-(μ2-4,4'-bipyridine)-di-zinc N,N-dimethylformamide solvate)
+Number: 904554
+Synonyms: N/A
+Synthesis of [Zn2(obb)2(bpy)]·DMF (2). H2obb (256 mg, 1 mmol), 4,4′-bipyridine (78 mg, 0.5 mmol), and Zn(NO3)2·6H2O (297 mg, 1 mmol) were dissolved in DMF/EtOH (2:1, v/v), which were placed in a small vial. The mixture was heated at 100 °C for 3 days and then cooled to room temperature. Colorless block crystals of the product were formed and collected by filtration and washed with DMF several times (Yield: 350 mg, 81%, based on H2obb).
+
+No abbreviations found in synthesis text
+
+HEKTAU
+Chemical_Name: catena-((μ3-4-(4,2':6',4''-terpyridin-4'-yl)benzoato)-acetato-aqua-cadmium(ii) N,N-dimethylacetamide solvate monohydrate)
+Number: 877575
+Synonyms: N/A
+Synthesis of [Cd(cptpy)(Ac)(H2O)·(DMA)(H2O)]n (1). A mixture of Cd(Ac)2·2H2O (26.7 mg, 0.10 mmol) and Hcptpy (17.7 mg, 0.05 mmol) in 3.0 mL of DMA−H2O (1:1 volume ratio) was placed in a parr Teﬂon-lined stainless steel vessel (25 cm3), and then the vessel was sealed and heated at 100 °C for 2 days. After the mixture was slowly cooled to room temperature, colorless plate crystals of 1 were obtained (yield: 70% based on Cd).
+
+No abbreviations found in synthesis text
+
+HIFGIO
+Chemical_Name: catena-[bis(μ4-2',5'-Dimethyl-1,1':4',1''-terphenyl-4,4''-dicarboxylato)-bis(μ3-oxo)-tri-zinc unknown solvate]
+Number: 947362
+Synonyms: N/A
+A mixture containing Zn- (NO3)2·6H2O (40 mg, 0.13 mmol), H2L (20 mg, 0.06 mmol), 0.1 mL of 1 M NaOH in 2 mL N,N-dimethylformamide (DMF) and 1 mL of EtOH were sealed in a Teﬂon-lined stainless steel autoclave and heated under autogenous pressure to 100 °C for 60 h. It was allowed to cool to room temperature at the rate of 1 °C per minute to produce prism shaped colorless crystals of complex 1 in ∼56% yield. The crystals were washed with hot DMF, water, and ﬁnally with acetone and air-dried.
+Abbreviation: H2L
+Full Name: p-terphenyl-4,4″-dicarboxylic acid, 2′,5′-dimethyl
+
+HIFTOG02
+Chemical_Name: catena-(hexakis(μ4-Benzene-1,4-dicarboxylato)-bis(μ4-oxo)-octa-zinc unknown solvate)
+Number: 645081
+Synonyms: N/A
+Synthesis of the MOF-5 material consisting of nanocrystals was performed according to ref 7. To obtain the same phase with microsized crystals, the original synthesis procedure was modified. The reactants molar ratio was not altered, but the crystallizations were carried out at an elevated temperature without adding base. The preparation of microsized crystals was performed by mixing Zn(NO3)2‚6H2O (0.29 g, 1 mmol), 1,4-benzenedicarboxylic acid (H2- BDC) (0.08 g, 0.5 mmol), and N,N′-dimethylformamide (DMF) (9.5 g, 130 mmol) at room temperature. The thus obtained mixture was sealed, placed in the oven at 120 °C, and left at this temperature for 21 h. Crystallization was carried out under static conditions. The resulting solid was filtered, repeatedly washed with DMF, and dried at room temperature. The samples were stored in a vacuum desiccator to avoid water adsorption.
+
+No abbreviations found in synthesis text
+
+HUTTIA
+Chemical_Name: catena-(bis(μ4-4,4'-(Hexafluoroisopropylidene)bis(benzoato)-O,O',O'',O''')-(μ2-1,4-bis(4-pyridyl)-2,3-diaza-1,3-butadiene)-di-zinc dimethylformamide solvate)
+Number: 790710
+Synonyms: N/A
+Synthesis of [Zn2(hfipbb)2(bpdab)] 3 2DMF (3). A mixture of Zn(NO3) 3 6H2O (18.0 mg, 0.061 mmol), H2hfipbb (25.3 mg, 0.065 mmol), and 1,4-bis(4-pyridyl)-2,3-diaza-1,3-butadiene (bpdab, 10.5 mg, 0.050 mmol) was suspended in DMF (20 mL), sealed in a 25 mL reaction tube, and heated in an oil bath at 100 _x0001_C for 60 h. This afforded yellow crystals of 3, which were collected by filtration, washed with methanol, and dried in air. Yield 24.5 mg (60.3%).
+
+No abbreviations found in synthesis text
+
+IJASAO
+Chemical_Name: catena-((μ4-2,3,5,6-Tetramethylterephthalato)-bis(μ2-2,3,5,6-tetramethylterephthalato)-bis(1,10-phenanthroline)-di-erbium)
+Number: 747683
+Synonyms: N/A
+Er2(TBDC)3(phen)2·4dmf·2H2O (5) A mixture of ErCl3·6H2O (40 mg, 0.11 mmol), H2TBDC (20 mg, 0.09 mmol) and phen (10 mg, 0.06 mmol) was suspended in mixed solution of DMF/EtOH/H2O (V/V = 5:2:1, 15 ml), and heated in an uncovered tube at 50 ℃ for 3 days. The light pink needlelike crystals formed were collected, washed with ethanol and dried in the air. Yield: 51% (based on H2TBDC).
+
+No abbreviations found in synthesis text
+
+IJASOC
+Chemical_Name: catena-((μ4-2,3,5,6-Tetramethylterephthalato)-(μ2-2,3,5,6-tetramethylterephthalatolato-O,O',O'',O''')-(μ2-2,3,5,6-tetramethylterephthalato-O,O')-diaqua-bis(dimethylformamide)-di-thulium dimethylformamide solvate monohydrate)
+Number: 764697
+Synonyms: N/A
+No synthesis method found for compound 4
+
+No abbreviations found in synthesis text
+
+JIZJAF
+Chemical_Name: catena-[bis(μ3-4-(pyridin-4-yl)benzoato)-bis(μ3-2-oxypropanoato)-tri-cobalt N,N-dimethylformamide solvate]
+Number: 978270
+Synonyms: N/A
+A DMF/1,2-propanediol (10 mL/6 mL) mixture containing Co(NO3)2·6H2O (350 mg, 1.2 mmol), 4-(pyridin-4-yl) benzoic acid (Hpybz) (199 mg, 1.0 mmol), and D-/L-H2lac (90 mg, 1.0 mmol) in a Teﬂon-lined steel autoclave was heated at 110 °C for 3 days. After the autoclave has been cooled at a rate of 10 °C h−1 to 25 °C, the dark-purple ball-shaped crystals of 1·3DMF were collected, washed with DMF, and dried in air (Yield: 65% based on Co).
+
+No abbreviations found in synthesis text
+
+JODFOZ
+Chemical_Name: catena-[bis(μ2-4-(2-(pyridin-4-yl)vinyl)benzoato)-cobalt N,N-dimethylformamide solvate]
+Number: 970829
+Synonyms: N/A
+Synthesis of Co(L1)2, dia-7i-1-Co: A solvothermal reaction at 105 °C of 0.10 mmol (0.029 g) of Co(NO3)2·6H2O and 0.20 mmol (0.048 g) of HL1 in 15 mL of DMF/EtOH afforded red, rod-shaped crystals of dia-7i-1-Co were harvested after 24 h (yield 62%, 0.13 g based on Co(NO3)2).
+Abbreviation: HL1
+Full Name: 4-(2-(4-pyridyl)ethenyl)benzoic acid
+Abbreviation: L1
+Full Name: 4-(2-(4-pyridyl)ethenyl)benzoate
+
+JOHFIW
+Chemical_Name: catena-((μ6-Benzene-1,3,5-tricarboxylato)-aqua-yttrium hydrate)
+Number: 703003
+Synonyms: N/A
+Synthesis of 1. As a typical preparation procedure, a mixture of Y(NO3)·6H2O (191.5 mg, 0.5mmol) and H3BTC (52.5 mg, 0.25 mmol) was dissolved in DMF (4 mL) and H2O (4 mL) at room temperature. The mixture in a 23-mL Parr Teflon-lined vessel was heated to 100 °C under autogenous pressure for 24 hours to give colorless crystals in 85% yield (based on H3BTC).
+
+No abbreviations found in synthesis text
+
+KALGAH
+Chemical_Name: catena-((μ4-1,2,3,4-tetrakis(pyridin-4-yl)cyclobutane)-bis(μ3-isophthalato)-(μ2-aqua)-di-nickel benzene solvate)
+Number: 866142
+Synonyms: N/A
+Attempt to separate naphthalene/anthracene mixture in benzene solution by using 1 and formation of {[Ni2(μ2-OH2)(1,3-BDC)2(tpcb)]·4C6H6}n (1·4C6H6): A mixture of naphthalene (0.256 g, 2 mmol) and anthracene (0.356 g, 2 mmol) was dissolved in benzene to give a colorless solution. Then the crystals of 1 (0.415 g, 0.05 mmol) were added into the solution and afforded 1·4C6H6. Yield: 1.095 g (96% yield based on 1).
+
+No abbreviations found in synthesis text
+
+LAZJAZ
+Chemical_Name: catena-[(μ4-tetrakis(4-Pyridyloxymethyl)methane)-bis(μ2-5-hydroxybenzene-1,3-dicarboxylato)-di-zinc dimethylformamide solvate dihydrate]
+Number: 895180
+Synonyms: N/A
+Synthesis of {[Zn2(TPOM)(5-OH-bdc)2]·(DMF)(H2O)2}n (2). A mixture of Zn(NO3)2·6H2O (29.7 mg, 0.1 mmol), 5-OH-H2bdc (18.2 mg, 0.1 mmol), and TPOM (22.2 mg, 0.05 mmol) was dissolved in 10 mL of DMF/ H2O (1/1, v/v). The final mixture was placed in a Parr Teflon-lined stainless vessel and heated at 105 °C for 3 days. Colorless block crystals were obtained in 58% yield based on TPOM.
+
+No abbreviations found in synthesis text
+
+LUNVUL
+Chemical_Name: catena-[(μ3-bis(1,2,4-Triazol-1-yl)methane)-(μ2-nitrato)-silver(i)]
+Number: 202148
+Synonyms: N/A
+To a solution of tz2(CH2) (0.150 g, 1.0 mmol) in ethanol (30 mL) was added an ethanol solution of AgNO3 (0.169 g, 1.0 mmol) in the same solvent (10 mL). The mixture was stirred at 50 °C for 2 h. It was then cooled and left at 4 °C until a colorless crystalline solid was formed, which was filtered off, washed with diethyl ether, and dried to constant weight under reduced pressure (0.254 g, 0.8 mmol, 80% yield).
+
+No abbreviations found in synthesis text
+
+MAYJOM
+Chemical_Name: catena-(octakis(μ4-terephthalato)-octakis(μ2-hydroxo)-octa-indium hexakis(terephthalic acid) clathrate)
+Number: 291641
+Synonyms: N/A
+In a typical synthesis of 1, indium (0.114 g, 1 mmol), 1,4-benzene dicarboxylic acid (0.332 g, 2 mmol), HF (48%, Merck, 0.06 mL), and deionized water (10 mL) in the molar ratios of 1:2:1.5:560 were placed in a hydrothermal reaction vessel and heated at 220 °C for 3 days. After cooling at a rate of 0.5 °C/min to ambient, the product was filtered, washed with DMF to dissolve unreacted H2BDC, and dried at room temperature. The final product was a single phase containing single crystals of 1. The final solution pH was ∼1.5.
+
+No abbreviations found in synthesis text
+
+MOXPEV
+Chemical_Name: catena-(bis(μ4-tetrakis((Pyridin-4-yloxy)methyl)methane)-di-copper(i) bis(tetrafluoroborate) acetonitrile solvate hexahydrate unknown clathrate)
+Number: 729470
+Synonyms: N/A
+Extended PETPE (2)/CuBF4. A solution of extended PETPE (2; 20 mg, 0.027 mmol) in a mixture of CH3CN and CH2Cl2 (7 mL, 6:1 v/v) was placed in a test tube, and CH3CN (15 mL) was carefully layered on top. A solution of Cu(CH3CN)4BF4 (56 mg, 0.18 mmol) in CH3CN (2 mL) was then added on top of the other two layers. The tube was sealed, and the contents were allowed to mix slowly. After 2 weeks, yellow crystals suitable for X-ray diffraction were obtained.
+
+No abbreviations found in synthesis text
+
+NAGQET
+Chemical_Name: catena-[hexakis(μ2-3-(4-pyridyl)-5-(2-pyridyl)-1,2,4-triazolyl)-tri-cobalt dimethylformamide solvate sesquihydrate]
+Number: 749158
+Synonyms: N/A
+Synthesis of {[Co3(dpt24)6] 3 4DMF 3 1.5H2O}n (1). A mixture of CoCl2 3 6H2O (4.7 mg, 0.020 mmol), Hdpt24 (8.9 mg, 0.040 mmol), DMF (5.4 mL), and water (0.6 mL) was sealed at 130 _x0001_C for 24 h and then cooled at a rate of 2 _x0001_C/h to afford 1 as yellow block crystals (80%).
+
+No abbreviations found in synthesis text
+
+NERVEL
+Chemical_Name: catena-(bis(μ3-Nicotinato)-bis(μ2-nicotinato)-(μ2-aqua)-di-cobalt(ii) ethanol hemihydrate clathrate)
+Number: 176367
+Synonyms: N/A
+Co2(H2O)(C6H4O2N)4‚0.5CH3CH2OH‚0.5H2O (1). Single crystals of 1 were synthesized by heating a mixture of Co(NO3)2‚6H2O (0.1 mmol) and 3-cyanopyridine (0.1 mmol) in the mixture of the solvents ethanol (1.25 mL) and water (3.75 mL) at 140 °C for 96 h. The solid product was washed by distilled water and isolated by suction filtration. The final product contained a single phase of red-lathy crystals of 1 in a yield of 58% based on nicotinate.
+
+No abbreviations found in synthesis text
+
+OLEKUM
+Chemical_Name: catena-[bis(μ4-2,5-Dichlorobenzene-1,4-dicarboxylato-O,O',O'',O''')-(μ2-1,4-diazabicyclo[2.2.2]octane-N,N')-di-zinc(ii) dimethylformamide solvate]
+Number: 816843
+Synonyms: N/A
+No synthesis method found for compound 4 ⊃solvents
+
+No abbreviations found in synthesis text
+
+OTAVAH
+Chemical_Name: catena-(bis(μ2-Benzoato)-(μ2-4,4'-bipyridine-N,N'-dioxide)-diaqua-gadolinium(iii) benzoic acid solvate)
+Number: 780952
+Synonyms: N/A
+Synthesis of [{Gd(Ben)3(4,40-BPNO)(H2O)2} 3 HBen]n (6). To a solution of benzoic acid (1.5 mmol, 0.183 g) in methanol (15 mL) gadolinium(III) acetate hydrate (0.5 mmol, 0.145 g) was added and stirred for 10 min. To this reaction mixture 4,40-bipyridyl-N,N0-dioxide hydrate (0.25 mmol, 0.047 g) was added with constant stirring at room temperature. The resulting precipitate was dissolved with addition of water (5 mL). Three milliliters of DMF was added and the mixture was stirred for another 30 min. The solution was kept standing at room temperature. Diffraction quality crystals were collected after 5 days and dried in air. Yield of the pure crystalline complex was found to be >70% (based on Gd).
+
+No abbreviations found in synthesis text
+
+PEHTON
+Chemical_Name: catena-((μ3-Pyridine-2,6-dicarboxylato)-bis(μ2-4,4'-propane-1,3-diyldipyridine)-(pyridine-2,6-dicarboxylato)-tri-copper dimethylformamide solvate)
+Number: 913555
+Synonyms: N/A
+Synthesis of 1: A mixture of Cu(NO3)2 (0.5 mmol, 0.0996 g), tmdpy (0.5 mmol, 0.1003 g), 2.6-H2pdc (0.5 mmol, 0.0814 g), NaOH (0.5 mmol, 0.0217 g), and DMF (6 mL) was stirred for 30 min in air and then transferred and sealed in a 25 mL vial, which was heated at 100 °C for 2 days; after cooling to room temperature, blue crystals of 1 were obtained. Compound 2 was synthesized at 120 °C for 2 days by using the same mixture. The crystals of 2 in the green mother liquid were kept at room temperature. After one week, the solution became brown, and crystals of compound 3 were obtained.
+
+No abbreviations found in synthesis text
+
+PIGXUZ
+Chemical_Name: catena-((μ4-2,2'-Oxamidobis(benzoato))-bis(μ3-hydroxo)-bis(μ3-2,2'-oxamidobis(benzoato))-bis(μ2-4,4'-bipyridine)-tetra-cobalt(ii) 4,4'-bipyridine solvate)
+Number: 615371
+Synonyms: N/A
+Preparation of [Co4(OH)2(obbz)3(4,4′-bpy)2](4,4′-bpy) (1). A mixture of H2obbz(1.0 mmol), Co(NO3)2‚6H2O (2.0 mmol), 4, 4′-bipy (2.0 mmol), and H2O (10 mL) was stirred for 20 min. The mixture was then transferred to a Teflon-lined stainless steel autoclave (20 mL) and kept at 160 °C for 6 days. After the autoclave had cooled to room temperature over 6-7 h, purple octahedral crystalline solids of 1 were isolated from the mother liquid, washed with water, and then dried at ambient temperature (35% yield based on cobalt).
+
+No abbreviations found in synthesis text
+
+POSFIO
+Chemical_Name: catena-[hexakis(μ-4-(1H-imidazol-5-yl)benzoato)-tri-copper hydrate]
+Number: 964994
+Synonyms: N/A
+Preparation of [Cu3(4-HIBA)6]·7.8H2O (4). Reaction mixture of 4-H2IBA (18.8 mg, 0.1 mmol), Cu(NO3)2·3H2O (24.2 mg, 0.1 mmol), N,N′-dimethylacetamide (DMA)−H2O (1:5, v/v, 10 mL) was sealed in a 16 mL Teﬂon lined stainless steel container and heated at 120 °C for 4 days. After the mixture was cooled to room temperature, dark blue prism crystals of 4 were collected by ﬁltration and washed with water and ethanol several times with a yield of 78% (18.8 mg, based on 4-H2IBA).
+
+No abbreviations found in synthesis text
+
+POSFOU
+Chemical_Name: catena-[tetrakis(μ-4-(1H-imidazol-5-yl)benzoato)-diaqua-di-cadmium(ii) tetrahydrate]
+Number: 943722
+Synonyms: N/A
+Preparation of [Cd(4-HIBA)2(H2O)]·2H2O (5). A methanol solution (4 mL) of Cd(NO3)2·4H2O (23.6 mg, 0.1 mmol) was carefully layered onto a buffer of methanol−water (1:1, v/v, 6 mL), below which a solution of 4-H2IBA (18.8 mg, 0.1 mmol) and NaOH (4.0 mg, 0.1 mmol) in water (4 mL) was placed in a straight glass tube. Four weeks later, colorless needle crystals were obtained in 32% yield (8.6 mg, based on 4-H2IBA).
+
+No abbreviations found in synthesis text
+
+PUQHEP
+Chemical_Name: catena-((μ5-5-(Carboxylatomethoxy)isophthalato)-(μ3-hydroxo)-(μ2-1,2-bis(4-pyridyl)ethene)-di-cobalt hydrate)
+Number: 769253
+Synonyms: N/A
+Synthesis of [Co2(OABDC)(bpy)(OH)]n 3 (H2O)2.2n (5). Co(NO3)23 6H2O (0.0873 g, 0.3 mmol), 5-oxyacetate isophthalic acid (0.036 g, 0.15 mmol), 4,40-bipyridine (0.0283, 0.15 mmol) and NaOH (0.008, 0.2 mmol) were mixed in 7 mL of H2O/ethanol. Then, the mixture was placed in a Parr Teflon-lined stainless steel vessel (10 mL). The vessel was sealed and heated to 160 _x0001_C for 50 h. Then the reactant mixture was cooled at a rate of 10 _x0001_C h-1, leading to the formation of violet crystals of 3. Yield: (0.072 g, 85% based on Co).
+
+No abbreviations found in synthesis text
+
+PUWCOZ
+Chemical_Name: catena-((μ6-Adamantane-1,3,5,7-tetracarboxylato)-(μ2-aqua)-triaqua-di-nickel(ii) tetrahydrate clathrate)
+Number: None
+Synonyms: N/A
+Ni2(ATC)(H2O)4‚(H2O)4, MOF-34. H4ATC (0.032 g, 0.10 mmol), Ni(NO3)2‚6H2O (0.070 g, 0.24 mmol), H2O (1 mL), and aqueous NaOH solution (1 mL, 0.1 mmol) were added respectively to a vessel, which was sealed and heated to 180 °C at a rate of 5 °C/min for 40 h and then cooled to room temperature at a rate of 2 °C/min. Needle-shaped green crystals of the product were formed and collected by filtration, yielding 0.016 g (27% yield based on H4ATC). The product is stable in air and insoluble in water and common organic solvents such as ethanol, acetonitrile, acetone, chloroform, and DMF.
+
+No abbreviations found in synthesis text
+
+QEJYIP
+Chemical_Name: catena-[bis(μ3-5-Carboxy-4-carboxylato-1H-imidazolyl)-(μ2-4,4'-bipyridine)-di-cadmium(ii) N,N-dimethylformamide solvate]
+Number: 826299
+Synonyms: N/A
+Synthesis of [Cd(bipy)0.5(Himdc)](DMF)]n (1). Cd(NO3)2·4H2O (0.25 mmol, 0.077 g) was dissolved in 12.5 mL of acetonitrile with constant stirring. 4,5-Imidazoledicarboxylic acid (H3imdc) (0.25 mmol, 0.039 g) and 4,4′-bipyridine (bipy) (0.125 mmol, 0.0195 g) were dissolved in 12.5 mL of N,N-dimethylformamide (DMF) and stirred well for 30 min to make a homogeneous solution. Acetonitrile solution (2 mL) of Cd(NO3)2 was slowly and carefully layered on top of the ligand solution of DMF (2 mL) using the 2 mL buffer solution of acetonitrile and DMF (1:1). After two weeks colorless block type single crystals were grown at the junction of the two different solvents. The crystals were separated and washed with acetonitrile, which was subjected to X-ray diffraction. Yield: 80%.
+
+No abbreviations found in synthesis text
+
+QEZNOA
+Chemical_Name: catena-[bis(μ2-chloro)-(N-(3-chlorophenyl)pyrazine-2-carboxamide)-mercury(ii)]
+Number: 901975
+Synonyms: N/A
+No synthesis method found for compound 2
+
+No abbreviations found in synthesis text
+
+QOKKAE
+Chemical_Name: catena-[bis(μ5-pyridine-2,3,5,6-tetracarboxylato)-bis(μ2-oxalato)-decaaqua-tetra-ytterbium tetradecahydrate]
+Number: 770816
+Synonyms: N/A
+Preparation of {[Yb2(ptc)(ox)(H2O)5]·7H2O}n (2). A mixture of Yb(NO3)3·6H2O (0.0934 g, 0.2 mmol), H4ptc (0.0510 g, 0.2 mmol), and water (10 mL) was poured into a 25 mL Teﬂon high-temperature kettle and kept at 150 °C for 24 h. Then it was cooled to 110 °C at a rate of 2 °C h−1 and to room temperature at a rate of 1 °C h−1. The pH value of the solution was 2−3. Colorless crystals of 2 were obtained. Yield 47% based on Yb.
+
+No abbreviations found in synthesis text
+
+QONKOV
+Chemical_Name: catena-(tetrakis(μ3-5-(4-Pyridyl)tetrazolato)-bis(μ2-azido)-bis(dimethylformamide)-tri-copper dimethylformamide solvate dihydrate)
+Number: 974744
+Synonyms: N/A
+Synthesis of 1. A mixture of Cu(NO3)2·3H2O (0.181 g, 0.75 mmol), 4-cyanopyridine (0.104 g, 1 mmol), NaN3 (0.097 g, 1.5 mmol), and DMF (10 mL) was placed in a 15 mL Teﬂon reactor and kept under autogenous pressure at 80 °C for 1 day. Then the mixture was cooled to room temperature, and the resulting dark green block crystals were obtained in 65% yield. Solvent Exchange from 1 to 1a. The crystalline samples of 1 were immersed in cyclohexane for 7 days to give 1a. Solvent Exchange from 1 to 1b. The crystalline samples of 1 were immersed in cyclopentane for 7 days to give 1b. Solvent Exchange from 1 to 1c. Compound 1c was obtained by soaking 1 in decahydronaphthalene for 20 days. Solvent Exchange from 1 to 1d. Compound 1d was prepared by soaking 1 in 1,4-dioxane for 4 days. Solvent Exchange from 1d to 1e. The crystalline samples of 1d were kept soaking in 1,4-dioxane for another 3 days, yielding crystalline samples of 1e. Solvent Exchange from 1 to 1f. The crystalline samples of 1 were immersed in tetrahydropyrane for 7 days to give 1f. Solvent Removal from 1a to 1g. The crystalline samples of 1a were heated at 80 °C for 3 h under a dynamic vacuum, which led to crystals of 1g. Structural Transformation from 1 to 1h. Compound 1h was obtained by a method similar to that of 1a except that water was used instead of cyclohexane.
+
+No abbreviations found in synthesis text
+
+RACZEC
+Chemical_Name: catena-[(μ4-2,3,5,6-Tetrafluoro-4-oxybenzoato)-(μ2-4,4'-bipyridyl)-cobalt(ii) 4,4'-bipyridine clathrate]
+Number: 788895
+Synonyms: N/A
+Purple plates of 1 were obtained from the reaction of CoCl2 3 6H2O (0.049 g, 0.20 mmol), H2-tfhba (0.044 g, 0.20 mmol), and 4,40-bipyridine (0.015 g, 0.10 mmol) in a mixture of 2 mL of water and 1 mL of ethanol at 100 _x0001_C for 20 h. After cooling to room temperature, the crystals were filtered and washed with water and acetone (yield: 52%).
+
+No abbreviations found in synthesis text
+
+RESWOC
+Chemical_Name: catena-(tris(μ4-2,3,5,6-Tetrafluoro-1,4-benzenedicarboxylato)-aqua-(dimethylformamide)-di-erbium dimethylformamide solvate)
+Number: 628938
+Synonyms: N/A
+Preparation of Er2(BDC-F4)3(DMF)(H2O)‚DMF (2). A mixture of Er(NO3)3‚5H2O (0.0497 g, 0.112 mmol) with H2BDC-F4 (0.0400 g, 0.168 mmol) in a solution containing DMF (3 mL), C2H5OH (3 mL), and H2O (3 mL) in a sealed vial (20 mL) was heated at 80 °C for 24 h. Light-purple crystals of 2 were filtered, dried in air, and collected in ca. 43% yield [on the basis of Er(NO3)3‚5H2O].
+
+No abbreviations found in synthesis text
+
+RESWUI01
+Chemical_Name: catena-((μ4-1,4-Benzenedicarboxylato)-bis(μ2-1,4-benzenedicarboxylato)-diaqua-bis(dimethylformamide)-di-erbium)
+Number: 747682
+Synonyms: N/A
+A mixture of ErCl3·6H2O (40 mg, 0.11 mmol) and H2BDC (20 mg, 0.12 mmol) was suspended in the solution of DMF/EtOH (V/V = 2:1, 10 ml) and heated in teflon-lined steel bomb at 110℃ for 4 days. The pink block crystals were collected, washed with water and dried in the air. Yield: 64% (based on H2BDC).
+
+No abbreviations found in synthesis text
+
+RUFRIV
+Chemical_Name: catena-[tris(μ-isophthalato)-bis(μ-hydrogen 2,2',2''-nitrilotriethanolato)-aqua-penta-zinc hydrate]
+Number: 1031384
+Synonyms: N/A
+A mixture of Zn(NO3)2·6H2O (0.3 g, 1 mmol), H3tea (0.3 g, 2 mmol), 1,3-benzenedicarboxylic acid (0.17 g, 1 mmol), and Et3N (0.2 g, 2 mmol) in methanol (20 ml) was sealed in a Teflon-lined stainless steel container and heated at 110ºC for 20 hours, then slowly cooled to room temperature. The resulted colorless crystals were washed with methanol and dried in air. Yield: 34%.
+
+No abbreviations found in synthesis text
+
+RUJGOT
+Chemical_Name: catena-(bis((μ3-Nicotinate N-oxide-O,O',O'')-(μ3-formato)-(μ3-hydroxo))-tri-manganese(ii) tetrahydrate)
+Number: 751501
+Synonyms: N/A
+Synthesis. A mixture of Mn(HCO2)2 3 4H2O and HL (L = nicotinate N-oxide) at a ratio of 1:0.75 in 15 mL of methanol was sealed in a Teflon-lined stainless steel vessel, heated at 140 _x0001_C for 2 days under autogenous pressure, and then cooled to room temperature. Yellow crystals of 1 were harvested in ca. 20% yield based on Mn(HCO2)2 3 4H2O.
+Abbreviation: HL
+Full Name: nicotinate N-oxide
+Abbreviation: L
+Full Name: nicotinate N-oxide
+
+SADMIV
+Chemical_Name: catena-((μ4-Benzene-1,4-dicarboxylato)-(μ2-hydroxo)-iron monohydrate)
+Number: 789859
+Synonyms: N/A
+Preparation of MIL-53(Fe)[H2O]. MIL-53(Fe)[H2O] was sol- vothermally synthesized (autogenous pressure) from an equi- molar amount of iron(III) chloride hexahydrate FeCl3 3 6H2O (Aldrich, 97%, 1 mmol), 1,4-benzenedicarboxylic acid HO2C- (C6H4)-CO2H (Alfa, 97%, 1 mmol), hydrofluoric acid HF (Prolabo, 5 M, 1 mmol) in N,N0-dimethylformamide (DMF, Aldrich 99%, 5 mL). Reactants were stirred a few minutes before introducing the resulting suspension in a Teflon-lined steel autoclave. The sealed autoclave was placed in a preheated fan oven with the temperature set at 423 K and after 3 days removed while hot and allowed to cool in air to room temperature over a period of few hours. A light orange MIL-53(Fe)[DMF] powder was recovered by filtration and first washed with MeOH to obtain MIL-53(Fe)[MeOH] after complete exchange of DMF molecules by MeOH. Finally, MIL-53(Fe)[H2O] was obtained after dispersion into water and drying in air. To introduce organic guest molecules into MIL-53(Fe)[H2O], the solid material (∼0.4 g) was stirred in ∼10 cm3 of the organic liquid overnight, and the product recovered by filtration and dried at room temperature in air. The behavior of the non-fluorinated material toward pyridine and 2,6-lutidine is identical: the materials produced have almost the same cell parameters and crystal symmetry.
+
+No abbreviations found in synthesis text
+
+SEFSOM
+Chemical_Name: catena-(bis(μ3-5-sulfoisophthalato)-tetrakis(μ2-1,4-bis(imidazol-1-ylmethyl)benzene)-tri-cadmium(ii) octahydrate)
+Number: 276309
+Synonyms: N/A
+Synthesis of [Cd3(SIP)2(bix)4‚8H2O]n (3). A mixture of CdCl2‚2H2O (0.1142 g, 0.5 mmol), SIP (0.1334 g, 0.5 mmol), bix (0.1241 g, 0.5 mmol), NaOH (0.0398 g, 1.0 mmol), and H2O (3.5 mL) was heated at 140 °C for 3 days in an analogous to procedure to that for 1. After the reacant mixture was slowly cooled to room temperature, colorless crystals of 3 were obtained (yield 55% based on Cd).
+
+No abbreviations found in synthesis text
+
+SEHZUB
+Chemical_Name: catena-((μ4-oxybis(benzene-2,3-dicarboxylato-O,O',O''))-bis(μ2-4,4'-bipyridyl)-diaqua-di-cobalt heptahydrate)
+Number: 613108
+Synonyms: N/A
+3 was synthesized hydrothermally in a 23 mL Teflon-lined autoclave by heating a mixture of 0.1 mmol of 2,2′,3,3′-odpda, 0.4 mM NaOH and 0.2 mmol of Co(NO3)2‚6H2O at 120 °C for 2 days. Large, red, rectangular single crystals were collected in 67% yield on the basis of cobalt.
+
+No abbreviations found in synthesis text
+
+TIRRIW
+Chemical_Name: catena-[bis(μ4-2,6-Naphthalenedicarboxylato-O,O',O'',O''')-(μ2-4,4'-bipyridine-N,N')-di-cobalt tris(dimethylformamide) clathrate dihydrate]
+Number: 669542
+Synonyms: N/A
+Synthesis of 1. A mixture of Co(NO3)2‚6H2O (0.101 g, 0.34 mmol), H2NDC (0.0747 g, 0.34 mmol), and 4,4′-Bipy (0.0270 g, 0.17 mmol) was suspended in DMF (60 mL) and heated in a vial (60 mL) at 120 °C for 24 h. The dark-orange block-shaped crystals formed were collected, washed with DMF and hexane, and dried in air (0.127 g, 78%).
+
+No abbreviations found in synthesis text
+
+TISGUY
+Chemical_Name: catena-(tetrakis(μ2-1,1'-Biphenyl-2,2'-dicarboxylato)-tetrakis(μ2-pyrazine)-octaaqua-tetra-nickel(ii) undecahydrate)
+Number: 630604
+Synonyms: N/A
+Synthesis of [Ni4(dpa)4(pyz)4(H2O)8]·11H2O (1). Ni(NO3)2·6H2O (1.5 mmol) was dissolved in distilled water (ca. 6 cm3) at ambient temperature, followed by the addition of 1,1’-biphenyl-2,2’-dicarboxylic acid (1 mmol), pyrazine (0.5 mmol) and KOH (3 mmol) in distilled water (ca. 4 cm3), with vigorous magnetic stirring in a Parr Teflon-lined stainless steel vessel. The mixture was heated for 3 days at 175 °C yield fine olive drab crystals in 46.6% (based on pyrazine). Phase purity of the bulk materials was confirmed by comparison of its powder diffraction pattern with that calculated from the single crystal study.
+
+No abbreviations found in synthesis text
+
+UKUBIM
+Chemical_Name: catena-((μ4-tetrakis((Pyridin-4-yloxy)methyl)methane)-bis(hydrogen sulfido)-cadmium tetrahydrate)
+Number: 763094
+Synonyms: N/A
+Preparation of [Cd(tpom)(SH)2] 3 4H2O (MSF-1). To the solution of tbms (0.024 g, 0.093 mmol) in 1.5 mL of N,N-dimethylformamide (DMF) was added a solution of Cd(NO3)2 3 4H2O (0.031 g, 0.10 mmol) in DMF (1.5 mL) to give a white solid. Aqueous HCl (1:1 volume) was added dropwise to the mixture until the solid disappeared, where the pH was about 5. To the above solution was added the solution of tpom (0.022 g, 0.049 mmol) in DMF (2 mL). A white precipitate appeared and disappeared after adding a drop of aqueous HCl (1:1; pH ∼5). The mixture was transferred into a vial, which was then sealed and heated at 100 °C for 3 days. The vial was then allowed to cool down to room temperature. Colorless octahedral crystals (0.031 g) were obtained by filtration and washed with DMF and acetonitrile three times each, respectively. Yield: 91.2% (based on tpom).
+
+No abbreviations found in synthesis text
+
+UNIPAJ
+Chemical_Name: catena-(bis(μ2-trans-4,4'-Azobis(pyridine))-bis(μ2-naphthalene-2,3-dicarboxylato)-diaqua-di-cadmium(ii) dihydrate)
+Number: 820471
+Synonyms: N/A
+[Cd(ndc)(abp)(H2O)](H2O)¥ (5). A CH3OH solution (10 mL) of Cd(ClO4)2 3 6H2O (0.1 mmol) was carefully layered on top of a solution of H2ndc (0.05 mmol) in H2O (15 mL) in the presence of excess NaOH (0.15 mmol) in a test tube, which was left at room temperature. Wine-colored clubbed single crystals suitable for X-ray analysis appeared at the tube wall after ca. one month. Yield: ca. 40% based on H2ndc.
+
+No abbreviations found in synthesis text
+
+VOLQOD
+Chemical_Name: catena-(bis(μ6-Benzene-1,3,5-tris(4-benzoato))-(μ4-oxo)-tetra-zinc(ii) acetone unknown solvate)
+Number: 690684
+Synonyms: N/A
+Bulk Scale Synthesis of Zn/BTB ant. To a solid mixture of H3BTB (0.0899 g, 0.2050 mol, 1 equiv) and Zn(NO3)2 · 4H2O (0.1008 g, 0.3855 mmol, 1.88 equiv) was added DMF (10 mL). The solution was mixed well and ultrasonicated until homogeneous. The reaction vial was capped tightly and placed in an oven at 100 °C. After 24 h, the sample was removed from the oven and allowed to cool to room temperature. The mother liquor was decanted from the clear rod crystals and replaced with acetone (10 mL). The acetone was decanted and replenished three times over two days. The yield of the reaction, determined from the weight of the evacuated material [Zn4O(BTB)2]·H2O is 48% based on H3BTB.
+
+No abbreviations found in synthesis text
+
+WAVQER
+Chemical_Name: catena-(Dimethylammonium (μ6-benzene-1,3,5-tricarboxylato)-bis(μ3-benzene-1,3,5-tricarboxylato)-tetrakis(μ3-hydroxo)-tris(dimethylformamide)-tri-indium-samarium monohydrate)
+Number: 850061
+Synonyms: N/A
+Synthesis of CPM-18-Sm: A mixture of In(NO3)3·5H2O (0.200 g), Sm(NO3)3·6H2O (0.12 g), 1,3,5-benzenetricarboxylic acid (0.100 g), H2O (1.0 g) and DMF (4.0 g) was stirred in a 20 ml vial for 1 hour. And then the sample was heated at 110 oC for 5 days. After cooling to room-temperature, light grey crystals were obtained.
+
+No abbreviations found in synthesis text
+
+WAVQIV
+Chemical_Name: catena-(tris(μ6-4,4',4''-Benzene-1,3,5-triyltribenzoato)-(μ4-oxo)-tris(μ3-hydroxo)-hexa-aqua-tri-indium-di-neodymium nitrate)
+Number: 850062
+Synonyms: N/A
+Synthesis of CPM-19-Nd: A mixture of In(NO3)3·5H2O (0.100 g), Nd(NO3)3·6H2O (0.063 g), CaCl2 (0.018 g), 1,3,5-tri(4-carboxyphenyl)benzene (0.108 g), H2O (0.500 g) and DEF (2.670 g) was stirred in a 20 ml vial for 1 hour. And then the sample was heated at 100 oC for 5 days. After cooling to room-temperature, light grey crystals were obtained.
+
+No abbreviations found in synthesis text
+
+WAVQOB
+Chemical_Name: catena-(tris(μ6-4,4',4''-Benzene-1,3,5-triyltribenzoato)-(μ4-oxo)-tris(μ3-hydroxo)-hexa-aqua-tri-indium-di-praseodymium nitrate)
+Number: 850063
+Synonyms: N/A
+Synthesis of CPM-19-Pr: A mixture of In(NO3)3·5H2O (0.100 g), Pr(NO3)3·6H2O (0.063 g), CaCl2 (0.018 g), 1,3,5-tri(4-carboxyphenyl)benzene (0.108 g), H2O (0.500 g) and DEF (2.670 g) was stirred in a 20 ml vial for 1 hour. And then the sample was heated at 100 oC for 5 days. After cooling to room-temperature, light grey crystals were obtained.
+
+No abbreviations found in synthesis text
+
+WAVRAO
+Chemical_Name: catena-(tetrakis(μ-benzene-1,3,5-triphenylcarboxylato)-tris(μ3-hydroxo)-tris(N,N-dimethylacetamide)-tri-indium-tri-manganese N,N-dimethylacetamide solvate)
+Number: 850065
+Synonyms: CPM-21-Mn
+Synthesis of CPM-21-Mn: A mixture of In(NO3)3·5H2O (0.027 g), 1,3,5-tri(4-carboxyphenyl)benzene (0.045 g), Mn(NO3)3·6H2O (0.048 g), H2O (0.500 g) and DMA (2.500 g) was stirred in a 20 ml vial for 1 hour. And then the sample was heated at 100 oC for 5 days. After cooling to room-temperature, red crystals were obtained.
+
+No abbreviations found in synthesis text
+
+WAVRIW
+Chemical_Name: catena-((μ6-Benzene-1,3,5-triphenylcarboxylato)-tris((μ5-benzene-1,3,5-triphenylcarboxylato)-(μ3-hydroxo)-(aqua))-tri-indium-tri-copper)
+Number: 850067
+Synonyms: N/A
+Synthesis of CPM-21-Cu: A mixture of In(NO3)3·5H2O (0.027 g), 1,3,5-tri(4-carboxyphenyl)benzene (0.045 g), Cu(NO3)2·3H2O (0.048 g), H2O (0.500 g) and DMA (2.500 g) was stirred in a 20 ml vial for 1 hour. And then the sample was heated at 100 oC for 5 days. After cooling to room-temperature, red crystals were obtained.
+
+No abbreviations found in synthesis text
+
+WAVROC
+Chemical_Name: catena-((μ6-Benzene-1,3,5-triphenylcarboxylato)-tris((μ5-benzene-1,3,5-triphenylcarboxylato)-(μ3-hydroxo))-hexa-aqua-tri-indium-tri-magnesium tetrahydrate)
+Number: 850068
+Synonyms: N/A
+Synthesis of CPM-23: A mixture of In(NO3)3·5H2O (0.025 g), 1,3,5-tri(4-carboxyphenyl)benzene (0.045 g), Mg(NO3)2·4H2O (0.048 g), H2O (0.50 g) and DMA (2.50 g) was stirred in a 20 ml vial for 1 hour. And then the sample was heated at 100 oC for 5 days. After cooling to room-temperature, colorless crystals were obtained.
+
+No abbreviations found in synthesis text
+
+WIYFAM
+Chemical_Name: catena-((μ4-1,4-benzenedicarboxylato)-(μ4-oxo)-bis(μ4-3,3',5,5'-tetramethyl-1H,1'H-4,4'-bipyrazolato)-tetra-zinc(ii) N,N-dimethylformamide solvate hexahydrate)
+Number: 683566
+Synonyms: N/A
+Synthesis of [Zn4O(bdc)(bpz)2]·4DMF·6H2O (1). A mixture of H2bdc (0.025 g, 0.15 mmol), H2bpz (0.057 g, 0.30 mmol), and Zn(NO3)2·6H2O (0.179 g, 0.60 mmol) in N,N′-dimethylformamide (DMF) (9 mL) was placed in a Teﬂon-lined stainless steel vessel (12 mL) and heated at 140 °C for 80 h, and then it was cooled to room temperature at a rate of 0.1 °C/min. The resulting white microcrystalline precipitate of 1 was isolated by ultrasonication (10 s) and decanting of the supernatant suspension, which was washed with DMF/ethanol and dried in vacuo. The yield was 88 mg (48%). Colorless single crystals for X-ray single-crystal diffraction were prepared by heating a solution of H2bdc (0.025 g, 0.15 mmol), H2bpz (0.029 g, 0.15 mmol), and Zn(NO3)2·6H2O (0.089 g, 0.30 mmol) in 9 mL of DMF in a 12 mL Teﬂon-lined stainless steel vessel at 120 °C for 80 h, and then the mixture was cooled to room temperature at a rate of 0.1 °C/min. The yield was ∼40 mg (22%).
+
+No abbreviations found in synthesis text
+
+XAJQAC
+Chemical_Name: catena-[(μ8-4,4',4'',4'''-(Pyrene-1,3,6,8-tetrayl)tetrabenzoato)-bis(μ2-hydroxo)-di-indium(iii) toluene solvate]
+Number: None
+Synonyms: N/A
+Synthesis of In2(OH)2(TBAPy) ·(guests) (1). A mixture of In(NO3)3·9H2O (12 mg 0.03 mmol) and TBAPy (10 mg 0.015 mmol) was dissolved in 4 mL of DMF/dioxane/H2O (ratio 2/1/1) and 10 µL of concentrated HCl (0.116 mmol) and then sealed in a 12 mL scintilation vial. The vial was heated at 85 °C for 12 h and then cooled to room temperature at a rate of 0.2 °C min-1. The resulting yellow block crystals were isolated in 56% yield (based on In) and washed with DMF in order to remove any recrystallized TBAPy ligand.
+
+No abbreviations found in synthesis text
+
+XUMVOS
+Chemical_Name: catena-[(μ-cyclobutane-1,2,3,4-tetracarboxylato)-bis(μ-aqua)-tetra-aqua-di-barium]
+Number: 980265
+Synonyms: N/A
+Synthesis and Characterization of [Ba2(rctt-cbtc)(H2O)6], (4). H4cbtc (58 mg, 0.25 mmol) was dispersed in a beaker containing 2 mL of MeOH. Ba(OH)2 (157 mg, 0.5 mmol) was dissolved in 5 mL of hot water. Hot Ba(OH)2 was filtered into methanolic H4cbtc at 100 °C, and the mixture was swirled simultaneously until white precipitate started forming. The resultant mixture was filtered again and left for slow evaporation in a crystallizing watch glass. Colorless block-shaped crystals were obtained in a day. Yield: 61%.
+
+No abbreviations found in synthesis text
+
+YASNAJ
+Chemical_Name: catena-((μ3-4,4'-Sulfonyldibenzoato)-(μ2-4,4'-(1,4-phenylene)dipyridine)-cobalt hydrate)
+Number: 877000
+Synonyms: N/A
+Synthesis of 4 A mixture of Co(NO3)2·6H2O (29.4 mg, 0.1 mmol), bpbenz (23.23 mg, 0.1 mmol), and 4,4′-sdb (15.82 mg, 0.1 mmol) was dissolved in 8 mL of DMF/H2O. The final mixture was placed in a Parr Teflon-lined stainless steel vessel (15 mL) under autogenous pressure and heated at 95 °C for 3 days. The colorless block crystals of 1 were obtained. For 4, the yield of the reaction was ca. 50% based on bpbenz ligand.
+
+No abbreviations found in synthesis text
+
+YEYCUC
+Chemical_Name: catena-[tris(μ4-2',3',5',6'-Tetramethyl-1,1':4',1''-terphenyl-4,4''-dicarboxylato)-bis(μ3-hydroxo)-bis(μ3-oxo)-tri-zirconium]
+Number: 946146
+Synonyms: PCN-58
+Syntheses of PCN-57 ZrCl4 (24 mg) and TPDC-4CH3 (56 mg) with benzoic acid (240 mg) were ultrasonically dissolved in DMF (3.0 mL) and charged into 100 ºC oven for 48 h. In the presence of benzoic acid, single crystals in octahedron shape (colorless for PCN-57) were harvested with yield of ~35 mg suitable for single crystal X-ray diffraction and further characterizations as well as click reactions.
+
+No abbreviations found in synthesis text
+
+YONNUL
+Chemical_Name: catena-((μ8-tetrakis((4-carboxylatophenyl)oxymethyl)methane)-(μ2-4,4'-bipyridine)-di-zinc(ii) dimethylformamide solvate monohydrate)
+Number: 698341
+Synonyms: N/A
+Complex 3. To a solid mixture of 1 (0.06 g, 0.1mmol, 1 equiv), bipyridine (0.015 g, 0.1mmol, 1 equiv, Aldrich) and Zn(NO3)2·6H2O (0.03 g, 0.1 mmol, 1 equiv, Aldrich) was dissolved in 10ml DMF in a 20 ml vial. The reaction mixture was mixed and ultrasonicated until homogeneous. The reaction vial was capped tightly and placed in an oven at 100 °C. After 24 hours, the sample was removed from the oven and allowed to cool to RT. The mother liquor was decanted to get the transparent crystals were washed with DMF (3 mL × 3) and dried in air for 10 min.
+
+No abbreviations found in synthesis text
+
+YUPSIM
+Chemical_Name: catena-(bis(μ4-5-Ammonioisophthalato-O,O,O',O'',O''')-(μ4-5-aminoisophthalato-O,O',O'',O''')-bis(nitrato-O,O')-di-praseodymium(iii) tetrahydrate)
+Number: 735569
+Synonyms: N/A
+Preparation of Compound 2. A mixture of 5-aminoisophthalic acid (0.181 g, 1 mmol), Pr6O11 (0.150 g, 0.147 mmol), HNO3 (3.00 mmol), and H2O (10 mL) was heated to 150 °C for 50 h in a 23 mL Teﬂon-lined stainless-steel autoclave, and then it was cooled to room temperature at 10 °C h-1 to obtain colorless platelike single crystals of 2 (yield: 5%).
+
+No abbreviations found in synthesis text
+
+ZURQOS
+Chemical_Name: catena-(tetrakis(μ2-Cyano)-(μ2-p-xylylenediamine)-cadmium(ii)-nickel(ii) o-toluidine clathrate)
+Number: None
+Synonyms: N/A
+The pH of the aqueous solution of CdCl2, K2[Ni(CN)4], and p-xda in a 1:1:2 molar ratio was adjusted to 9.5 by adding citric acid and 2-aminoethanol; in the final solution the concentration of each metal species was adjusted to 0.1 mol dm-3. The aqueous solution covered by the organic phase of o-toluidine was left standing for a few months at room temperature; yellow crystals were obtained.
+
+No abbreviations found in synthesis text
+
+OTAXOX
+Chemical_Name: N/A
+Number: N/A
+Synonyms: N/A
+Synthesis of γ-Mg-formate Mg3(O2CH)6⊃[NH(CH3)2]0.5. As 1,3-benzene-ditetrazole is sparingly soluble in water at moderate temperature, we used the solvent DMF in which it is readily soluble. We used the solvothermal condition (Teflon-lined stainless steel autoclave at 125 to 150 °C) for synthesis which results in the formation of single crystals suitable for X-ray diffraction. Before solvothermal reactions, stirring of the heterogeneous solutions for a period 30 min was helpful for the high purity of the product. Solvothermal reaction of Mg(CO2-CH3)2·4H2O (0.214 g, 1 mmol) with 1,3-benzene-ditetrazole (0.214 g, 1 mmol) in a 25 mL Teflon-lined stainless steel autoclave in 5 mL of dimethylformamide (DMF) and 0.2 mL of HNO3 (3.6 M) mixture at 150 °C for 60 h produces colorless crystals of Mg3(O2CH)6⊃[NH(CH3)2]0.5 in 61% yield. Crystals were collected by filtration and dried in air (10 min). [Yield: 61%, 0.130 g depending on Mg(CO2CH3)2·4H2O].
+
+No abbreviations found in synthesis text
+
+QOPPOC
+Chemical_Name: N/A
+Number: N/A
+Synonyms: N/A
+Synthesis of [Cu3(cdm)4] K(cdm) (240 mg, 1.63 mmol) was almost completely dissolved in methanol (30 mL) with the aid of sonication. To this was added a methanolic solution (3 mL) of anhydrous CuCl2 (216 mg, 1.61 mmol). Upon addition of the green CuCl2 solution, the remaining suspended K(cdm) was dissolved to give a deep orange solution. Dark orange crystals of solvated [Cu3(cdm)4] (173 mg, 0.252 mmol, 62% yield) formed on the walls of the reaction vessel over a period of two days.
+
+No abbreviations found in synthesis text

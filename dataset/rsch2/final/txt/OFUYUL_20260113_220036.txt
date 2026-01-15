@@ -1,0 +1,5 @@
+OFUYUL
+Chemical_Name: catena-[bis(μ4-5-Hydroxyisophthalato)-di-zinc(ii) unknown solvate monohydrate]
+Number: 934995
+Synonyms: N/A
+{[Zn2(hip)2]·5H2O}n (4). A mixture of hip (10 mg, 0.05 mmol), Zn(NO3)2·6H2O (29.7 mg, 0.1 mmol) were dissolved in 1.5 mL of mixed solvents of DMF, EtOH (v/v = 1: 1). After ultrasonication at room temperature for 10 min, the glass tube was sealed and placed in an oven and slowly heated to 110 °C from room temperature in 10 h, kept at 110 °C for 50 h, and then slowly cooled to 30 °C in 800 min. The colorless crystals were collected and dried in air. (Yield: 25%, based on zinc.)

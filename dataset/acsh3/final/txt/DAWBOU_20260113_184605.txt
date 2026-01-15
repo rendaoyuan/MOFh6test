@@ -1,0 +1,5 @@
+DAWBOU
+Chemical_Name: catena-(bis(μ3-L-Malato)-(μ2-4,4'-azobis(pyridine))-di-nickel tetrahydrate)
+Number: 878039
+Synonyms: N/A
+Synthesis of [{Ni(L-mal)(azpy)0.5}·2H2O]n (2) Ni(acetate)2·4H2O (0.100 g, 0.4 mmol) and L-malic acid (0.055 g, 0.4 mmol) were dissolved in 2 mL of water. To this, ethanolic solution (1 mL) of azpy (0.055 g, 0.3 mmol) was added. The mixture was stirred for half an hour and then taken in a 23 mL PTFE- lined acid digestion bomb and heated at 150 °C for 3 days. After being cooled to room temperature, reddish-brown crystals of 2 was isolated. The crystals were washed with ethanol to remove unreacted substances and dried in air. Yield (63%) for 2.

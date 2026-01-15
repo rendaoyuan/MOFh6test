@@ -1,0 +1,5 @@
+WAVRIW
+Chemical_Name: catena-((μ6-Benzene-1,3,5-triphenylcarboxylato)-tris((μ5-benzene-1,3,5-triphenylcarboxylato)-(μ3-hydroxo)-(aqua))-tri-indium-tri-copper)
+Number: 850067
+Synonyms: N/A
+Synthesis of CPM-21-Cu: A mixture of In(NO3)3·5H2O (0.027 g), 1,3,5-tri(4-carboxyphenyl)benzene (0.045 g), Cu(NO3)2·3H2O (0.048 g), H2O (0.500 g) and DMA (2.500 g) was stirred in a 20 ml vial for 1 hour. And then the sample was heated at 100 oC for 5 days. After cooling to room-temperature, red crystals were obtained.

@@ -1,0 +1,5 @@
+ALAMUW
+Chemical_Name: catena-((μ8-N,N'-bis(3,5-Dicarboxylatophenyl)pyromellitic di-imide)-bis(dimethylformamide)-di-copper dimethylformamide solvate hydrate)
+Number: 760674
+Synonyms: SNU-50
+Preparation of {[Cu2ACHTUNGTRENUNG(bdcppi)ACHTUNGTRENUNG(dmf)2]·10DMF·2H2O}n ACHTUNGTRENUNG(SNU-50): Cu- ACHTUNGTRENUNG(NO3)2·2.5H2O (0.024 g, 0.103 mmol), H4BDCPPI (0.030 g, 0.051 mmol), and DMF (5 mL) were placed in a glass bottle, and acidified with HNO3 (13 N, 3 drops). The bottle was sealed and heated at 1108C for 12 h. Blue–green prismatic crystals (0.045 g, 60%) formed, which were filtered and washed with DMF.

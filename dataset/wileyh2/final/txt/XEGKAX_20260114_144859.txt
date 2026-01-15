@@ -1,0 +1,7 @@
+XEGKAX
+Chemical_Name: catena-((μ4-2,2',6,6'-Tetranitrobiphenyl-4,4'-dicarboxylato)-bis(μ3-2,2',6,6'-tetranitrobiphenyl-4,4'-dicarboxylato)-tetrakis(dimethylformamide)-di-gadolinium 2-benzylidenemalononitrile tris(malononitrile) pentahydrate)
+Number: 843416
+Synonyms: N/A
+Synthesis of {[Gd2(L)3ACHTUNGTRENUNG(dmf)4]·2(2-benzylidene-malononitrile)·3(malononitrile)·5H2O}n (4): Single crystals of compound 2, upon exposure to malononitrile vapor for 2 h, afforded compound 4 in a SC-SC transformation.
+Abbreviation: L
+Full Name: 2,6,2’,6’-tetranitro-biphenyl-4,4’-dicarboxylic acid

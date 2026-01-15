@@ -1,0 +1,193 @@
+Processing Summary
+Timestamp: 20260114_094228
+Total files processed: 188
+
+Processed Files:
+- ACAJOF_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- AGARUW_20260114_094228.txt
+- ALIXUP_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- BASTEW_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- BASTUM_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- BEXRUT_20260114_094228.txt
+- BEXSAA_20260114_094228.txt
+- BEYRUU_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- BEYSAB_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- BEYSEF_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- BUKMUQ01_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- CAXPIC_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- CETHEQ_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- CISLUN_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- CIVTEH_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- COKROL_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- COKRUR_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- COVYOD_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- CUQRIR_20260114_094228.txt
+- CUQROX_20260114_094228.txt
+- CUQRUD_20260114_094228.txt
+- DACLAW_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- DOJZAF_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- DOKBUC_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- EBIPEM_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- EBIPIQ_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- EGAFOJ_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- EXEQII_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- FAHPOV_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- FAHPUB_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- FALQEQ_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- FALQOA_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- FALQUG_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- FECWOB01_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- FECYUJ_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- FIHRIZ_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- GIRYEN_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- GISNED_20260114_094228.txt
+- GIZVER_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- GOLYOX_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- GOLYUD_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- GOMGOG_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- GUFQOO_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- GUFRAB_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- GUFREF_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- KIYMIP_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- KOLWEO_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- KOTSIX_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- LACJAC_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- LEVYOC_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- LOBHAM_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- LULVOF_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- LUYHAP_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- MAFDII_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- MIMVEJ_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- NIJVAF_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- OFEHAK_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- OFUYUL_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- PARVUB_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- PEQTIQ_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- PEWGEF_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- PIHNUQ_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- QIWCOQ_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- QOSJEP_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- QUKYOL_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- RAYFAA_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- REFVAB_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- REHVEH_20260114_094228.txt
+- REYPAO_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- RUBGOM_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- RUBGUS_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- RUFMUA01_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- SAMKOI_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- TAPHID_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- TECVEE_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- TECVOO_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- TETZID_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- UFEXEJ_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- UFEXIN_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- UTEXIB_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- UTOTUT01_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- VEYVAY_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- VEYVIG_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- VUKHOZ_20260114_094228.txt
+- WANJOL_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- WEBREC_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- WEMHAZ_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- WEMJEF_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- XAKQEH_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- XAKREI_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- XAKRIM_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- YOPMAS_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- ZEDHIB_20260114_094228.txt
+- DUPKAC_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- GUNYIZ_20260114_094228.txt
+- GUNYOF_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- JUJMOS_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- KIKDOZ_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt
+- SARNOQ_20260114_094228.txt
+- TAPHAV_20260114_094228.txt
+- No abbreviations found in synthesis text_20260114_094228.txt

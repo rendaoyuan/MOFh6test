@@ -1,0 +1,5 @@
+QADBII
+Chemical_Name: catena-((μ4-phenylsuccinato)-hexamethyl-di-tin dimethylformamide solvate)
+Number: 736317
+Synonyms: N/A
+Synthesis of Complex 2 The (±)-phenylsuccinic acid (0.194 g, 1 mmol) and sodium ethoxide (0.136 g, 2 mmol) were added to the solution of benzene (30 mL) in a Schlenk flask and stirred for 30 min. Trimetyltin chloride (0.398 g, 2 mmol) was added to the solution and the mixture was stirred for 12 h at 40 °C, and filtered. The solvent of the filtrate was gradually removed by evaporation under vacuum until solid product was obtained. The solid was recrystallized from a mixed solvent and a transparent colorless crystal was formed. Yield: 77%.

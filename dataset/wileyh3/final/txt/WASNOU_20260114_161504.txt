@@ -1,0 +1,7 @@
+WASNOU
+Chemical_Name: catena-((μ4-Benzene-1,2,4,5-tetracarboxylato)-(μ2-benzene-1,4-dicarboxylato-2,5-dicarboxylate)-pentakis(μ2-1,1'-(1,4-butanediyl)-bis(imidazole))-diaqua-tetra-copper(ii) icosahydrate)
+Number: 216568
+Synonyms: N/A
+Synthesis of [Cu2L2.5(L4)(H2O)]·10H2O (4): A mixture of CuCl2·2H2O (0.171 g, 1 mmol), NaOH (0.080 g, 2 mmol), and pyromellitic acid (H4L4; 0.116 g, 1 mmol) in water was stirred for 10 min at 60 °C, then 1,1-(1,4-butanediyl)bis(imidazole) (L; 0.190 g, 1 mmol) was added to the mixture. After stirring for 30 min, the blue precipitate was collected and dissolved in a minimum amount of ammonia (14 m). Blue single crystals of 4 were obtained by slow evaporation of the ammoniacal solution at ambient temperature. Yield: 81% (340 mg).
+Abbreviation: H4L4
+Full Name: pyromellitic acid

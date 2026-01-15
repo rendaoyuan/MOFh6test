@@ -1,0 +1,5 @@
+LOBHAM
+Chemical_Name: N/A
+Number: N/A
+Synonyms: N, /, A
+A mixture of Ni(NO3)2·6H2O (145 mg, 0.50 mmol), H3btc (105 mg, 0.50 mmol), triethylamine (210 µL, 1.5 mmol), btre (82 mg, 0.50 mmol) and water (15 mL) was stirred for 30 min at room temperature, transferred to a Teflon-lined stainless-steel autoclave and heated at 180 °C for 3 d. Then the autoclave was cooled to room temperature at a rate of 2.8 °C h−1. A blue crystalline product was filtered off, washed with distilled water and dried in air (yield 180 mg, 86% based on Ni).

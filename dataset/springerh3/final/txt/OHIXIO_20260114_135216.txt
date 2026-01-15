@@ -1,0 +1,5 @@
+OHIXIO
+Chemical_Name: catena-[bis(μ2-2,6-di(1H-imidazol-1-yl)pyridine)-bis(nitrato)-cadmium]
+Number: 972290
+Synonyms: N/A
+Synthesis of [trans-Cd(pyim2)2(NO3)2]n(2): Pyim2 (0.053, 0.25 mmol) in methanol (2 mL) was layered over a solution of Cd(NO3)2·4H2O (0.039 g, 0.125 mmol) in DMF (1 mL). The solution was allowed to stand at room temperature to afford colourless crystals. The same product was obtained, if this reaction was carried out only in methanol. Yield: 62% based on Cd(NO3)2·4H2O.

@@ -1,0 +1,56 @@
+======================================================================
+会话开始: 2026-01-14 23:28:42,584
+执行的脚本: main.py
+Python路径: F:\software\Anaconda\envs\c2ml\python.exe
+======================================================================
+
+🌟 Initializing MOF Analysis System...
+
+💎 Welcome to MOF Analysis System!
+
+📋 Available Commands:
+📄 'How to synthesize <code/name>' - Obtain the synthesized text
+📄 'process pdf <path>' - Process a PDF document
+🔬 'workflow <path>' - Run analysis workflow on processed PDF
+💾 'show saved' - Show saved documents
+📥 'download cif <code>' - Download CIF file for a CCDC code
+🔮 'visualize <code>' - Visualize crystal structure for a CCDC code
+Query> 2026-01-14 23:28:42,584 - INFO - DataFrame prepared with 54808 rows
+Find materials with LCD between 19 and 20 Å
+2026-01-14 23:28:47,754 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-14 23:28:47,760 - INFO - Query analysis: {'query_type': 'range', 'materials': [], 'properties': ['LCD'], 'operation': {'type': None, 'value': None}, 'range': {'min': {'LCD': 19}, 'max': {'LCD': 20}}, 'uses_context': False, 'reasoning': [], 'page_size': None}
+2026-01-14 23:28:50,806 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+Here are the materials with LCD between 19 and 20 Å:
+
+1. **CCDC_code**: BIBXOB, **LCD**: 19.7098 Å
+2. **CCDC_code**: BOGNES, **LCD**: 19.57407 Å
+3. **CCDC_code**: GISGEW, **LCD**: 19.91626 Å
+4. **CCDC_code**: KUMGUW, **LCD**: 19.12667 Å
+5. **CCDC_code**: LUXFEQ, **LCD**: 19.49589 Å
+
+If you need more details or additional rows, please let me know!
+
+Query> is any other materials with LCD between 19 and 20 Å?
+2026-01-14 23:29:33,377 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-14 23:29:33,377 - INFO - Query analysis: {'query_type': 'range', 'materials': [], 'properties': ['LCD (Å)'], 'operation': {'type': None, 'value': None}, 'range': {'min': {'LCD (Å)': 19}, 'max': {'LCD (Å)': 20}}, 'uses_context': True, 'reasoning': [], 'page_size': None}
+2026-01-14 23:29:36,857 - INFO - HTTP Request: POST https://www.dmxapi.com/v1/chat/completions "HTTP/1.1 200 OK"
+
+Here are the materials with LCD between 19 and 20 Å:
+
+1. CCDC_code: BIBXOB, LCD: 19.7098 Å
+2. CCDC_code: BOGNES, LCD: 19.57407 Å
+3. CCDC_code: GISGEW, LCD: 19.91626 Å
+4. CCDC_code: KUMGUW, LCD: 19.12667 Å
+5. CCDC_code: LUXFEQ, LCD: 19.49589 Å
+
+If you need more details or additional rows, please let me know!
+
+Query> q!
+
+👋 Thank you for using MOF Analysis System. Goodbye!
+
+======================================================================
+会话结束: 2026-01-14 23:29:47,706
+退出代码: 1
+======================================================================

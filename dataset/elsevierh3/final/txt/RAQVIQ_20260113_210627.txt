@@ -1,0 +1,5 @@
+RAQVIQ
+Chemical_Name: catena-[bis(μ3-cis-Cyclohexane-1,2-dicarboxylato)-(μ2-4,4'-(1H-1,2,4-triazole-3,5-diyl)dipyridine-N,N')-di-zinc(ii)]
+Number: 852466
+Synonyms: N/A
+Synthesis of {[Zn2(chadc)2(3,3′-Hbpt)]} n (3) A mixture containing Zn(CH3COO)2·2H2O (110mg, 0.5mmol), 3,3′-Hbpt (112mg, 0.5mmol), chedc (85mg, 0.5mmol), NaOH (40mg, 1mmol), water (10mL) and ethanol (3mL) was sealed in a Teflon-lined stainless steel vessel (23mL), which was heated at 120°C for 3days and then cooled to room temperature at a rate of 5°C/h. Colorless block X-ray-quality crystals of 3 were obtained and picked out, washed with distilled water and dried in air.

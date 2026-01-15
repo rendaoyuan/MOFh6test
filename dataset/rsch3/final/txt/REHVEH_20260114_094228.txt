@@ -1,0 +1,7 @@
+REHVEH
+Chemical_Name: catena-((μ3-5-(pyridin-4-yl)isophthalato)-(μ2-4-(2-(pyridin-4-yl)ethyl)pyridine)-cobalt tetrahydrate)
+Number: 893713
+Synonyms: N/A
+Preparation of {[Co(L)(BPE)]?4H2O}n (3). The title complex was prepared by the layering method. A buffer layer of a CH3OH–H2O (1 : 1) solution (8 mL) was carefully layered over a solution of H2L (24.3 mg, 0.1 mmol) and KOH (11.2 mg, 0.2 mmol) in a H2O–dioxane (1 : 1) solution (3 mL). Then a solution of Co(NO3)2?6H2O (29.2 mg, 0.1 mmol) and BPE (0.1 mmol) in CH3OH (3 mL) was layered over the buffer layer. Block pink crystals of 3 were obtained after two months in 46% yield.
+Abbreviation: H2L
+Full Name: 5-(pyridin-4-yl)isophthalic acid

@@ -1,0 +1,5 @@
+RUBGUS
+Chemical_Name: catena-(bis(μ5-6,6'-Disulfanediyldinicotinato)-diaqua-di-manganese methanol solvate monohydrate)
+Number: 1042806
+Synonyms: N/A
+Synthesis of {[Mn2Ĳdtdn)2ĲH2O)2]Ĵ4MeOHĴH2O}n (5) A mixture of H2dtdn (15.5 mg, 0.0499 mmol), 4,4′-azopyridine (9.3 mg, 0.051 mmol), KOH (5.7 mg, 0.10 mmol), and manganeseĲII) nitrate hexahydrate (28.8 mg, 0.100 mmol) was dissolved in a methanol solution (MeOH : H2O = 5.0 mL : 1.0 mL). The resulting solution was kept at 50 °C for a week. The orange needle-like crystals of 5 were separated by filtration, washed with water and MeOH, and dried in air. Yield: 80.6% (18.3 mg, 0.0201 mmol) based on H2dtdn.

@@ -1,0 +1,5 @@
+YUPSIM
+Chemical_Name: catena-(bis(μ4-5-Ammonioisophthalato-O,O,O',O'',O''')-(μ4-5-aminoisophthalato-O,O',O'',O''')-bis(nitrato-O,O')-di-praseodymium(iii) tetrahydrate)
+Number: 735569
+Synonyms: N/A
+Preparation of Compound 2. A mixture of 5-aminoisophthalic acid (0.181 g, 1 mmol), Pr6O11 (0.150 g, 0.147 mmol), HNO3 (3.00 mmol), and H2O (10 mL) was heated to 150 °C for 50 h in a 23 mL Teﬂon-lined stainless-steel autoclave, and then it was cooled to room temperature at 10 °C h-1 to obtain colorless platelike single crystals of 2 (yield: 5%).

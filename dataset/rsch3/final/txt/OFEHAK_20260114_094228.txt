@@ -1,0 +1,5 @@
+OFEHAK
+Chemical_Name: catena-[(μ3-5-carboxy-4-carboxylato-2-(4-methylphenyl)-imidazolato)-aqua-cadmium unknown solvate hydrate]
+Number: 920374
+Synonyms: N/A
+Preparation of {[Cd(p-MePhHIDC)(H2O)]4·H2O}n (4). A mixture of Cd(NO3)2·4H2O (30.8 mg, 0.1 mmol), p-MePhH3IDC (24.6 mg, 0.1 mmol), NaOH (8.0 mg, 0.2 mmol) and CH3CH2OH–H2O (3 : 4, 7 mL) was sealed in a 25 mL Teflon-lined bomb and heated at 160 °C for 72 h. The mixture was then allowed to cool to room temperature at a rate of 10 °C h−1. Colorless club-shaped crystals of 4 were collected, washed with distilled water and dried in air. The crystals of 4 were stable in air (64% yield based on Cd).

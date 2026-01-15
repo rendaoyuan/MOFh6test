@@ -1,0 +1,5 @@
+REYPAO
+Chemical_Name: catena-(Tri-potassium (μ2-4,5-dicarboxylato-1,2,3-triazolato-N1,N3)-bis(μ2-4,5-dicarboxylato-1,2,3-triazolato-N1,N2)-diaqua-di-cadmium dihydrate)
+Number: 909600
+Synonyms: N/A
+Synthesis of {[Cd2K3(TDA)(HTDA)2(H2O)4]}n (3). A mixture of Cd(OAc)2?2H2O (0.0265 g, 0.1 mmol), KH2TDA (0.0314 g, 0.16 mmol) and HTZ (0.0070 g, 0.1 mmol) (HTZ = 1H-1,2,4-triazole) was dissolved in H2O (2 mL) and CH3CH2OH (2 mL). One drop of NH3?H2O was added to the solution and the mixture was sealed in a 25 mL Teflon-lined stainless steel reactor, heated at 90 uC for 72 h and then cooled to room temperature at the speed of 1 uC h21. Colourless crystals of 3 in ca. 38% yield (based on Cd) were collected by washing with a mixture of water and ethanol and dried in air.

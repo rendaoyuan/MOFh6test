@@ -1,0 +1,5 @@
+XUBJAF03
+Chemical_Name: catena-((μ4-Malonato-O,O,O',O'',O'',O''')-bis(μ2-malonato-O,O',O'')-hexa-aqua-di-europium)
+Number: 848009
+Synonyms: N/A
+[Eu2(mal)3(H2O)6]n 4 Eu(NO3)3·6H2O (0.27 g, 0.6 mmol) were used. The colorless block crystals were obtained. The yield was 45% (0.19 g) based on Eu.

@@ -1,0 +1,5 @@
+MADVUJ
+Chemical_Name: catena-((μ2-Iodo)-(μ2-3,7-dithia-1,5(1,4)-dibenzenacyclo-octaphane-S,S')-copper(i) acetonitrile clathrate)
+Number: 232772
+Synonyms: catena-((μ2-Iodo)-(μ2-2,11-dithia(3.3)paracyclophane-S,S')-copper(i) acetonitrile clathrate)
+No synthesis method found for compound 1

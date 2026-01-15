@@ -1,0 +1,5 @@
+ISEFUI
+Chemical_Name: catena-(tris(μ3-2-oxidopyridinium-3-carboxylato)-cobalt(ii)-sodium(i))
+Number: 752965
+Synonyms: N/A
+Preparation of 3: An ethanol solution (4 mL) of H2nico (0.148 g, 1.2 mmol), NaOH (0.056 g, 1 mmol) was added to a water solution (4 mL) of Co(Ac)2_x0002_4H2O (0.099 g, 0.4 mmol). The mixture was stirred for 15 min. The mixture was placed in a 15-mL Teﬂon-lined autoclave and heated at 160 _x0003_C for 120 h. The autoclave was cooled and 3 as red block crystals were collected by ﬁltration, washed with ethanol, and dried in air. Phase-pure crystals of 3 were obtained by manual separation. Yield: 62 mg, ca. 31.24% (based on Co).

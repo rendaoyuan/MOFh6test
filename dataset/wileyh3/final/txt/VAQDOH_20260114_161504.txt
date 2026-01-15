@@ -1,0 +1,5 @@
+VAQDOH
+Chemical_Name: catena-(bis((μ2-1-benzyl-4-trimethylsilyl-1,2,3-triazole-5-thiolato)-bis(tetrahydrofuran)-lithium))
+Number: 207849
+Synonyms: N/A
+Synthesis of BzNNNC(Me3Si)C(SLi·2THF) (11): nBuLi (1.25 mL, 1.6 in hexanes, 2 mmol) was added to a THF (2.0 mL) solution of 1-H (1 mL, 2 in hexanes, 2 mmol) at _x0001_78 °C after which the solution was treated with benzyl isothiocyanate (BzNCS) (0.27 mL, 2 mmol). The orange precipitate formed on allowing the solution to warm to room temperature dissolved at reflux. The reaction mixture was then allowed to cool slowly to room temperature whereupon it was stored for 2 days, affording crystals of BzNNNC(Me3Si)C(SLi·2THF) (11). Yield 256 mg (31%).

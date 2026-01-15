@@ -1,0 +1,5 @@
+CEJXOG
+Chemical_Name: catena-((μ4-terephthalato)-(μ3-formato)-erbium)
+Number: 874932
+Synonyms: N/A
+A mixture of Er(NO3)3·nH2O (0.1 mmol), bdc (0.1 mmol), formic acid (2 mL, 96%) and DMF (8 mL) was sealed in a 23 mL Teflon™-lined, stainless steel Parr bomb. The mixture was heated at 180 °C for 50 h. The bombs were allowed to cool to room temperature over 12 h and prismatic crystals suitable for single-crystal X-ray crystallographic analysis were collected. Compound 1a (0.0284 g, 72% yield on the basis of Er).

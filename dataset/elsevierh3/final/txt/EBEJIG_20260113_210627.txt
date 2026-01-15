@@ -1,0 +1,5 @@
+EBEJIG
+Chemical_Name: catena-(bis(μ2-thiocyanato)-(μ2-1,4-diazepane)-cadmium(ii))
+Number: 824489
+Synonyms: N/A
+Synthesis of 2: A solution of dach (200 mg, 2.0 mmol) in C2H5OH (5 mL) was carefully layered over an aqueous solution (8 mL) of a mixture of CdI2 (732 mg, 2.0 mmol) and NH4SCN (304 mg, 4.0 mmol) (pH = 8–9). The colorless strip crystals of 2 were obtained after 5 days of slow evaporation. Yield: ca. 30% based on Cd.

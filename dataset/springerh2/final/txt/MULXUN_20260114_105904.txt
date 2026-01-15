@@ -1,0 +1,5 @@
+MULXUN
+Chemical_Name: catena-[(μ4-cis-1,4-Cyclohexanedicarboxylato-O,O,O',O'',O'',O''')-(μ4-cis-1,4-cyclohexanedicarboxylato-O,O',O'',O''')-tetrakis(dimethylformamide)-bis(nitrato-O,O')-di-lanthanum(iii)]
+Number: 288344
+Synonyms: N/A
+Synthesis of La(cis-chdc)(DMF)2(NO3) (1) A mixture of La(NO3)3 _x0001_ 6H2O (0.086 g, 0.2 mmol) and 1,4-chdcH2 (0.034 g, 0.2 mmol) was dissolved in N, N0-dimethylformamide (DMF) (10 mL) and glycol (3 mL), and this mixture was placed in a 20 mL test tube. Then, a small vial containing triethylamine (0.5 mL) was placed in the test tube. The test tube was left undisturbed at room temperature for 15 days to give colorless crystals.

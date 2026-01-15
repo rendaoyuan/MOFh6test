@@ -1,0 +1,5 @@
+KARLAS
+Chemical_Name: catena-(hexakis(μ4-Benzene-1,4-dicarboxylato)-tetrakis(μ3-hydroxo)-dodecakis(μ3-isonicotinato)-dodeca-nickel dimethylacetamide methanol solvate)
+Number: 856758
+Synonyms: MCF-19-Ia
+Preparation of isoreticular frameworks. A methanol (2.0 ml) solution of Ni(NO3)2.6H2O was added into an amide solution (22 ml) of pyridylcarboxylic acid, dicarboxylic acid and NaOH (or 40% tetrabutylammonium hydroxide methanol solution). The mixture was heated at 65 °C and stirred for 1 h, and then sealed in a 50-ml Teflon-lined stainless steel vessel, which was heated to 120–160 °C for 72 h. Upon cooling down to room temperature at a rate of 5 °C h − 1, solid products were isolated by filtration or centrifuge, which were identified by single-crystal X-ray diffraction and/or powder X-ray diffraction (PXRD) analyses. [Ni3(µ3-OH)(ina)3(bdc)1.5]·2.5DMA·CH3OH (Ia) was prepared by mixing Ni(NO3)2.6H2O (1,740 mg, 6.0 mmol), Hina (738 mg, 6.0 mmol), H2bdc (498 mg, 0.3 mmol) and NaOH (560 mg, 14.0 mmol) in N,N′-dimethylacetamide (DMA) at 160 °C (yield 650 mg, ca. 30%).

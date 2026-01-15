@@ -1,0 +1,5 @@
+ACOGUV
+Chemical_Name: catena-((μ3-homophthalato-O,O,O',O'',O''')-(μ2-4,4'-bipyridine)-(μ2-homophthalato-O,O',O'',O''')-diaqua-zinc(ii) monohydrate)
+Number: 281793
+Synonyms: N/A
+Synthesis of [Zn2(4,4′-bpy)(hpht)2(H2O)2]n nH2O (3) H2hpht (0.055g, 0.3mmol), 4,4′-bpy (0.47g,0.3mmol), and Zn(NO3)2 6H2O (0.09g, 0.3mmol) were put in a mixed solution of 8mL distilled H2O and 2mL ethanol, and the pH was adjusted to about 5.6 by diluent NaOH aqueous solution. Then the mixture was sealed in 25mL Teflon-lined reactor and heated to 160°C for 3 days, and then slowly cooled to room temperature. Colorless prism crystals of 3 were collected and washed with distilled water (yield: 26%).

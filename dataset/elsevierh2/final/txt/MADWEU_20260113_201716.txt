@@ -1,0 +1,5 @@
+MADWEU
+Chemical_Name: catena-((μ2-Chloro)-(μ2-3,7-dithia-1,5(1,4)-dibenzenacyclo-octaphane-S,S')-copper(i) acetonitrile clathrate)
+Number: 232774
+Synonyms: catena-((μ2-Chloro)-(μ2-2,11-dithia(3.3)paracyclophane-S,S')-copper(i) acetonitrile clathrate)
+[CuCl(dtpcp)]·MeCN (3) A solution of mesitylene (10 mL) containing 2,11-dithia[3.3]paracyclophane (27.7 mg, 0.1 mmol) was poured into a 7 mm diameter glass tube and then layered with a CH3CN solution (10 mL) of CuCl (9.9 mg, 0.1 mmol). The glass tube was sealed under argon. After standing at room temperature for 1 week, colorless brick crystals of complex 3 were obtained at the interface between the two solutions.

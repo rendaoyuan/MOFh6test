@@ -1,0 +1,5 @@
+SAMKOI
+Chemical_Name: catena-[(μ3-2-Nitro-1,4-benzenedicarboxylato)-bis(dimethylformamide)-cadmium dimethylformamide solvate]
+Number: 840366
+Synonyms: N/A
+No synthesis method found for compound 1

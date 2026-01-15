@@ -1,0 +1,5 @@
+DAMGAB
+Chemical_Name: catena-(tetrakis(μ2-quinolin-8-olato)-lithium-terbium)
+Number: 829785
+Synonyms: N/A
+[LiTb(OQ)4]n (1): Tb(OQ)3 (0.15 g, 0.25 mmol), LiOQ (0.15 g, 0.99 mmol) and TMB (1.50 g, 11.10 mmol) were heated to 270 °C for 42 d. Yellow crystals of the title complex were handpicked from the bulk powder. Crystal yield: 0.018 g; 10%.
