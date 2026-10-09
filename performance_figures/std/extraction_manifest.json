@@ -1,0 +1,18 @@
+{
+  "structure": {
+    "cell_index": 4,
+    "sha256": "03e30c6383acddf2c66673fe04bfbb8061361e7c4ed2a9aabfe4c4588b6f8443"
+  },
+  "shot": {
+    "cell_index": 9,
+    "sha256": "04c60fa1aa9b29056025fd333568c0b2857638935a61f402433f2d1ae5ed0899"
+  },
+  "coreference": {
+    "cell_index": 13,
+    "sha256": "781edf592ded6e675265d24da4631d1e4ca48e6a98f59c63676465e88c356779"
+  },
+  "paragraph": {
+    "cell_index": 17,
+    "sha256": "3b91ddba4ea70a81bc38687e846d709118dcc04a494b4b51a01cf46691dbbcf9"
+  }
+}

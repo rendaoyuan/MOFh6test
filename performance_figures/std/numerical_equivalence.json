@@ -1,0 +1,30 @@
+{
+  "shot": {
+    "series": 3,
+    "points": 3,
+    "exact_x_mean_std_match": true,
+    "exact_ylim_match": true,
+    "intervals_outside_original_ylim": 0
+  },
+  "coreference": {
+    "series": 6,
+    "points": 6,
+    "exact_x_mean_std_match": true,
+    "exact_ylim_match": true,
+    "intervals_outside_original_ylim": 0
+  },
+  "paragraph": {
+    "series": 4,
+    "points": 24,
+    "exact_x_mean_std_match": true,
+    "exact_ylim_match": true,
+    "intervals_outside_original_ylim": 0
+  },
+  "structure": {
+    "series": 3,
+    "points": 42,
+    "exact_x_mean_std_match": true,
+    "exact_ylim_match": true,
+    "intervals_outside_original_ylim": 0
+  }
+}
